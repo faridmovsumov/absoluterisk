@@ -1,5 +1,7 @@
 Absolute Risk Game Source Code
 
+[![endorse](http://api.coderwall.com/faridmovsumov/endorsecount.png)](http://coderwall.com/faridmovsumov)
+
 http://developersland.net/index.php/oyunlar/27-absolute-risk-game/104-absolute-risk-game.html
 
 Absolute Risk is a classic "World Domination Risk" game where you try to conquer the world. This game can be played with up to ten players. 
