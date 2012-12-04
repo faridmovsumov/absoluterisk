@@ -1,0 +1,11 @@
+digraph G
+{
+  bgcolor="transparent";
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  Node1 [label="{Risk1.ChangePlayer\n|- components\l- textBox1\l- label1\l- label2\l- colorDialog1\l- button1\l- comboBox1\l- label3\l- button2\l- label4\l- comboBox2\l- pictureBox1\l- toolTip1\l|+ ChangePlayer()\l+ HangiYapayZekaSecili()\l+ comboBox2Ayarla()\l# Dispose()\l- button1_Click()\l- ChangePlayer_Load()\l- button2_Click()\l- comboBox1_SelectedIndexChanged()\l- comboBox2_SelectedIndexChanged()\l- pictureBox1_MouseEnter()\l- InitializeComponent()\l}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node2 -> Node1 [color="grey25",fontsize="10",style="solid",label=" pictureBox1\ncomboBox2\nlabel1\nlabel2\nlabel3\nlabel4\ntoolTip1\ncomponents\nbutton1\ntextBox1\n..." ,arrowhead="odiamond",fontname="FreeSans"];
+  Node2 [label="{System\n||}",height=0.2,width=0.4,color="grey75"];
+  Node3 -> Node1 [color="grey25",fontsize="10",style="solid",label=" player" ,arrowhead="odiamond",fontname="FreeSans"];
+  Node3 [label="{Risk1.Player\n|+ name\l+ color\l+ isHuman\l+ isActive\l+ bolgeler\l+ yeniAskerler\l+ ilkAskerSayisi\l+ kitalar\l+ aiId\l+ buTurnBirisiniOldurduMu\l+ kacKisiOldurdu\l+ buTurnKacKisiOldurdu\l+ number\l+ askerSayisiTarihi\l|+ OptimizeAskerSayisiTarihi()\l+ Player()\l+ Player()\l+ getTotalNumberOfArmies()\l+ getNumberOfTerritories()\l+ getSahipOlduguKitalar()\l}",height=0.2,width=0.4,color="black",URL="$classRisk1_1_1Player.html"];
+}

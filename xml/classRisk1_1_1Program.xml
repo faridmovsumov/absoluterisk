@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.0">
+  <compounddef id="classRisk1_1_1Program" kind="class" prot="public">
+    <compoundname>Risk1::Program</compoundname>
+      <sectiondef kind="private-static-func">
+      <memberdef kind="function" id="classRisk1_1_1Program_1ace79996e8e333f785494d343cd904252" prot="private" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>static void Risk1.Program.Main</definition>
+        <argsstring>()</argsstring>
+        <name>Main</name>
+        <briefdescription>
+<para>The main entry point for the application. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Program.cs" line="15" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Program.cs" bodystart="14" bodyend="19"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Program.cs" line="9" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Program.cs" bodystart="8" bodyend="20"/>
+    <listofallmembers>
+      <member refid="classRisk1_1_1Program_1ace79996e8e333f785494d343cd904252" prot="private" virt="non-virtual"><scope>Risk1::Program</scope><name>Main</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,815 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygenindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="index.xsd" version="1.8.0">
+  <compound refid="classRisk1_1_1About" kind="class"><name>Risk1::About</name>
+    <member refid="classRisk1_1_1About_1a56350d697b2d2e8648d27f5bc6ff868b" kind="variable"><name>components</name></member>
+    <member refid="classRisk1_1_1About_1a16f16d9a20965fe13423f10ea7771357" kind="variable"><name>label1</name></member>
+    <member refid="classRisk1_1_1About_1ad51cbfd5148d6fbe1344b29481f57c25" kind="variable"><name>button1</name></member>
+    <member refid="classRisk1_1_1About_1a3a70e3c14d6300b83e26a7e995b9c042" kind="variable"><name>label2</name></member>
+    <member refid="classRisk1_1_1About_1a11eec8062797fdb2125dd9eeb5969b3e" kind="variable"><name>label3</name></member>
+    <member refid="classRisk1_1_1About_1a93079f31d77b8fe02d084ce187aff220" kind="variable"><name>linkLabel1</name></member>
+    <member refid="classRisk1_1_1About_1a9fc91ad2085a6527ae80788d090e90f6" kind="variable"><name>panel1</name></member>
+    <member refid="classRisk1_1_1About_1aa665a25d114385341c10557c97abe62b" kind="function"><name>About</name></member>
+    <member refid="classRisk1_1_1About_1a626a20fb030cdf02a42bae83803414c0" kind="function"><name>button1_Click</name></member>
+    <member refid="classRisk1_1_1About_1a31690aa374ee92c38ba6bc9483263fd0" kind="function"><name>linkLabel1_LinkClicked</name></member>
+    <member refid="classRisk1_1_1About_1af6a006fb08da6378057a47853423ceba" kind="function"><name>About_Load</name></member>
+    <member refid="classRisk1_1_1About_1a13a15f147d6e4d5e4cdd394ca01b366a" kind="function"><name>label4_Click</name></member>
+    <member refid="classRisk1_1_1About_1a49d0f1dc68faa96dfee09762b6e76577" kind="function"><name>label3_Click</name></member>
+    <member refid="classRisk1_1_1About_1ac4315e55d9a0bc09fd7bb6f0294399c0" kind="function"><name>label2_Click</name></member>
+    <member refid="classRisk1_1_1About_1af382026dbc9b7befddc5592b23703154" kind="function"><name>label1_Click</name></member>
+    <member refid="classRisk1_1_1About_1a5f3cf75e0b881a971477515766660fc9" kind="function"><name>InitializeComponent</name></member>
+    <member refid="classRisk1_1_1About_1a95f462200c23a332c3e148dbbec44b8a" kind="function"><name>Dispose</name></member>
+  </compound>
+  <compound refid="classRisk1_1_1AI" kind="class"><name>Risk1::AI</name>
+    <member refid="classRisk1_1_1AI_1a04a59f7795189056ea4bbcd547f2fced" kind="variable"><name>aiid</name></member>
+    <member refid="classRisk1_1_1AI_1a2b8360c901a937b333a04a98d66138e7" kind="variable"><name>name</name></member>
+    <member refid="classRisk1_1_1AI_1aa356dd41b89fa6728cadeed72f97213d" kind="variable"><name>resim</name></member>
+    <member refid="classRisk1_1_1AI_1a957f17ebe406ab40e515e451f8bcab70" kind="function"><name>AI</name></member>
+    <member refid="classRisk1_1_1AI_1ae7ac92cb6c4bd4fff37de1743b7e8725" kind="function"><name>getName</name></member>
+    <member refid="classRisk1_1_1AI_1a5311c50312809f2bf95ba4e2f9fbe986" kind="function"><name>requestTerritory</name></member>
+    <member refid="classRisk1_1_1AI_1a7586d9308b4d6d0d91544f5b54a39a03" kind="function"><name>getTerritoryToPlaceFirstArmies</name></member>
+    <member refid="classRisk1_1_1AI_1a2d28a99b8a1c1a84635a8b68573b86db" kind="function"><name>getTerritoriesIndexToPlaceNewArmies</name></member>
+    <member refid="classRisk1_1_1AI_1ad306afda141e2350ef7080967530a1e8" kind="function"><name>devam</name></member>
+    <member refid="classRisk1_1_1AI_1aea5c0d5280665b9b6cd63d90306ef640" kind="function"><name>saldiracanMi</name></member>
+    <member refid="classRisk1_1_1AI_1af68b309b9396155d898e15cb3c73198a" kind="function"><name>getSavasBolgeIndexleri</name></member>
+    <member refid="classRisk1_1_1AI_1ae8ae5be8d9e6ececd8df931f79153e15" kind="function"><name>divideArmies</name></member>
+    <member refid="classRisk1_1_1AI_1acb5f92d8b859d1549ba9130fab8704c5" kind="function"><name>askerTransferiYapacakmisin</name></member>
+    <member refid="classRisk1_1_1AI_1a8f01fa0442c84bfb0f5cf35154dc998f" kind="function"><name>askerTransferiYap</name></member>
+  </compound>
+  <compound refid="classRisk1_1_1AI2" kind="class"><name>Risk1::AI2</name>
+    <member refid="classRisk1_1_1AI2_1ad817aa3c5478ee3feb4b076280256a28" kind="variable"><name>aiId</name></member>
+    <member refid="classRisk1_1_1AI2_1a11fd45f52d1a737b2bfc78c1ae39ea23" kind="variable"><name>name</name></member>
+    <member refid="classRisk1_1_1AI2_1a41e5f3b61cf30c7713ad734a75e17f59" kind="variable"><name>resim</name></member>
+    <member refid="classRisk1_1_1AI2_1ab8f8dd448a4fc2099a130613782a7c8b" kind="variable"><name>saldirmaDurumu</name></member>
+    <member refid="classRisk1_1_1AI2_1a0bbc6d661607965f24ae7fa0c9b0ac91" kind="variable"><name>durum3SaldiriIndexleri</name></member>
+    <member refid="classRisk1_1_1AI2_1a460eff2b7693eca60687b36e5d952150" kind="function"><name>AI2</name></member>
+    <member refid="classRisk1_1_1AI2_1a02cc8e742d2e49a64aa015184b9058ad" kind="function"><name>getName</name></member>
+    <member refid="classRisk1_1_1AI2_1a47c4a8aa8d5ce56382e79ff002207e94" kind="function"><name>requestTerritory</name></member>
+    <member refid="classRisk1_1_1AI2_1a8adb4300b085ca6c7433e6e5a1173349" kind="function"><name>getTerritoryToPlaceFirstArmies</name></member>
+    <member refid="classRisk1_1_1AI2_1aab8c09b5e55af95f1217ed61bcd0bc35" kind="function"><name>getTerritoriesIndexToPlaceNewArmies</name></member>
+    <member refid="classRisk1_1_1AI2_1a9d2c428b722df2121b0e2721a536221a" kind="function"><name>avrupaBendeMi</name></member>
+    <member refid="classRisk1_1_1AI2_1a1705ebdc50faa7063433935184ce3ffb" kind="function"><name>devam</name></member>
+    <member refid="classRisk1_1_1AI2_1a846a3c4dae11acc5e2f7c0e2fa314169" kind="function"><name>getSavasBolgeIndexleri</name></member>
+    <member refid="classRisk1_1_1AI2_1a66b35cb7b1ac9e75697b94070d13e195" kind="function"><name>saldiracanMi</name></member>
+    <member refid="classRisk1_1_1AI2_1a425735fb0e3e089020b94e7da15c3e29" kind="function"><name>getDahaGucluDusmanSayisi</name></member>
+    <member refid="classRisk1_1_1AI2_1a17f993750af03c7fee96e791b23a594a" kind="function"><name>divideArmies</name></member>
+    <member refid="classRisk1_1_1AI2_1a0d2632b73eb8571f5bb099940f5016c6" kind="function"><name>askerTransferiYapacakmisin</name></member>
+    <member refid="classRisk1_1_1AI2_1a1c34b17fe848156ff9c481e8686e0120" kind="function"><name>askerTransferiYap</name></member>
+    <member refid="classRisk1_1_1AI2_1aea1eec6f5984621b1d0da64bbbafd35e" kind="function"><name>avrupadaToprakVarMi</name></member>
+    <member refid="classRisk1_1_1AI2_1ab09da4181f97097501c9647ff65ab19d" kind="function"><name>getAvrupadakiDusmanSayisi</name></member>
+    <member refid="classRisk1_1_1AI2_1a191e157f57f2e672d4fe482986b063cd" kind="function"><name>getAvrupadakiAskerSayisi</name></member>
+    <member refid="classRisk1_1_1AI2_1ac82f71953081c53c80a10a75a338e1a4" kind="function"><name>buBolgeAvrupadaMi</name></member>
+    <member refid="classRisk1_1_1AI2_1a8f74a756e143121442dabccb394c9a48" kind="function"><name>getAvrupadakiToprakSayisi</name></member>
+  </compound>
+  <compound refid="classRisk1_1_1AI3" kind="class"><name>Risk1::AI3</name>
+    <member refid="classRisk1_1_1AI3_1a18a0f2954b20b64df6faf5712430d78c" kind="variable"><name>aiid</name></member>
+    <member refid="classRisk1_1_1AI3_1a75f7349df61539c0e7cea5292f702298" kind="variable"><name>name</name></member>
+    <member refid="classRisk1_1_1AI3_1a4e48b24e578abc6c3a5484400c431ac9" kind="variable"><name>resim</name></member>
+    <member refid="classRisk1_1_1AI3_1a1fc6e15b96ad38ab330024626ad63b02" kind="function"><name>getName</name></member>
+    <member refid="classRisk1_1_1AI3_1a27e22175380b4f007f7daa64bb7e09e7" kind="function"><name>requestTerritory</name></member>
+    <member refid="classRisk1_1_1AI3_1a345f86b6a58639cd52480d939d3d0b7b" kind="function"><name>getTerritoryToPlaceFirstArmies</name></member>
+    <member refid="classRisk1_1_1AI3_1a1ea5576f9c4afaf2491fb1da85a26b6a" kind="function"><name>getTerritoriesIndexToPlaceNewArmies</name></member>
+    <member refid="classRisk1_1_1AI3_1a6b916e468796d19c79b9f2fe8d7d801f" kind="function"><name>devam</name></member>
+    <member refid="classRisk1_1_1AI3_1a706ea42ea5764b02b9fc7e13c405a90c" kind="function"><name>saldiracanMi</name></member>
+    <member refid="classRisk1_1_1AI3_1ae7a45e1bc7d677e53cba15566ec69bcf" kind="function"><name>getDahaGucluDusmanSayisi</name></member>
+    <member refid="classRisk1_1_1AI3_1aa75d79ce12781f752dc2a3b56e345d35" kind="function"><name>getSavasBolgeIndexleri</name></member>
+    <member refid="classRisk1_1_1AI3_1aaaf24665befb1a8f5cb9f7bbf8a64908" kind="function"><name>divideArmies</name></member>
+    <member refid="classRisk1_1_1AI3_1a3edf7172a25539724a7a5f334e36f841" kind="function"><name>askerTransferiYapacakmisin</name></member>
+    <member refid="classRisk1_1_1AI3_1aaaa81333bd121aecae97da72a46fb61e" kind="function"><name>askerTransferiYap</name></member>
+  </compound>
+  <compound refid="classRisk1_1_1AI4" kind="class"><name>Risk1::AI4</name>
+    <member refid="classRisk1_1_1AI4_1a93e641a1dd23d86011467e47fe4ac539" kind="variable"><name>aiid</name></member>
+    <member refid="classRisk1_1_1AI4_1adf1923e009fcf9a58fed2ad99fd4ce8c" kind="variable"><name>name</name></member>
+    <member refid="classRisk1_1_1AI4_1a0fa69f4586e55a63d5b30d1cdbaf5aa3" kind="variable"><name>resim</name></member>
+    <member refid="classRisk1_1_1AI4_1ad169a84ffe8b560da08edce5d2b9ad46" kind="variable"><name>saldirmaDurumu</name></member>
+    <member refid="classRisk1_1_1AI4_1ac1a5f6ab9244cec5ad0b3dfdfd7744d8" kind="variable"><name>durum3SaldiriIndexleri</name></member>
+    <member refid="classRisk1_1_1AI4_1a527d40952fd7b029a9fb877e1bd74f0b" kind="function"><name>getName</name></member>
+    <member refid="classRisk1_1_1AI4_1a7d7db4cefd29f6a8c125e0aa8bc49e70" kind="function"><name>requestTerritory</name></member>
+    <member refid="classRisk1_1_1AI4_1ab1250f614189fb98632f4e763bcf4fee" kind="function"><name>getTerritoryToPlaceFirstArmies</name></member>
+    <member refid="classRisk1_1_1AI4_1add6f66591f2cf0863a40b9c6f214ce67" kind="function"><name>getTerritoriesIndexToPlaceNewArmies</name></member>
+    <member refid="classRisk1_1_1AI4_1a3652393c6f74add7886cfab61c00b975" kind="function"><name>devam</name></member>
+    <member refid="classRisk1_1_1AI4_1a086f1670a1e9423d27c1f49991f4203b" kind="function"><name>saldiracanMi</name></member>
+    <member refid="classRisk1_1_1AI4_1a10f11e2bddf5dd1a9a18d4c08a42b9c4" kind="function"><name>getSavasBolgeIndexleri</name></member>
+    <member refid="classRisk1_1_1AI4_1a8f9e1c7094a5a20162a6129489c9cd8c" kind="function"><name>divideArmies</name></member>
+    <member refid="classRisk1_1_1AI4_1a2729ce69398d167ae07f9fc60974c7bd" kind="function"><name>askerTransferiYapacakmisin</name></member>
+    <member refid="classRisk1_1_1AI4_1a0ff0f07a29ff8b7f5115f4e57e1be809" kind="function"><name>askerTransferiYap</name></member>
+    <member refid="classRisk1_1_1AI4_1aef950f6901fd42aaa790d3d545e6e885" kind="function"><name>southAmericaBendeMi</name></member>
+    <member refid="classRisk1_1_1AI4_1a133332ad0f77e60bc0ef43140ad49d4c" kind="function"><name>southAmericaSinirindaDusmanVarMi</name></member>
+    <member refid="classRisk1_1_1AI4_1a1f6eaa9b0a960df71bda1412f56e8a62" kind="function"><name>dusmanNerede</name></member>
+    <member refid="classRisk1_1_1AI4_1ae2998fb3dc70ad732185d7c33b75264d" kind="function"><name>southAmericadaToprakVarMi</name></member>
+    <member refid="classRisk1_1_1AI4_1ae2f16f8a0b8f14eef4ba8f73b4b258fb" kind="function"><name>buBolgeGuneyAmerikadaMi</name></member>
+  </compound>
+  <compound refid="classRisk1_1_1ArmyMove" kind="class"><name>Risk1::ArmyMove</name>
+    <member refid="classRisk1_1_1ArmyMove_1a7c186a1d6a07230da41120005d8c919b" kind="variable"><name>bolge11</name></member>
+    <member refid="classRisk1_1_1ArmyMove_1ac3a8ae82edb83cc10088be7972640f0d" kind="variable"><name>bolge22</name></member>
+    <member refid="classRisk1_1_1ArmyMove_1a0224073b3fb4ab82731ddbd09330fc1a" kind="variable"><name>bolge1</name></member>
+    <member refid="classRisk1_1_1ArmyMove_1aa4c2f1cca0e3fc94b3341d9fae938ebd" kind="variable"><name>bolge2</name></member>
+    <member refid="classRisk1_1_1ArmyMove_1a3b1628acb6a0e9ed3d10d69e6e4b2b46" kind="variable"><name>form1</name></member>
+    <member refid="classRisk1_1_1ArmyMove_1a5dd9e282349cf76adffb629aaa68d453" kind="variable"><name>components</name></member>
+    <member refid="classRisk1_1_1ArmyMove_1aa953d210970844d185504bb7c7b19fd6" kind="variable"><name>panel2</name></member>
+    <member refid="classRisk1_1_1ArmyMove_1a64fe81d7440cfbc9a5941c53f5db2695" kind="variable"><name>textBox1</name></member>
+    <member refid="classRisk1_1_1ArmyMove_1a107a260b6ac1da6370f38d7ee4e25d37" kind="variable"><name>textBox3</name></member>
+    <member refid="classRisk1_1_1ArmyMove_1aeb9f0bccd73b8e20e867c68549eabdaf" kind="variable"><name>panel1</name></member>
+    <member refid="classRisk1_1_1ArmyMove_1a56fdbf1986bb9f5757ff505270376955" kind="variable"><name>textBox4</name></member>
+    <member refid="classRisk1_1_1ArmyMove_1a621c697b2ec5ccb56458a7f79a95495c" kind="variable"><name>textBox2</name></member>
+    <member refid="classRisk1_1_1ArmyMove_1a84a8bb0ccad2e8b7c35a3cffd6d238e5" kind="variable"><name>button2</name></member>
+    <member refid="classRisk1_1_1ArmyMove_1a1e4be56785cf70e263f4c2e4e5fc3fcd" kind="variable"><name>button1</name></member>
+    <member refid="classRisk1_1_1ArmyMove_1a0d95255516dd0cac22001d1e4632b67e" kind="variable"><name>button4</name></member>
+    <member refid="classRisk1_1_1ArmyMove_1a4dd0cf7a390fa96e35f9793d147b1d76" kind="variable"><name>button3</name></member>
+    <member refid="classRisk1_1_1ArmyMove_1ad3f821baae6b37675b59e8e9087c32e2" kind="variable"><name>button5</name></member>
+    <member refid="classRisk1_1_1ArmyMove_1a5f603577e4f308505fe118edb8ecb013" kind="variable"><name>button6</name></member>
+    <member refid="classRisk1_1_1ArmyMove_1afda7bf1bccdb470a1f2efc28fb818708" kind="variable"><name>button7</name></member>
+    <member refid="classRisk1_1_1ArmyMove_1a44d5249b6c9eb9187b3412fb4deba827" kind="variable"><name>button8</name></member>
+    <member refid="classRisk1_1_1ArmyMove_1abd785077f33f2dabdb9797952130a2d6" kind="variable"><name>button9</name></member>
+    <member refid="classRisk1_1_1ArmyMove_1a788537a0b101c356760e4f68af2d5976" kind="function"><name>ArmyMove</name></member>
+    <member refid="classRisk1_1_1ArmyMove_1a09e09e7458ac9052691780c5da677939" kind="function"><name>bolge1Azalt</name></member>
+    <member refid="classRisk1_1_1ArmyMove_1a025df8b3c0755c0bc95a5e334a6b5b17" kind="function"><name>bolge2Azalt</name></member>
+    <member refid="classRisk1_1_1ArmyMove_1ab4c45aeefe4c555dc1c58959a4aab987" kind="function"><name>ArmyMove_Load</name></member>
+    <member refid="classRisk1_1_1ArmyMove_1a3336c1e52d10ac602e42d0ad9f5a814a" kind="function"><name>button3_Click</name></member>
+    <member refid="classRisk1_1_1ArmyMove_1abe313f2714877f4a5b5eec5046b7e02f" kind="function"><name>button5_Click</name></member>
+    <member refid="classRisk1_1_1ArmyMove_1a582ce34d1878591d3a7dda25d420ace2" kind="function"><name>button6_Click</name></member>
+    <member refid="classRisk1_1_1ArmyMove_1acf0e7bbd815bd939d1eb4e0222eae9e8" kind="function"><name>button8_Click</name></member>
+    <member refid="classRisk1_1_1ArmyMove_1a0dd2741d69223e0b5e8cb9bb169bac2d" kind="function"><name>button7_Click</name></member>
+    <member refid="classRisk1_1_1ArmyMove_1a973413e9d5fc0f86952cb40361002ed9" kind="function"><name>button9_Click</name></member>
+    <member refid="classRisk1_1_1ArmyMove_1aaf398a05d38f06b34b0eeec52a39cb71" kind="function"><name>button4_Click</name></member>
+    <member refid="classRisk1_1_1ArmyMove_1ac86702bc4b7793a2bb30e94a30f85f8c" kind="function"><name>button2_Click</name></member>
+    <member refid="classRisk1_1_1ArmyMove_1a1a535916bcd16f58bca38e0734a7483d" kind="function"><name>button1_Click</name></member>
+    <member refid="classRisk1_1_1ArmyMove_1a7e803c0e4d19d0c0c6d12223e1860acb" kind="function"><name>InitializeComponent</name></member>
+    <member refid="classRisk1_1_1ArmyMove_1a8fca84066fa183df1ddaacb90938acc3" kind="function"><name>Dispose</name></member>
+  </compound>
+  <compound refid="classRisk1_1_1ArtificalIntelligence" kind="class"><name>Risk1::ArtificalIntelligence</name>
+    <member refid="classRisk1_1_1ArtificalIntelligence_1a0bd5db6c0d0b373c8cf4c1e1367e046d" kind="function"><name>getName</name></member>
+    <member refid="classRisk1_1_1ArtificalIntelligence_1ae102afcd81cd18946e9dbfeb26a39ee9" kind="function"><name>requestTerritory</name></member>
+    <member refid="classRisk1_1_1ArtificalIntelligence_1a8edd0bf06ab79b5e29d0f8b9a575ed28" kind="function"><name>getTerritoryToPlaceFirstArmies</name></member>
+    <member refid="classRisk1_1_1ArtificalIntelligence_1a52220507f86de828310ce3e2caf8440a" kind="function"><name>getTerritoriesIndexToPlaceNewArmies</name></member>
+    <member refid="classRisk1_1_1ArtificalIntelligence_1ab34a4c1580a36bb7cdcc626323c7ed61" kind="function"><name>devam</name></member>
+    <member refid="classRisk1_1_1ArtificalIntelligence_1afabe12befd86daf7b946c2e863f1de6c" kind="function"><name>saldiracanMi</name></member>
+    <member refid="classRisk1_1_1ArtificalIntelligence_1a838561a3aa7b4c9384ec3b39393de9bf" kind="function"><name>getSavasBolgeIndexleri</name></member>
+    <member refid="classRisk1_1_1ArtificalIntelligence_1a629a95e0d3083c66b617e8ef2c428315" kind="function"><name>divideArmies</name></member>
+    <member refid="classRisk1_1_1ArtificalIntelligence_1a0057340c0c30a7bb5160cc63cc3f22c7" kind="function"><name>askerTransferiYapacakmisin</name></member>
+    <member refid="classRisk1_1_1ArtificalIntelligence_1aedf56a4b3a40f4d3e205698feb5d9cce" kind="function"><name>askerTransferiYap</name></member>
+    <member refid="classRisk1_1_1ArtificalIntelligence_1ab05fcfb9caa1ff3d34f40fcd2b761c7c" kind="function"><name>getKomsuDusmanSayisi</name></member>
+    <member refid="classRisk1_1_1ArtificalIntelligence_1a5c1b336994fa1ad57e7dc28d68ae85cb" kind="function"><name>getDostSayisi</name></member>
+    <member refid="classRisk1_1_1ArtificalIntelligence_1a17550d4316476426536c3a3124ba651d" kind="function"><name>rastgeleBolgeSec</name></member>
+    <member refid="classRisk1_1_1ArtificalIntelligence_1a0fda6d74869871d836b81e8b6b724b89" kind="function"><name>getEnGucluBolgemIndex</name></member>
+    <member refid="classRisk1_1_1ArtificalIntelligence_1a0b5535c9348df051106c34e057158acf" kind="function"><name>bolgelerimdenRastgeleSec</name></member>
+    <member refid="classRisk1_1_1ArtificalIntelligence_1a6679f397c090e382d448286783707838" kind="function"><name>getToplamDusmanSayisi</name></member>
+  </compound>
+  <compound refid="classRisk1_1_1Bolge" kind="class"><name>Risk1::Bolge</name>
+    <member refid="classRisk1_1_1Bolge_1aee4aeea0a95930d26aa290fafdeb03b7" kind="variable"><name>noktalar</name></member>
+    <member refid="classRisk1_1_1Bolge_1a4c7e438f8452f95fe887892d243651bc" kind="variable"><name>isim</name></member>
+    <member refid="classRisk1_1_1Bolge_1a5c75223b180f951ad397462272091e1f" kind="variable"><name>komsular</name></member>
+    <member refid="classRisk1_1_1Bolge_1a9867ffb069ff399eb6db8c8567391f42" kind="variable"><name>sahipli</name></member>
+    <member refid="classRisk1_1_1Bolge_1a6ea883664353e7480178fb57e5e856d8" kind="variable"><name>sahip</name></member>
+    <member refid="classRisk1_1_1Bolge_1a4835838ca280efd4a82724fd75b5b170" kind="variable"><name>ordu</name></member>
+    <member refid="classRisk1_1_1Bolge_1af69b11070979661a70dba8f606d28026" kind="variable"><name>number</name></member>
+    <member refid="classRisk1_1_1Bolge_1a722de30a96f87b39b46bcbcde47c5327" kind="variable"><name>index</name></member>
+    <member refid="classRisk1_1_1Bolge_1a04807dfae0f3e8bde61bff73e7adebce" kind="function"><name>Bolge</name></member>
+    <member refid="classRisk1_1_1Bolge_1ae43051b1aa27f0b136683cf3ac136810" kind="function"><name>Bolge</name></member>
+    <member refid="classRisk1_1_1Bolge_1a459883e2838b19f0a06a001a2100a48a" kind="function"><name>getColor</name></member>
+  </compound>
+  <compound refid="classRisk1_1_1ChangePlayer" kind="class"><name>Risk1::ChangePlayer</name>
+    <member refid="classRisk1_1_1ChangePlayer_1aa3fdf0b99b7a8a9b30da161525c3bc53" kind="variable"><name>player</name></member>
+    <member refid="classRisk1_1_1ChangePlayer_1ab09e1afc929e78933a80fde02bdfa7c5" kind="variable"><name>components</name></member>
+    <member refid="classRisk1_1_1ChangePlayer_1a1ef846ec7df5b1c39662c2028072a8cd" kind="variable"><name>textBox1</name></member>
+    <member refid="classRisk1_1_1ChangePlayer_1a79284fed0df33abadd1a62b7239761d8" kind="variable"><name>label1</name></member>
+    <member refid="classRisk1_1_1ChangePlayer_1ac3e84e4fdae2b7a8004c147a3fc6e355" kind="variable"><name>label2</name></member>
+    <member refid="classRisk1_1_1ChangePlayer_1a58d4208610ad45bd6dac33db0da0349a" kind="variable"><name>colorDialog1</name></member>
+    <member refid="classRisk1_1_1ChangePlayer_1abe8a96fdb0f806d8bb8556c4ca159836" kind="variable"><name>button1</name></member>
+    <member refid="classRisk1_1_1ChangePlayer_1aa3e1947f3cf73ee1b32a29ad3a804a46" kind="variable"><name>comboBox1</name></member>
+    <member refid="classRisk1_1_1ChangePlayer_1af4a8acc0efbb0b3735c04ba362456a4f" kind="variable"><name>label3</name></member>
+    <member refid="classRisk1_1_1ChangePlayer_1a061dfa44b3bdb656d85bff045e8fe6d1" kind="variable"><name>button2</name></member>
+    <member refid="classRisk1_1_1ChangePlayer_1afce26caf2ce6ac3d06c393f45d079572" kind="variable"><name>label4</name></member>
+    <member refid="classRisk1_1_1ChangePlayer_1a24a8edd9e032e21812e7c1c4f68cde5a" kind="variable"><name>comboBox2</name></member>
+    <member refid="classRisk1_1_1ChangePlayer_1a8a3b98d218d49cfe9f3dcca145b875b0" kind="variable"><name>pictureBox1</name></member>
+    <member refid="classRisk1_1_1ChangePlayer_1af5b6c258034d37b204616bada83ba219" kind="variable"><name>toolTip1</name></member>
+    <member refid="classRisk1_1_1ChangePlayer_1aff308caa967fbf602eae6e615abe4844" kind="function"><name>ChangePlayer</name></member>
+    <member refid="classRisk1_1_1ChangePlayer_1a1234df4ee96694bbc7966bb4a4de1269" kind="function"><name>HangiYapayZekaSecili</name></member>
+    <member refid="classRisk1_1_1ChangePlayer_1a2b6e196cbdec013f7dea4a89e09ba1cd" kind="function"><name>comboBox2Ayarla</name></member>
+    <member refid="classRisk1_1_1ChangePlayer_1aefac0d9b7406093625a6c0bc1229521f" kind="function"><name>button1_Click</name></member>
+    <member refid="classRisk1_1_1ChangePlayer_1a97e6bd4cb296ce42edd93579cc3b882a" kind="function"><name>ChangePlayer_Load</name></member>
+    <member refid="classRisk1_1_1ChangePlayer_1ae868351b168792cba1f4ceefbcee413d" kind="function"><name>button2_Click</name></member>
+    <member refid="classRisk1_1_1ChangePlayer_1aa4bd51c8ff6b0ab81803041d60dc4550" kind="function"><name>comboBox1_SelectedIndexChanged</name></member>
+    <member refid="classRisk1_1_1ChangePlayer_1a12f440fce086bab32d3630e081ebc457" kind="function"><name>comboBox2_SelectedIndexChanged</name></member>
+    <member refid="classRisk1_1_1ChangePlayer_1a575a1c72cbd82b22afed002b434c2dbb" kind="function"><name>pictureBox1_MouseEnter</name></member>
+    <member refid="classRisk1_1_1ChangePlayer_1ad0cdaccd65a2a3aa8fd2a4d6ba49b97c" kind="function"><name>InitializeComponent</name></member>
+    <member refid="classRisk1_1_1ChangePlayer_1a2fb3b0a71e6a9b0b47887b8e4d64081b" kind="function"><name>Dispose</name></member>
+  </compound>
+  <compound refid="classRisk1_1_1ChangeStyle" kind="class"><name>Risk1::ChangeStyle</name>
+    <member refid="classRisk1_1_1ChangeStyle_1ad65dd90425cb477b33cf492af4743170" kind="variable"><name>f1</name></member>
+    <member refid="classRisk1_1_1ChangeStyle_1a375a730ec008f4c52b0c1fb8499efd6f" kind="variable"><name>c</name></member>
+    <member refid="classRisk1_1_1ChangeStyle_1a84ff8673a0cf6cebcbc02a7ce7812401" kind="variable"><name>components</name></member>
+    <member refid="classRisk1_1_1ChangeStyle_1adc9844f00e4ec47832ee68db3c7c79d9" kind="variable"><name>button1</name></member>
+    <member refid="classRisk1_1_1ChangeStyle_1ab06536946609a462b7bd09e16c594b8f" kind="variable"><name>label1</name></member>
+    <member refid="classRisk1_1_1ChangeStyle_1a1a11eb9026d74f8d9763533209e4a8a9" kind="variable"><name>colorDialog1</name></member>
+    <member refid="classRisk1_1_1ChangeStyle_1a849c378e4e18dbae4dda317d7f2283d4" kind="variable"><name>button2</name></member>
+    <member refid="classRisk1_1_1ChangeStyle_1a78077dc92fa653f04798c0dac9248b37" kind="variable"><name>panel1</name></member>
+    <member refid="classRisk1_1_1ChangeStyle_1a218667e53d0e9dd5e1d8996e8d056324" kind="function"><name>ChangeStyle</name></member>
+    <member refid="classRisk1_1_1ChangeStyle_1a9d7c5ebf1430daefd79bdcf3690fa209" kind="function"><name>button1_Click</name></member>
+    <member refid="classRisk1_1_1ChangeStyle_1a5bf41bcc4de2533e4f1a8f2cc8f5e97d" kind="function"><name>ChangeStyle_Load</name></member>
+    <member refid="classRisk1_1_1ChangeStyle_1a713454ba512bb2a1d80d4fab8cc274cc" kind="function"><name>button2_Click</name></member>
+    <member refid="classRisk1_1_1ChangeStyle_1aa768006d6e358ea58a58712dddb9de9e" kind="function"><name>InitializeComponent</name></member>
+    <member refid="classRisk1_1_1ChangeStyle_1ad2b1e9096c5676054456e76e160608e9" kind="function"><name>Dispose</name></member>
+  </compound>
+  <compound refid="classRisk1_1_1Chart" kind="class"><name>Risk1::Chart</name>
+    <member refid="classRisk1_1_1Chart_1ad21a65ad5d47488f070eba1609c3703e" kind="variable"><name>f1</name></member>
+    <member refid="classRisk1_1_1Chart_1afb5e6710786b3560ce2dddedc01a6e4b" kind="variable"><name>components</name></member>
+    <member refid="classRisk1_1_1Chart_1a035b1e95450686bde2e874bde7bdfbba" kind="variable"><name>chart1</name></member>
+    <member refid="classRisk1_1_1Chart_1a425390bbe98d4eb50e5f82295dd1b04f" kind="function"><name>Chart</name></member>
+    <member refid="classRisk1_1_1Chart_1a292cfeec007997e7e62d6b52469da629" kind="function"><name>Chart_Load</name></member>
+    <member refid="classRisk1_1_1Chart_1ad44e1793f634f4ee049b0059d4bc3f9b" kind="function"><name>chart1_Click</name></member>
+    <member refid="classRisk1_1_1Chart_1a8b85052c5229367c126af7eefcc701ae" kind="function"><name>InitializeComponent</name></member>
+    <member refid="classRisk1_1_1Chart_1aa74cad952ff55706088c2b96011b65b7" kind="function"><name>Dispose</name></member>
+  </compound>
+  <compound refid="classRisk1_1_1Continent" kind="class"><name>Risk1::Continent</name>
+    <member refid="classRisk1_1_1Continent_1a2a4b8ae45630c7b5f94f42ff179c8b6e" kind="variable"><name>name</name></member>
+    <member refid="classRisk1_1_1Continent_1ab4b96fa2d464996343483d368d0419b8" kind="variable"><name>bolgeler</name></member>
+    <member refid="classRisk1_1_1Continent_1a543121f27b513cc18ddb9850c61357af" kind="variable"><name>getirisi</name></member>
+    <member refid="classRisk1_1_1Continent_1ac9d55bfca6c500df6cbdbf4f73ea9b7c" kind="function"><name>Continent</name></member>
+  </compound>
+  <compound refid="classRisk1_1_1DistanceCalculator" kind="class"><name>Risk1::DistanceCalculator</name>
+    <member refid="classRisk1_1_1DistanceCalculator_1aae864aa0c7d7f77765a33237828f7c6d" kind="function"><name>CalculateDistances</name></member>
+    <member refid="classRisk1_1_1DistanceCalculator_1a47f3c9a27c2d7b060643357e1664fe75" kind="function"><name>getYol</name></member>
+    <member refid="classRisk1_1_1DistanceCalculator_1a28dbdabd1327d8119120f74142e76f1c" kind="function"><name>InitialiseGraph</name></member>
+    <member refid="classRisk1_1_1DistanceCalculator_1ac48701bd2801768be3f729ed1d6faf2e" kind="function"><name>ProcessGraph</name></member>
+    <member refid="classRisk1_1_1DistanceCalculator_1a5fd00755fc8c19babae9cbac289d4372" kind="function"><name>ProcessNode</name></member>
+    <member refid="classRisk1_1_1DistanceCalculator_1a7df17c778356cd163ff21defd8d9e807" kind="function"><name>ExtractDistances</name></member>
+  </compound>
+  <compound refid="classRisk1_1_1Form1" kind="class"><name>Risk1::Form1</name>
+    <member refid="classRisk1_1_1Form1_1ac518496ce34e0776c9ed276667bf768e" kind="variable"><name>noktalar</name></member>
+    <member refid="classRisk1_1_1Form1_1a895392bb79b219c3117a7d9b68013f2e" kind="variable"><name>ilkTiklananBolge</name></member>
+    <member refid="classRisk1_1_1Form1_1ae884ae71a048b281780a3b8adb9df0dc" kind="variable"><name>ganimetBolgesi</name></member>
+    <member refid="classRisk1_1_1Form1_1acaca387813691a4d10c63efd77066d3c" kind="variable"><name>labels</name></member>
+    <member refid="classRisk1_1_1Form1_1a9dcf5cc63f4adbf9af051680638d990a" kind="variable"><name>state</name></member>
+    <member refid="classRisk1_1_1Form1_1ac2b5c2fe2004fc8ec8b901c6f9b23de9" kind="variable"><name>label</name></member>
+    <member refid="classRisk1_1_1Form1_1af4f03f356534449acb52e0d5badfdb06" kind="variable"><name>components</name></member>
+    <member refid="classRisk1_1_1Form1_1a35e633bea3e90618569456447cc1de7a" kind="variable"><name>pictureBox1</name></member>
+    <member refid="classRisk1_1_1Form1_1aa74168edefa56603f23df264e167163d" kind="variable"><name>panel1</name></member>
+    <member refid="classRisk1_1_1Form1_1afdff374376d7a93f5485fc0925a56bc5" kind="variable"><name>button2</name></member>
+    <member refid="classRisk1_1_1Form1_1a8387300b593ff021d8adad48b7261c18" kind="variable"><name>txtInfo</name></member>
+    <member refid="classRisk1_1_1Form1_1aba99cd3191b8a4a2e862f4fc2347174b" kind="variable"><name>txtPlayer</name></member>
+    <member refid="classRisk1_1_1Form1_1a48023f1ba82c6f49a96eee423c1e01a4" kind="variable"><name>label1</name></member>
+    <member refid="classRisk1_1_1Form1_1a2f93d929b4f4e4364ec2c1054aa75d13" kind="variable"><name>label2</name></member>
+    <member refid="classRisk1_1_1Form1_1a206d2907c69d9e378583b37fe0989578" kind="variable"><name>label3</name></member>
+    <member refid="classRisk1_1_1Form1_1a3e34d1b2195f9dcd58a000f1ad1210be" kind="variable"><name>label4</name></member>
+    <member refid="classRisk1_1_1Form1_1a09d236d1ded11d7ab04833087157bfd7" kind="variable"><name>label5</name></member>
+    <member refid="classRisk1_1_1Form1_1a734f952e9bccfed5392da627f4805324" kind="variable"><name>label6</name></member>
+    <member refid="classRisk1_1_1Form1_1a6fc13f97cd389bcc077932e75f4f9d87" kind="variable"><name>label7</name></member>
+    <member refid="classRisk1_1_1Form1_1abd47ff863a7e97c582551ebc137a9d95" kind="variable"><name>label8</name></member>
+    <member refid="classRisk1_1_1Form1_1a2a410458e0f40cee6ef952c2f8b8bcb5" kind="variable"><name>label9</name></member>
+    <member refid="classRisk1_1_1Form1_1ac62d7d56cc92edbd58c44420c6155125" kind="variable"><name>label10</name></member>
+    <member refid="classRisk1_1_1Form1_1a515b1b4fd767e0b1d6000783b8fdbf2f" kind="variable"><name>label11</name></member>
+    <member refid="classRisk1_1_1Form1_1ab88a5f9c107a02e0dc14587862e3f770" kind="variable"><name>label12</name></member>
+    <member refid="classRisk1_1_1Form1_1a0509568de1a8785dcf59569d34120f6f" kind="variable"><name>label13</name></member>
+    <member refid="classRisk1_1_1Form1_1a5b65fbf5d98e3bdec9139a0f0082b626" kind="variable"><name>label14</name></member>
+    <member refid="classRisk1_1_1Form1_1a9459dfd82080dbed23521257c84b6246" kind="variable"><name>label15</name></member>
+    <member refid="classRisk1_1_1Form1_1a66081a5384012ec71d67bcb256e5d24d" kind="variable"><name>label16</name></member>
+    <member refid="classRisk1_1_1Form1_1acaa67f045c59077c0281bdd842f311af" kind="variable"><name>label17</name></member>
+    <member refid="classRisk1_1_1Form1_1a51c0087df980ad134055094011dc2df8" kind="variable"><name>label18</name></member>
+    <member refid="classRisk1_1_1Form1_1a031781d723896e822ff0b7bfd97b2f80" kind="variable"><name>label19</name></member>
+    <member refid="classRisk1_1_1Form1_1a0918bcce7f4e169fa4191f575ad89f5f" kind="variable"><name>label20</name></member>
+    <member refid="classRisk1_1_1Form1_1ad4b98618681330c2ebcf680e7bdeff7f" kind="variable"><name>label21</name></member>
+    <member refid="classRisk1_1_1Form1_1a54c688176dcb64f8ea78b4c45f20c35f" kind="variable"><name>label22</name></member>
+    <member refid="classRisk1_1_1Form1_1a4ece287ef9f5ff26b0afa52712ab56c8" kind="variable"><name>label23</name></member>
+    <member refid="classRisk1_1_1Form1_1a68be1ad1f8af648d5bae73b1d9798b31" kind="variable"><name>label24</name></member>
+    <member refid="classRisk1_1_1Form1_1abb35a939a898fe5870896b78559707a5" kind="variable"><name>label25</name></member>
+    <member refid="classRisk1_1_1Form1_1a208762f882ecb73d55878f31c133ce1b" kind="variable"><name>label26</name></member>
+    <member refid="classRisk1_1_1Form1_1a60be7f238043c9c62f48045a34c0dbb2" kind="variable"><name>label27</name></member>
+    <member refid="classRisk1_1_1Form1_1a8e6f5a8f5e1c38925eba9e4d6d8143c9" kind="variable"><name>label28</name></member>
+    <member refid="classRisk1_1_1Form1_1a36b15b28b354bdd6c656a2172ed6febb" kind="variable"><name>label29</name></member>
+    <member refid="classRisk1_1_1Form1_1a9240d19dfcd220048b1000f7c701b1d7" kind="variable"><name>label30</name></member>
+    <member refid="classRisk1_1_1Form1_1af90e4e491b62915983d4ace9c9a0a94a" kind="variable"><name>label31</name></member>
+    <member refid="classRisk1_1_1Form1_1a4b4334bd390d6a4aa85b09d49675118d" kind="variable"><name>label32</name></member>
+    <member refid="classRisk1_1_1Form1_1a1115b2b03cb9d85ab47c8bf34dbe6f8d" kind="variable"><name>label33</name></member>
+    <member refid="classRisk1_1_1Form1_1a014aed04ebfe51ff086205a2509c3e5e" kind="variable"><name>label34</name></member>
+    <member refid="classRisk1_1_1Form1_1a9c5fc0d22b8e0c0fd51f8a7dc031e744" kind="variable"><name>label35</name></member>
+    <member refid="classRisk1_1_1Form1_1a464688cf0471f3acf12c61ba17a8160d" kind="variable"><name>label36</name></member>
+    <member refid="classRisk1_1_1Form1_1a9ea0b5daced2d099bdb0dfd82fa7074d" kind="variable"><name>label37</name></member>
+    <member refid="classRisk1_1_1Form1_1a08b36a00db8665ee072f1d580ac215b0" kind="variable"><name>label38</name></member>
+    <member refid="classRisk1_1_1Form1_1ab147b39ab105507a5ba97fb03184c01e" kind="variable"><name>label39</name></member>
+    <member refid="classRisk1_1_1Form1_1a02530b7bc91dc878bbcc9b8f7135c3ac" kind="variable"><name>label40</name></member>
+    <member refid="classRisk1_1_1Form1_1ad95d2adc601f26b484c030871ea8c682" kind="variable"><name>label41</name></member>
+    <member refid="classRisk1_1_1Form1_1aa85db58259f66d5246bc1a996762e457" kind="variable"><name>label42</name></member>
+    <member refid="classRisk1_1_1Form1_1acf438d6fca9dd73fca850afecab6a25a" kind="variable"><name>gameToolStripMenuItem</name></member>
+    <member refid="classRisk1_1_1Form1_1a3e92543e3896bb2aa9c0b21f5568db9c" kind="variable"><name>newGameToolStripMenuItem</name></member>
+    <member refid="classRisk1_1_1Form1_1afcccfaef6b3ad2321c209db3fcf1513e" kind="variable"><name>endGameToolStripMenuItem</name></member>
+    <member refid="classRisk1_1_1Form1_1ae7870bc67acdeaf23210f561a3a3577f" kind="variable"><name>exitToolStripMenuItem</name></member>
+    <member refid="classRisk1_1_1Form1_1a4b13149c0d336869ea7e9538cf046d0b" kind="variable"><name>optionsToolStripMenuItem</name></member>
+    <member refid="classRisk1_1_1Form1_1a1bc2c778897d52aec27f7dfeb00cd00b" kind="variable"><name>rulesToolStripMenuItem</name></member>
+    <member refid="classRisk1_1_1Form1_1aa85c525dbf87ab391ba57bf914df8db2" kind="variable"><name>statisticsToolStripMenuItem</name></member>
+    <member refid="classRisk1_1_1Form1_1a35f48f83f222dbe6c34c3e36b83d1082" kind="variable"><name>helpToolStripMenuItem</name></member>
+    <member refid="classRisk1_1_1Form1_1a4f0f1a4b41cbd0ed83fc639162fa35a9" kind="variable"><name>aboutToolStripMenuItem</name></member>
+    <member refid="classRisk1_1_1Form1_1aa18509a00a2665eb8eedf124898d8ffc" kind="variable"><name>webSiteToolStripMenuItem</name></member>
+    <member refid="classRisk1_1_1Form1_1a1fda16d13df49fb2c2447d2fa3b464c6" kind="variable"><name>menuStrip1</name></member>
+    <member refid="classRisk1_1_1Form1_1ade363eba5e1584c8d464d6bc2c446d64" kind="variable"><name>showStatisticsToolStripMenuItem</name></member>
+    <member refid="classRisk1_1_1Form1_1a66a9dade4cdb4766271c9603206c04d7" kind="variable"><name>hideStatisticsToolStripMenuItem</name></member>
+    <member refid="classRisk1_1_1Form1_1a434e5d419e4294c9a589a6396be83847" kind="variable"><name>listView1</name></member>
+    <member refid="classRisk1_1_1Form1_1ae07ef671be482eb318e2f42585634ab0" kind="variable"><name>armies</name></member>
+    <member refid="classRisk1_1_1Form1_1af584e6b60befd0f87b0334ec4861653a" kind="variable"><name>facebookPageToolStripMenuItem</name></member>
+    <member refid="classRisk1_1_1Form1_1acb7e303a6c66cfb376104b727ebf9c76" kind="variable"><name>pictureBox2</name></member>
+    <member refid="classRisk1_1_1Form1_1a4f6abbfc4248993396da4e0dd086e9ae" kind="variable"><name>pictureBox3</name></member>
+    <member refid="classRisk1_1_1Form1_1ae0b6c65714dbe8c938cab7afe2843125" kind="variable"><name>changeStyleToolStripMenuItem</name></member>
+    <member refid="classRisk1_1_1Form1_1a335d925b317491b6e7f0b1cb9ea765d8" kind="variable"><name>showHistoryToolStripMenuItem</name></member>
+    <member refid="classRisk1_1_1Form1_1afa821c3338f788f28540c36c7c8e7a9e" kind="variable"><name>followUsOnTwitterToolStripMenuItem</name></member>
+    <member refid="classRisk1_1_1Form1_1ab9f8dceeffe3574d2dcd45b5a60f4924" kind="variable"><name>timer1</name></member>
+    <member refid="classRisk1_1_1Form1_1aa29dbce17458229b0bae643e81e59d94" kind="variable"><name>pictureBox4</name></member>
+    <member refid="classRisk1_1_1Form1_1af50fa65bd09291cbc6e4b8a91ebc3cfe" kind="variable"><name>bolgeler</name></member>
+    <member refid="classRisk1_1_1Form1_1acba062c38cacbc0d1488ce2f8dfe8715" kind="variable"><name>players</name></member>
+    <member refid="classRisk1_1_1Form1_1a835d8d4d44c48a85855914f3aae94b85" kind="variable"><name>kitalar</name></member>
+    <member refid="classRisk1_1_1Form1_1a92e167dba4211bca7b6e2bcdb4991790" kind="variable"><name>turn</name></member>
+    <member refid="classRisk1_1_1Form1_1ab006bd8cdd04eb6e37df46888ca6a2e6" kind="variable"><name>ilkAskerler</name></member>
+    <member refid="classRisk1_1_1Form1_1a2bcbd7157e1c75329c5c2d033da4268b" kind="variable"><name>ilkAskerSayisi</name></member>
+    <member refid="classRisk1_1_1Form1_1aeb73dff2f53c4cdb0fb047f7bca6c0e0" kind="variable"><name>isArmyMoved</name></member>
+    <member refid="classRisk1_1_1Form1_1a2d64f2ea6f80d0fcf6e3fbcd77a93d1c" kind="variable"><name>isRandom</name></member>
+    <member refid="classRisk1_1_1Form1_1aa11b16327463cd8767d2b0d0463b6484" kind="variable"><name>ganimetKazanci</name></member>
+    <member refid="classRisk1_1_1Form1_1a798790e57fe3ca0304c319e68a68bd45" kind="variable"><name>ai</name></member>
+    <member refid="classRisk1_1_1Form1_1a04d26097753b6af3271b60674f1ed452" kind="variable"><name>ai2</name></member>
+    <member refid="classRisk1_1_1Form1_1a0b8c055b59de1f9708d157c6499cfb1e" kind="variable"><name>ai3</name></member>
+    <member refid="classRisk1_1_1Form1_1ac9447839270152ba58fc436f9ffa1237" kind="variable"><name>ai4</name></member>
+    <member refid="classRisk1_1_1Form1_1a4a32a0335e6463b9746c414f466f382f" kind="variable"><name>yapayzekalar</name></member>
+    <member refid="classRisk1_1_1Form1_1a2b57c6655a7cdf74eeaa00055c8b5b8b" kind="variable"><name>deniz</name></member>
+    <member refid="classRisk1_1_1Form1_1a54c5a482447583694a2c888665ba6bc4" kind="variable"><name>sinirlar</name></member>
+    <member refid="classRisk1_1_1Form1_1a79142e0dc6e20b356dda64b85358a641" kind="variable"><name>history</name></member>
+    <member refid="classRisk1_1_1Form1_1aff492b7c26c634eff04459982f0e0f40" kind="variable"><name>gameData</name></member>
+    <member refid="classRisk1_1_1Form1_1a7c8a171c9572ccad9375b34da730ffd4" kind="variable"><name>statistics</name></member>
+    <member refid="classRisk1_1_1Form1_1acbc231cada51c02354509b1ba92a0427" kind="variable"><name>yeniOyunIptal</name></member>
+    <member refid="classRisk1_1_1Form1_1aacdc3fcf30eee697bdf1a62b8ec22e83" kind="variable"><name>player</name></member>
+    <member refid="classRisk1_1_1Form1_1a0fcc4199062d855f3feb2e6b41553de8" kind="variable"><name>territories</name></member>
+    <member refid="classRisk1_1_1Form1_1a0fa5d187b06b35573865e6ccea601984" kind="variable"><name>continents</name></member>
+    <member refid="classRisk1_1_1Form1_1a6e7698b3769181988297d4c5c7b6a52b" kind="function"><name>Form1</name></member>
+    <member refid="classRisk1_1_1Form1_1a329b4451ccfcf9dcb154dcc413cee3bc" kind="function"><name>endGame</name></member>
+    <member refid="classRisk1_1_1Form1_1a5f9d0553482c76ed6d4a4454d215a30a" kind="function"><name>updateGameData</name></member>
+    <member refid="classRisk1_1_1Form1_1a306ef5e5bbe40f5aabc6024746838f3d" kind="function"><name>getGameData</name></member>
+    <member refid="classRisk1_1_1Form1_1ab157731e0ce80c2de176f40344e48f3c" kind="function"><name>changeInfo</name></member>
+    <member refid="classRisk1_1_1Form1_1a3c3980da047bdb83f50586a836375f61" kind="function"><name>changeLabel</name></member>
+    <member refid="classRisk1_1_1Form1_1aa203bf2cf556808029aa90fd2d6eb6e2" kind="function"><name>changeTerritoryColor</name></member>
+    <member refid="classRisk1_1_1Form1_1a268cb2b8da2c2a9d666d800f6fe6cf87" kind="function"><name>changeDenizColor</name></member>
+    <member refid="classRisk1_1_1Form1_1a84035cc71fa2ae6ce86fc0096141c32d" kind="function"><name>changeSinirColor</name></member>
+    <member refid="classRisk1_1_1Form1_1a207f03f821474907153b623b676fe7b1" kind="function"><name>refreshGame</name></member>
+    <member refid="classRisk1_1_1Form1_1a04aa184dba1aefe39ed10ce959776a40" kind="function"><name>hideStatistics</name></member>
+    <member refid="classRisk1_1_1Form1_1a018eea4103c89dab9ab61df7f8dd2e78" kind="function"><name>changeTurn</name></member>
+    <member refid="classRisk1_1_1Form1_1a3ea2efd9ee250aab2d1efdc6368b32a7" kind="function"><name>olduMu</name></member>
+    <member refid="classRisk1_1_1Form1_1aed2b45d6ea4278fd8b24af8642a5732a" kind="function"><name>getNextTurn</name></member>
+    <member refid="classRisk1_1_1Form1_1a231cf34d18e80a780b2b00f84f2f7da6" kind="function"><name>changeStatistics</name></member>
+    <member refid="classRisk1_1_1Form1_1affc40684bf52de63543a96f5ab42d0af" kind="function"><name>ganimetBolgseiniBildir</name></member>
+    <member refid="classRisk1_1_1Form1_1ab67166153c5c0244b55e82bcd6025660" kind="function"><name>changePanel</name></member>
+    <member refid="classRisk1_1_1Form1_1aefee05c8e80333207f348827ebd415df" kind="function"><name>pictureBox1_Click</name></member>
+    <member refid="classRisk1_1_1Form1_1a570531e328643c46bc5ae90dc5bcff70" kind="function"><name>yapayzeka</name></member>
+    <member refid="classRisk1_1_1Form1_1a34c0581d500cc7314bd2d8a7f29da524" kind="function"><name>kitaKazanci</name></member>
+    <member refid="classRisk1_1_1Form1_1aad27c5edc2ea6a98809ac2ef30758d14" kind="function"><name>hangiKitalaraSahip</name></member>
+    <member refid="classRisk1_1_1Form1_1ad61ae971ebb6b290df88f422d03cd553" kind="function"><name>kuzeyAmerika</name></member>
+    <member refid="classRisk1_1_1Form1_1a04a9266d5445e1dd94af4453099262eb" kind="function"><name>guneyAmerika</name></member>
+    <member refid="classRisk1_1_1Form1_1a1cbbe42bb3ce0201c8f993f0931ecc25" kind="function"><name>afrika</name></member>
+    <member refid="classRisk1_1_1Form1_1aba2319fc88ba913295d1cbc779b68e56" kind="function"><name>asya</name></member>
+    <member refid="classRisk1_1_1Form1_1af0d9fdf1c1a1dea7b45550bcc3d8317b" kind="function"><name>avrupa</name></member>
+    <member refid="classRisk1_1_1Form1_1ad41c52a50800dd0ab3e3dd8d059a13d6" kind="function"><name>avustralya</name></member>
+    <member refid="classRisk1_1_1Form1_1aebf7a05b683ba17d5476d3a25697899d" kind="function"><name>butunBolgelerSecildiMi</name></member>
+    <member refid="classRisk1_1_1Form1_1a9445ecc6d07f9139fe1a279cc85a30f0" kind="function"><name>Form1_Load</name></member>
+    <member refid="classRisk1_1_1Form1_1a8f60a4061bbe11ace5f91ddf817ae165" kind="function"><name>button2_Click</name></member>
+    <member refid="classRisk1_1_1Form1_1a33b0a37450d54eaf9cffa464044b6898" kind="function"><name>newGameToolStripMenuItem_Click</name></member>
+    <member refid="classRisk1_1_1Form1_1a7c9abf80335f5a58acee5803b670148f" kind="function"><name>endGameToolStripMenuItem_Click</name></member>
+    <member refid="classRisk1_1_1Form1_1a0006073e9cd2c614444af8341e746251" kind="function"><name>Form1_KeyDown</name></member>
+    <member refid="classRisk1_1_1Form1_1af5249639c0a065309926e89ded6eec8d" kind="function"><name>aboutToolStripMenuItem_Click</name></member>
+    <member refid="classRisk1_1_1Form1_1a8f0aea1fafa07ff40b37e695026bdf0e" kind="function"><name>rulesToolStripMenuItem_Click</name></member>
+    <member refid="classRisk1_1_1Form1_1a086082370d974762d05d4d5ca6b39ee5" kind="function"><name>webSiteToolStripMenuItem_Click</name></member>
+    <member refid="classRisk1_1_1Form1_1ac474fb155cf3ad5b233458e9710ef741" kind="function"><name>exitToolStripMenuItem_Click</name></member>
+    <member refid="classRisk1_1_1Form1_1a03dfff826bd69b296373184eb249897d" kind="function"><name>showStatisticsToolStripMenuItem_Click</name></member>
+    <member refid="classRisk1_1_1Form1_1a2b9860fa89c971eeeb536e9e7bac2ae1" kind="function"><name>hideStatisticsToolStripMenuItem_Click</name></member>
+    <member refid="classRisk1_1_1Form1_1a93d0dfbb3f5b9890efe167888f4a59db" kind="function"><name>pictureBox1_MouseMove</name></member>
+    <member refid="classRisk1_1_1Form1_1a001567a9edeceec9ef7a0cc4181b10e1" kind="function"><name>facebookPageToolStripMenuItem_Click</name></member>
+    <member refid="classRisk1_1_1Form1_1ab3855d8454472dd41e0dff19bfecea08" kind="function"><name>pictureBox2_Click</name></member>
+    <member refid="classRisk1_1_1Form1_1a608f1c6b08f533aba28c76ee796c7e9b" kind="function"><name>pictureBox3_Click</name></member>
+    <member refid="classRisk1_1_1Form1_1ae73f7ccd82b88f7c3fdf50ddcf5688da" kind="function"><name>label1_Click</name></member>
+    <member refid="classRisk1_1_1Form1_1ae82c1467328a1716c54815c1fb7d3939" kind="function"><name>label2_Click</name></member>
+    <member refid="classRisk1_1_1Form1_1a20f3bcc7d2e272cf622df760ac2a9059" kind="function"><name>label3_Click</name></member>
+    <member refid="classRisk1_1_1Form1_1ac3693dd82f27dce05709038c5339e78d" kind="function"><name>label4_Click</name></member>
+    <member refid="classRisk1_1_1Form1_1a55b50088d0677c4b02fccc8e9d9b4bb0" kind="function"><name>label5_Click</name></member>
+    <member refid="classRisk1_1_1Form1_1ad84a1a4be41f3a09c1028f0c8b20f9a5" kind="function"><name>label6_Click</name></member>
+    <member refid="classRisk1_1_1Form1_1a49e079f4550e0c62b93c1165143dffe1" kind="function"><name>label7_Click</name></member>
+    <member refid="classRisk1_1_1Form1_1a0807927097c01b8c41b3f3d10669a2cb" kind="function"><name>label8_Click</name></member>
+    <member refid="classRisk1_1_1Form1_1aea07a9f4baca761d43c0d398cfdf40ba" kind="function"><name>label9_Click</name></member>
+    <member refid="classRisk1_1_1Form1_1af62edd64b39c82d60e5e7934f509f4c0" kind="function"><name>label10_Click</name></member>
+    <member refid="classRisk1_1_1Form1_1a3c51e0a20e26cb0118417934cfa56630" kind="function"><name>label11_Click</name></member>
+    <member refid="classRisk1_1_1Form1_1ab8cdaa16812fb918505bbe2a02a652cd" kind="function"><name>label12_Click</name></member>
+    <member refid="classRisk1_1_1Form1_1acad072588e96dcf515f80b5e9f774ac8" kind="function"><name>label13_Click</name></member>
+    <member refid="classRisk1_1_1Form1_1a14fb1beb811e4742bba0678515f61654" kind="function"><name>label14_Click</name></member>
+    <member refid="classRisk1_1_1Form1_1a8e59ec75e47220af2d4aeca5aa347b57" kind="function"><name>label15_Click</name></member>
+    <member refid="classRisk1_1_1Form1_1a66ca6fc642eec49917dd1ab3672a3714" kind="function"><name>label16_Click</name></member>
+    <member refid="classRisk1_1_1Form1_1a25429bb10992d4457d5f4ad2e60083d0" kind="function"><name>label17_Click</name></member>
+    <member refid="classRisk1_1_1Form1_1a08b02c827fd1f992778ff1d11426d757" kind="function"><name>label18_Click</name></member>
+    <member refid="classRisk1_1_1Form1_1a26f04a861dd60ef610793e25af49af53" kind="function"><name>label19_Click</name></member>
+    <member refid="classRisk1_1_1Form1_1a22ace169bfaa5b48fe38c7fb757cecc3" kind="function"><name>label20_Click</name></member>
+    <member refid="classRisk1_1_1Form1_1a945f0a2422b22f3f028a9d83d17223cb" kind="function"><name>label21_Click</name></member>
+    <member refid="classRisk1_1_1Form1_1a587cdfc4bec32537f5e25525292a825c" kind="function"><name>label22_Click</name></member>
+    <member refid="classRisk1_1_1Form1_1a0e6324cca432d223d7ee19779f7022a2" kind="function"><name>label26_Click</name></member>
+    <member refid="classRisk1_1_1Form1_1a84032b1821f3bc6598dba28c4ddb6025" kind="function"><name>label25_Click</name></member>
+    <member refid="classRisk1_1_1Form1_1a4ee7655dbf6f1799a827ef94188fe09a" kind="function"><name>label24_Click</name></member>
+    <member refid="classRisk1_1_1Form1_1a9b8a896a37c4dfcb662ff5901256f0d8" kind="function"><name>label23_Click</name></member>
+    <member refid="classRisk1_1_1Form1_1a8e7be8f7cb2235d501513fd1a7ad2fd9" kind="function"><name>label41_Click</name></member>
+    <member refid="classRisk1_1_1Form1_1a7ca841db205af54914c9068d91df89a4" kind="function"><name>label40_Click</name></member>
+    <member refid="classRisk1_1_1Form1_1a941b13cedceeda7252f76f91c484bce9" kind="function"><name>label42_Click</name></member>
+    <member refid="classRisk1_1_1Form1_1ad1a3d1afca4a7dbb301c83400cb609ad" kind="function"><name>label39_Click</name></member>
+    <member refid="classRisk1_1_1Form1_1a1b6d0068123a171108f437117a9462a1" kind="function"><name>label31_Click</name></member>
+    <member refid="classRisk1_1_1Form1_1aef8c55820e59f8166c12cc4c3da764a4" kind="function"><name>label30_Click</name></member>
+    <member refid="classRisk1_1_1Form1_1ae33a3f0f210a3f1a1ff2f7fd9489120f" kind="function"><name>label27_Click</name></member>
+    <member refid="classRisk1_1_1Form1_1aab3814365d52f98f4c5d2450e8a27f46" kind="function"><name>label29_Click</name></member>
+    <member refid="classRisk1_1_1Form1_1a2a31962ac6a4966466dc42c36d8430ec" kind="function"><name>label28_Click</name></member>
+    <member refid="classRisk1_1_1Form1_1ac29b2651b3c8be1d0b995605734d968a" kind="function"><name>label34_Click</name></member>
+    <member refid="classRisk1_1_1Form1_1a39871c9f66ad6148a154e2497413554a" kind="function"><name>label35_Click</name></member>
+    <member refid="classRisk1_1_1Form1_1ae3ee521fae5841a59d4aaacabd9f3ad9" kind="function"><name>label37_Click</name></member>
+    <member refid="classRisk1_1_1Form1_1a70f8dbfe95c84e01bf192768f3754db8" kind="function"><name>label38_Click</name></member>
+    <member refid="classRisk1_1_1Form1_1a540eceb6c480fa23fc62be728beab581" kind="function"><name>label33_Click</name></member>
+    <member refid="classRisk1_1_1Form1_1af32effd41501b70fe4706d8c6fd90499" kind="function"><name>label36_Click</name></member>
+    <member refid="classRisk1_1_1Form1_1ad657792a028bfacc185f42ef0c5369d6" kind="function"><name>label32_Click</name></member>
+    <member refid="classRisk1_1_1Form1_1a51b0418322cd9af5a09f26addb268822" kind="function"><name>changeStyleToolStripMenuItem_Click</name></member>
+    <member refid="classRisk1_1_1Form1_1aff1ee9a205206761dee9390802a475fa" kind="function"><name>showHistoryToolStripMenuItem_Click</name></member>
+    <member refid="classRisk1_1_1Form1_1aa4fc1be22bd3845a767636748c952234" kind="function"><name>followUsOnTwitterToolStripMenuItem_Click</name></member>
+    <member refid="classRisk1_1_1Form1_1aaf0174135173f32a7cd70c385f2a6c06" kind="function"><name>timer1_Tick</name></member>
+    <member refid="classRisk1_1_1Form1_1a7ab84c792afaf279efafda8e23bf75f5" kind="function"><name>InitializeComponent</name></member>
+    <member refid="classRisk1_1_1Form1_1ada2d7021ebaa443aea50a582dda37cf2" kind="function"><name>Find1</name></member>
+    <member refid="classRisk1_1_1Form1_1ab2e93ee24d825cd705e6819ba98580c7" kind="function"><name>Find2</name></member>
+    <member refid="classRisk1_1_1Form1_1a69e3bd27dd86235f723b8c680ce662ae" kind="function"><name>Find3</name></member>
+    <member refid="classRisk1_1_1Form1_1ab10d5a35d1891f176a5cfa01d1fb27a9" kind="function"><name>Find4</name></member>
+    <member refid="classRisk1_1_1Form1_1a9b2c0579094cd859c8898e4b203165a9" kind="function"><name>Find5</name></member>
+    <member refid="classRisk1_1_1Form1_1aed2f04c282fadc48a2515d63081aabca" kind="function"><name>Find6</name></member>
+    <member refid="classRisk1_1_1Form1_1ad44c76abd70c9ba0df859947cafa3b0f" kind="function"><name>Find7</name></member>
+    <member refid="classRisk1_1_1Form1_1a22d021bbef6454436fc55b6fcec77b18" kind="function"><name>Find8</name></member>
+    <member refid="classRisk1_1_1Form1_1af0fe6890a5ad36e0915f6148e47f6680" kind="function"><name>Find9</name></member>
+    <member refid="classRisk1_1_1Form1_1a7bd52101e474434d9a2d7d22b89f1400" kind="function"><name>Find10</name></member>
+    <member refid="classRisk1_1_1Form1_1a3fa0e05ba92a087b425c3ea287dfad25" kind="function"><name>Find11</name></member>
+    <member refid="classRisk1_1_1Form1_1a7b63be2dcd84b2778a43f896b89cb88c" kind="function"><name>Find12</name></member>
+    <member refid="classRisk1_1_1Form1_1a278df2f4a345bcc28165612704b3dd09" kind="function"><name>Find13</name></member>
+    <member refid="classRisk1_1_1Form1_1a912fa186c2caaa10530386ef2b33b786" kind="function"><name>Find14</name></member>
+    <member refid="classRisk1_1_1Form1_1a19c1afb9b324f5da30c2d1a13ba617c4" kind="function"><name>Find15</name></member>
+    <member refid="classRisk1_1_1Form1_1a71919812f8828813665cce2425b90fd1" kind="function"><name>Find16</name></member>
+    <member refid="classRisk1_1_1Form1_1ab1b589a951b45ea5d4097ac8ca653077" kind="function"><name>Find17</name></member>
+    <member refid="classRisk1_1_1Form1_1ac20c23eb96be55609d473c06bea1161c" kind="function"><name>Find18</name></member>
+    <member refid="classRisk1_1_1Form1_1a02e365339ad8a3c10beb4e2c863d4ad3" kind="function"><name>Find19</name></member>
+    <member refid="classRisk1_1_1Form1_1ac60f5366778795a615923027774f5d58" kind="function"><name>Find20</name></member>
+    <member refid="classRisk1_1_1Form1_1a73a749c341bcab3581d32d93cef4d762" kind="function"><name>Find21</name></member>
+    <member refid="classRisk1_1_1Form1_1a94bcabf0f9612581b3b52026828d7469" kind="function"><name>Find22</name></member>
+    <member refid="classRisk1_1_1Form1_1ac24d37e239688f886e8448c93ec41556" kind="function"><name>Find23</name></member>
+    <member refid="classRisk1_1_1Form1_1a5ca9680698f183d0368baf0dec45713a" kind="function"><name>Find24</name></member>
+    <member refid="classRisk1_1_1Form1_1a61d622674fcabad50da00276806121e2" kind="function"><name>Find25</name></member>
+    <member refid="classRisk1_1_1Form1_1aee2ba9b0a112a37b75b028f0aa3b7434" kind="function"><name>Find26</name></member>
+    <member refid="classRisk1_1_1Form1_1aeab52c80ae0a45fdb2f68d313e41edea" kind="function"><name>Find27</name></member>
+    <member refid="classRisk1_1_1Form1_1ae943f11146c085a6b15a2487b05606f3" kind="function"><name>Find28</name></member>
+    <member refid="classRisk1_1_1Form1_1a516fc857c0eb6d77e6ec1bae92f49094" kind="function"><name>Find29</name></member>
+    <member refid="classRisk1_1_1Form1_1a6e9b3230d824a86ad7df34b0ff8352f5" kind="function"><name>Find30</name></member>
+    <member refid="classRisk1_1_1Form1_1a4a28549ed168a1d56ce741d5744b00c1" kind="function"><name>Find31</name></member>
+    <member refid="classRisk1_1_1Form1_1ae076b4138419b6273f7260ff3c864838" kind="function"><name>Find32</name></member>
+    <member refid="classRisk1_1_1Form1_1a0b5a9cc47ef74aa170598dcfc972e0a2" kind="function"><name>Find33</name></member>
+    <member refid="classRisk1_1_1Form1_1aa40d549252e52f33462b5adeb8affdaf" kind="function"><name>Find34</name></member>
+    <member refid="classRisk1_1_1Form1_1a6bb0426b8360d82ab820c765f10cbab2" kind="function"><name>Find35</name></member>
+    <member refid="classRisk1_1_1Form1_1a9362e3d18edee620ae704b0ae170995b" kind="function"><name>Find36</name></member>
+    <member refid="classRisk1_1_1Form1_1a362747ebf59e20d49618bccaa2616bac" kind="function"><name>Find37</name></member>
+    <member refid="classRisk1_1_1Form1_1a46421b2ae3c5567ae30d5c22e008ed9d" kind="function"><name>Find38</name></member>
+    <member refid="classRisk1_1_1Form1_1ae0e48a96bee270f4cf540f2c9fbb1502" kind="function"><name>Find39</name></member>
+    <member refid="classRisk1_1_1Form1_1a225f06e481f25e1a4bba3c2049e40214" kind="function"><name>Find40</name></member>
+    <member refid="classRisk1_1_1Form1_1a7b7e411d427d8dc901d9835f82572ece" kind="function"><name>Find41</name></member>
+    <member refid="classRisk1_1_1Form1_1afafe749e6169b9d2e811c0794f465f7d" kind="function"><name>Find42</name></member>
+    <member refid="classRisk1_1_1Form1_1ab8074ccd59b624a5da28313ec698a6b5" kind="function"><name>FindDeniz</name></member>
+    <member refid="classRisk1_1_1Form1_1acf0c8ce3c7f6ca1c3fe409f3327c415a" kind="function"><name>FindSinir</name></member>
+    <member refid="classRisk1_1_1Form1_1aec90274a7cdac4fb9009623f5e98547c" kind="function"><name>Dispose</name></member>
+  </compound>
+  <compound refid="classRisk1_1_1Galibiyet" kind="class"><name>Risk1::Galibiyet</name>
+    <member refid="classRisk1_1_1Galibiyet_1a1ecbef753d19f448923991db512359da" kind="variable"><name>winner</name></member>
+    <member refid="classRisk1_1_1Galibiyet_1ad6cd9d139537c0d21182ebec6c85b9fd" kind="variable"><name>f1</name></member>
+    <member refid="classRisk1_1_1Galibiyet_1ac2848514679790a17509ceb7cdc236f4" kind="variable"><name>components</name></member>
+    <member refid="classRisk1_1_1Galibiyet_1a5e65a612c077013224c31c87b400410d" kind="variable"><name>button1</name></member>
+    <member refid="classRisk1_1_1Galibiyet_1a6a864d4346fcc9b497c4c590c572e0e6" kind="variable"><name>button2</name></member>
+    <member refid="classRisk1_1_1Galibiyet_1a1e9700a0ce38cfe1d18a1f2aac1947c6" kind="variable"><name>label1</name></member>
+    <member refid="classRisk1_1_1Galibiyet_1a4df473371cecc24dd64f41f0b2f0be36" kind="variable"><name>panel1</name></member>
+    <member refid="classRisk1_1_1Galibiyet_1a09fd88eaac736ebfe05c4063df684bb1" kind="variable"><name>richTextBox1</name></member>
+    <member refid="classRisk1_1_1Galibiyet_1afb310bd3db89a7f649ffe2b21a6f5a05" kind="function"><name>Galibiyet</name></member>
+    <member refid="classRisk1_1_1Galibiyet_1af0949e014dcb9fc08fc793968b84cf06" kind="function"><name>Galibiyet_Load</name></member>
+    <member refid="classRisk1_1_1Galibiyet_1a81187b54a69d8ca16a80abe01208e1ec" kind="function"><name>button1_Click</name></member>
+    <member refid="classRisk1_1_1Galibiyet_1a9b9371f14f7247b56f9e7a25508569d4" kind="function"><name>button2_Click</name></member>
+    <member refid="classRisk1_1_1Galibiyet_1ab0cecec34cec81b5b8859adcba2e2ac0" kind="function"><name>InitializeComponent</name></member>
+    <member refid="classRisk1_1_1Galibiyet_1aab4365f7b6d892d39c74200636ad6d09" kind="function"><name>Dispose</name></member>
+  </compound>
+  <compound refid="classRisk1_1_1GameData" kind="class"><name>Risk1::GameData</name>
+    <member refid="classRisk1_1_1GameData_1a655b99838f04e5ce1ef36842ad5f6108" kind="variable"><name>bolgeler</name></member>
+    <member refid="classRisk1_1_1GameData_1a16905c7b10b187cf87e3230b7fed535f" kind="variable"><name>players</name></member>
+    <member refid="classRisk1_1_1GameData_1a9a51185da03370bc1cd8e37f7115159b" kind="variable"><name>kitalar</name></member>
+    <member refid="classRisk1_1_1GameData_1a2a64f037ed41ca17881a1c98bab7b0e6" kind="variable"><name>turn</name></member>
+    <member refid="classRisk1_1_1GameData_1a061197b8a441d1870843cb7ecf5722fd" kind="variable"><name>ganimetBolgesi</name></member>
+    <member refid="classRisk1_1_1GameData_1ad30895d74cb29bfd9524762868c405e5" kind="variable"><name>ganimetKazanci</name></member>
+  </compound>
+  <compound refid="classRisk1_1_1Giris" kind="class"><name>Risk1::Giris</name>
+    <member refid="classRisk1_1_1Giris_1aa01ca1c02c483cd1fdc447d7a4caad8b" kind="variable"><name>players</name></member>
+    <member refid="classRisk1_1_1Giris_1adf48b14e627fcd8bbb8ba1f402289cc3" kind="variable"><name>playersTemp</name></member>
+    <member refid="classRisk1_1_1Giris_1af5ac97f59cbeebd95721def69014002f" kind="variable"><name>f1</name></member>
+    <member refid="classRisk1_1_1Giris_1afd04ec9c2f0a3a9e507303f98348726d" kind="variable"><name>components</name></member>
+    <member refid="classRisk1_1_1Giris_1aaef52e47c2447ba1b9f34947ae92fc2b" kind="variable"><name>checkBox1</name></member>
+    <member refid="classRisk1_1_1Giris_1a9227c2803a39023eeffdbb723ff8534e" kind="variable"><name>button1</name></member>
+    <member refid="classRisk1_1_1Giris_1a650d8556699baa98117ac5f1f3c277b5" kind="variable"><name>panel1</name></member>
+    <member refid="classRisk1_1_1Giris_1a3dece39fac9d82d82140e46cb49ac80d" kind="variable"><name>button10</name></member>
+    <member refid="classRisk1_1_1Giris_1a1bfb7309b5a0cb54f6893a9b67c58c85" kind="variable"><name>checkBox10</name></member>
+    <member refid="classRisk1_1_1Giris_1ab90be8dd381518ebaed70f1dbd42140f" kind="variable"><name>button9</name></member>
+    <member refid="classRisk1_1_1Giris_1a0aed86da7a8ba8d4d31baa6da26dd3be" kind="variable"><name>checkBox9</name></member>
+    <member refid="classRisk1_1_1Giris_1ad3572ebb1c3f369158265ff12e1f9037" kind="variable"><name>button8</name></member>
+    <member refid="classRisk1_1_1Giris_1a7059cffce3637902c9d34b162c726996" kind="variable"><name>checkBox8</name></member>
+    <member refid="classRisk1_1_1Giris_1a6512a576e427ee98edf270f39d751e09" kind="variable"><name>button7</name></member>
+    <member refid="classRisk1_1_1Giris_1a2fb68e1041151ece7c3742029f893d4f" kind="variable"><name>checkBox7</name></member>
+    <member refid="classRisk1_1_1Giris_1ab8d67f901c6479f41fb1c54181e111c7" kind="variable"><name>button6</name></member>
+    <member refid="classRisk1_1_1Giris_1af3e1387ba9347febf52d1b1b621f46c9" kind="variable"><name>checkBox6</name></member>
+    <member refid="classRisk1_1_1Giris_1a8838d8443b2550265c73e0f0bce547e5" kind="variable"><name>button5</name></member>
+    <member refid="classRisk1_1_1Giris_1a205c0053da256159e552008a2e70b790" kind="variable"><name>checkBox5</name></member>
+    <member refid="classRisk1_1_1Giris_1abfdf3ffd19551248fae52b3b29eca350" kind="variable"><name>button4</name></member>
+    <member refid="classRisk1_1_1Giris_1aeb413530514d55ce5add5eb451b8e7b6" kind="variable"><name>checkBox4</name></member>
+    <member refid="classRisk1_1_1Giris_1ab4c4e1b0e87384e8a5f5fefe2f340d62" kind="variable"><name>button3</name></member>
+    <member refid="classRisk1_1_1Giris_1ab5fa85c534f32de0b0db11e4d9d5d0d6" kind="variable"><name>checkBox3</name></member>
+    <member refid="classRisk1_1_1Giris_1abd2e7d091f676b33432079f2a05bb1a9" kind="variable"><name>button2</name></member>
+    <member refid="classRisk1_1_1Giris_1a3273b5dffe1d7841caff8d3e4df80310" kind="variable"><name>checkBox2</name></member>
+    <member refid="classRisk1_1_1Giris_1a25ecfb19bcf5d3b8fda054a17ca40b9a" kind="variable"><name>button11</name></member>
+    <member refid="classRisk1_1_1Giris_1acbee20a7eb5132837e7a45a4e9c9284b" kind="variable"><name>textBox6</name></member>
+    <member refid="classRisk1_1_1Giris_1ada24982d3f6e367c3f332c0a31da7333" kind="variable"><name>textBox7</name></member>
+    <member refid="classRisk1_1_1Giris_1ad36d852abe798dbcc4f481f2e8452340" kind="variable"><name>textBox8</name></member>
+    <member refid="classRisk1_1_1Giris_1afb2c3a704dce79ea769b9056433d54ae" kind="variable"><name>textBox9</name></member>
+    <member refid="classRisk1_1_1Giris_1a538000e9f811688a0c67a860d3861320" kind="variable"><name>textBox10</name></member>
+    <member refid="classRisk1_1_1Giris_1a56582fed3814f3c1c1bb79fbc24869ba" kind="variable"><name>textBox5</name></member>
+    <member refid="classRisk1_1_1Giris_1a76bfb2c39dcde396e2f26a67c368624e" kind="variable"><name>textBox4</name></member>
+    <member refid="classRisk1_1_1Giris_1afa34c52bb008fba73dfd7dacfdb13c68" kind="variable"><name>textBox3</name></member>
+    <member refid="classRisk1_1_1Giris_1a8dd76198d08ac32a60af59303b47697b" kind="variable"><name>textBox2</name></member>
+    <member refid="classRisk1_1_1Giris_1a6941c10aab7ece363c93f1eae50611f2" kind="variable"><name>textBox1</name></member>
+    <member refid="classRisk1_1_1Giris_1ac4c58ea9e6332bab0fb683699171694b" kind="variable"><name>button12</name></member>
+    <member refid="classRisk1_1_1Giris_1a9b102a61cdb52c2624cb41b6f3aa389f" kind="function"><name>Giris</name></member>
+    <member refid="classRisk1_1_1Giris_1a1ced79e7c65a399f658645071c1463d7" kind="function"><name>Giris_Load</name></member>
+    <member refid="classRisk1_1_1Giris_1aaa85c831a11faf538b6b835c07a1803d" kind="function"><name>button11_Click</name></member>
+    <member refid="classRisk1_1_1Giris_1afaa3c42b10d1c3401faf4d0cb70a5c3a" kind="function"><name>button1_Click</name></member>
+    <member refid="classRisk1_1_1Giris_1a6671661b4570cf55076d12ac826bcf8e" kind="function"><name>button2_Click</name></member>
+    <member refid="classRisk1_1_1Giris_1a4d23bf7204d066111b067c4a3bb1f918" kind="function"><name>button3_Click</name></member>
+    <member refid="classRisk1_1_1Giris_1ac0048106fdabf233aacf304415e3f21f" kind="function"><name>button4_Click</name></member>
+    <member refid="classRisk1_1_1Giris_1a5da4f90c20578abf6f70218910700426" kind="function"><name>checkBox3_CheckedChanged</name></member>
+    <member refid="classRisk1_1_1Giris_1a0dc46b4e3c39ba5f2687fef8cd9702cc" kind="function"><name>checkBox1_CheckedChanged</name></member>
+    <member refid="classRisk1_1_1Giris_1a3bf36b88e27a277a1051e756d3baf04f" kind="function"><name>checkBox2_CheckedChanged</name></member>
+    <member refid="classRisk1_1_1Giris_1af0c05a615c7593832328200e935ff355" kind="function"><name>checkBox4_CheckedChanged</name></member>
+    <member refid="classRisk1_1_1Giris_1a1ce460a966373ad90d5f4b0f416ef4c6" kind="function"><name>checkBox5_CheckedChanged</name></member>
+    <member refid="classRisk1_1_1Giris_1a65a0f85b8e156b51b748b6235c951268" kind="function"><name>checkBox6_CheckedChanged</name></member>
+    <member refid="classRisk1_1_1Giris_1abc811cad6cb836da52e9b2fcc2a23a47" kind="function"><name>checkBox7_CheckedChanged</name></member>
+    <member refid="classRisk1_1_1Giris_1aa99968e6848d8f601883fd52bf2efd7f" kind="function"><name>checkBox8_CheckedChanged</name></member>
+    <member refid="classRisk1_1_1Giris_1a707fba3fd1509c611f26a524d02d6bc5" kind="function"><name>checkBox9_CheckedChanged</name></member>
+    <member refid="classRisk1_1_1Giris_1a96bd3dcb1de3b4ede5c650ee9bf4a7ce" kind="function"><name>checkBox10_CheckedChanged</name></member>
+    <member refid="classRisk1_1_1Giris_1a4d311457a6d2b43f2b8145ff0741d895" kind="function"><name>button10_Click</name></member>
+    <member refid="classRisk1_1_1Giris_1a068b4ba92acfba3ea4d68afb9240eabe" kind="function"><name>button5_Click</name></member>
+    <member refid="classRisk1_1_1Giris_1ab366cb8bbabffcf6231f116d28af2ca6" kind="function"><name>button12_Click</name></member>
+    <member refid="classRisk1_1_1Giris_1a189cbbcc2d0919f0e80c76cbdd359666" kind="function"><name>button6_Click</name></member>
+    <member refid="classRisk1_1_1Giris_1a4a5210fdcd147ecd24239a0d7aa8cc51" kind="function"><name>button7_Click</name></member>
+    <member refid="classRisk1_1_1Giris_1a1f55a3c5206c6594c083d512d75736b2" kind="function"><name>button8_Click</name></member>
+    <member refid="classRisk1_1_1Giris_1a84733a29fb83310cf623610fd5be5a54" kind="function"><name>button9_Click</name></member>
+    <member refid="classRisk1_1_1Giris_1a49cef639858829e2d819ed902446dc2a" kind="function"><name>InitializeComponent</name></member>
+    <member refid="classRisk1_1_1Giris_1a1611ab33ee89aaf446801a3368d61172" kind="function"><name>Dispose</name></member>
+  </compound>
+  <compound refid="classRisk1_1_1Graph" kind="class"><name>Risk1::Graph</name>
+    <member refid="classRisk1_1_1Graph_1a9d5550fb48f665f07869629178c0b8bc" kind="property"><name>Nodes</name></member>
+    <member refid="classRisk1_1_1Graph_1a05412f85e339b55c31abe956b0b60188" kind="function"><name>Graph</name></member>
+    <member refid="classRisk1_1_1Graph_1a31783ee607de51b082efa2a90342b4ec" kind="function"><name>AddNode</name></member>
+    <member refid="classRisk1_1_1Graph_1a572fd0ccd66d838614a78496c4851748" kind="function"><name>AddConnection</name></member>
+  </compound>
+  <compound refid="classRisk1_1_1Loading" kind="class"><name>Risk1::Loading</name>
+    <member refid="classRisk1_1_1Loading_1a33d5c5a5414d2ca83711fa8d724c8700" kind="variable"><name>components</name></member>
+    <member refid="classRisk1_1_1Loading_1ac2a646340fed8e1328101dd4a4587c3e" kind="function"><name>Loading</name></member>
+    <member refid="classRisk1_1_1Loading_1abe250d0e1aa2175e158744945a6cf018" kind="function"><name>Dispose</name></member>
+    <member refid="classRisk1_1_1Loading_1aad8a66cbe31bc345c7223c36baae669b" kind="function"><name>InitializeComponent</name></member>
+  </compound>
+  <compound refid="classRisk1_1_1Form1_1_1MyListViewSorter" kind="class"><name>Risk1::Form1::MyListViewSorter</name>
+    <member refid="classRisk1_1_1Form1_1_1MyListViewSorter_1abd4be34f83c05db730f86e240e661970" kind="variable"><name>_columnIndex</name></member>
+    <member refid="classRisk1_1_1Form1_1_1MyListViewSorter_1a94c7eea158b58da58f3c333490b1cf2e" kind="function"><name>MyListViewSorter</name></member>
+    <member refid="classRisk1_1_1Form1_1_1MyListViewSorter_1a6343bc915f518bef8aa569ce7cf7cb52" kind="function"><name>Compare</name></member>
+  </compound>
+  <compound refid="classRisk1_1_1Node" kind="class"><name>Risk1::Node</name>
+    <member refid="classRisk1_1_1Node_1af73ab2a09e95dc6aad35fd148c6ed95e" kind="variable"><name>_connections</name></member>
+    <member refid="classRisk1_1_1Node_1a2146b6ed055b878fd304b01bf012ef56" kind="property"><name>Name</name></member>
+    <member refid="classRisk1_1_1Node_1a06e9fdf864d5255c39cd139b9d2ba716" kind="property"><name>DistanceFromStart</name></member>
+    <member refid="classRisk1_1_1Node_1a1e1d9c5dc5473b9ab73673d6d29852d7" kind="property"><name>parent</name></member>
+    <member refid="classRisk1_1_1Node_1a9df36b1b5b149f684bb74f49f2ed4ddf" kind="property"><name>Connections</name></member>
+    <member refid="classRisk1_1_1Node_1a7c36763c1a9edcac286ef518118c0465" kind="function"><name>Node</name></member>
+    <member refid="classRisk1_1_1Node_1ae01a5a79b258cecbbfcf30b594bb3ba7" kind="function"><name>AddConnection</name></member>
+  </compound>
+  <compound refid="classRisk1_1_1NodeConnection" kind="class"><name>Risk1::NodeConnection</name>
+    <member refid="classRisk1_1_1NodeConnection_1a1858203bf27d66e175d139ba9e7ec48b" kind="property"><name>Target</name></member>
+    <member refid="classRisk1_1_1NodeConnection_1afc2261e188d95c6ccbb3f898727347c6" kind="property"><name>Distance</name></member>
+    <member refid="classRisk1_1_1NodeConnection_1a7ca7fd5a17d2189fd195dbb20b8d32a2" kind="function"><name>NodeConnection</name></member>
+  </compound>
+  <compound refid="classRisk1_1_1Nokta" kind="class"><name>Risk1::Nokta</name>
+    <member refid="classRisk1_1_1Nokta_1a38734cf3eb7ab8ccb572afa4d9e4ae14" kind="variable"><name>point</name></member>
+    <member refid="classRisk1_1_1Nokta_1ad1f0dd36332d28b8434777bb63477fc6" kind="variable"><name>renk</name></member>
+  </compound>
+  <compound refid="classRisk1_1_1Ordu" kind="class"><name>Risk1::Ordu</name>
+    <member refid="classRisk1_1_1Ordu_1a6c0b78a761fe481445bd7c86c8aeb833" kind="variable"><name>askerSayisi</name></member>
+  </compound>
+  <compound refid="classRisk1_1_1Player" kind="class"><name>Risk1::Player</name>
+    <member refid="classRisk1_1_1Player_1aed169b8b7afadb133a6b7750fd3f1c74" kind="variable"><name>name</name></member>
+    <member refid="classRisk1_1_1Player_1abd09f5bdd9126924b2f047c5bc36d271" kind="variable"><name>color</name></member>
+    <member refid="classRisk1_1_1Player_1ac99d1275ddd02711f7602529dc3b7391" kind="variable"><name>isHuman</name></member>
+    <member refid="classRisk1_1_1Player_1aadf3d0c8e35abaf5d206c5be1c986d38" kind="variable"><name>isActive</name></member>
+    <member refid="classRisk1_1_1Player_1a37d306fb05f59a83f94847cbb59f8c69" kind="variable"><name>bolgeler</name></member>
+    <member refid="classRisk1_1_1Player_1a80b683d4534d6204129ba7e5a73fc807" kind="variable"><name>yeniAskerler</name></member>
+    <member refid="classRisk1_1_1Player_1a6175c7280a4a53d25e9a1845f9117981" kind="variable"><name>ilkAskerSayisi</name></member>
+    <member refid="classRisk1_1_1Player_1a7b2f4c1a1346b195318a9ee3df8e1e2a" kind="variable"><name>kitalar</name></member>
+    <member refid="classRisk1_1_1Player_1af8290784db991493decf1cf374ca12b9" kind="variable"><name>aiId</name></member>
+    <member refid="classRisk1_1_1Player_1a510e4a223e3bc2ed435076ad80dafc58" kind="variable"><name>buTurnBirisiniOldurduMu</name></member>
+    <member refid="classRisk1_1_1Player_1a0d710d267e88ee155fa7c7276ad3526d" kind="variable"><name>kacKisiOldurdu</name></member>
+    <member refid="classRisk1_1_1Player_1afbbd08007be045f4ec7744be5aad908c" kind="variable"><name>buTurnKacKisiOldurdu</name></member>
+    <member refid="classRisk1_1_1Player_1a7a5827b7d9fbe10402581477e0f53575" kind="variable"><name>number</name></member>
+    <member refid="classRisk1_1_1Player_1a569d61dcae14e40ddec7ae3306a91823" kind="variable"><name>askerSayisiTarihi</name></member>
+    <member refid="classRisk1_1_1Player_1a2d3fb1f210a9162238b8e9c1bc27894b" kind="function"><name>OptimizeAskerSayisiTarihi</name></member>
+    <member refid="classRisk1_1_1Player_1ae5c3057aa63ac578b7a3f9bf25fa1b67" kind="function"><name>Player</name></member>
+    <member refid="classRisk1_1_1Player_1a7da82dc9a97ce8fca22e8af52d40c5da" kind="function"><name>Player</name></member>
+    <member refid="classRisk1_1_1Player_1a77adac00fc3d2b33decfad9cab38a505" kind="function"><name>getTotalNumberOfArmies</name></member>
+    <member refid="classRisk1_1_1Player_1a260cff01d1750dad6988aee12fb1ab52" kind="function"><name>getNumberOfTerritories</name></member>
+    <member refid="classRisk1_1_1Player_1a831339d9f68f0e1ee8a45a5ec366bc73" kind="function"><name>getSahipOlduguKitalar</name></member>
+  </compound>
+  <compound refid="classRisk1_1_1Program" kind="class"><name>Risk1::Program</name>
+    <member refid="classRisk1_1_1Program_1ace79996e8e333f785494d343cd904252" kind="function"><name>Main</name></member>
+  </compound>
+  <compound refid="classRisk1_1_1Properties_1_1Resources" kind="class"><name>Risk1::Properties::Resources</name>
+    <member refid="classRisk1_1_1Properties_1_1Resources_1adc584e2fa9316b2d965466b953d247a6" kind="variable"><name>resourceMan</name></member>
+    <member refid="classRisk1_1_1Properties_1_1Resources_1a8b956f80a9666fcac942ada0d82c48d1" kind="variable"><name>resourceCulture</name></member>
+    <member refid="classRisk1_1_1Properties_1_1Resources_1aada6ac01c5271bcc27ae9b6996da5050" kind="property"><name>ResourceManager</name></member>
+    <member refid="classRisk1_1_1Properties_1_1Resources_1adc7f144da1f61dc674dd0baa4d5b75a6" kind="property"><name>Culture</name></member>
+    <member refid="classRisk1_1_1Properties_1_1Resources_1a14b9e7b420d02fc97a03f79bf6dc42ad" kind="property"><name>babek</name></member>
+    <member refid="classRisk1_1_1Properties_1_1Resources_1a114b417d95f7aa5d2b76811320b5208b" kind="property"><name>cengizhan</name></member>
+    <member refid="classRisk1_1_1Properties_1_1Resources_1a8ab4bd467fd7474ef7c40d17bd6b7bc7" kind="property"><name>fatih</name></member>
+    <member refid="classRisk1_1_1Properties_1_1Resources_1a4e663b5947d164aa72e8e1c554736988" kind="property"><name>hitler</name></member>
+    <member refid="classRisk1_1_1Properties_1_1Resources_1af450f742230e9095dce4f6f260fdfd3b" kind="property"><name>tahtayuzey</name></member>
+    <member refid="classRisk1_1_1Properties_1_1Resources_1ad80657a06a49397bbd1adf2508656b3f" kind="function"><name>Resources</name></member>
+  </compound>
+  <compound refid="classRisk1_1_1Rules" kind="class"><name>Risk1::Rules</name>
+    <member refid="classRisk1_1_1Rules_1ad58fd4773a794cff4c042694750a66b4" kind="variable"><name>f1</name></member>
+    <member refid="classRisk1_1_1Rules_1a87a00a1879948ef62546d31b5bb4f000" kind="variable"><name>temp</name></member>
+    <member refid="classRisk1_1_1Rules_1a96f04722cf43f6596a31ee81459f5aaa" kind="variable"><name>components</name></member>
+    <member refid="classRisk1_1_1Rules_1a26face3dcc5d97870aa378c710487b0b" kind="variable"><name>label1</name></member>
+    <member refid="classRisk1_1_1Rules_1a99c82b7a1124e5dd55b82ae690bb83c7" kind="variable"><name>textBox1</name></member>
+    <member refid="classRisk1_1_1Rules_1a898f85dc62cf14306669095cf47d5f89" kind="variable"><name>button1</name></member>
+    <member refid="classRisk1_1_1Rules_1a16d9b861731fd7434e24814938629038" kind="variable"><name>button2</name></member>
+    <member refid="classRisk1_1_1Rules_1a0598106d5d12d23bb8657671b817aa5d" kind="variable"><name>checkBox1</name></member>
+    <member refid="classRisk1_1_1Rules_1a1ab9b6cad6ea4f852343169baea8ab36" kind="variable"><name>panel1</name></member>
+    <member refid="classRisk1_1_1Rules_1aba3661bd539af3dcac6c0b8ab4a96814" kind="variable"><name>label2</name></member>
+    <member refid="classRisk1_1_1Rules_1a11d9917e00b57a53fd2564f69b1770b5" kind="variable"><name>textBox2</name></member>
+    <member refid="classRisk1_1_1Rules_1a10b0fbd4e7404a2108f079bb234b3f81" kind="function"><name>Rules</name></member>
+    <member refid="classRisk1_1_1Rules_1a533722cdf63463f3e6349d3f4797ec51" kind="function"><name>Rules_Load</name></member>
+    <member refid="classRisk1_1_1Rules_1a5271effd90e30f2c55ec0c13af041c11" kind="function"><name>button1_Click</name></member>
+    <member refid="classRisk1_1_1Rules_1a66afdf143c82bd05fa35e20abe283416" kind="function"><name>button2_Click</name></member>
+    <member refid="classRisk1_1_1Rules_1abf3289631a618a63671225c2c434d060" kind="function"><name>InitializeComponent</name></member>
+    <member refid="classRisk1_1_1Rules_1aa9f2273a2f1f5e5407a1d141c25cfb95" kind="function"><name>Dispose</name></member>
+  </compound>
+  <compound refid="classRisk1_1_1SaldiriEkrani" kind="class"><name>Risk1::SaldiriEkrani</name>
+    <member refid="classRisk1_1_1SaldiriEkrani_1a7ead26f067dfc3677ef007f191f2923d" kind="variable"><name>bolge1</name></member>
+    <member refid="classRisk1_1_1SaldiriEkrani_1ac92fdd4e0b5c80f873ffaefa5248a2b7" kind="variable"><name>bolge2</name></member>
+    <member refid="classRisk1_1_1SaldiriEkrani_1a752132ebc8490259a0f656ebee64b9a9" kind="variable"><name>form1</name></member>
+    <member refid="classRisk1_1_1SaldiriEkrani_1a7f0c10be9c033529f1961786415657fa" kind="variable"><name>randomAraligi</name></member>
+    <member refid="classRisk1_1_1SaldiriEkrani_1ad9c940290295d0a72a3c49d2f900b2a7" kind="variable"><name>random</name></member>
+    <member refid="classRisk1_1_1SaldiriEkrani_1ad6fe925457d6bd4cf4f9aece3f5778db" kind="variable"><name>components</name></member>
+    <member refid="classRisk1_1_1SaldiriEkrani_1af74c8e3d5755584a25aced778d15db90" kind="variable"><name>panel1</name></member>
+    <member refid="classRisk1_1_1SaldiriEkrani_1a31a31e1b07b61af57c393e3c87c36ab4" kind="variable"><name>panel2</name></member>
+    <member refid="classRisk1_1_1SaldiriEkrani_1ab4166c55d105ea769dd897b76c0057f1" kind="variable"><name>button1</name></member>
+    <member refid="classRisk1_1_1SaldiriEkrani_1a86d67868118e018819db2054c713c654" kind="variable"><name>button2</name></member>
+    <member refid="classRisk1_1_1SaldiriEkrani_1a7be73108e848635e6020874f031dfbde" kind="variable"><name>button3</name></member>
+    <member refid="classRisk1_1_1SaldiriEkrani_1ae8c74c370fbc04f8ea887b9eb3794f83" kind="variable"><name>textBox2</name></member>
+    <member refid="classRisk1_1_1SaldiriEkrani_1a8fbcf59b7b4905fc07c35a9fa1a3624c" kind="variable"><name>textBox3</name></member>
+    <member refid="classRisk1_1_1SaldiriEkrani_1a436f68b330999a992f9a6ddec61c7d4c" kind="variable"><name>textBox4</name></member>
+    <member refid="classRisk1_1_1SaldiriEkrani_1ac3ffd588cf3436b0b8965f7ce72e36b5" kind="variable"><name>textBox1</name></member>
+    <member refid="classRisk1_1_1SaldiriEkrani_1ac3797af636839d18f77478aebf50fde0" kind="function"><name>SaldiriEkrani</name></member>
+    <member refid="classRisk1_1_1SaldiriEkrani_1a72e0cde0677e9a86f4f86dfce27dfe0c" kind="function"><name>refreshSaldiriEkrani</name></member>
+    <member refid="classRisk1_1_1SaldiriEkrani_1abf5f5722a078df9b3ad893acd93c2806" kind="function"><name>warDoORDieForAi</name></member>
+    <member refid="classRisk1_1_1SaldiriEkrani_1af22f046d5ad2382e986640b8a74686b8" kind="function"><name>warDoORDie</name></member>
+    <member refid="classRisk1_1_1SaldiriEkrani_1aaa88336a2cdb39fac1bf5d9959c8083e" kind="function"><name>warAttack</name></member>
+    <member refid="classRisk1_1_1SaldiriEkrani_1a3894c6cb2e9a9e2950ee9ab4d13dfaad" kind="function"><name>SaldiriEkrani_Load</name></member>
+    <member refid="classRisk1_1_1SaldiriEkrani_1a8a7c9c52c6e109096d16bf94cf3e6df0" kind="function"><name>button1_Click</name></member>
+    <member refid="classRisk1_1_1SaldiriEkrani_1a67d3ec36e217d83d98e5f442a09e51fd" kind="function"><name>button2_Click</name></member>
+    <member refid="classRisk1_1_1SaldiriEkrani_1a05ddc8071f43ab0471d101880a426101" kind="function"><name>button3_Click</name></member>
+    <member refid="classRisk1_1_1SaldiriEkrani_1a3d35395c9785ae5c33d902c9db71bee7" kind="function"><name>InitializeComponent</name></member>
+    <member refid="classRisk1_1_1SaldiriEkrani_1ae9c361af3bbc85dea0c947e88c797e88" kind="function"><name>Dispose</name></member>
+  </compound>
+  <compound refid="classRisk1_1_1Properties_1_1Settings" kind="class"><name>Risk1::Properties::Settings</name>
+    <member refid="classRisk1_1_1Properties_1_1Settings_1a90793881d07937e420e8ab330f840cad" kind="variable"><name>defaultInstance</name></member>
+    <member refid="classRisk1_1_1Properties_1_1Settings_1ae45d16cb87a7df360485096537e5363c" kind="property"><name>Default</name></member>
+  </compound>
+  <compound refid="classRisk1_1_1Statistics" kind="class"><name>Risk1::Statistics</name>
+    <member refid="classRisk1_1_1Statistics_1a5a72545fefe06ce1d7ede1f88b2b9b6b" kind="variable"><name>players</name></member>
+    <member refid="classRisk1_1_1Statistics_1a624adf691b2f3342b04d45ac6fc57160" kind="variable"><name>siralama</name></member>
+  </compound>
+  <compound refid="namespaceRisk1" kind="namespace"><name>Risk1</name>
+  </compound>
+  <compound refid="namespaceRisk1_1_1Properties" kind="namespace"><name>Risk1::Properties</name>
+  </compound>
+  <compound refid="namespaceSystem" kind="namespace"><name>System</name>
+  </compound>
+  <compound refid="namespaceSystem_1_1Collections_1_1Generic" kind="namespace"><name>System::Collections::Generic</name>
+  </compound>
+  <compound refid="namespaceSystem_1_1ComponentModel" kind="namespace"><name>System::ComponentModel</name>
+  </compound>
+  <compound refid="namespaceSystem_1_1Data" kind="namespace"><name>System::Data</name>
+  </compound>
+  <compound refid="namespaceSystem_1_1Diagnostics" kind="namespace"><name>System::Diagnostics</name>
+  </compound>
+  <compound refid="namespaceSystem_1_1Drawing" kind="namespace"><name>System::Drawing</name>
+  </compound>
+  <compound refid="namespaceSystem_1_1IO" kind="namespace"><name>System::IO</name>
+  </compound>
+  <compound refid="namespaceSystem_1_1Linq" kind="namespace"><name>System::Linq</name>
+  </compound>
+  <compound refid="namespaceSystem_1_1Media" kind="namespace"><name>System::Media</name>
+  </compound>
+  <compound refid="namespaceSystem_1_1Reflection" kind="namespace"><name>System::Reflection</name>
+  </compound>
+  <compound refid="namespaceSystem_1_1Runtime_1_1CompilerServices" kind="namespace"><name>System::Runtime::CompilerServices</name>
+  </compound>
+  <compound refid="namespaceSystem_1_1Runtime_1_1InteropServices" kind="namespace"><name>System::Runtime::InteropServices</name>
+  </compound>
+  <compound refid="namespaceSystem_1_1Text" kind="namespace"><name>System::Text</name>
+  </compound>
+  <compound refid="namespaceSystem_1_1Windows_1_1Forms" kind="namespace"><name>System::Windows::Forms</name>
+  </compound>
+  <compound refid="namespaceSystem_1_1Windows_1_1Forms_1_1DataVisualization_1_1Charting" kind="namespace"><name>System::Windows::Forms::DataVisualization::Charting</name>
+  </compound>
+  <compound refid="About_8cs" kind="file"><name>About.cs</name>
+  </compound>
+  <compound refid="About_8Designer_8cs" kind="file"><name>About.Designer.cs</name>
+  </compound>
+  <compound refid="AI_8cs" kind="file"><name>AI.cs</name>
+  </compound>
+  <compound refid="AI2_8cs" kind="file"><name>AI2.cs</name>
+  </compound>
+  <compound refid="AI3_8cs" kind="file"><name>AI3.cs</name>
+  </compound>
+  <compound refid="AI4_8cs" kind="file"><name>AI4.cs</name>
+  </compound>
+  <compound refid="ArmyMove_8cs" kind="file"><name>ArmyMove.cs</name>
+  </compound>
+  <compound refid="ArmyMove_8Designer_8cs" kind="file"><name>ArmyMove.Designer.cs</name>
+  </compound>
+  <compound refid="ArtificalIntelligence_8cs" kind="file"><name>ArtificalIntelligence.cs</name>
+  </compound>
+  <compound refid="Bolge_8cs" kind="file"><name>Bolge.cs</name>
+  </compound>
+  <compound refid="ChangePlayer_8cs" kind="file"><name>ChangePlayer.cs</name>
+  </compound>
+  <compound refid="ChangePlayer_8Designer_8cs" kind="file"><name>ChangePlayer.Designer.cs</name>
+  </compound>
+  <compound refid="ChangeStyle_8cs" kind="file"><name>ChangeStyle.cs</name>
+  </compound>
+  <compound refid="ChangeStyle_8Designer_8cs" kind="file"><name>ChangeStyle.Designer.cs</name>
+  </compound>
+  <compound refid="Chart_8cs" kind="file"><name>Chart.cs</name>
+  </compound>
+  <compound refid="Chart_8Designer_8cs" kind="file"><name>Chart.Designer.cs</name>
+  </compound>
+  <compound refid="Continent_8cs" kind="file"><name>Continent.cs</name>
+  </compound>
+  <compound refid="DistanceCalculator_8cs" kind="file"><name>DistanceCalculator.cs</name>
+  </compound>
+  <compound refid="Form1_8cs" kind="file"><name>Form1.cs</name>
+  </compound>
+  <compound refid="Form1_8Designer_8cs" kind="file"><name>Form1.Designer.cs</name>
+  </compound>
+  <compound refid="Galibiyet_8cs" kind="file"><name>Galibiyet.cs</name>
+  </compound>
+  <compound refid="Galibiyet_8Designer_8cs" kind="file"><name>Galibiyet.Designer.cs</name>
+  </compound>
+  <compound refid="GameData_8cs" kind="file"><name>GameData.cs</name>
+  </compound>
+  <compound refid="Giris_8cs" kind="file"><name>Giris.cs</name>
+  </compound>
+  <compound refid="Giris_8Designer_8cs" kind="file"><name>Giris.Designer.cs</name>
+  </compound>
+  <compound refid="Graph_8cs" kind="file"><name>Graph.cs</name>
+  </compound>
+  <compound refid="Loading_8cs" kind="file"><name>Loading.cs</name>
+  </compound>
+  <compound refid="Loading_8Designer_8cs" kind="file"><name>Loading.Designer.cs</name>
+  </compound>
+  <compound refid="Node_8cs" kind="file"><name>Node.cs</name>
+  </compound>
+  <compound refid="NodeConnection_8cs" kind="file"><name>NodeConnection.cs</name>
+  </compound>
+  <compound refid="Nokta_8cs" kind="file"><name>Nokta.cs</name>
+  </compound>
+  <compound refid="Ordu_8cs" kind="file"><name>Ordu.cs</name>
+  </compound>
+  <compound refid="Player_8cs" kind="file"><name>Player.cs</name>
+  </compound>
+  <compound refid="Program_8cs" kind="file"><name>Program.cs</name>
+  </compound>
+  <compound refid="AssemblyInfo_8cs" kind="file"><name>AssemblyInfo.cs</name>
+  </compound>
+  <compound refid="Resources_8Designer_8cs" kind="file"><name>Resources.Designer.cs</name>
+  </compound>
+  <compound refid="Settings_8Designer_8cs" kind="file"><name>Settings.Designer.cs</name>
+  </compound>
+  <compound refid="Rules_8cs" kind="file"><name>Rules.cs</name>
+  </compound>
+  <compound refid="Rules_8Designer_8cs" kind="file"><name>Rules.Designer.cs</name>
+  </compound>
+  <compound refid="SaldiriEkrani_8cs" kind="file"><name>SaldiriEkrani.cs</name>
+  </compound>
+  <compound refid="SaldiriEkrani_8Designer_8cs" kind="file"><name>SaldiriEkrani.Designer.cs</name>
+  </compound>
+  <compound refid="Statistics_8cs" kind="file"><name>Statistics.cs</name>
+  </compound>
+  <compound refid="dir_f38eae043d8d07dcf3b839d1a9dbbef3" kind="dir"><name>Risk1/Properties/</name>
+  </compound>
+  <compound refid="dir_fba533b948f2e46a232c94ca803ce733" kind="dir"><name>Risk1/</name>
+  </compound>
+</doxygenindex>

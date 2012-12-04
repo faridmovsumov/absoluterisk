@@ -1,0 +1,26 @@
+var classRisk1_1_1AI2 =
+[
+    [ "AI2", "classRisk1_1_1AI2.html#a460eff2b7693eca60687b36e5d952150", null ],
+    [ "askerTransferiYap", "classRisk1_1_1AI2.html#a1c34b17fe848156ff9c481e8686e0120", null ],
+    [ "askerTransferiYapacakmisin", "classRisk1_1_1AI2.html#a0d2632b73eb8571f5bb099940f5016c6", null ],
+    [ "avrupaBendeMi", "classRisk1_1_1AI2.html#a9d2c428b722df2121b0e2721a536221a", null ],
+    [ "avrupadaToprakVarMi", "classRisk1_1_1AI2.html#aea1eec6f5984621b1d0da64bbbafd35e", null ],
+    [ "buBolgeAvrupadaMi", "classRisk1_1_1AI2.html#ac82f71953081c53c80a10a75a338e1a4", null ],
+    [ "devam", "classRisk1_1_1AI2.html#a1705ebdc50faa7063433935184ce3ffb", null ],
+    [ "divideArmies", "classRisk1_1_1AI2.html#a17f993750af03c7fee96e791b23a594a", null ],
+    [ "getAvrupadakiAskerSayisi", "classRisk1_1_1AI2.html#a191e157f57f2e672d4fe482986b063cd", null ],
+    [ "getAvrupadakiDusmanSayisi", "classRisk1_1_1AI2.html#ab09da4181f97097501c9647ff65ab19d", null ],
+    [ "getAvrupadakiToprakSayisi", "classRisk1_1_1AI2.html#a8f74a756e143121442dabccb394c9a48", null ],
+    [ "getDahaGucluDusmanSayisi", "classRisk1_1_1AI2.html#a425735fb0e3e089020b94e7da15c3e29", null ],
+    [ "getName", "classRisk1_1_1AI2.html#a02cc8e742d2e49a64aa015184b9058ad", null ],
+    [ "getSavasBolgeIndexleri", "classRisk1_1_1AI2.html#a846a3c4dae11acc5e2f7c0e2fa314169", null ],
+    [ "getTerritoriesIndexToPlaceNewArmies", "classRisk1_1_1AI2.html#aab8c09b5e55af95f1217ed61bcd0bc35", null ],
+    [ "getTerritoryToPlaceFirstArmies", "classRisk1_1_1AI2.html#a8adb4300b085ca6c7433e6e5a1173349", null ],
+    [ "requestTerritory", "classRisk1_1_1AI2.html#a47c4a8aa8d5ce56382e79ff002207e94", null ],
+    [ "saldiracanMi", "classRisk1_1_1AI2.html#a66b35cb7b1ac9e75697b94070d13e195", null ],
+    [ "aiId", "classRisk1_1_1AI2.html#ad817aa3c5478ee3feb4b076280256a28", null ],
+    [ "durum3SaldiriIndexleri", "classRisk1_1_1AI2.html#a0bbc6d661607965f24ae7fa0c9b0ac91", null ],
+    [ "name", "classRisk1_1_1AI2.html#a11fd45f52d1a737b2bfc78c1ae39ea23", null ],
+    [ "resim", "classRisk1_1_1AI2.html#a41e5f3b61cf30c7713ad734a75e17f59", null ],
+    [ "saldirmaDurumu", "classRisk1_1_1AI2.html#ab8f8dd448a4fc2099a130613782a7c8b", null ]
+];

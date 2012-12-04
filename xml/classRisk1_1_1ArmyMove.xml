@@ -1,0 +1,868 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.0">
+  <compounddef id="classRisk1_1_1ArmyMove" kind="class" prot="public">
+    <compoundname>Risk1::ArmyMove</compoundname>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classRisk1_1_1ArmyMove_1a7c186a1d6a07230da41120005d8c919b" prot="private" static="no" mutable="no">
+        <type><ref refid="classRisk1_1_1Bolge" kindref="compound">Bolge</ref></type>
+        <definition>Bolge Risk1.ArmyMove.bolge11</definition>
+        <argsstring></argsstring>
+        <name>bolge11</name>
+        <initializer> null</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ArmyMove.cs" line="14" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ArmyMove.cs" bodystart="14" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1ArmyMove_1a788537a0b101c356760e4f68af2d5976" compoundref="ArmyMove_8cs" startline="19" endline="27">Risk1.ArmyMove.ArmyMove</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1ArmyMove_1ac3a8ae82edb83cc10088be7972640f0d" prot="private" static="no" mutable="no">
+        <type><ref refid="classRisk1_1_1Bolge" kindref="compound">Bolge</ref></type>
+        <definition>Bolge Risk1.ArmyMove.bolge22</definition>
+        <argsstring></argsstring>
+        <name>bolge22</name>
+        <initializer> null</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ArmyMove.cs" line="15" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ArmyMove.cs" bodystart="15" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1ArmyMove_1a788537a0b101c356760e4f68af2d5976" compoundref="ArmyMove_8cs" startline="19" endline="27">Risk1.ArmyMove.ArmyMove</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1ArmyMove_1a0224073b3fb4ab82731ddbd09330fc1a" prot="private" static="no" mutable="no">
+        <type><ref refid="classRisk1_1_1Bolge" kindref="compound">Bolge</ref></type>
+        <definition>Bolge Risk1.ArmyMove.bolge1</definition>
+        <argsstring></argsstring>
+        <name>bolge1</name>
+        <initializer> new <ref refid="classRisk1_1_1Bolge" kindref="compound">Bolge</ref>()</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ArmyMove.cs" line="16" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ArmyMove.cs" bodystart="16" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1ArmyMove_1a788537a0b101c356760e4f68af2d5976" compoundref="ArmyMove_8cs" startline="19" endline="27">Risk1.ArmyMove.ArmyMove</referencedby>
+        <referencedby refid="classRisk1_1_1ArmyMove_1ab4c45aeefe4c555dc1c58959a4aab987" compoundref="ArmyMove_8cs" startline="29" endline="38">Risk1.ArmyMove.ArmyMove_Load</referencedby>
+        <referencedby refid="classRisk1_1_1ArmyMove_1a09e09e7458ac9052691780c5da677939" compoundref="ArmyMove_8cs" startline="44" endline="54">Risk1.ArmyMove.bolge1Azalt</referencedby>
+        <referencedby refid="classRisk1_1_1ArmyMove_1a025df8b3c0755c0bc95a5e334a6b5b17" compoundref="ArmyMove_8cs" startline="55" endline="65">Risk1.ArmyMove.bolge2Azalt</referencedby>
+        <referencedby refid="classRisk1_1_1ArmyMove_1a1a535916bcd16f58bca38e0734a7483d" compoundref="ArmyMove_8cs" startline="115" endline="138">Risk1.ArmyMove.button1_Click</referencedby>
+        <referencedby refid="classRisk1_1_1ArmyMove_1ac86702bc4b7793a2bb30e94a30f85f8c" compoundref="ArmyMove_8cs" startline="101" endline="113">Risk1.ArmyMove.button2_Click</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1ArmyMove_1aa4c2f1cca0e3fc94b3341d9fae938ebd" prot="private" static="no" mutable="no">
+        <type><ref refid="classRisk1_1_1Bolge" kindref="compound">Bolge</ref></type>
+        <definition>Bolge Risk1.ArmyMove.bolge2</definition>
+        <argsstring></argsstring>
+        <name>bolge2</name>
+        <initializer> new <ref refid="classRisk1_1_1Bolge" kindref="compound">Bolge</ref>()</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ArmyMove.cs" line="17" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ArmyMove.cs" bodystart="17" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1ArmyMove_1a788537a0b101c356760e4f68af2d5976" compoundref="ArmyMove_8cs" startline="19" endline="27">Risk1.ArmyMove.ArmyMove</referencedby>
+        <referencedby refid="classRisk1_1_1ArmyMove_1ab4c45aeefe4c555dc1c58959a4aab987" compoundref="ArmyMove_8cs" startline="29" endline="38">Risk1.ArmyMove.ArmyMove_Load</referencedby>
+        <referencedby refid="classRisk1_1_1ArmyMove_1a09e09e7458ac9052691780c5da677939" compoundref="ArmyMove_8cs" startline="44" endline="54">Risk1.ArmyMove.bolge1Azalt</referencedby>
+        <referencedby refid="classRisk1_1_1ArmyMove_1a025df8b3c0755c0bc95a5e334a6b5b17" compoundref="ArmyMove_8cs" startline="55" endline="65">Risk1.ArmyMove.bolge2Azalt</referencedby>
+        <referencedby refid="classRisk1_1_1ArmyMove_1a1a535916bcd16f58bca38e0734a7483d" compoundref="ArmyMove_8cs" startline="115" endline="138">Risk1.ArmyMove.button1_Click</referencedby>
+        <referencedby refid="classRisk1_1_1ArmyMove_1ac86702bc4b7793a2bb30e94a30f85f8c" compoundref="ArmyMove_8cs" startline="101" endline="113">Risk1.ArmyMove.button2_Click</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1ArmyMove_1a3b1628acb6a0e9ed3d10d69e6e4b2b46" prot="private" static="no" mutable="no">
+        <type><ref refid="classRisk1_1_1Form1" kindref="compound">Form1</ref></type>
+        <definition>Form1 Risk1.ArmyMove.form1</definition>
+        <argsstring></argsstring>
+        <name>form1</name>
+        <initializer> null</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ArmyMove.cs" line="18" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ArmyMove.cs" bodystart="18" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1ArmyMove_1a788537a0b101c356760e4f68af2d5976" compoundref="ArmyMove_8cs" startline="19" endline="27">Risk1.ArmyMove.ArmyMove</referencedby>
+        <referencedby refid="classRisk1_1_1ArmyMove_1a09e09e7458ac9052691780c5da677939" compoundref="ArmyMove_8cs" startline="44" endline="54">Risk1.ArmyMove.bolge1Azalt</referencedby>
+        <referencedby refid="classRisk1_1_1ArmyMove_1a025df8b3c0755c0bc95a5e334a6b5b17" compoundref="ArmyMove_8cs" startline="55" endline="65">Risk1.ArmyMove.bolge2Azalt</referencedby>
+        <referencedby refid="classRisk1_1_1ArmyMove_1a1a535916bcd16f58bca38e0734a7483d" compoundref="ArmyMove_8cs" startline="115" endline="138">Risk1.ArmyMove.button1_Click</referencedby>
+        <referencedby refid="classRisk1_1_1ArmyMove_1ac86702bc4b7793a2bb30e94a30f85f8c" compoundref="ArmyMove_8cs" startline="101" endline="113">Risk1.ArmyMove.button2_Click</referencedby>
+        <referencedby refid="classRisk1_1_1ArmyMove_1aaf398a05d38f06b34b0eeec52a39cb71" compoundref="ArmyMove_8cs" startline="92" endline="99">Risk1.ArmyMove.button4_Click</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1ArmyMove_1a5dd9e282349cf76adffb629aaa68d453" prot="private" static="no" mutable="no">
+        <type>System.ComponentModel.IContainer</type>
+        <definition>System.ComponentModel.IContainer Risk1.ArmyMove.components</definition>
+        <argsstring></argsstring>
+        <name>components</name>
+        <initializer> null</initializer>
+        <briefdescription>
+<para>Required designer variable. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ArmyMove.Designer.cs" line="8" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ArmyMove.Designer.cs" bodystart="8" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1ArmyMove_1aa953d210970844d185504bb7c7b19fd6" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Panel</type>
+        <definition>System.Windows.Forms.Panel Risk1.ArmyMove.panel2</definition>
+        <argsstring></argsstring>
+        <name>panel2</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ArmyMove.Designer.cs" line="253" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ArmyMove.Designer.cs" bodystart="253" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1ArmyMove_1ab4c45aeefe4c555dc1c58959a4aab987" compoundref="ArmyMove_8cs" startline="29" endline="38">Risk1.ArmyMove.ArmyMove_Load</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1ArmyMove_1a64fe81d7440cfbc9a5941c53f5db2695" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.TextBox</type>
+        <definition>System.Windows.Forms.TextBox Risk1.ArmyMove.textBox1</definition>
+        <argsstring></argsstring>
+        <name>textBox1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ArmyMove.Designer.cs" line="254" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ArmyMove.Designer.cs" bodystart="254" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1ArmyMove_1ab4c45aeefe4c555dc1c58959a4aab987" compoundref="ArmyMove_8cs" startline="29" endline="38">Risk1.ArmyMove.ArmyMove_Load</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1ArmyMove_1a107a260b6ac1da6370f38d7ee4e25d37" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.TextBox</type>
+        <definition>System.Windows.Forms.TextBox Risk1.ArmyMove.textBox3</definition>
+        <argsstring></argsstring>
+        <name>textBox3</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ArmyMove.Designer.cs" line="255" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ArmyMove.Designer.cs" bodystart="255" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1ArmyMove_1ab4c45aeefe4c555dc1c58959a4aab987" compoundref="ArmyMove_8cs" startline="29" endline="38">Risk1.ArmyMove.ArmyMove_Load</referencedby>
+        <referencedby refid="classRisk1_1_1ArmyMove_1a09e09e7458ac9052691780c5da677939" compoundref="ArmyMove_8cs" startline="44" endline="54">Risk1.ArmyMove.bolge1Azalt</referencedby>
+        <referencedby refid="classRisk1_1_1ArmyMove_1a025df8b3c0755c0bc95a5e334a6b5b17" compoundref="ArmyMove_8cs" startline="55" endline="65">Risk1.ArmyMove.bolge2Azalt</referencedby>
+        <referencedby refid="classRisk1_1_1ArmyMove_1a1a535916bcd16f58bca38e0734a7483d" compoundref="ArmyMove_8cs" startline="115" endline="138">Risk1.ArmyMove.button1_Click</referencedby>
+        <referencedby refid="classRisk1_1_1ArmyMove_1ac86702bc4b7793a2bb30e94a30f85f8c" compoundref="ArmyMove_8cs" startline="101" endline="113">Risk1.ArmyMove.button2_Click</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1ArmyMove_1aeb9f0bccd73b8e20e867c68549eabdaf" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Panel</type>
+        <definition>System.Windows.Forms.Panel Risk1.ArmyMove.panel1</definition>
+        <argsstring></argsstring>
+        <name>panel1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ArmyMove.Designer.cs" line="256" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ArmyMove.Designer.cs" bodystart="256" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1ArmyMove_1ab4c45aeefe4c555dc1c58959a4aab987" compoundref="ArmyMove_8cs" startline="29" endline="38">Risk1.ArmyMove.ArmyMove_Load</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1ArmyMove_1a56fdbf1986bb9f5757ff505270376955" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.TextBox</type>
+        <definition>System.Windows.Forms.TextBox Risk1.ArmyMove.textBox4</definition>
+        <argsstring></argsstring>
+        <name>textBox4</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ArmyMove.Designer.cs" line="257" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ArmyMove.Designer.cs" bodystart="257" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1ArmyMove_1ab4c45aeefe4c555dc1c58959a4aab987" compoundref="ArmyMove_8cs" startline="29" endline="38">Risk1.ArmyMove.ArmyMove_Load</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1ArmyMove_1a621c697b2ec5ccb56458a7f79a95495c" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.TextBox</type>
+        <definition>System.Windows.Forms.TextBox Risk1.ArmyMove.textBox2</definition>
+        <argsstring></argsstring>
+        <name>textBox2</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ArmyMove.Designer.cs" line="258" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ArmyMove.Designer.cs" bodystart="258" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1ArmyMove_1ab4c45aeefe4c555dc1c58959a4aab987" compoundref="ArmyMove_8cs" startline="29" endline="38">Risk1.ArmyMove.ArmyMove_Load</referencedby>
+        <referencedby refid="classRisk1_1_1ArmyMove_1a09e09e7458ac9052691780c5da677939" compoundref="ArmyMove_8cs" startline="44" endline="54">Risk1.ArmyMove.bolge1Azalt</referencedby>
+        <referencedby refid="classRisk1_1_1ArmyMove_1a025df8b3c0755c0bc95a5e334a6b5b17" compoundref="ArmyMove_8cs" startline="55" endline="65">Risk1.ArmyMove.bolge2Azalt</referencedby>
+        <referencedby refid="classRisk1_1_1ArmyMove_1a1a535916bcd16f58bca38e0734a7483d" compoundref="ArmyMove_8cs" startline="115" endline="138">Risk1.ArmyMove.button1_Click</referencedby>
+        <referencedby refid="classRisk1_1_1ArmyMove_1ac86702bc4b7793a2bb30e94a30f85f8c" compoundref="ArmyMove_8cs" startline="101" endline="113">Risk1.ArmyMove.button2_Click</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1ArmyMove_1a84a8bb0ccad2e8b7c35a3cffd6d238e5" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Button</type>
+        <definition>System.Windows.Forms.Button Risk1.ArmyMove.button2</definition>
+        <argsstring></argsstring>
+        <name>button2</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ArmyMove.Designer.cs" line="259" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ArmyMove.Designer.cs" bodystart="259" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1ArmyMove_1a1e4be56785cf70e263f4c2e4e5fc3fcd" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Button</type>
+        <definition>System.Windows.Forms.Button Risk1.ArmyMove.button1</definition>
+        <argsstring></argsstring>
+        <name>button1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ArmyMove.Designer.cs" line="260" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ArmyMove.Designer.cs" bodystart="260" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1ArmyMove_1a0d95255516dd0cac22001d1e4632b67e" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Button</type>
+        <definition>System.Windows.Forms.Button Risk1.ArmyMove.button4</definition>
+        <argsstring></argsstring>
+        <name>button4</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ArmyMove.Designer.cs" line="261" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ArmyMove.Designer.cs" bodystart="261" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1ArmyMove_1ab4c45aeefe4c555dc1c58959a4aab987" compoundref="ArmyMove_8cs" startline="29" endline="38">Risk1.ArmyMove.ArmyMove_Load</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1ArmyMove_1a4dd0cf7a390fa96e35f9793d147b1d76" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Button</type>
+        <definition>System.Windows.Forms.Button Risk1.ArmyMove.button3</definition>
+        <argsstring></argsstring>
+        <name>button3</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ArmyMove.Designer.cs" line="262" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ArmyMove.Designer.cs" bodystart="262" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1ArmyMove_1ad3f821baae6b37675b59e8e9087c32e2" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Button</type>
+        <definition>System.Windows.Forms.Button Risk1.ArmyMove.button5</definition>
+        <argsstring></argsstring>
+        <name>button5</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ArmyMove.Designer.cs" line="263" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ArmyMove.Designer.cs" bodystart="263" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1ArmyMove_1a5f603577e4f308505fe118edb8ecb013" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Button</type>
+        <definition>System.Windows.Forms.Button Risk1.ArmyMove.button6</definition>
+        <argsstring></argsstring>
+        <name>button6</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ArmyMove.Designer.cs" line="264" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ArmyMove.Designer.cs" bodystart="264" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1ArmyMove_1afda7bf1bccdb470a1f2efc28fb818708" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Button</type>
+        <definition>System.Windows.Forms.Button Risk1.ArmyMove.button7</definition>
+        <argsstring></argsstring>
+        <name>button7</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ArmyMove.Designer.cs" line="265" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ArmyMove.Designer.cs" bodystart="265" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1ArmyMove_1a44d5249b6c9eb9187b3412fb4deba827" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Button</type>
+        <definition>System.Windows.Forms.Button Risk1.ArmyMove.button8</definition>
+        <argsstring></argsstring>
+        <name>button8</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ArmyMove.Designer.cs" line="266" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ArmyMove.Designer.cs" bodystart="266" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1ArmyMove_1abd785077f33f2dabdb9797952130a2d6" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Button</type>
+        <definition>System.Windows.Forms.Button Risk1.ArmyMove.button9</definition>
+        <argsstring></argsstring>
+        <name>button9</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ArmyMove.Designer.cs" line="267" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ArmyMove.Designer.cs" bodystart="267" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classRisk1_1_1ArmyMove_1a788537a0b101c356760e4f68af2d5976" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Risk1.ArmyMove.ArmyMove</definition>
+        <argsstring>(Bolge b1, Bolge b2, Form1 f1)</argsstring>
+        <name>ArmyMove</name>
+        <param>
+          <type><ref refid="classRisk1_1_1Bolge" kindref="compound">Bolge</ref></type>
+          <declname>b1</declname>
+        </param>
+        <param>
+          <type><ref refid="classRisk1_1_1Bolge" kindref="compound">Bolge</ref></type>
+          <declname>b2</declname>
+        </param>
+        <param>
+          <type><ref refid="classRisk1_1_1Form1" kindref="compound">Form1</ref></type>
+          <declname>f1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ArmyMove.cs" line="20" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ArmyMove.cs" bodystart="19" bodyend="27"/>
+        <references refid="classRisk1_1_1ArmyMove_1a0224073b3fb4ab82731ddbd09330fc1a" compoundref="ArmyMove_8cs" startline="16">Risk1.ArmyMove.bolge1</references>
+        <references refid="classRisk1_1_1ArmyMove_1a7c186a1d6a07230da41120005d8c919b" compoundref="ArmyMove_8cs" startline="14">Risk1.ArmyMove.bolge11</references>
+        <references refid="classRisk1_1_1ArmyMove_1aa4c2f1cca0e3fc94b3341d9fae938ebd" compoundref="ArmyMove_8cs" startline="17">Risk1.ArmyMove.bolge2</references>
+        <references refid="classRisk1_1_1ArmyMove_1ac3a8ae82edb83cc10088be7972640f0d" compoundref="ArmyMove_8cs" startline="15">Risk1.ArmyMove.bolge22</references>
+        <references refid="classRisk1_1_1ArmyMove_1a3b1628acb6a0e9ed3d10d69e6e4b2b46" compoundref="ArmyMove_8cs" startline="18">Risk1.ArmyMove.form1</references>
+        <references refid="classRisk1_1_1ArmyMove_1a7e803c0e4d19d0c0c6d12223e1860acb" compoundref="ArmyMove_8Designer_8cs" startline="29" endline="249">Risk1.ArmyMove.InitializeComponent</references>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1ArmyMove_1a09e09e7458ac9052691780c5da677939" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.ArmyMove.bolge1Azalt</definition>
+        <argsstring>(int number)</argsstring>
+        <name>bolge1Azalt</name>
+        <param>
+          <type>int</type>
+          <declname>number</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ArmyMove.cs" line="45" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ArmyMove.cs" bodystart="44" bodyend="54"/>
+        <references refid="classRisk1_1_1Ordu_1a6c0b78a761fe481445bd7c86c8aeb833" compoundref="Ordu_8cs" startline="10">Risk1.Ordu.askerSayisi</references>
+        <references refid="classRisk1_1_1ArmyMove_1a0224073b3fb4ab82731ddbd09330fc1a" compoundref="ArmyMove_8cs" startline="16">Risk1.ArmyMove.bolge1</references>
+        <references refid="classRisk1_1_1ArmyMove_1aa4c2f1cca0e3fc94b3341d9fae938ebd" compoundref="ArmyMove_8cs" startline="17">Risk1.ArmyMove.bolge2</references>
+        <references refid="classRisk1_1_1ArmyMove_1a3b1628acb6a0e9ed3d10d69e6e4b2b46" compoundref="ArmyMove_8cs" startline="18">Risk1.ArmyMove.form1</references>
+        <references refid="classRisk1_1_1Form1_1aeb73dff2f53c4cdb0fb047f7bca6c0e0" compoundref="Form1_8cs" startline="31">Risk1.Form1.isArmyMoved</references>
+        <references refid="classRisk1_1_1Bolge_1a4835838ca280efd4a82724fd75b5b170" compoundref="Bolge_8cs" startline="39">Risk1.Bolge.ordu</references>
+        <references refid="classRisk1_1_1ArmyMove_1a621c697b2ec5ccb56458a7f79a95495c" compoundref="ArmyMove_8Designer_8cs" startline="258">Risk1.ArmyMove.textBox2</references>
+        <references refid="classRisk1_1_1ArmyMove_1a107a260b6ac1da6370f38d7ee4e25d37" compoundref="ArmyMove_8Designer_8cs" startline="255">Risk1.ArmyMove.textBox3</references>
+        <referencedby refid="classRisk1_1_1ArmyMove_1a3336c1e52d10ac602e42d0ad9f5a814a" compoundref="ArmyMove_8cs" startline="40" endline="43">Risk1.ArmyMove.button3_Click</referencedby>
+        <referencedby refid="classRisk1_1_1ArmyMove_1a0dd2741d69223e0b5e8cb9bb169bac2d" compoundref="ArmyMove_8cs" startline="82" endline="85">Risk1.ArmyMove.button7_Click</referencedby>
+        <referencedby refid="classRisk1_1_1ArmyMove_1a973413e9d5fc0f86952cb40361002ed9" compoundref="ArmyMove_8cs" startline="87" endline="90">Risk1.ArmyMove.button9_Click</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1ArmyMove_1a025df8b3c0755c0bc95a5e334a6b5b17" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.ArmyMove.bolge2Azalt</definition>
+        <argsstring>(int number)</argsstring>
+        <name>bolge2Azalt</name>
+        <param>
+          <type>int</type>
+          <declname>number</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ArmyMove.cs" line="56" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ArmyMove.cs" bodystart="55" bodyend="65"/>
+        <references refid="classRisk1_1_1Ordu_1a6c0b78a761fe481445bd7c86c8aeb833" compoundref="Ordu_8cs" startline="10">Risk1.Ordu.askerSayisi</references>
+        <references refid="classRisk1_1_1ArmyMove_1a0224073b3fb4ab82731ddbd09330fc1a" compoundref="ArmyMove_8cs" startline="16">Risk1.ArmyMove.bolge1</references>
+        <references refid="classRisk1_1_1ArmyMove_1aa4c2f1cca0e3fc94b3341d9fae938ebd" compoundref="ArmyMove_8cs" startline="17">Risk1.ArmyMove.bolge2</references>
+        <references refid="classRisk1_1_1ArmyMove_1a3b1628acb6a0e9ed3d10d69e6e4b2b46" compoundref="ArmyMove_8cs" startline="18">Risk1.ArmyMove.form1</references>
+        <references refid="classRisk1_1_1Form1_1aeb73dff2f53c4cdb0fb047f7bca6c0e0" compoundref="Form1_8cs" startline="31">Risk1.Form1.isArmyMoved</references>
+        <references refid="classRisk1_1_1Bolge_1a4835838ca280efd4a82724fd75b5b170" compoundref="Bolge_8cs" startline="39">Risk1.Bolge.ordu</references>
+        <references refid="classRisk1_1_1ArmyMove_1a621c697b2ec5ccb56458a7f79a95495c" compoundref="ArmyMove_8Designer_8cs" startline="258">Risk1.ArmyMove.textBox2</references>
+        <references refid="classRisk1_1_1ArmyMove_1a107a260b6ac1da6370f38d7ee4e25d37" compoundref="ArmyMove_8Designer_8cs" startline="255">Risk1.ArmyMove.textBox3</references>
+        <referencedby refid="classRisk1_1_1ArmyMove_1abe313f2714877f4a5b5eec5046b7e02f" compoundref="ArmyMove_8cs" startline="67" endline="70">Risk1.ArmyMove.button5_Click</referencedby>
+        <referencedby refid="classRisk1_1_1ArmyMove_1a582ce34d1878591d3a7dda25d420ace2" compoundref="ArmyMove_8cs" startline="72" endline="75">Risk1.ArmyMove.button6_Click</referencedby>
+        <referencedby refid="classRisk1_1_1ArmyMove_1acf0e7bbd815bd939d1eb4e0222eae9e8" compoundref="ArmyMove_8cs" startline="77" endline="80">Risk1.ArmyMove.button8_Click</referencedby>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="classRisk1_1_1ArmyMove_1ab4c45aeefe4c555dc1c58959a4aab987" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.ArmyMove.ArmyMove_Load</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>ArmyMove_Load</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ArmyMove.cs" line="30" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ArmyMove.cs" bodystart="29" bodyend="38"/>
+        <references refid="classRisk1_1_1Ordu_1a6c0b78a761fe481445bd7c86c8aeb833" compoundref="Ordu_8cs" startline="10">Risk1.Ordu.askerSayisi</references>
+        <references refid="classRisk1_1_1ArmyMove_1a0224073b3fb4ab82731ddbd09330fc1a" compoundref="ArmyMove_8cs" startline="16">Risk1.ArmyMove.bolge1</references>
+        <references refid="classRisk1_1_1ArmyMove_1aa4c2f1cca0e3fc94b3341d9fae938ebd" compoundref="ArmyMove_8cs" startline="17">Risk1.ArmyMove.bolge2</references>
+        <references refid="classRisk1_1_1ArmyMove_1a0d95255516dd0cac22001d1e4632b67e" compoundref="ArmyMove_8Designer_8cs" startline="261">Risk1.ArmyMove.button4</references>
+        <references refid="classRisk1_1_1Player_1abd09f5bdd9126924b2f047c5bc36d271" compoundref="Player_8cs" startline="15">Risk1.Player.color</references>
+        <references refid="classRisk1_1_1Bolge_1a4c7e438f8452f95fe887892d243651bc" compoundref="Bolge_8cs" startline="23">Risk1.Bolge.isim</references>
+        <references refid="classRisk1_1_1Bolge_1a4835838ca280efd4a82724fd75b5b170" compoundref="Bolge_8cs" startline="39">Risk1.Bolge.ordu</references>
+        <references refid="classRisk1_1_1ArmyMove_1aeb9f0bccd73b8e20e867c68549eabdaf" compoundref="ArmyMove_8Designer_8cs" startline="256">Risk1.ArmyMove.panel1</references>
+        <references refid="classRisk1_1_1ArmyMove_1aa953d210970844d185504bb7c7b19fd6" compoundref="ArmyMove_8Designer_8cs" startline="253">Risk1.ArmyMove.panel2</references>
+        <references refid="classRisk1_1_1Bolge_1a6ea883664353e7480178fb57e5e856d8" compoundref="Bolge_8cs" startline="35">Risk1.Bolge.sahip</references>
+        <references refid="classRisk1_1_1ArmyMove_1a64fe81d7440cfbc9a5941c53f5db2695" compoundref="ArmyMove_8Designer_8cs" startline="254">Risk1.ArmyMove.textBox1</references>
+        <references refid="classRisk1_1_1ArmyMove_1a621c697b2ec5ccb56458a7f79a95495c" compoundref="ArmyMove_8Designer_8cs" startline="258">Risk1.ArmyMove.textBox2</references>
+        <references refid="classRisk1_1_1ArmyMove_1a107a260b6ac1da6370f38d7ee4e25d37" compoundref="ArmyMove_8Designer_8cs" startline="255">Risk1.ArmyMove.textBox3</references>
+        <references refid="classRisk1_1_1ArmyMove_1a56fdbf1986bb9f5757ff505270376955" compoundref="ArmyMove_8Designer_8cs" startline="257">Risk1.ArmyMove.textBox4</references>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1ArmyMove_1a3336c1e52d10ac602e42d0ad9f5a814a" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.ArmyMove.button3_Click</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>button3_Click</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ArmyMove.cs" line="41" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ArmyMove.cs" bodystart="40" bodyend="43"/>
+        <references refid="classRisk1_1_1ArmyMove_1a09e09e7458ac9052691780c5da677939" compoundref="ArmyMove_8cs" startline="44" endline="54">Risk1.ArmyMove.bolge1Azalt</references>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1ArmyMove_1abe313f2714877f4a5b5eec5046b7e02f" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.ArmyMove.button5_Click</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>button5_Click</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ArmyMove.cs" line="68" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ArmyMove.cs" bodystart="67" bodyend="70"/>
+        <references refid="classRisk1_1_1ArmyMove_1a025df8b3c0755c0bc95a5e334a6b5b17" compoundref="ArmyMove_8cs" startline="55" endline="65">Risk1.ArmyMove.bolge2Azalt</references>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1ArmyMove_1a582ce34d1878591d3a7dda25d420ace2" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.ArmyMove.button6_Click</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>button6_Click</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ArmyMove.cs" line="73" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ArmyMove.cs" bodystart="72" bodyend="75"/>
+        <references refid="classRisk1_1_1ArmyMove_1a025df8b3c0755c0bc95a5e334a6b5b17" compoundref="ArmyMove_8cs" startline="55" endline="65">Risk1.ArmyMove.bolge2Azalt</references>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1ArmyMove_1acf0e7bbd815bd939d1eb4e0222eae9e8" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.ArmyMove.button8_Click</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>button8_Click</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ArmyMove.cs" line="78" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ArmyMove.cs" bodystart="77" bodyend="80"/>
+        <references refid="classRisk1_1_1ArmyMove_1a025df8b3c0755c0bc95a5e334a6b5b17" compoundref="ArmyMove_8cs" startline="55" endline="65">Risk1.ArmyMove.bolge2Azalt</references>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1ArmyMove_1a0dd2741d69223e0b5e8cb9bb169bac2d" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.ArmyMove.button7_Click</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>button7_Click</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ArmyMove.cs" line="83" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ArmyMove.cs" bodystart="82" bodyend="85"/>
+        <references refid="classRisk1_1_1ArmyMove_1a09e09e7458ac9052691780c5da677939" compoundref="ArmyMove_8cs" startline="44" endline="54">Risk1.ArmyMove.bolge1Azalt</references>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1ArmyMove_1a973413e9d5fc0f86952cb40361002ed9" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.ArmyMove.button9_Click</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>button9_Click</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ArmyMove.cs" line="88" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ArmyMove.cs" bodystart="87" bodyend="90"/>
+        <references refid="classRisk1_1_1ArmyMove_1a09e09e7458ac9052691780c5da677939" compoundref="ArmyMove_8cs" startline="44" endline="54">Risk1.ArmyMove.bolge1Azalt</references>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1ArmyMove_1aaf398a05d38f06b34b0eeec52a39cb71" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.ArmyMove.button4_Click</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>button4_Click</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ArmyMove.cs" line="93" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ArmyMove.cs" bodystart="92" bodyend="99"/>
+        <references refid="classRisk1_1_1ArmyMove_1a3b1628acb6a0e9ed3d10d69e6e4b2b46" compoundref="ArmyMove_8cs" startline="18">Risk1.ArmyMove.form1</references>
+        <references refid="classRisk1_1_1Form1_1aeb73dff2f53c4cdb0fb047f7bca6c0e0" compoundref="Form1_8cs" startline="31">Risk1.Form1.isArmyMoved</references>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1ArmyMove_1ac86702bc4b7793a2bb30e94a30f85f8c" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.ArmyMove.button2_Click</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>button2_Click</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ArmyMove.cs" line="102" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ArmyMove.cs" bodystart="101" bodyend="113"/>
+        <references refid="classRisk1_1_1Ordu_1a6c0b78a761fe481445bd7c86c8aeb833" compoundref="Ordu_8cs" startline="10">Risk1.Ordu.askerSayisi</references>
+        <references refid="classRisk1_1_1ArmyMove_1a0224073b3fb4ab82731ddbd09330fc1a" compoundref="ArmyMove_8cs" startline="16">Risk1.ArmyMove.bolge1</references>
+        <references refid="classRisk1_1_1ArmyMove_1aa4c2f1cca0e3fc94b3341d9fae938ebd" compoundref="ArmyMove_8cs" startline="17">Risk1.ArmyMove.bolge2</references>
+        <references refid="classRisk1_1_1ArmyMove_1a3b1628acb6a0e9ed3d10d69e6e4b2b46" compoundref="ArmyMove_8cs" startline="18">Risk1.ArmyMove.form1</references>
+        <references refid="classRisk1_1_1Form1_1aeb73dff2f53c4cdb0fb047f7bca6c0e0" compoundref="Form1_8cs" startline="31">Risk1.Form1.isArmyMoved</references>
+        <references refid="classRisk1_1_1Bolge_1a4835838ca280efd4a82724fd75b5b170" compoundref="Bolge_8cs" startline="39">Risk1.Bolge.ordu</references>
+        <references refid="classRisk1_1_1ArmyMove_1a621c697b2ec5ccb56458a7f79a95495c" compoundref="ArmyMove_8Designer_8cs" startline="258">Risk1.ArmyMove.textBox2</references>
+        <references refid="classRisk1_1_1ArmyMove_1a107a260b6ac1da6370f38d7ee4e25d37" compoundref="ArmyMove_8Designer_8cs" startline="255">Risk1.ArmyMove.textBox3</references>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1ArmyMove_1a1a535916bcd16f58bca38e0734a7483d" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.ArmyMove.button1_Click</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>button1_Click</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ArmyMove.cs" line="116" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ArmyMove.cs" bodystart="115" bodyend="138"/>
+        <references refid="classRisk1_1_1Ordu_1a6c0b78a761fe481445bd7c86c8aeb833" compoundref="Ordu_8cs" startline="10">Risk1.Ordu.askerSayisi</references>
+        <references refid="classRisk1_1_1ArmyMove_1a0224073b3fb4ab82731ddbd09330fc1a" compoundref="ArmyMove_8cs" startline="16">Risk1.ArmyMove.bolge1</references>
+        <references refid="classRisk1_1_1ArmyMove_1aa4c2f1cca0e3fc94b3341d9fae938ebd" compoundref="ArmyMove_8cs" startline="17">Risk1.ArmyMove.bolge2</references>
+        <references refid="classRisk1_1_1ArmyMove_1a3b1628acb6a0e9ed3d10d69e6e4b2b46" compoundref="ArmyMove_8cs" startline="18">Risk1.ArmyMove.form1</references>
+        <references refid="classRisk1_1_1Form1_1aeb73dff2f53c4cdb0fb047f7bca6c0e0" compoundref="Form1_8cs" startline="31">Risk1.Form1.isArmyMoved</references>
+        <references refid="classRisk1_1_1Bolge_1a4835838ca280efd4a82724fd75b5b170" compoundref="Bolge_8cs" startline="39">Risk1.Bolge.ordu</references>
+        <references refid="classRisk1_1_1ArmyMove_1a621c697b2ec5ccb56458a7f79a95495c" compoundref="ArmyMove_8Designer_8cs" startline="258">Risk1.ArmyMove.textBox2</references>
+        <references refid="classRisk1_1_1ArmyMove_1a107a260b6ac1da6370f38d7ee4e25d37" compoundref="ArmyMove_8Designer_8cs" startline="255">Risk1.ArmyMove.textBox3</references>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1ArmyMove_1a7e803c0e4d19d0c0c6d12223e1860acb" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.ArmyMove.InitializeComponent</definition>
+        <argsstring>()</argsstring>
+        <name>InitializeComponent</name>
+        <briefdescription>
+<para>Required method for Designer support - do not modify the contents of this method with the code editor. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ArmyMove.Designer.cs" line="30" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ArmyMove.Designer.cs" bodystart="29" bodyend="249"/>
+        <referencedby refid="classRisk1_1_1ArmyMove_1a788537a0b101c356760e4f68af2d5976" compoundref="ArmyMove_8cs" startline="19" endline="27">Risk1.ArmyMove.ArmyMove</referencedby>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="protected-func">
+      <memberdef kind="function" id="classRisk1_1_1ArmyMove_1a8fca84066fa183df1ddaacb90938acc3" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override void</type>
+        <definition>override void Risk1.ArmyMove.Dispose</definition>
+        <argsstring>(bool disposing)</argsstring>
+        <name>Dispose</name>
+        <param>
+          <type>bool</type>
+          <declname>disposing</declname>
+        </param>
+        <briefdescription>
+<para>Clean up any resources being used. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>disposing</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>true if managed resources should be disposed; otherwise, false.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ArmyMove.Designer.cs" line="15" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ArmyMove.Designer.cs" bodystart="14" bodyend="21"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <collaborationgraph>
+      <node id="190">
+        <label>ArtificalIntelligence</label>
+        <link refid="classRisk1_1_1ArtificalIntelligence"/>
+      </node>
+      <node id="191">
+        <label>Risk1.Statistics</label>
+        <link refid="classRisk1_1_1Statistics"/>
+      </node>
+      <node id="192">
+        <label>Risk1.GameData</label>
+        <link refid="classRisk1_1_1GameData"/>
+      </node>
+      <node id="194">
+        <label>Risk1.Player</label>
+        <link refid="classRisk1_1_1Player"/>
+      </node>
+      <node id="195">
+        <label>Risk1.Ordu</label>
+        <link refid="classRisk1_1_1Ordu"/>
+      </node>
+      <node id="189">
+        <label>Risk1.AI</label>
+        <link refid="classRisk1_1_1AI"/>
+        <childnode refid="190" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="196">
+        <label>System</label>
+      </node>
+      <node id="188">
+        <label>Risk1.Form1</label>
+        <link refid="classRisk1_1_1Form1"/>
+        <childnode refid="189" relation="usage">
+          <edgelabel>ai</edgelabel>
+        </childnode>
+        <childnode refid="191" relation="usage">
+          <edgelabel>statistics</edgelabel>
+        </childnode>
+        <childnode refid="192" relation="usage">
+          <edgelabel>gameData</edgelabel>
+        </childnode>
+        <childnode refid="193" relation="usage">
+          <edgelabel>ilkTiklananBolge</edgelabel>
+        </childnode>
+        <childnode refid="196" relation="usage">
+          <edgelabel>showStatisticsToolStripMenuItem</edgelabel>
+          <edgelabel>rulesToolStripMenuItem</edgelabel>
+          <edgelabel>exitToolStripMenuItem</edgelabel>
+          <edgelabel>pictureBox1</edgelabel>
+          <edgelabel>timer1</edgelabel>
+          <edgelabel>pictureBox2</edgelabel>
+          <edgelabel>aboutToolStripMenuItem</edgelabel>
+          <edgelabel>endGameToolStripMenuItem</edgelabel>
+          <edgelabel>label1</edgelabel>
+          <edgelabel>pictureBox3</edgelabel>
+          <edgelabel>...</edgelabel>
+        </childnode>
+        <childnode refid="197" relation="usage">
+          <edgelabel>ai2</edgelabel>
+        </childnode>
+        <childnode refid="198" relation="usage">
+          <edgelabel>ai3</edgelabel>
+        </childnode>
+        <childnode refid="199" relation="usage">
+          <edgelabel>ai4</edgelabel>
+        </childnode>
+      </node>
+      <node id="197">
+        <label>Risk1.AI2</label>
+        <link refid="classRisk1_1_1AI2"/>
+        <childnode refid="190" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="198">
+        <label>Risk1.AI3</label>
+        <link refid="classRisk1_1_1AI3"/>
+        <childnode refid="190" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="199">
+        <label>Risk1.AI4</label>
+        <link refid="classRisk1_1_1AI4"/>
+        <childnode refid="190" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="187">
+        <label>Risk1.ArmyMove</label>
+        <link refid="classRisk1_1_1ArmyMove"/>
+        <childnode refid="188" relation="usage">
+          <edgelabel>form1</edgelabel>
+        </childnode>
+        <childnode refid="193" relation="usage">
+          <edgelabel>bolge1</edgelabel>
+          <edgelabel>bolge2</edgelabel>
+          <edgelabel>bolge22</edgelabel>
+          <edgelabel>bolge11</edgelabel>
+        </childnode>
+        <childnode refid="196" relation="usage">
+          <edgelabel>button4</edgelabel>
+          <edgelabel>textBox4</edgelabel>
+          <edgelabel>button5</edgelabel>
+          <edgelabel>button6</edgelabel>
+          <edgelabel>panel1</edgelabel>
+          <edgelabel>button7</edgelabel>
+          <edgelabel>panel2</edgelabel>
+          <edgelabel>button8</edgelabel>
+          <edgelabel>button9</edgelabel>
+          <edgelabel>components</edgelabel>
+          <edgelabel>...</edgelabel>
+        </childnode>
+      </node>
+      <node id="193">
+        <label>Risk1.Bolge</label>
+        <link refid="classRisk1_1_1Bolge"/>
+        <childnode refid="194" relation="usage">
+          <edgelabel>sahip</edgelabel>
+        </childnode>
+        <childnode refid="195" relation="usage">
+          <edgelabel>ordu</edgelabel>
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ArmyMove.cs" line="13" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ArmyMove.cs" bodystart="12" bodyend="139"/>
+    <listofallmembers>
+      <member refid="classRisk1_1_1ArmyMove_1a788537a0b101c356760e4f68af2d5976" prot="public" virt="non-virtual"><scope>Risk1::ArmyMove</scope><name>ArmyMove</name></member>
+      <member refid="classRisk1_1_1ArmyMove_1ab4c45aeefe4c555dc1c58959a4aab987" prot="private" virt="non-virtual"><scope>Risk1::ArmyMove</scope><name>ArmyMove_Load</name></member>
+      <member refid="classRisk1_1_1ArmyMove_1a0224073b3fb4ab82731ddbd09330fc1a" prot="private" virt="non-virtual"><scope>Risk1::ArmyMove</scope><name>bolge1</name></member>
+      <member refid="classRisk1_1_1ArmyMove_1a7c186a1d6a07230da41120005d8c919b" prot="private" virt="non-virtual"><scope>Risk1::ArmyMove</scope><name>bolge11</name></member>
+      <member refid="classRisk1_1_1ArmyMove_1a09e09e7458ac9052691780c5da677939" prot="public" virt="non-virtual"><scope>Risk1::ArmyMove</scope><name>bolge1Azalt</name></member>
+      <member refid="classRisk1_1_1ArmyMove_1aa4c2f1cca0e3fc94b3341d9fae938ebd" prot="private" virt="non-virtual"><scope>Risk1::ArmyMove</scope><name>bolge2</name></member>
+      <member refid="classRisk1_1_1ArmyMove_1ac3a8ae82edb83cc10088be7972640f0d" prot="private" virt="non-virtual"><scope>Risk1::ArmyMove</scope><name>bolge22</name></member>
+      <member refid="classRisk1_1_1ArmyMove_1a025df8b3c0755c0bc95a5e334a6b5b17" prot="public" virt="non-virtual"><scope>Risk1::ArmyMove</scope><name>bolge2Azalt</name></member>
+      <member refid="classRisk1_1_1ArmyMove_1a1e4be56785cf70e263f4c2e4e5fc3fcd" prot="private" virt="non-virtual"><scope>Risk1::ArmyMove</scope><name>button1</name></member>
+      <member refid="classRisk1_1_1ArmyMove_1a1a535916bcd16f58bca38e0734a7483d" prot="private" virt="non-virtual"><scope>Risk1::ArmyMove</scope><name>button1_Click</name></member>
+      <member refid="classRisk1_1_1ArmyMove_1a84a8bb0ccad2e8b7c35a3cffd6d238e5" prot="private" virt="non-virtual"><scope>Risk1::ArmyMove</scope><name>button2</name></member>
+      <member refid="classRisk1_1_1ArmyMove_1ac86702bc4b7793a2bb30e94a30f85f8c" prot="private" virt="non-virtual"><scope>Risk1::ArmyMove</scope><name>button2_Click</name></member>
+      <member refid="classRisk1_1_1ArmyMove_1a4dd0cf7a390fa96e35f9793d147b1d76" prot="private" virt="non-virtual"><scope>Risk1::ArmyMove</scope><name>button3</name></member>
+      <member refid="classRisk1_1_1ArmyMove_1a3336c1e52d10ac602e42d0ad9f5a814a" prot="private" virt="non-virtual"><scope>Risk1::ArmyMove</scope><name>button3_Click</name></member>
+      <member refid="classRisk1_1_1ArmyMove_1a0d95255516dd0cac22001d1e4632b67e" prot="private" virt="non-virtual"><scope>Risk1::ArmyMove</scope><name>button4</name></member>
+      <member refid="classRisk1_1_1ArmyMove_1aaf398a05d38f06b34b0eeec52a39cb71" prot="private" virt="non-virtual"><scope>Risk1::ArmyMove</scope><name>button4_Click</name></member>
+      <member refid="classRisk1_1_1ArmyMove_1ad3f821baae6b37675b59e8e9087c32e2" prot="private" virt="non-virtual"><scope>Risk1::ArmyMove</scope><name>button5</name></member>
+      <member refid="classRisk1_1_1ArmyMove_1abe313f2714877f4a5b5eec5046b7e02f" prot="private" virt="non-virtual"><scope>Risk1::ArmyMove</scope><name>button5_Click</name></member>
+      <member refid="classRisk1_1_1ArmyMove_1a5f603577e4f308505fe118edb8ecb013" prot="private" virt="non-virtual"><scope>Risk1::ArmyMove</scope><name>button6</name></member>
+      <member refid="classRisk1_1_1ArmyMove_1a582ce34d1878591d3a7dda25d420ace2" prot="private" virt="non-virtual"><scope>Risk1::ArmyMove</scope><name>button6_Click</name></member>
+      <member refid="classRisk1_1_1ArmyMove_1afda7bf1bccdb470a1f2efc28fb818708" prot="private" virt="non-virtual"><scope>Risk1::ArmyMove</scope><name>button7</name></member>
+      <member refid="classRisk1_1_1ArmyMove_1a0dd2741d69223e0b5e8cb9bb169bac2d" prot="private" virt="non-virtual"><scope>Risk1::ArmyMove</scope><name>button7_Click</name></member>
+      <member refid="classRisk1_1_1ArmyMove_1a44d5249b6c9eb9187b3412fb4deba827" prot="private" virt="non-virtual"><scope>Risk1::ArmyMove</scope><name>button8</name></member>
+      <member refid="classRisk1_1_1ArmyMove_1acf0e7bbd815bd939d1eb4e0222eae9e8" prot="private" virt="non-virtual"><scope>Risk1::ArmyMove</scope><name>button8_Click</name></member>
+      <member refid="classRisk1_1_1ArmyMove_1abd785077f33f2dabdb9797952130a2d6" prot="private" virt="non-virtual"><scope>Risk1::ArmyMove</scope><name>button9</name></member>
+      <member refid="classRisk1_1_1ArmyMove_1a973413e9d5fc0f86952cb40361002ed9" prot="private" virt="non-virtual"><scope>Risk1::ArmyMove</scope><name>button9_Click</name></member>
+      <member refid="classRisk1_1_1ArmyMove_1a5dd9e282349cf76adffb629aaa68d453" prot="private" virt="non-virtual"><scope>Risk1::ArmyMove</scope><name>components</name></member>
+      <member refid="classRisk1_1_1ArmyMove_1a8fca84066fa183df1ddaacb90938acc3" prot="protected" virt="non-virtual"><scope>Risk1::ArmyMove</scope><name>Dispose</name></member>
+      <member refid="classRisk1_1_1ArmyMove_1a3b1628acb6a0e9ed3d10d69e6e4b2b46" prot="private" virt="non-virtual"><scope>Risk1::ArmyMove</scope><name>form1</name></member>
+      <member refid="classRisk1_1_1ArmyMove_1a7e803c0e4d19d0c0c6d12223e1860acb" prot="private" virt="non-virtual"><scope>Risk1::ArmyMove</scope><name>InitializeComponent</name></member>
+      <member refid="classRisk1_1_1ArmyMove_1aeb9f0bccd73b8e20e867c68549eabdaf" prot="private" virt="non-virtual"><scope>Risk1::ArmyMove</scope><name>panel1</name></member>
+      <member refid="classRisk1_1_1ArmyMove_1aa953d210970844d185504bb7c7b19fd6" prot="private" virt="non-virtual"><scope>Risk1::ArmyMove</scope><name>panel2</name></member>
+      <member refid="classRisk1_1_1ArmyMove_1a64fe81d7440cfbc9a5941c53f5db2695" prot="private" virt="non-virtual"><scope>Risk1::ArmyMove</scope><name>textBox1</name></member>
+      <member refid="classRisk1_1_1ArmyMove_1a621c697b2ec5ccb56458a7f79a95495c" prot="private" virt="non-virtual"><scope>Risk1::ArmyMove</scope><name>textBox2</name></member>
+      <member refid="classRisk1_1_1ArmyMove_1a107a260b6ac1da6370f38d7ee4e25d37" prot="private" virt="non-virtual"><scope>Risk1::ArmyMove</scope><name>textBox3</name></member>
+      <member refid="classRisk1_1_1ArmyMove_1a56fdbf1986bb9f5757ff505270376955" prot="private" virt="non-virtual"><scope>Risk1::ArmyMove</scope><name>textBox4</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

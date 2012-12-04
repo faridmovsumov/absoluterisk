@@ -1,0 +1,167 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.0">
+  <compounddef id="classRisk1_1_1Properties_1_1Resources" kind="class" prot="package">
+    <compoundname>Risk1::Properties::Resources</compoundname>
+      <sectiondef kind="private-static-attrib">
+      <memberdef kind="variable" id="classRisk1_1_1Properties_1_1Resources_1adc584e2fa9316b2d965466b953d247a6" prot="private" static="yes" mutable="no">
+        <type>global::System.Resources.ResourceManager</type>
+        <definition>global::System.Resources.ResourceManager Risk1.Properties.Resources.resourceMan</definition>
+        <argsstring></argsstring>
+        <name>resourceMan</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Properties/Resources.Designer.cs" line="27" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Properties/Resources.Designer.cs" bodystart="27" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1Properties_1_1Resources_1a8b956f80a9666fcac942ada0d82c48d1" prot="private" static="yes" mutable="no">
+        <type>global::System.Globalization.CultureInfo</type>
+        <definition>global::System.Globalization.CultureInfo Risk1.Properties.Resources.resourceCulture</definition>
+        <argsstring></argsstring>
+        <name>resourceCulture</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Properties/Resources.Designer.cs" line="29" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Properties/Resources.Designer.cs" bodystart="29" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="classRisk1_1_1Properties_1_1Resources_1aada6ac01c5271bcc27ae9b6996da5050" prot="package" static="yes" readable="no" writable="no" gettable="yes" settable="no">
+        <type>global::System.Resources.ResourceManager</type>
+        <definition>global::System.Resources.ResourceManager Risk1.Properties.Resources.ResourceManager</definition>
+        <argsstring></argsstring>
+        <name>ResourceManager</name>
+        <briefdescription>
+<para>Returns the cached ResourceManager instance used by this class. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Properties/Resources.Designer.cs" line="47" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Properties/Resources.Designer.cs" bodystart="39" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="classRisk1_1_1Properties_1_1Resources_1adc7f144da1f61dc674dd0baa4d5b75a6" prot="package" static="yes" readable="no" writable="no" gettable="yes" settable="yes">
+        <type>global::System.Globalization.CultureInfo</type>
+        <definition>global::System.Globalization.CultureInfo Risk1.Properties.Resources.Culture</definition>
+        <argsstring></argsstring>
+        <name>Culture</name>
+        <briefdescription>
+<para>Overrides the current thread&apos;s CurrentUICulture property for all resource lookups using this strongly typed resource class. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Properties/Resources.Designer.cs" line="61" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Properties/Resources.Designer.cs" bodystart="54" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="classRisk1_1_1Properties_1_1Resources_1a14b9e7b420d02fc97a03f79bf6dc42ad" prot="package" static="yes" readable="no" writable="no" gettable="yes" settable="no">
+        <type>System.Drawing.Bitmap</type>
+        <definition>System.Drawing.Bitmap Risk1.Properties.Resources.babek</definition>
+        <argsstring></argsstring>
+        <name>babek</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Properties/Resources.Designer.cs" line="68" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Properties/Resources.Designer.cs" bodystart="63" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="classRisk1_1_1Properties_1_1Resources_1a114b417d95f7aa5d2b76811320b5208b" prot="package" static="yes" readable="no" writable="no" gettable="yes" settable="no">
+        <type>System.Drawing.Bitmap</type>
+        <definition>System.Drawing.Bitmap Risk1.Properties.Resources.cengizhan</definition>
+        <argsstring></argsstring>
+        <name>cengizhan</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Properties/Resources.Designer.cs" line="75" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Properties/Resources.Designer.cs" bodystart="70" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="classRisk1_1_1Properties_1_1Resources_1a8ab4bd467fd7474ef7c40d17bd6b7bc7" prot="package" static="yes" readable="no" writable="no" gettable="yes" settable="no">
+        <type>System.Drawing.Bitmap</type>
+        <definition>System.Drawing.Bitmap Risk1.Properties.Resources.fatih</definition>
+        <argsstring></argsstring>
+        <name>fatih</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Properties/Resources.Designer.cs" line="82" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Properties/Resources.Designer.cs" bodystart="77" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="classRisk1_1_1Properties_1_1Resources_1a4e663b5947d164aa72e8e1c554736988" prot="package" static="yes" readable="no" writable="no" gettable="yes" settable="no">
+        <type>System.Drawing.Bitmap</type>
+        <definition>System.Drawing.Bitmap Risk1.Properties.Resources.hitler</definition>
+        <argsstring></argsstring>
+        <name>hitler</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Properties/Resources.Designer.cs" line="89" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Properties/Resources.Designer.cs" bodystart="84" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="classRisk1_1_1Properties_1_1Resources_1af450f742230e9095dce4f6f260fdfd3b" prot="package" static="yes" readable="no" writable="no" gettable="yes" settable="no">
+        <type>System.Drawing.Bitmap</type>
+        <definition>System.Drawing.Bitmap Risk1.Properties.Resources.tahtayuzey</definition>
+        <argsstring></argsstring>
+        <name>tahtayuzey</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Properties/Resources.Designer.cs" line="96" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Properties/Resources.Designer.cs" bodystart="91" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="package-func">
+      <memberdef kind="function" id="classRisk1_1_1Properties_1_1Resources_1ad80657a06a49397bbd1adf2508656b3f" prot="package" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Risk1.Properties.Resources.Resources</definition>
+        <argsstring>()</argsstring>
+        <name>Resources</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Properties/Resources.Designer.cs" line="32" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Properties/Resources.Designer.cs" bodystart="32" bodyend="33"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>A strongly-typed resource class, for looking up localized strings, etc. </para>    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <collaborationgraph>
+      <node id="309">
+        <label>Risk1.Properties.Resources</label>
+        <childnode refid="309" relation="usage">
+          <edgelabel>resourceMan</edgelabel>
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Properties/Resources.Designer.cs" line="25" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Properties/Resources.Designer.cs" bodystart="25" bodyend="97"/>
+    <listofallmembers>
+      <member refid="classRisk1_1_1Properties_1_1Resources_1a14b9e7b420d02fc97a03f79bf6dc42ad" prot="package" virt="non-virtual"><scope>Risk1::Properties::Resources</scope><name>babek</name></member>
+      <member refid="classRisk1_1_1Properties_1_1Resources_1a114b417d95f7aa5d2b76811320b5208b" prot="package" virt="non-virtual"><scope>Risk1::Properties::Resources</scope><name>cengizhan</name></member>
+      <member refid="classRisk1_1_1Properties_1_1Resources_1adc7f144da1f61dc674dd0baa4d5b75a6" prot="package" virt="non-virtual"><scope>Risk1::Properties::Resources</scope><name>Culture</name></member>
+      <member refid="classRisk1_1_1Properties_1_1Resources_1a8ab4bd467fd7474ef7c40d17bd6b7bc7" prot="package" virt="non-virtual"><scope>Risk1::Properties::Resources</scope><name>fatih</name></member>
+      <member refid="classRisk1_1_1Properties_1_1Resources_1a4e663b5947d164aa72e8e1c554736988" prot="package" virt="non-virtual"><scope>Risk1::Properties::Resources</scope><name>hitler</name></member>
+      <member refid="classRisk1_1_1Properties_1_1Resources_1a8b956f80a9666fcac942ada0d82c48d1" prot="private" virt="non-virtual"><scope>Risk1::Properties::Resources</scope><name>resourceCulture</name></member>
+      <member refid="classRisk1_1_1Properties_1_1Resources_1adc584e2fa9316b2d965466b953d247a6" prot="private" virt="non-virtual"><scope>Risk1::Properties::Resources</scope><name>resourceMan</name></member>
+      <member refid="classRisk1_1_1Properties_1_1Resources_1aada6ac01c5271bcc27ae9b6996da5050" prot="package" virt="non-virtual"><scope>Risk1::Properties::Resources</scope><name>ResourceManager</name></member>
+      <member refid="classRisk1_1_1Properties_1_1Resources_1ad80657a06a49397bbd1adf2508656b3f" prot="package" virt="non-virtual"><scope>Risk1::Properties::Resources</scope><name>Resources</name></member>
+      <member refid="classRisk1_1_1Properties_1_1Resources_1af450f742230e9095dce4f6f260fdfd3b" prot="package" virt="non-virtual"><scope>Risk1::Properties::Resources</scope><name>tahtayuzey</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

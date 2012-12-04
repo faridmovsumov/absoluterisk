@@ -1,0 +1,16 @@
+digraph G
+{
+  bgcolor="transparent";
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="Risk1.AI4.southAmericadaToprakVarMi",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node2 [label="Risk1.AI4.devam",height=0.2,width=0.4,color="black",URL="$classRisk1_1_1AI4.html#a3652393c6f74add7886cfab61c00b975",tooltip="Kullanıcının hamle yapmaya devam edip etmeyeceğini belirler."];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node3 [label="Risk1.AI4.saldiracanMi",height=0.2,width=0.4,color="black",URL="$classRisk1_1_1AI4.html#a086f1670a1e9423d27c1f49991f4203b",tooltip="Bu metod kullanıcının saldırı yapmak isteyip istemediğini belirler."];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node4 [label="Risk1.AI4.getSavasBolgeIndexleri",height=0.2,width=0.4,color="black",URL="$classRisk1_1_1AI4.html#a10f11e2bddf5dd1a9a18d4c08a42b9c4",tooltip="Bu metod savaş yapılacak bolgelerin indexlerini belirlemek içindir."];
+  Node1 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node5 [label="Risk1.AI4.getTerritoriesIndexToPlaceNewArmies",height=0.2,width=0.4,color="black",URL="$classRisk1_1_1AI4.html#add6f66591f2cf0863a40b9c6f214ce67",tooltip="Oyuncu her turn&#39;de kazandığı yeni askerleri hangi bolgelere yerleştireceğini bu metod sayesinde belir..."];
+}

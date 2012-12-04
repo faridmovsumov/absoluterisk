@@ -1,0 +1,394 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.0">
+  <compounddef id="classRisk1_1_1ChangeStyle" kind="class" prot="public">
+    <compoundname>Risk1::ChangeStyle</compoundname>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classRisk1_1_1ChangeStyle_1ad65dd90425cb477b33cf492af4743170" prot="private" static="no" mutable="no">
+        <type><ref refid="classRisk1_1_1Form1" kindref="compound">Form1</ref></type>
+        <definition>Form1 Risk1.ChangeStyle.f1</definition>
+        <argsstring></argsstring>
+        <name>f1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ChangeStyle.cs" line="14" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ChangeStyle.cs" bodystart="14" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1ChangeStyle_1a713454ba512bb2a1d80d4fab8cc274cc" compoundref="ChangeStyle_8cs" startline="39" endline="43">Risk1.ChangeStyle.button2_Click</referencedby>
+        <referencedby refid="classRisk1_1_1ChangeStyle_1a218667e53d0e9dd5e1d8996e8d056324" compoundref="ChangeStyle_8cs" startline="16" endline="20">Risk1.ChangeStyle.ChangeStyle</referencedby>
+        <referencedby refid="classRisk1_1_1ChangeStyle_1a5bf41bcc4de2533e4f1a8f2cc8f5e97d" compoundref="ChangeStyle_8cs" startline="32" endline="37">Risk1.ChangeStyle.ChangeStyle_Load</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1ChangeStyle_1a375a730ec008f4c52b0c1fb8499efd6f" prot="private" static="no" mutable="no">
+        <type>Color</type>
+        <definition>Color Risk1.ChangeStyle.c</definition>
+        <argsstring></argsstring>
+        <name>c</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ChangeStyle.cs" line="15" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ChangeStyle.cs" bodystart="15" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1ChangeStyle_1a9d7c5ebf1430daefd79bdcf3690fa209" compoundref="ChangeStyle_8cs" startline="24" endline="30">Risk1.ChangeStyle.button1_Click</referencedby>
+        <referencedby refid="classRisk1_1_1ChangeStyle_1a713454ba512bb2a1d80d4fab8cc274cc" compoundref="ChangeStyle_8cs" startline="39" endline="43">Risk1.ChangeStyle.button2_Click</referencedby>
+        <referencedby refid="classRisk1_1_1ChangeStyle_1a5bf41bcc4de2533e4f1a8f2cc8f5e97d" compoundref="ChangeStyle_8cs" startline="32" endline="37">Risk1.ChangeStyle.ChangeStyle_Load</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1ChangeStyle_1a84ff8673a0cf6cebcbc02a7ce7812401" prot="private" static="no" mutable="no">
+        <type>System.ComponentModel.IContainer</type>
+        <definition>System.ComponentModel.IContainer Risk1.ChangeStyle.components</definition>
+        <argsstring></argsstring>
+        <name>components</name>
+        <initializer> null</initializer>
+        <briefdescription>
+<para>Required designer variable. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ChangeStyle.Designer.cs" line="8" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ChangeStyle.Designer.cs" bodystart="8" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1ChangeStyle_1adc9844f00e4ec47832ee68db3c7c79d9" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Button</type>
+        <definition>System.Windows.Forms.Button Risk1.ChangeStyle.button1</definition>
+        <argsstring></argsstring>
+        <name>button1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ChangeStyle.Designer.cs" line="102" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ChangeStyle.Designer.cs" bodystart="102" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1ChangeStyle_1a9d7c5ebf1430daefd79bdcf3690fa209" compoundref="ChangeStyle_8cs" startline="24" endline="30">Risk1.ChangeStyle.button1_Click</referencedby>
+        <referencedby refid="classRisk1_1_1ChangeStyle_1a5bf41bcc4de2533e4f1a8f2cc8f5e97d" compoundref="ChangeStyle_8cs" startline="32" endline="37">Risk1.ChangeStyle.ChangeStyle_Load</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1ChangeStyle_1ab06536946609a462b7bd09e16c594b8f" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Label</type>
+        <definition>System.Windows.Forms.Label Risk1.ChangeStyle.label1</definition>
+        <argsstring></argsstring>
+        <name>label1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ChangeStyle.Designer.cs" line="103" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ChangeStyle.Designer.cs" bodystart="103" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1ChangeStyle_1a1a11eb9026d74f8d9763533209e4a8a9" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.ColorDialog</type>
+        <definition>System.Windows.Forms.ColorDialog Risk1.ChangeStyle.colorDialog1</definition>
+        <argsstring></argsstring>
+        <name>colorDialog1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ChangeStyle.Designer.cs" line="104" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ChangeStyle.Designer.cs" bodystart="104" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1ChangeStyle_1a9d7c5ebf1430daefd79bdcf3690fa209" compoundref="ChangeStyle_8cs" startline="24" endline="30">Risk1.ChangeStyle.button1_Click</referencedby>
+        <referencedby refid="classRisk1_1_1ChangeStyle_1a5bf41bcc4de2533e4f1a8f2cc8f5e97d" compoundref="ChangeStyle_8cs" startline="32" endline="37">Risk1.ChangeStyle.ChangeStyle_Load</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1ChangeStyle_1a849c378e4e18dbae4dda317d7f2283d4" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Button</type>
+        <definition>System.Windows.Forms.Button Risk1.ChangeStyle.button2</definition>
+        <argsstring></argsstring>
+        <name>button2</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ChangeStyle.Designer.cs" line="105" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ChangeStyle.Designer.cs" bodystart="105" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1ChangeStyle_1a78077dc92fa653f04798c0dac9248b37" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Panel</type>
+        <definition>System.Windows.Forms.Panel Risk1.ChangeStyle.panel1</definition>
+        <argsstring></argsstring>
+        <name>panel1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ChangeStyle.Designer.cs" line="106" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ChangeStyle.Designer.cs" bodystart="106" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classRisk1_1_1ChangeStyle_1a218667e53d0e9dd5e1d8996e8d056324" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Risk1.ChangeStyle.ChangeStyle</definition>
+        <argsstring>(Form1 form1)</argsstring>
+        <name>ChangeStyle</name>
+        <param>
+          <type><ref refid="classRisk1_1_1Form1" kindref="compound">Form1</ref></type>
+          <declname>form1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ChangeStyle.cs" line="17" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ChangeStyle.cs" bodystart="16" bodyend="20"/>
+        <references refid="classRisk1_1_1ChangeStyle_1ad65dd90425cb477b33cf492af4743170" compoundref="ChangeStyle_8cs" startline="14">Risk1.ChangeStyle.f1</references>
+        <references refid="classRisk1_1_1ChangeStyle_1aa768006d6e358ea58a58712dddb9de9e" compoundref="ChangeStyle_8Designer_8cs" startline="29" endline="98">Risk1.ChangeStyle.InitializeComponent</references>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="classRisk1_1_1ChangeStyle_1a9d7c5ebf1430daefd79bdcf3690fa209" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.ChangeStyle.button1_Click</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>button1_Click</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ChangeStyle.cs" line="25" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ChangeStyle.cs" bodystart="24" bodyend="30"/>
+        <references refid="classRisk1_1_1ChangeStyle_1adc9844f00e4ec47832ee68db3c7c79d9" compoundref="ChangeStyle_8Designer_8cs" startline="102">Risk1.ChangeStyle.button1</references>
+        <references refid="classRisk1_1_1ChangeStyle_1a375a730ec008f4c52b0c1fb8499efd6f" compoundref="ChangeStyle_8cs" startline="15">Risk1.ChangeStyle.c</references>
+        <references refid="classRisk1_1_1ChangeStyle_1a1a11eb9026d74f8d9763533209e4a8a9" compoundref="ChangeStyle_8Designer_8cs" startline="104">Risk1.ChangeStyle.colorDialog1</references>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1ChangeStyle_1a5bf41bcc4de2533e4f1a8f2cc8f5e97d" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.ChangeStyle.ChangeStyle_Load</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>ChangeStyle_Load</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ChangeStyle.cs" line="33" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ChangeStyle.cs" bodystart="32" bodyend="37"/>
+        <references refid="classRisk1_1_1ChangeStyle_1adc9844f00e4ec47832ee68db3c7c79d9" compoundref="ChangeStyle_8Designer_8cs" startline="102">Risk1.ChangeStyle.button1</references>
+        <references refid="classRisk1_1_1ChangeStyle_1a375a730ec008f4c52b0c1fb8499efd6f" compoundref="ChangeStyle_8cs" startline="15">Risk1.ChangeStyle.c</references>
+        <references refid="classRisk1_1_1ChangeStyle_1a1a11eb9026d74f8d9763533209e4a8a9" compoundref="ChangeStyle_8Designer_8cs" startline="104">Risk1.ChangeStyle.colorDialog1</references>
+        <references refid="classRisk1_1_1Form1_1a2b57c6655a7cdf74eeaa00055c8b5b8b" compoundref="Form1_8cs" startline="41">Risk1.Form1.deniz</references>
+        <references refid="classRisk1_1_1ChangeStyle_1ad65dd90425cb477b33cf492af4743170" compoundref="ChangeStyle_8cs" startline="14">Risk1.ChangeStyle.f1</references>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1ChangeStyle_1a713454ba512bb2a1d80d4fab8cc274cc" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.ChangeStyle.button2_Click</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>button2_Click</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ChangeStyle.cs" line="40" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ChangeStyle.cs" bodystart="39" bodyend="43"/>
+        <references refid="classRisk1_1_1ChangeStyle_1a375a730ec008f4c52b0c1fb8499efd6f" compoundref="ChangeStyle_8cs" startline="15">Risk1.ChangeStyle.c</references>
+        <references refid="classRisk1_1_1Form1_1a268cb2b8da2c2a9d666d800f6fe6cf87" compoundref="Form1_8cs" startline="490" endline="499">Risk1.Form1.changeDenizColor</references>
+        <references refid="classRisk1_1_1ChangeStyle_1ad65dd90425cb477b33cf492af4743170" compoundref="ChangeStyle_8cs" startline="14">Risk1.ChangeStyle.f1</references>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1ChangeStyle_1aa768006d6e358ea58a58712dddb9de9e" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.ChangeStyle.InitializeComponent</definition>
+        <argsstring>()</argsstring>
+        <name>InitializeComponent</name>
+        <briefdescription>
+<para>Required method for Designer support - do not modify the contents of this method with the code editor. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ChangeStyle.Designer.cs" line="30" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ChangeStyle.Designer.cs" bodystart="29" bodyend="98"/>
+        <referencedby refid="classRisk1_1_1ChangeStyle_1a218667e53d0e9dd5e1d8996e8d056324" compoundref="ChangeStyle_8cs" startline="16" endline="20">Risk1.ChangeStyle.ChangeStyle</referencedby>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="protected-func">
+      <memberdef kind="function" id="classRisk1_1_1ChangeStyle_1ad2b1e9096c5676054456e76e160608e9" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override void</type>
+        <definition>override void Risk1.ChangeStyle.Dispose</definition>
+        <argsstring>(bool disposing)</argsstring>
+        <name>Dispose</name>
+        <param>
+          <type>bool</type>
+          <declname>disposing</declname>
+        </param>
+        <briefdescription>
+<para>Clean up any resources being used. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>disposing</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>true if managed resources should be disposed; otherwise, false.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ChangeStyle.Designer.cs" line="15" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ChangeStyle.Designer.cs" bodystart="14" bodyend="21"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <collaborationgraph>
+      <node id="218">
+        <label>ArtificalIntelligence</label>
+        <link refid="classRisk1_1_1ArtificalIntelligence"/>
+      </node>
+      <node id="219">
+        <label>Risk1.Statistics</label>
+        <link refid="classRisk1_1_1Statistics"/>
+      </node>
+      <node id="215">
+        <label>Risk1.ChangeStyle</label>
+        <link refid="classRisk1_1_1ChangeStyle"/>
+        <childnode refid="216" relation="usage">
+          <edgelabel>f1</edgelabel>
+        </childnode>
+        <childnode refid="224" relation="usage">
+          <edgelabel>label1</edgelabel>
+          <edgelabel>panel1</edgelabel>
+          <edgelabel>components</edgelabel>
+          <edgelabel>button1</edgelabel>
+          <edgelabel>button2</edgelabel>
+          <edgelabel>colorDialog1</edgelabel>
+        </childnode>
+      </node>
+      <node id="220">
+        <label>Risk1.GameData</label>
+        <link refid="classRisk1_1_1GameData"/>
+      </node>
+      <node id="222">
+        <label>Risk1.Player</label>
+        <link refid="classRisk1_1_1Player"/>
+      </node>
+      <node id="223">
+        <label>Risk1.Ordu</label>
+        <link refid="classRisk1_1_1Ordu"/>
+      </node>
+      <node id="217">
+        <label>Risk1.AI</label>
+        <link refid="classRisk1_1_1AI"/>
+        <childnode refid="218" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="224">
+        <label>System</label>
+      </node>
+      <node id="216">
+        <label>Risk1.Form1</label>
+        <link refid="classRisk1_1_1Form1"/>
+        <childnode refid="217" relation="usage">
+          <edgelabel>ai</edgelabel>
+        </childnode>
+        <childnode refid="219" relation="usage">
+          <edgelabel>statistics</edgelabel>
+        </childnode>
+        <childnode refid="220" relation="usage">
+          <edgelabel>gameData</edgelabel>
+        </childnode>
+        <childnode refid="221" relation="usage">
+          <edgelabel>ilkTiklananBolge</edgelabel>
+        </childnode>
+        <childnode refid="224" relation="usage">
+          <edgelabel>showStatisticsToolStripMenuItem</edgelabel>
+          <edgelabel>rulesToolStripMenuItem</edgelabel>
+          <edgelabel>exitToolStripMenuItem</edgelabel>
+          <edgelabel>pictureBox1</edgelabel>
+          <edgelabel>timer1</edgelabel>
+          <edgelabel>pictureBox2</edgelabel>
+          <edgelabel>aboutToolStripMenuItem</edgelabel>
+          <edgelabel>endGameToolStripMenuItem</edgelabel>
+          <edgelabel>label1</edgelabel>
+          <edgelabel>pictureBox3</edgelabel>
+          <edgelabel>...</edgelabel>
+        </childnode>
+        <childnode refid="225" relation="usage">
+          <edgelabel>ai2</edgelabel>
+        </childnode>
+        <childnode refid="226" relation="usage">
+          <edgelabel>ai3</edgelabel>
+        </childnode>
+        <childnode refid="227" relation="usage">
+          <edgelabel>ai4</edgelabel>
+        </childnode>
+      </node>
+      <node id="225">
+        <label>Risk1.AI2</label>
+        <link refid="classRisk1_1_1AI2"/>
+        <childnode refid="218" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="226">
+        <label>Risk1.AI3</label>
+        <link refid="classRisk1_1_1AI3"/>
+        <childnode refid="218" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="227">
+        <label>Risk1.AI4</label>
+        <link refid="classRisk1_1_1AI4"/>
+        <childnode refid="218" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="221">
+        <label>Risk1.Bolge</label>
+        <link refid="classRisk1_1_1Bolge"/>
+        <childnode refid="222" relation="usage">
+          <edgelabel>sahip</edgelabel>
+        </childnode>
+        <childnode refid="223" relation="usage">
+          <edgelabel>ordu</edgelabel>
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ChangeStyle.cs" line="13" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ChangeStyle.cs" bodystart="12" bodyend="44"/>
+    <listofallmembers>
+      <member refid="classRisk1_1_1ChangeStyle_1adc9844f00e4ec47832ee68db3c7c79d9" prot="private" virt="non-virtual"><scope>Risk1::ChangeStyle</scope><name>button1</name></member>
+      <member refid="classRisk1_1_1ChangeStyle_1a9d7c5ebf1430daefd79bdcf3690fa209" prot="private" virt="non-virtual"><scope>Risk1::ChangeStyle</scope><name>button1_Click</name></member>
+      <member refid="classRisk1_1_1ChangeStyle_1a849c378e4e18dbae4dda317d7f2283d4" prot="private" virt="non-virtual"><scope>Risk1::ChangeStyle</scope><name>button2</name></member>
+      <member refid="classRisk1_1_1ChangeStyle_1a713454ba512bb2a1d80d4fab8cc274cc" prot="private" virt="non-virtual"><scope>Risk1::ChangeStyle</scope><name>button2_Click</name></member>
+      <member refid="classRisk1_1_1ChangeStyle_1a375a730ec008f4c52b0c1fb8499efd6f" prot="private" virt="non-virtual"><scope>Risk1::ChangeStyle</scope><name>c</name></member>
+      <member refid="classRisk1_1_1ChangeStyle_1a218667e53d0e9dd5e1d8996e8d056324" prot="public" virt="non-virtual"><scope>Risk1::ChangeStyle</scope><name>ChangeStyle</name></member>
+      <member refid="classRisk1_1_1ChangeStyle_1a5bf41bcc4de2533e4f1a8f2cc8f5e97d" prot="private" virt="non-virtual"><scope>Risk1::ChangeStyle</scope><name>ChangeStyle_Load</name></member>
+      <member refid="classRisk1_1_1ChangeStyle_1a1a11eb9026d74f8d9763533209e4a8a9" prot="private" virt="non-virtual"><scope>Risk1::ChangeStyle</scope><name>colorDialog1</name></member>
+      <member refid="classRisk1_1_1ChangeStyle_1a84ff8673a0cf6cebcbc02a7ce7812401" prot="private" virt="non-virtual"><scope>Risk1::ChangeStyle</scope><name>components</name></member>
+      <member refid="classRisk1_1_1ChangeStyle_1ad2b1e9096c5676054456e76e160608e9" prot="protected" virt="non-virtual"><scope>Risk1::ChangeStyle</scope><name>Dispose</name></member>
+      <member refid="classRisk1_1_1ChangeStyle_1ad65dd90425cb477b33cf492af4743170" prot="private" virt="non-virtual"><scope>Risk1::ChangeStyle</scope><name>f1</name></member>
+      <member refid="classRisk1_1_1ChangeStyle_1aa768006d6e358ea58a58712dddb9de9e" prot="private" virt="non-virtual"><scope>Risk1::ChangeStyle</scope><name>InitializeComponent</name></member>
+      <member refid="classRisk1_1_1ChangeStyle_1ab06536946609a462b7bd09e16c594b8f" prot="private" virt="non-virtual"><scope>Risk1::ChangeStyle</scope><name>label1</name></member>
+      <member refid="classRisk1_1_1ChangeStyle_1a78077dc92fa653f04798c0dac9248b37" prot="private" virt="non-virtual"><scope>Risk1::ChangeStyle</scope><name>panel1</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,683 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.0">
+  <compounddef id="classRisk1_1_1SaldiriEkrani" kind="class" prot="public">
+    <compoundname>Risk1::SaldiriEkrani</compoundname>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classRisk1_1_1SaldiriEkrani_1a7ead26f067dfc3677ef007f191f2923d" prot="private" static="no" mutable="no">
+        <type><ref refid="classRisk1_1_1Bolge" kindref="compound">Bolge</ref></type>
+        <definition>Bolge Risk1.SaldiriEkrani.bolge1</definition>
+        <argsstring></argsstring>
+        <name>bolge1</name>
+        <initializer> null</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/SaldiriEkrani.cs" line="14" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/SaldiriEkrani.cs" bodystart="14" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1SaldiriEkrani_1ac3797af636839d18f77478aebf50fde0" compoundref="SaldiriEkrani_8cs" startline="19" endline="25">Risk1.SaldiriEkrani.SaldiriEkrani</referencedby>
+        <referencedby refid="classRisk1_1_1SaldiriEkrani_1a3894c6cb2e9a9e2950ee9ab4d13dfaad" compoundref="SaldiriEkrani_8cs" startline="33" endline="42">Risk1.SaldiriEkrani.SaldiriEkrani_Load</referencedby>
+        <referencedby refid="classRisk1_1_1SaldiriEkrani_1aaa88336a2cdb39fac1bf5d9959c8083e" compoundref="SaldiriEkrani_8cs" startline="175" endline="235">Risk1.SaldiriEkrani.warAttack</referencedby>
+        <referencedby refid="classRisk1_1_1SaldiriEkrani_1af22f046d5ad2382e986640b8a74686b8" compoundref="SaldiriEkrani_8cs" startline="107" endline="173">Risk1.SaldiriEkrani.warDoORDie</referencedby>
+        <referencedby refid="classRisk1_1_1SaldiriEkrani_1abf5f5722a078df9b3ad893acd93c2806" compoundref="SaldiriEkrani_8cs" startline="49" endline="104">Risk1.SaldiriEkrani.warDoORDieForAi</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1SaldiriEkrani_1ac92fdd4e0b5c80f873ffaefa5248a2b7" prot="private" static="no" mutable="no">
+        <type><ref refid="classRisk1_1_1Bolge" kindref="compound">Bolge</ref></type>
+        <definition>Bolge Risk1.SaldiriEkrani.bolge2</definition>
+        <argsstring></argsstring>
+        <name>bolge2</name>
+        <initializer> null</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/SaldiriEkrani.cs" line="15" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/SaldiriEkrani.cs" bodystart="15" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1SaldiriEkrani_1ac3797af636839d18f77478aebf50fde0" compoundref="SaldiriEkrani_8cs" startline="19" endline="25">Risk1.SaldiriEkrani.SaldiriEkrani</referencedby>
+        <referencedby refid="classRisk1_1_1SaldiriEkrani_1a3894c6cb2e9a9e2950ee9ab4d13dfaad" compoundref="SaldiriEkrani_8cs" startline="33" endline="42">Risk1.SaldiriEkrani.SaldiriEkrani_Load</referencedby>
+        <referencedby refid="classRisk1_1_1SaldiriEkrani_1aaa88336a2cdb39fac1bf5d9959c8083e" compoundref="SaldiriEkrani_8cs" startline="175" endline="235">Risk1.SaldiriEkrani.warAttack</referencedby>
+        <referencedby refid="classRisk1_1_1SaldiriEkrani_1af22f046d5ad2382e986640b8a74686b8" compoundref="SaldiriEkrani_8cs" startline="107" endline="173">Risk1.SaldiriEkrani.warDoORDie</referencedby>
+        <referencedby refid="classRisk1_1_1SaldiriEkrani_1abf5f5722a078df9b3ad893acd93c2806" compoundref="SaldiriEkrani_8cs" startline="49" endline="104">Risk1.SaldiriEkrani.warDoORDieForAi</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1SaldiriEkrani_1a752132ebc8490259a0f656ebee64b9a9" prot="private" static="no" mutable="no">
+        <type><ref refid="classRisk1_1_1Form1" kindref="compound">Form1</ref></type>
+        <definition>Form1 Risk1.SaldiriEkrani.form1</definition>
+        <argsstring></argsstring>
+        <name>form1</name>
+        <initializer> null</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/SaldiriEkrani.cs" line="16" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/SaldiriEkrani.cs" bodystart="16" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1SaldiriEkrani_1ac3797af636839d18f77478aebf50fde0" compoundref="SaldiriEkrani_8cs" startline="19" endline="25">Risk1.SaldiriEkrani.SaldiriEkrani</referencedby>
+        <referencedby refid="classRisk1_1_1SaldiriEkrani_1aaa88336a2cdb39fac1bf5d9959c8083e" compoundref="SaldiriEkrani_8cs" startline="175" endline="235">Risk1.SaldiriEkrani.warAttack</referencedby>
+        <referencedby refid="classRisk1_1_1SaldiriEkrani_1af22f046d5ad2382e986640b8a74686b8" compoundref="SaldiriEkrani_8cs" startline="107" endline="173">Risk1.SaldiriEkrani.warDoORDie</referencedby>
+        <referencedby refid="classRisk1_1_1SaldiriEkrani_1abf5f5722a078df9b3ad893acd93c2806" compoundref="SaldiriEkrani_8cs" startline="49" endline="104">Risk1.SaldiriEkrani.warDoORDieForAi</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1SaldiriEkrani_1a7f0c10be9c033529f1961786415657fa" prot="private" static="no" mutable="no">
+        <type>int</type>
+        <definition>int Risk1.SaldiriEkrani.randomAraligi</definition>
+        <argsstring></argsstring>
+        <name>randomAraligi</name>
+        <initializer> 20</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/SaldiriEkrani.cs" line="17" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/SaldiriEkrani.cs" bodystart="17" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1SaldiriEkrani_1aaa88336a2cdb39fac1bf5d9959c8083e" compoundref="SaldiriEkrani_8cs" startline="175" endline="235">Risk1.SaldiriEkrani.warAttack</referencedby>
+        <referencedby refid="classRisk1_1_1SaldiriEkrani_1af22f046d5ad2382e986640b8a74686b8" compoundref="SaldiriEkrani_8cs" startline="107" endline="173">Risk1.SaldiriEkrani.warDoORDie</referencedby>
+        <referencedby refid="classRisk1_1_1SaldiriEkrani_1abf5f5722a078df9b3ad893acd93c2806" compoundref="SaldiriEkrani_8cs" startline="49" endline="104">Risk1.SaldiriEkrani.warDoORDieForAi</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1SaldiriEkrani_1ad9c940290295d0a72a3c49d2f900b2a7" prot="private" static="no" mutable="no">
+        <type>Random</type>
+        <definition>Random Risk1.SaldiriEkrani.random</definition>
+        <argsstring></argsstring>
+        <name>random</name>
+        <initializer> new Random()</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/SaldiriEkrani.cs" line="105" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/SaldiriEkrani.cs" bodystart="105" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1SaldiriEkrani_1aaa88336a2cdb39fac1bf5d9959c8083e" compoundref="SaldiriEkrani_8cs" startline="175" endline="235">Risk1.SaldiriEkrani.warAttack</referencedby>
+        <referencedby refid="classRisk1_1_1SaldiriEkrani_1af22f046d5ad2382e986640b8a74686b8" compoundref="SaldiriEkrani_8cs" startline="107" endline="173">Risk1.SaldiriEkrani.warDoORDie</referencedby>
+        <referencedby refid="classRisk1_1_1SaldiriEkrani_1abf5f5722a078df9b3ad893acd93c2806" compoundref="SaldiriEkrani_8cs" startline="49" endline="104">Risk1.SaldiriEkrani.warDoORDieForAi</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1SaldiriEkrani_1ad6fe925457d6bd4cf4f9aece3f5778db" prot="private" static="no" mutable="no">
+        <type>System.ComponentModel.IContainer</type>
+        <definition>System.ComponentModel.IContainer Risk1.SaldiriEkrani.components</definition>
+        <argsstring></argsstring>
+        <name>components</name>
+        <initializer> null</initializer>
+        <briefdescription>
+<para>Required designer variable. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/SaldiriEkrani.Designer.cs" line="8" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/SaldiriEkrani.Designer.cs" bodystart="8" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1SaldiriEkrani_1af74c8e3d5755584a25aced778d15db90" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Panel</type>
+        <definition>System.Windows.Forms.Panel Risk1.SaldiriEkrani.panel1</definition>
+        <argsstring></argsstring>
+        <name>panel1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/SaldiriEkrani.Designer.cs" line="184" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/SaldiriEkrani.Designer.cs" bodystart="184" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1SaldiriEkrani_1a3894c6cb2e9a9e2950ee9ab4d13dfaad" compoundref="SaldiriEkrani_8cs" startline="33" endline="42">Risk1.SaldiriEkrani.SaldiriEkrani_Load</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1SaldiriEkrani_1a31a31e1b07b61af57c393e3c87c36ab4" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Panel</type>
+        <definition>System.Windows.Forms.Panel Risk1.SaldiriEkrani.panel2</definition>
+        <argsstring></argsstring>
+        <name>panel2</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/SaldiriEkrani.Designer.cs" line="185" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/SaldiriEkrani.Designer.cs" bodystart="185" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1SaldiriEkrani_1a3894c6cb2e9a9e2950ee9ab4d13dfaad" compoundref="SaldiriEkrani_8cs" startline="33" endline="42">Risk1.SaldiriEkrani.SaldiriEkrani_Load</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1SaldiriEkrani_1ab4166c55d105ea769dd897b76c0057f1" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Button</type>
+        <definition>System.Windows.Forms.Button Risk1.SaldiriEkrani.button1</definition>
+        <argsstring></argsstring>
+        <name>button1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/SaldiriEkrani.Designer.cs" line="186" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/SaldiriEkrani.Designer.cs" bodystart="186" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1SaldiriEkrani_1a3894c6cb2e9a9e2950ee9ab4d13dfaad" compoundref="SaldiriEkrani_8cs" startline="33" endline="42">Risk1.SaldiriEkrani.SaldiriEkrani_Load</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1SaldiriEkrani_1a86d67868118e018819db2054c713c654" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Button</type>
+        <definition>System.Windows.Forms.Button Risk1.SaldiriEkrani.button2</definition>
+        <argsstring></argsstring>
+        <name>button2</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/SaldiriEkrani.Designer.cs" line="187" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/SaldiriEkrani.Designer.cs" bodystart="187" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1SaldiriEkrani_1a7be73108e848635e6020874f031dfbde" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Button</type>
+        <definition>System.Windows.Forms.Button Risk1.SaldiriEkrani.button3</definition>
+        <argsstring></argsstring>
+        <name>button3</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/SaldiriEkrani.Designer.cs" line="188" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/SaldiriEkrani.Designer.cs" bodystart="188" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1SaldiriEkrani_1ae8c74c370fbc04f8ea887b9eb3794f83" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.TextBox</type>
+        <definition>System.Windows.Forms.TextBox Risk1.SaldiriEkrani.textBox2</definition>
+        <argsstring></argsstring>
+        <name>textBox2</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/SaldiriEkrani.Designer.cs" line="189" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/SaldiriEkrani.Designer.cs" bodystart="189" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1SaldiriEkrani_1a72e0cde0677e9a86f4f86dfce27dfe0c" compoundref="SaldiriEkrani_8cs" startline="27" endline="31">Risk1.SaldiriEkrani.refreshSaldiriEkrani</referencedby>
+        <referencedby refid="classRisk1_1_1SaldiriEkrani_1a3894c6cb2e9a9e2950ee9ab4d13dfaad" compoundref="SaldiriEkrani_8cs" startline="33" endline="42">Risk1.SaldiriEkrani.SaldiriEkrani_Load</referencedby>
+        <referencedby refid="classRisk1_1_1SaldiriEkrani_1aaa88336a2cdb39fac1bf5d9959c8083e" compoundref="SaldiriEkrani_8cs" startline="175" endline="235">Risk1.SaldiriEkrani.warAttack</referencedby>
+        <referencedby refid="classRisk1_1_1SaldiriEkrani_1af22f046d5ad2382e986640b8a74686b8" compoundref="SaldiriEkrani_8cs" startline="107" endline="173">Risk1.SaldiriEkrani.warDoORDie</referencedby>
+        <referencedby refid="classRisk1_1_1SaldiriEkrani_1abf5f5722a078df9b3ad893acd93c2806" compoundref="SaldiriEkrani_8cs" startline="49" endline="104">Risk1.SaldiriEkrani.warDoORDieForAi</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1SaldiriEkrani_1a8fbcf59b7b4905fc07c35a9fa1a3624c" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.TextBox</type>
+        <definition>System.Windows.Forms.TextBox Risk1.SaldiriEkrani.textBox3</definition>
+        <argsstring></argsstring>
+        <name>textBox3</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/SaldiriEkrani.Designer.cs" line="190" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/SaldiriEkrani.Designer.cs" bodystart="190" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1SaldiriEkrani_1a72e0cde0677e9a86f4f86dfce27dfe0c" compoundref="SaldiriEkrani_8cs" startline="27" endline="31">Risk1.SaldiriEkrani.refreshSaldiriEkrani</referencedby>
+        <referencedby refid="classRisk1_1_1SaldiriEkrani_1a3894c6cb2e9a9e2950ee9ab4d13dfaad" compoundref="SaldiriEkrani_8cs" startline="33" endline="42">Risk1.SaldiriEkrani.SaldiriEkrani_Load</referencedby>
+        <referencedby refid="classRisk1_1_1SaldiriEkrani_1aaa88336a2cdb39fac1bf5d9959c8083e" compoundref="SaldiriEkrani_8cs" startline="175" endline="235">Risk1.SaldiriEkrani.warAttack</referencedby>
+        <referencedby refid="classRisk1_1_1SaldiriEkrani_1af22f046d5ad2382e986640b8a74686b8" compoundref="SaldiriEkrani_8cs" startline="107" endline="173">Risk1.SaldiriEkrani.warDoORDie</referencedby>
+        <referencedby refid="classRisk1_1_1SaldiriEkrani_1abf5f5722a078df9b3ad893acd93c2806" compoundref="SaldiriEkrani_8cs" startline="49" endline="104">Risk1.SaldiriEkrani.warDoORDieForAi</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1SaldiriEkrani_1a436f68b330999a992f9a6ddec61c7d4c" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.TextBox</type>
+        <definition>System.Windows.Forms.TextBox Risk1.SaldiriEkrani.textBox4</definition>
+        <argsstring></argsstring>
+        <name>textBox4</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/SaldiriEkrani.Designer.cs" line="191" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/SaldiriEkrani.Designer.cs" bodystart="191" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1SaldiriEkrani_1a3894c6cb2e9a9e2950ee9ab4d13dfaad" compoundref="SaldiriEkrani_8cs" startline="33" endline="42">Risk1.SaldiriEkrani.SaldiriEkrani_Load</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1SaldiriEkrani_1ac3ffd588cf3436b0b8965f7ce72e36b5" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.TextBox</type>
+        <definition>System.Windows.Forms.TextBox Risk1.SaldiriEkrani.textBox1</definition>
+        <argsstring></argsstring>
+        <name>textBox1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/SaldiriEkrani.Designer.cs" line="192" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/SaldiriEkrani.Designer.cs" bodystart="192" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1SaldiriEkrani_1a3894c6cb2e9a9e2950ee9ab4d13dfaad" compoundref="SaldiriEkrani_8cs" startline="33" endline="42">Risk1.SaldiriEkrani.SaldiriEkrani_Load</referencedby>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classRisk1_1_1SaldiriEkrani_1ac3797af636839d18f77478aebf50fde0" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Risk1.SaldiriEkrani.SaldiriEkrani</definition>
+        <argsstring>(Bolge b1, Bolge b2, Form1 f1)</argsstring>
+        <name>SaldiriEkrani</name>
+        <param>
+          <type><ref refid="classRisk1_1_1Bolge" kindref="compound">Bolge</ref></type>
+          <declname>b1</declname>
+        </param>
+        <param>
+          <type><ref refid="classRisk1_1_1Bolge" kindref="compound">Bolge</ref></type>
+          <declname>b2</declname>
+        </param>
+        <param>
+          <type><ref refid="classRisk1_1_1Form1" kindref="compound">Form1</ref></type>
+          <declname>f1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/SaldiriEkrani.cs" line="20" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/SaldiriEkrani.cs" bodystart="19" bodyend="25"/>
+        <references refid="classRisk1_1_1SaldiriEkrani_1a7ead26f067dfc3677ef007f191f2923d" compoundref="SaldiriEkrani_8cs" startline="14">Risk1.SaldiriEkrani.bolge1</references>
+        <references refid="classRisk1_1_1SaldiriEkrani_1ac92fdd4e0b5c80f873ffaefa5248a2b7" compoundref="SaldiriEkrani_8cs" startline="15">Risk1.SaldiriEkrani.bolge2</references>
+        <references refid="classRisk1_1_1SaldiriEkrani_1a752132ebc8490259a0f656ebee64b9a9" compoundref="SaldiriEkrani_8cs" startline="16">Risk1.SaldiriEkrani.form1</references>
+        <references refid="classRisk1_1_1SaldiriEkrani_1a3d35395c9785ae5c33d902c9db71bee7" compoundref="SaldiriEkrani_8Designer_8cs" startline="29" endline="180">Risk1.SaldiriEkrani.InitializeComponent</references>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1SaldiriEkrani_1a72e0cde0677e9a86f4f86dfce27dfe0c" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.SaldiriEkrani.refreshSaldiriEkrani</definition>
+        <argsstring>()</argsstring>
+        <name>refreshSaldiriEkrani</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/SaldiriEkrani.cs" line="28" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/SaldiriEkrani.cs" bodystart="27" bodyend="31"/>
+        <references refid="classRisk1_1_1SaldiriEkrani_1ae8c74c370fbc04f8ea887b9eb3794f83" compoundref="SaldiriEkrani_8Designer_8cs" startline="189">Risk1.SaldiriEkrani.textBox2</references>
+        <references refid="classRisk1_1_1SaldiriEkrani_1a8fbcf59b7b4905fc07c35a9fa1a3624c" compoundref="SaldiriEkrani_8Designer_8cs" startline="190">Risk1.SaldiriEkrani.textBox3</references>
+        <referencedby refid="classRisk1_1_1SaldiriEkrani_1af22f046d5ad2382e986640b8a74686b8" compoundref="SaldiriEkrani_8cs" startline="107" endline="173">Risk1.SaldiriEkrani.warDoORDie</referencedby>
+        <referencedby refid="classRisk1_1_1SaldiriEkrani_1abf5f5722a078df9b3ad893acd93c2806" compoundref="SaldiriEkrani_8cs" startline="49" endline="104">Risk1.SaldiriEkrani.warDoORDieForAi</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1SaldiriEkrani_1abf5f5722a078df9b3ad893acd93c2806" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.SaldiriEkrani.warDoORDieForAi</definition>
+        <argsstring>()</argsstring>
+        <name>warDoORDieForAi</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/SaldiriEkrani.cs" line="50" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/SaldiriEkrani.cs" bodystart="49" bodyend="104"/>
+        <references refid="classRisk1_1_1Ordu_1a6c0b78a761fe481445bd7c86c8aeb833" compoundref="Ordu_8cs" startline="10">Risk1.Ordu.askerSayisi</references>
+        <references refid="classRisk1_1_1SaldiriEkrani_1a7ead26f067dfc3677ef007f191f2923d" compoundref="SaldiriEkrani_8cs" startline="14">Risk1.SaldiriEkrani.bolge1</references>
+        <references refid="classRisk1_1_1SaldiriEkrani_1ac92fdd4e0b5c80f873ffaefa5248a2b7" compoundref="SaldiriEkrani_8cs" startline="15">Risk1.SaldiriEkrani.bolge2</references>
+        <references refid="classRisk1_1_1Player_1a37d306fb05f59a83f94847cbb59f8c69" compoundref="Player_8cs" startline="27">Risk1.Player.bolgeler</references>
+        <references refid="classRisk1_1_1Form1_1a3c3980da047bdb83f50586a836375f61" compoundref="Form1_8cs" startline="265" endline="478">Risk1.Form1.changeLabel</references>
+        <references refid="classRisk1_1_1Form1_1aa203bf2cf556808029aa90fd2d6eb6e2" compoundref="Form1_8cs" startline="480" endline="488">Risk1.Form1.changeTerritoryColor</references>
+        <references refid="classRisk1_1_1SaldiriEkrani_1a752132ebc8490259a0f656ebee64b9a9" compoundref="SaldiriEkrani_8cs" startline="16">Risk1.SaldiriEkrani.form1</references>
+        <references refid="classRisk1_1_1Form1_1a306ef5e5bbe40f5aabc6024746838f3d" compoundref="Form1_8cs" startline="76" endline="81">Risk1.Form1.getGameData</references>
+        <references refid="classRisk1_1_1Bolge_1a722de30a96f87b39b46bcbcde47c5327" compoundref="Bolge_8cs" startline="47">Risk1.Bolge.index</references>
+        <references refid="classRisk1_1_1Bolge_1a4c7e438f8452f95fe887892d243651bc" compoundref="Bolge_8cs" startline="23">Risk1.Bolge.isim</references>
+        <references refid="classRisk1_1_1Bolge_1a4835838ca280efd4a82724fd75b5b170" compoundref="Bolge_8cs" startline="39">Risk1.Bolge.ordu</references>
+        <references refid="classRisk1_1_1Form1_1acba062c38cacbc0d1488ce2f8dfe8715" compoundref="Form1_8cs" startline="25">Risk1.Form1.players</references>
+        <references refid="classRisk1_1_1SaldiriEkrani_1ad9c940290295d0a72a3c49d2f900b2a7" compoundref="SaldiriEkrani_8cs" startline="105">Risk1.SaldiriEkrani.random</references>
+        <references refid="classRisk1_1_1SaldiriEkrani_1a7f0c10be9c033529f1961786415657fa" compoundref="SaldiriEkrani_8cs" startline="17">Risk1.SaldiriEkrani.randomAraligi</references>
+        <references refid="classRisk1_1_1Form1_1a207f03f821474907153b623b676fe7b1" compoundref="Form1_8cs" startline="513" endline="570">Risk1.Form1.refreshGame</references>
+        <references refid="classRisk1_1_1SaldiriEkrani_1a72e0cde0677e9a86f4f86dfce27dfe0c" compoundref="SaldiriEkrani_8cs" startline="27" endline="31">Risk1.SaldiriEkrani.refreshSaldiriEkrani</references>
+        <references refid="classRisk1_1_1Bolge_1a6ea883664353e7480178fb57e5e856d8" compoundref="Bolge_8cs" startline="35">Risk1.Bolge.sahip</references>
+        <references refid="classRisk1_1_1SaldiriEkrani_1ae8c74c370fbc04f8ea887b9eb3794f83" compoundref="SaldiriEkrani_8Designer_8cs" startline="189">Risk1.SaldiriEkrani.textBox2</references>
+        <references refid="classRisk1_1_1SaldiriEkrani_1a8fbcf59b7b4905fc07c35a9fa1a3624c" compoundref="SaldiriEkrani_8Designer_8cs" startline="190">Risk1.SaldiriEkrani.textBox3</references>
+        <references refid="classRisk1_1_1Form1_1a92e167dba4211bca7b6e2bcdb4991790" compoundref="Form1_8cs" startline="28">Risk1.Form1.turn</references>
+        <references refid="classRisk1_1_1Form1_1a4a32a0335e6463b9746c414f466f382f" compoundref="Form1_8cs" startline="40">Risk1.Form1.yapayzekalar</references>
+        <referencedby refid="classRisk1_1_1Form1_1a018eea4103c89dab9ab61df7f8dd2e78" compoundref="Form1_8cs" startline="581" endline="808">Risk1.Form1.changeTurn</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1SaldiriEkrani_1af22f046d5ad2382e986640b8a74686b8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.SaldiriEkrani.warDoORDie</definition>
+        <argsstring>()</argsstring>
+        <name>warDoORDie</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/SaldiriEkrani.cs" line="108" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/SaldiriEkrani.cs" bodystart="107" bodyend="173"/>
+        <references refid="classRisk1_1_1Ordu_1a6c0b78a761fe481445bd7c86c8aeb833" compoundref="Ordu_8cs" startline="10">Risk1.Ordu.askerSayisi</references>
+        <references refid="classRisk1_1_1SaldiriEkrani_1a7ead26f067dfc3677ef007f191f2923d" compoundref="SaldiriEkrani_8cs" startline="14">Risk1.SaldiriEkrani.bolge1</references>
+        <references refid="classRisk1_1_1SaldiriEkrani_1ac92fdd4e0b5c80f873ffaefa5248a2b7" compoundref="SaldiriEkrani_8cs" startline="15">Risk1.SaldiriEkrani.bolge2</references>
+        <references refid="classRisk1_1_1Player_1a37d306fb05f59a83f94847cbb59f8c69" compoundref="Player_8cs" startline="27">Risk1.Player.bolgeler</references>
+        <references refid="classRisk1_1_1Form1_1a3c3980da047bdb83f50586a836375f61" compoundref="Form1_8cs" startline="265" endline="478">Risk1.Form1.changeLabel</references>
+        <references refid="classRisk1_1_1Form1_1aa203bf2cf556808029aa90fd2d6eb6e2" compoundref="Form1_8cs" startline="480" endline="488">Risk1.Form1.changeTerritoryColor</references>
+        <references refid="classRisk1_1_1SaldiriEkrani_1a752132ebc8490259a0f656ebee64b9a9" compoundref="SaldiriEkrani_8cs" startline="16">Risk1.SaldiriEkrani.form1</references>
+        <references refid="classRisk1_1_1Form1_1aeb73dff2f53c4cdb0fb047f7bca6c0e0" compoundref="Form1_8cs" startline="31">Risk1.Form1.isArmyMoved</references>
+        <references refid="classRisk1_1_1Bolge_1a4c7e438f8452f95fe887892d243651bc" compoundref="Bolge_8cs" startline="23">Risk1.Bolge.isim</references>
+        <references refid="classRisk1_1_1Bolge_1a4835838ca280efd4a82724fd75b5b170" compoundref="Bolge_8cs" startline="39">Risk1.Bolge.ordu</references>
+        <references refid="classRisk1_1_1SaldiriEkrani_1ad9c940290295d0a72a3c49d2f900b2a7" compoundref="SaldiriEkrani_8cs" startline="105">Risk1.SaldiriEkrani.random</references>
+        <references refid="classRisk1_1_1SaldiriEkrani_1a7f0c10be9c033529f1961786415657fa" compoundref="SaldiriEkrani_8cs" startline="17">Risk1.SaldiriEkrani.randomAraligi</references>
+        <references refid="classRisk1_1_1Form1_1a207f03f821474907153b623b676fe7b1" compoundref="Form1_8cs" startline="513" endline="570">Risk1.Form1.refreshGame</references>
+        <references refid="classRisk1_1_1SaldiriEkrani_1a72e0cde0677e9a86f4f86dfce27dfe0c" compoundref="SaldiriEkrani_8cs" startline="27" endline="31">Risk1.SaldiriEkrani.refreshSaldiriEkrani</references>
+        <references refid="classRisk1_1_1Bolge_1a6ea883664353e7480178fb57e5e856d8" compoundref="Bolge_8cs" startline="35">Risk1.Bolge.sahip</references>
+        <references refid="classRisk1_1_1SaldiriEkrani_1ae8c74c370fbc04f8ea887b9eb3794f83" compoundref="SaldiriEkrani_8Designer_8cs" startline="189">Risk1.SaldiriEkrani.textBox2</references>
+        <references refid="classRisk1_1_1SaldiriEkrani_1a8fbcf59b7b4905fc07c35a9fa1a3624c" compoundref="SaldiriEkrani_8Designer_8cs" startline="190">Risk1.SaldiriEkrani.textBox3</references>
+        <referencedby refid="classRisk1_1_1SaldiriEkrani_1a67d3ec36e217d83d98e5f442a09e51fd" compoundref="SaldiriEkrani_8cs" startline="237" endline="240">Risk1.SaldiriEkrani.button2_Click</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1SaldiriEkrani_1aaa88336a2cdb39fac1bf5d9959c8083e" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.SaldiriEkrani.warAttack</definition>
+        <argsstring>()</argsstring>
+        <name>warAttack</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/SaldiriEkrani.cs" line="176" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/SaldiriEkrani.cs" bodystart="175" bodyend="235"/>
+        <references refid="classRisk1_1_1Ordu_1a6c0b78a761fe481445bd7c86c8aeb833" compoundref="Ordu_8cs" startline="10">Risk1.Ordu.askerSayisi</references>
+        <references refid="classRisk1_1_1SaldiriEkrani_1a7ead26f067dfc3677ef007f191f2923d" compoundref="SaldiriEkrani_8cs" startline="14">Risk1.SaldiriEkrani.bolge1</references>
+        <references refid="classRisk1_1_1SaldiriEkrani_1ac92fdd4e0b5c80f873ffaefa5248a2b7" compoundref="SaldiriEkrani_8cs" startline="15">Risk1.SaldiriEkrani.bolge2</references>
+        <references refid="classRisk1_1_1Player_1a37d306fb05f59a83f94847cbb59f8c69" compoundref="Player_8cs" startline="27">Risk1.Player.bolgeler</references>
+        <references refid="classRisk1_1_1Form1_1a3c3980da047bdb83f50586a836375f61" compoundref="Form1_8cs" startline="265" endline="478">Risk1.Form1.changeLabel</references>
+        <references refid="classRisk1_1_1Form1_1aa203bf2cf556808029aa90fd2d6eb6e2" compoundref="Form1_8cs" startline="480" endline="488">Risk1.Form1.changeTerritoryColor</references>
+        <references refid="classRisk1_1_1SaldiriEkrani_1a752132ebc8490259a0f656ebee64b9a9" compoundref="SaldiriEkrani_8cs" startline="16">Risk1.SaldiriEkrani.form1</references>
+        <references refid="classRisk1_1_1Form1_1aeb73dff2f53c4cdb0fb047f7bca6c0e0" compoundref="Form1_8cs" startline="31">Risk1.Form1.isArmyMoved</references>
+        <references refid="classRisk1_1_1Bolge_1a4835838ca280efd4a82724fd75b5b170" compoundref="Bolge_8cs" startline="39">Risk1.Bolge.ordu</references>
+        <references refid="classRisk1_1_1SaldiriEkrani_1ad9c940290295d0a72a3c49d2f900b2a7" compoundref="SaldiriEkrani_8cs" startline="105">Risk1.SaldiriEkrani.random</references>
+        <references refid="classRisk1_1_1SaldiriEkrani_1a7f0c10be9c033529f1961786415657fa" compoundref="SaldiriEkrani_8cs" startline="17">Risk1.SaldiriEkrani.randomAraligi</references>
+        <references refid="classRisk1_1_1Bolge_1a6ea883664353e7480178fb57e5e856d8" compoundref="Bolge_8cs" startline="35">Risk1.Bolge.sahip</references>
+        <references refid="classRisk1_1_1SaldiriEkrani_1ae8c74c370fbc04f8ea887b9eb3794f83" compoundref="SaldiriEkrani_8Designer_8cs" startline="189">Risk1.SaldiriEkrani.textBox2</references>
+        <references refid="classRisk1_1_1SaldiriEkrani_1a8fbcf59b7b4905fc07c35a9fa1a3624c" compoundref="SaldiriEkrani_8Designer_8cs" startline="190">Risk1.SaldiriEkrani.textBox3</references>
+        <referencedby refid="classRisk1_1_1SaldiriEkrani_1a8a7c9c52c6e109096d16bf94cf3e6df0" compoundref="SaldiriEkrani_8cs" startline="44" endline="47">Risk1.SaldiriEkrani.button1_Click</referencedby>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="classRisk1_1_1SaldiriEkrani_1a3894c6cb2e9a9e2950ee9ab4d13dfaad" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.SaldiriEkrani.SaldiriEkrani_Load</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>SaldiriEkrani_Load</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/SaldiriEkrani.cs" line="34" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/SaldiriEkrani.cs" bodystart="33" bodyend="42"/>
+        <references refid="classRisk1_1_1Ordu_1a6c0b78a761fe481445bd7c86c8aeb833" compoundref="Ordu_8cs" startline="10">Risk1.Ordu.askerSayisi</references>
+        <references refid="classRisk1_1_1SaldiriEkrani_1a7ead26f067dfc3677ef007f191f2923d" compoundref="SaldiriEkrani_8cs" startline="14">Risk1.SaldiriEkrani.bolge1</references>
+        <references refid="classRisk1_1_1SaldiriEkrani_1ac92fdd4e0b5c80f873ffaefa5248a2b7" compoundref="SaldiriEkrani_8cs" startline="15">Risk1.SaldiriEkrani.bolge2</references>
+        <references refid="classRisk1_1_1SaldiriEkrani_1ab4166c55d105ea769dd897b76c0057f1" compoundref="SaldiriEkrani_8Designer_8cs" startline="186">Risk1.SaldiriEkrani.button1</references>
+        <references refid="classRisk1_1_1Player_1abd09f5bdd9126924b2f047c5bc36d271" compoundref="Player_8cs" startline="15">Risk1.Player.color</references>
+        <references refid="classRisk1_1_1Bolge_1a4c7e438f8452f95fe887892d243651bc" compoundref="Bolge_8cs" startline="23">Risk1.Bolge.isim</references>
+        <references refid="classRisk1_1_1Bolge_1a4835838ca280efd4a82724fd75b5b170" compoundref="Bolge_8cs" startline="39">Risk1.Bolge.ordu</references>
+        <references refid="classRisk1_1_1SaldiriEkrani_1af74c8e3d5755584a25aced778d15db90" compoundref="SaldiriEkrani_8Designer_8cs" startline="184">Risk1.SaldiriEkrani.panel1</references>
+        <references refid="classRisk1_1_1SaldiriEkrani_1a31a31e1b07b61af57c393e3c87c36ab4" compoundref="SaldiriEkrani_8Designer_8cs" startline="185">Risk1.SaldiriEkrani.panel2</references>
+        <references refid="classRisk1_1_1Bolge_1a6ea883664353e7480178fb57e5e856d8" compoundref="Bolge_8cs" startline="35">Risk1.Bolge.sahip</references>
+        <references refid="classRisk1_1_1SaldiriEkrani_1ac3ffd588cf3436b0b8965f7ce72e36b5" compoundref="SaldiriEkrani_8Designer_8cs" startline="192">Risk1.SaldiriEkrani.textBox1</references>
+        <references refid="classRisk1_1_1SaldiriEkrani_1ae8c74c370fbc04f8ea887b9eb3794f83" compoundref="SaldiriEkrani_8Designer_8cs" startline="189">Risk1.SaldiriEkrani.textBox2</references>
+        <references refid="classRisk1_1_1SaldiriEkrani_1a8fbcf59b7b4905fc07c35a9fa1a3624c" compoundref="SaldiriEkrani_8Designer_8cs" startline="190">Risk1.SaldiriEkrani.textBox3</references>
+        <references refid="classRisk1_1_1SaldiriEkrani_1a436f68b330999a992f9a6ddec61c7d4c" compoundref="SaldiriEkrani_8Designer_8cs" startline="191">Risk1.SaldiriEkrani.textBox4</references>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1SaldiriEkrani_1a8a7c9c52c6e109096d16bf94cf3e6df0" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.SaldiriEkrani.button1_Click</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>button1_Click</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/SaldiriEkrani.cs" line="45" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/SaldiriEkrani.cs" bodystart="44" bodyend="47"/>
+        <references refid="classRisk1_1_1SaldiriEkrani_1aaa88336a2cdb39fac1bf5d9959c8083e" compoundref="SaldiriEkrani_8cs" startline="175" endline="235">Risk1.SaldiriEkrani.warAttack</references>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1SaldiriEkrani_1a67d3ec36e217d83d98e5f442a09e51fd" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.SaldiriEkrani.button2_Click</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>button2_Click</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/SaldiriEkrani.cs" line="238" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/SaldiriEkrani.cs" bodystart="237" bodyend="240"/>
+        <references refid="classRisk1_1_1SaldiriEkrani_1af22f046d5ad2382e986640b8a74686b8" compoundref="SaldiriEkrani_8cs" startline="107" endline="173">Risk1.SaldiriEkrani.warDoORDie</references>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1SaldiriEkrani_1a05ddc8071f43ab0471d101880a426101" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.SaldiriEkrani.button3_Click</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>button3_Click</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/SaldiriEkrani.cs" line="243" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/SaldiriEkrani.cs" bodystart="242" bodyend="245"/>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1SaldiriEkrani_1a3d35395c9785ae5c33d902c9db71bee7" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.SaldiriEkrani.InitializeComponent</definition>
+        <argsstring>()</argsstring>
+        <name>InitializeComponent</name>
+        <briefdescription>
+<para>Required method for Designer support - do not modify the contents of this method with the code editor. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/SaldiriEkrani.Designer.cs" line="30" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/SaldiriEkrani.Designer.cs" bodystart="29" bodyend="180"/>
+        <referencedby refid="classRisk1_1_1SaldiriEkrani_1ac3797af636839d18f77478aebf50fde0" compoundref="SaldiriEkrani_8cs" startline="19" endline="25">Risk1.SaldiriEkrani.SaldiriEkrani</referencedby>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="protected-func">
+      <memberdef kind="function" id="classRisk1_1_1SaldiriEkrani_1ae9c361af3bbc85dea0c947e88c797e88" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override void</type>
+        <definition>override void Risk1.SaldiriEkrani.Dispose</definition>
+        <argsstring>(bool disposing)</argsstring>
+        <name>Dispose</name>
+        <param>
+          <type>bool</type>
+          <declname>disposing</declname>
+        </param>
+        <briefdescription>
+<para>Clean up any resources being used. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>disposing</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>true if managed resources should be disposed; otherwise, false.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/SaldiriEkrani.Designer.cs" line="15" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/SaldiriEkrani.Designer.cs" bodystart="14" bodyend="21"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <collaborationgraph>
+      <node id="328">
+        <label>ArtificalIntelligence</label>
+        <link refid="classRisk1_1_1ArtificalIntelligence"/>
+      </node>
+      <node id="329">
+        <label>Risk1.Statistics</label>
+        <link refid="classRisk1_1_1Statistics"/>
+      </node>
+      <node id="330">
+        <label>Risk1.GameData</label>
+        <link refid="classRisk1_1_1GameData"/>
+      </node>
+      <node id="332">
+        <label>Risk1.Player</label>
+        <link refid="classRisk1_1_1Player"/>
+      </node>
+      <node id="333">
+        <label>Risk1.Ordu</label>
+        <link refid="classRisk1_1_1Ordu"/>
+      </node>
+      <node id="327">
+        <label>Risk1.AI</label>
+        <link refid="classRisk1_1_1AI"/>
+        <childnode refid="328" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="334">
+        <label>System</label>
+      </node>
+      <node id="326">
+        <label>Risk1.Form1</label>
+        <link refid="classRisk1_1_1Form1"/>
+        <childnode refid="327" relation="usage">
+          <edgelabel>ai</edgelabel>
+        </childnode>
+        <childnode refid="329" relation="usage">
+          <edgelabel>statistics</edgelabel>
+        </childnode>
+        <childnode refid="330" relation="usage">
+          <edgelabel>gameData</edgelabel>
+        </childnode>
+        <childnode refid="331" relation="usage">
+          <edgelabel>ilkTiklananBolge</edgelabel>
+        </childnode>
+        <childnode refid="334" relation="usage">
+          <edgelabel>showStatisticsToolStripMenuItem</edgelabel>
+          <edgelabel>rulesToolStripMenuItem</edgelabel>
+          <edgelabel>exitToolStripMenuItem</edgelabel>
+          <edgelabel>pictureBox1</edgelabel>
+          <edgelabel>timer1</edgelabel>
+          <edgelabel>pictureBox2</edgelabel>
+          <edgelabel>aboutToolStripMenuItem</edgelabel>
+          <edgelabel>endGameToolStripMenuItem</edgelabel>
+          <edgelabel>label1</edgelabel>
+          <edgelabel>pictureBox3</edgelabel>
+          <edgelabel>...</edgelabel>
+        </childnode>
+        <childnode refid="335" relation="usage">
+          <edgelabel>ai2</edgelabel>
+        </childnode>
+        <childnode refid="336" relation="usage">
+          <edgelabel>ai3</edgelabel>
+        </childnode>
+        <childnode refid="337" relation="usage">
+          <edgelabel>ai4</edgelabel>
+        </childnode>
+      </node>
+      <node id="335">
+        <label>Risk1.AI2</label>
+        <link refid="classRisk1_1_1AI2"/>
+        <childnode refid="328" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="336">
+        <label>Risk1.AI3</label>
+        <link refid="classRisk1_1_1AI3"/>
+        <childnode refid="328" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="337">
+        <label>Risk1.AI4</label>
+        <link refid="classRisk1_1_1AI4"/>
+        <childnode refid="328" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="325">
+        <label>Risk1.SaldiriEkrani</label>
+        <link refid="classRisk1_1_1SaldiriEkrani"/>
+        <childnode refid="326" relation="usage">
+          <edgelabel>form1</edgelabel>
+        </childnode>
+        <childnode refid="331" relation="usage">
+          <edgelabel>bolge1</edgelabel>
+          <edgelabel>bolge2</edgelabel>
+        </childnode>
+        <childnode refid="334" relation="usage">
+          <edgelabel>textBox4</edgelabel>
+          <edgelabel>panel1</edgelabel>
+          <edgelabel>panel2</edgelabel>
+          <edgelabel>components</edgelabel>
+          <edgelabel>textBox1</edgelabel>
+          <edgelabel>button1</edgelabel>
+          <edgelabel>textBox2</edgelabel>
+          <edgelabel>button2</edgelabel>
+          <edgelabel>textBox3</edgelabel>
+          <edgelabel>button3</edgelabel>
+          <edgelabel>...</edgelabel>
+        </childnode>
+      </node>
+      <node id="331">
+        <label>Risk1.Bolge</label>
+        <link refid="classRisk1_1_1Bolge"/>
+        <childnode refid="332" relation="usage">
+          <edgelabel>sahip</edgelabel>
+        </childnode>
+        <childnode refid="333" relation="usage">
+          <edgelabel>ordu</edgelabel>
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/SaldiriEkrani.cs" line="13" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/SaldiriEkrani.cs" bodystart="12" bodyend="246"/>
+    <listofallmembers>
+      <member refid="classRisk1_1_1SaldiriEkrani_1a7ead26f067dfc3677ef007f191f2923d" prot="private" virt="non-virtual"><scope>Risk1::SaldiriEkrani</scope><name>bolge1</name></member>
+      <member refid="classRisk1_1_1SaldiriEkrani_1ac92fdd4e0b5c80f873ffaefa5248a2b7" prot="private" virt="non-virtual"><scope>Risk1::SaldiriEkrani</scope><name>bolge2</name></member>
+      <member refid="classRisk1_1_1SaldiriEkrani_1ab4166c55d105ea769dd897b76c0057f1" prot="private" virt="non-virtual"><scope>Risk1::SaldiriEkrani</scope><name>button1</name></member>
+      <member refid="classRisk1_1_1SaldiriEkrani_1a8a7c9c52c6e109096d16bf94cf3e6df0" prot="private" virt="non-virtual"><scope>Risk1::SaldiriEkrani</scope><name>button1_Click</name></member>
+      <member refid="classRisk1_1_1SaldiriEkrani_1a86d67868118e018819db2054c713c654" prot="private" virt="non-virtual"><scope>Risk1::SaldiriEkrani</scope><name>button2</name></member>
+      <member refid="classRisk1_1_1SaldiriEkrani_1a67d3ec36e217d83d98e5f442a09e51fd" prot="private" virt="non-virtual"><scope>Risk1::SaldiriEkrani</scope><name>button2_Click</name></member>
+      <member refid="classRisk1_1_1SaldiriEkrani_1a7be73108e848635e6020874f031dfbde" prot="private" virt="non-virtual"><scope>Risk1::SaldiriEkrani</scope><name>button3</name></member>
+      <member refid="classRisk1_1_1SaldiriEkrani_1a05ddc8071f43ab0471d101880a426101" prot="private" virt="non-virtual"><scope>Risk1::SaldiriEkrani</scope><name>button3_Click</name></member>
+      <member refid="classRisk1_1_1SaldiriEkrani_1ad6fe925457d6bd4cf4f9aece3f5778db" prot="private" virt="non-virtual"><scope>Risk1::SaldiriEkrani</scope><name>components</name></member>
+      <member refid="classRisk1_1_1SaldiriEkrani_1ae9c361af3bbc85dea0c947e88c797e88" prot="protected" virt="non-virtual"><scope>Risk1::SaldiriEkrani</scope><name>Dispose</name></member>
+      <member refid="classRisk1_1_1SaldiriEkrani_1a752132ebc8490259a0f656ebee64b9a9" prot="private" virt="non-virtual"><scope>Risk1::SaldiriEkrani</scope><name>form1</name></member>
+      <member refid="classRisk1_1_1SaldiriEkrani_1a3d35395c9785ae5c33d902c9db71bee7" prot="private" virt="non-virtual"><scope>Risk1::SaldiriEkrani</scope><name>InitializeComponent</name></member>
+      <member refid="classRisk1_1_1SaldiriEkrani_1af74c8e3d5755584a25aced778d15db90" prot="private" virt="non-virtual"><scope>Risk1::SaldiriEkrani</scope><name>panel1</name></member>
+      <member refid="classRisk1_1_1SaldiriEkrani_1a31a31e1b07b61af57c393e3c87c36ab4" prot="private" virt="non-virtual"><scope>Risk1::SaldiriEkrani</scope><name>panel2</name></member>
+      <member refid="classRisk1_1_1SaldiriEkrani_1ad9c940290295d0a72a3c49d2f900b2a7" prot="private" virt="non-virtual"><scope>Risk1::SaldiriEkrani</scope><name>random</name></member>
+      <member refid="classRisk1_1_1SaldiriEkrani_1a7f0c10be9c033529f1961786415657fa" prot="private" virt="non-virtual"><scope>Risk1::SaldiriEkrani</scope><name>randomAraligi</name></member>
+      <member refid="classRisk1_1_1SaldiriEkrani_1a72e0cde0677e9a86f4f86dfce27dfe0c" prot="public" virt="non-virtual"><scope>Risk1::SaldiriEkrani</scope><name>refreshSaldiriEkrani</name></member>
+      <member refid="classRisk1_1_1SaldiriEkrani_1ac3797af636839d18f77478aebf50fde0" prot="public" virt="non-virtual"><scope>Risk1::SaldiriEkrani</scope><name>SaldiriEkrani</name></member>
+      <member refid="classRisk1_1_1SaldiriEkrani_1a3894c6cb2e9a9e2950ee9ab4d13dfaad" prot="private" virt="non-virtual"><scope>Risk1::SaldiriEkrani</scope><name>SaldiriEkrani_Load</name></member>
+      <member refid="classRisk1_1_1SaldiriEkrani_1ac3ffd588cf3436b0b8965f7ce72e36b5" prot="private" virt="non-virtual"><scope>Risk1::SaldiriEkrani</scope><name>textBox1</name></member>
+      <member refid="classRisk1_1_1SaldiriEkrani_1ae8c74c370fbc04f8ea887b9eb3794f83" prot="private" virt="non-virtual"><scope>Risk1::SaldiriEkrani</scope><name>textBox2</name></member>
+      <member refid="classRisk1_1_1SaldiriEkrani_1a8fbcf59b7b4905fc07c35a9fa1a3624c" prot="private" virt="non-virtual"><scope>Risk1::SaldiriEkrani</scope><name>textBox3</name></member>
+      <member refid="classRisk1_1_1SaldiriEkrani_1a436f68b330999a992f9a6ddec61c7d4c" prot="private" virt="non-virtual"><scope>Risk1::SaldiriEkrani</scope><name>textBox4</name></member>
+      <member refid="classRisk1_1_1SaldiriEkrani_1aaa88336a2cdb39fac1bf5d9959c8083e" prot="public" virt="non-virtual"><scope>Risk1::SaldiriEkrani</scope><name>warAttack</name></member>
+      <member refid="classRisk1_1_1SaldiriEkrani_1af22f046d5ad2382e986640b8a74686b8" prot="public" virt="non-virtual"><scope>Risk1::SaldiriEkrani</scope><name>warDoORDie</name></member>
+      <member refid="classRisk1_1_1SaldiriEkrani_1abf5f5722a078df9b3ad893acd93c2806" prot="public" virt="non-virtual"><scope>Risk1::SaldiriEkrani</scope><name>warDoORDieForAi</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

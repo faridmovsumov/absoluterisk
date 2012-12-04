@@ -1,0 +1,1432 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.0">
+  <compounddef id="classRisk1_1_1Giris" kind="class" prot="public">
+    <compoundname>Risk1::Giris</compoundname>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classRisk1_1_1Giris_1aa01ca1c02c483cd1fdc447d7a4caad8b" prot="private" static="no" mutable="no">
+        <type>List&lt; <ref refid="classRisk1_1_1Player" kindref="compound">Player</ref> &gt;</type>
+        <definition>List&lt;Player&gt; Risk1.Giris.players</definition>
+        <argsstring></argsstring>
+        <name>players</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.cs" line="14" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.cs" bodystart="14" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1Giris_1a4d311457a6d2b43f2b8145ff0741d895" compoundref="Giris_8cs" startline="453" endline="472">Risk1.Giris.button10_Click</referencedby>
+        <referencedby refid="classRisk1_1_1Giris_1aaa85c831a11faf538b6b835c07a1803d" compoundref="Giris_8cs" startline="207" endline="226">Risk1.Giris.button11_Click</referencedby>
+        <referencedby refid="classRisk1_1_1Giris_1ab366cb8bbabffcf6231f116d28af2ca6" compoundref="Giris_8cs" startline="495" endline="500">Risk1.Giris.button12_Click</referencedby>
+        <referencedby refid="classRisk1_1_1Giris_1afaa3c42b10d1c3401faf4d0cb70a5c3a" compoundref="Giris_8cs" startline="228" endline="247">Risk1.Giris.button1_Click</referencedby>
+        <referencedby refid="classRisk1_1_1Giris_1a6671661b4570cf55076d12ac826bcf8e" compoundref="Giris_8cs" startline="249" endline="268">Risk1.Giris.button2_Click</referencedby>
+        <referencedby refid="classRisk1_1_1Giris_1a4d23bf7204d066111b067c4a3bb1f918" compoundref="Giris_8cs" startline="270" endline="289">Risk1.Giris.button3_Click</referencedby>
+        <referencedby refid="classRisk1_1_1Giris_1ac0048106fdabf233aacf304415e3f21f" compoundref="Giris_8cs" startline="291" endline="310">Risk1.Giris.button4_Click</referencedby>
+        <referencedby refid="classRisk1_1_1Giris_1a068b4ba92acfba3ea4d68afb9240eabe" compoundref="Giris_8cs" startline="474" endline="493">Risk1.Giris.button5_Click</referencedby>
+        <referencedby refid="classRisk1_1_1Giris_1a189cbbcc2d0919f0e80c76cbdd359666" compoundref="Giris_8cs" startline="502" endline="521">Risk1.Giris.button6_Click</referencedby>
+        <referencedby refid="classRisk1_1_1Giris_1a4a5210fdcd147ecd24239a0d7aa8cc51" compoundref="Giris_8cs" startline="523" endline="542">Risk1.Giris.button7_Click</referencedby>
+        <referencedby refid="classRisk1_1_1Giris_1a1f55a3c5206c6594c083d512d75736b2" compoundref="Giris_8cs" startline="544" endline="563">Risk1.Giris.button8_Click</referencedby>
+        <referencedby refid="classRisk1_1_1Giris_1a84733a29fb83310cf623610fd5be5a54" compoundref="Giris_8cs" startline="565" endline="584">Risk1.Giris.button9_Click</referencedby>
+        <referencedby refid="classRisk1_1_1Giris_1a96bd3dcb1de3b4ede5c650ee9bf4a7ce" compoundref="Giris_8cs" startline="439" endline="451">Risk1.Giris.checkBox10_CheckedChanged</referencedby>
+        <referencedby refid="classRisk1_1_1Giris_1a0dc46b4e3c39ba5f2687fef8cd9702cc" compoundref="Giris_8cs" startline="326" endline="339">Risk1.Giris.checkBox1_CheckedChanged</referencedby>
+        <referencedby refid="classRisk1_1_1Giris_1a3bf36b88e27a277a1051e756d3baf04f" compoundref="Giris_8cs" startline="341" endline="353">Risk1.Giris.checkBox2_CheckedChanged</referencedby>
+        <referencedby refid="classRisk1_1_1Giris_1a5da4f90c20578abf6f70218910700426" compoundref="Giris_8cs" startline="312" endline="324">Risk1.Giris.checkBox3_CheckedChanged</referencedby>
+        <referencedby refid="classRisk1_1_1Giris_1af0c05a615c7593832328200e935ff355" compoundref="Giris_8cs" startline="355" endline="367">Risk1.Giris.checkBox4_CheckedChanged</referencedby>
+        <referencedby refid="classRisk1_1_1Giris_1a1ce460a966373ad90d5f4b0f416ef4c6" compoundref="Giris_8cs" startline="369" endline="381">Risk1.Giris.checkBox5_CheckedChanged</referencedby>
+        <referencedby refid="classRisk1_1_1Giris_1a65a0f85b8e156b51b748b6235c951268" compoundref="Giris_8cs" startline="383" endline="395">Risk1.Giris.checkBox6_CheckedChanged</referencedby>
+        <referencedby refid="classRisk1_1_1Giris_1abc811cad6cb836da52e9b2fcc2a23a47" compoundref="Giris_8cs" startline="397" endline="409">Risk1.Giris.checkBox7_CheckedChanged</referencedby>
+        <referencedby refid="classRisk1_1_1Giris_1aa99968e6848d8f601883fd52bf2efd7f" compoundref="Giris_8cs" startline="411" endline="423">Risk1.Giris.checkBox8_CheckedChanged</referencedby>
+        <referencedby refid="classRisk1_1_1Giris_1a707fba3fd1509c611f26a524d02d6bc5" compoundref="Giris_8cs" startline="425" endline="437">Risk1.Giris.checkBox9_CheckedChanged</referencedby>
+        <referencedby refid="classRisk1_1_1Giris_1a9b102a61cdb52c2624cb41b6f3aa389f" compoundref="Giris_8cs" startline="17" endline="23">Risk1.Giris.Giris</referencedby>
+        <referencedby refid="classRisk1_1_1Giris_1a1ced79e7c65a399f658645071c1463d7" compoundref="Giris_8cs" startline="25" endline="204">Risk1.Giris.Giris_Load</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1Giris_1adf48b14e627fcd8bbb8ba1f402289cc3" prot="private" static="no" mutable="no">
+        <type>List&lt; <ref refid="classRisk1_1_1Player" kindref="compound">Player</ref> &gt;</type>
+        <definition>List&lt;Player&gt; Risk1.Giris.playersTemp</definition>
+        <argsstring></argsstring>
+        <name>playersTemp</name>
+        <initializer> new List&lt;<ref refid="classRisk1_1_1Player" kindref="compound">Player</ref>&gt;()</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.cs" line="15" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.cs" bodystart="15" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1Giris_1ab366cb8bbabffcf6231f116d28af2ca6" compoundref="Giris_8cs" startline="495" endline="500">Risk1.Giris.button12_Click</referencedby>
+        <referencedby refid="classRisk1_1_1Giris_1a9b102a61cdb52c2624cb41b6f3aa389f" compoundref="Giris_8cs" startline="17" endline="23">Risk1.Giris.Giris</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1Giris_1af5ac97f59cbeebd95721def69014002f" prot="private" static="no" mutable="no">
+        <type><ref refid="classRisk1_1_1Form1" kindref="compound">Form1</ref></type>
+        <definition>Form1 Risk1.Giris.f1</definition>
+        <argsstring></argsstring>
+        <name>f1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.cs" line="16" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.cs" bodystart="16" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1Giris_1ab366cb8bbabffcf6231f116d28af2ca6" compoundref="Giris_8cs" startline="495" endline="500">Risk1.Giris.button12_Click</referencedby>
+        <referencedby refid="classRisk1_1_1Giris_1a9b102a61cdb52c2624cb41b6f3aa389f" compoundref="Giris_8cs" startline="17" endline="23">Risk1.Giris.Giris</referencedby>
+        <referencedby refid="classRisk1_1_1Giris_1a1ced79e7c65a399f658645071c1463d7" compoundref="Giris_8cs" startline="25" endline="204">Risk1.Giris.Giris_Load</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1Giris_1afd04ec9c2f0a3a9e507303f98348726d" prot="private" static="no" mutable="no">
+        <type>System.ComponentModel.IContainer</type>
+        <definition>System.ComponentModel.IContainer Risk1.Giris.components</definition>
+        <argsstring></argsstring>
+        <name>components</name>
+        <initializer> null</initializer>
+        <briefdescription>
+<para>Required designer variable. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.Designer.cs" line="8" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.Designer.cs" bodystart="8" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1Giris_1aaef52e47c2447ba1b9f34947ae92fc2b" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.CheckBox</type>
+        <definition>System.Windows.Forms.CheckBox Risk1.Giris.checkBox1</definition>
+        <argsstring></argsstring>
+        <name>checkBox1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.Designer.cs" line="511" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.Designer.cs" bodystart="511" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1Giris_1afaa3c42b10d1c3401faf4d0cb70a5c3a" compoundref="Giris_8cs" startline="228" endline="247">Risk1.Giris.button1_Click</referencedby>
+        <referencedby refid="classRisk1_1_1Giris_1a0dc46b4e3c39ba5f2687fef8cd9702cc" compoundref="Giris_8cs" startline="326" endline="339">Risk1.Giris.checkBox1_CheckedChanged</referencedby>
+        <referencedby refid="classRisk1_1_1Giris_1a1ced79e7c65a399f658645071c1463d7" compoundref="Giris_8cs" startline="25" endline="204">Risk1.Giris.Giris_Load</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1Giris_1a9227c2803a39023eeffdbb723ff8534e" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Button</type>
+        <definition>System.Windows.Forms.Button Risk1.Giris.button1</definition>
+        <argsstring></argsstring>
+        <name>button1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.Designer.cs" line="512" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.Designer.cs" bodystart="512" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1Giris_1a0dc46b4e3c39ba5f2687fef8cd9702cc" compoundref="Giris_8cs" startline="326" endline="339">Risk1.Giris.checkBox1_CheckedChanged</referencedby>
+        <referencedby refid="classRisk1_1_1Giris_1a1ced79e7c65a399f658645071c1463d7" compoundref="Giris_8cs" startline="25" endline="204">Risk1.Giris.Giris_Load</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1Giris_1a650d8556699baa98117ac5f1f3c277b5" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Panel</type>
+        <definition>System.Windows.Forms.Panel Risk1.Giris.panel1</definition>
+        <argsstring></argsstring>
+        <name>panel1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.Designer.cs" line="513" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.Designer.cs" bodystart="513" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1Giris_1a3dece39fac9d82d82140e46cb49ac80d" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Button</type>
+        <definition>System.Windows.Forms.Button Risk1.Giris.button10</definition>
+        <argsstring></argsstring>
+        <name>button10</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.Designer.cs" line="514" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.Designer.cs" bodystart="514" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1Giris_1a96bd3dcb1de3b4ede5c650ee9bf4a7ce" compoundref="Giris_8cs" startline="439" endline="451">Risk1.Giris.checkBox10_CheckedChanged</referencedby>
+        <referencedby refid="classRisk1_1_1Giris_1a1ced79e7c65a399f658645071c1463d7" compoundref="Giris_8cs" startline="25" endline="204">Risk1.Giris.Giris_Load</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1Giris_1a1bfb7309b5a0cb54f6893a9b67c58c85" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.CheckBox</type>
+        <definition>System.Windows.Forms.CheckBox Risk1.Giris.checkBox10</definition>
+        <argsstring></argsstring>
+        <name>checkBox10</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.Designer.cs" line="515" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.Designer.cs" bodystart="515" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1Giris_1a4d311457a6d2b43f2b8145ff0741d895" compoundref="Giris_8cs" startline="453" endline="472">Risk1.Giris.button10_Click</referencedby>
+        <referencedby refid="classRisk1_1_1Giris_1a96bd3dcb1de3b4ede5c650ee9bf4a7ce" compoundref="Giris_8cs" startline="439" endline="451">Risk1.Giris.checkBox10_CheckedChanged</referencedby>
+        <referencedby refid="classRisk1_1_1Giris_1a1ced79e7c65a399f658645071c1463d7" compoundref="Giris_8cs" startline="25" endline="204">Risk1.Giris.Giris_Load</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1Giris_1ab90be8dd381518ebaed70f1dbd42140f" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Button</type>
+        <definition>System.Windows.Forms.Button Risk1.Giris.button9</definition>
+        <argsstring></argsstring>
+        <name>button9</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.Designer.cs" line="516" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.Designer.cs" bodystart="516" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1Giris_1a707fba3fd1509c611f26a524d02d6bc5" compoundref="Giris_8cs" startline="425" endline="437">Risk1.Giris.checkBox9_CheckedChanged</referencedby>
+        <referencedby refid="classRisk1_1_1Giris_1a1ced79e7c65a399f658645071c1463d7" compoundref="Giris_8cs" startline="25" endline="204">Risk1.Giris.Giris_Load</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1Giris_1a0aed86da7a8ba8d4d31baa6da26dd3be" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.CheckBox</type>
+        <definition>System.Windows.Forms.CheckBox Risk1.Giris.checkBox9</definition>
+        <argsstring></argsstring>
+        <name>checkBox9</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.Designer.cs" line="517" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.Designer.cs" bodystart="517" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1Giris_1a84733a29fb83310cf623610fd5be5a54" compoundref="Giris_8cs" startline="565" endline="584">Risk1.Giris.button9_Click</referencedby>
+        <referencedby refid="classRisk1_1_1Giris_1a707fba3fd1509c611f26a524d02d6bc5" compoundref="Giris_8cs" startline="425" endline="437">Risk1.Giris.checkBox9_CheckedChanged</referencedby>
+        <referencedby refid="classRisk1_1_1Giris_1a1ced79e7c65a399f658645071c1463d7" compoundref="Giris_8cs" startline="25" endline="204">Risk1.Giris.Giris_Load</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1Giris_1ad3572ebb1c3f369158265ff12e1f9037" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Button</type>
+        <definition>System.Windows.Forms.Button Risk1.Giris.button8</definition>
+        <argsstring></argsstring>
+        <name>button8</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.Designer.cs" line="518" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.Designer.cs" bodystart="518" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1Giris_1aa99968e6848d8f601883fd52bf2efd7f" compoundref="Giris_8cs" startline="411" endline="423">Risk1.Giris.checkBox8_CheckedChanged</referencedby>
+        <referencedby refid="classRisk1_1_1Giris_1a1ced79e7c65a399f658645071c1463d7" compoundref="Giris_8cs" startline="25" endline="204">Risk1.Giris.Giris_Load</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1Giris_1a7059cffce3637902c9d34b162c726996" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.CheckBox</type>
+        <definition>System.Windows.Forms.CheckBox Risk1.Giris.checkBox8</definition>
+        <argsstring></argsstring>
+        <name>checkBox8</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.Designer.cs" line="519" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.Designer.cs" bodystart="519" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1Giris_1a1f55a3c5206c6594c083d512d75736b2" compoundref="Giris_8cs" startline="544" endline="563">Risk1.Giris.button8_Click</referencedby>
+        <referencedby refid="classRisk1_1_1Giris_1aa99968e6848d8f601883fd52bf2efd7f" compoundref="Giris_8cs" startline="411" endline="423">Risk1.Giris.checkBox8_CheckedChanged</referencedby>
+        <referencedby refid="classRisk1_1_1Giris_1a1ced79e7c65a399f658645071c1463d7" compoundref="Giris_8cs" startline="25" endline="204">Risk1.Giris.Giris_Load</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1Giris_1a6512a576e427ee98edf270f39d751e09" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Button</type>
+        <definition>System.Windows.Forms.Button Risk1.Giris.button7</definition>
+        <argsstring></argsstring>
+        <name>button7</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.Designer.cs" line="520" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.Designer.cs" bodystart="520" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1Giris_1abc811cad6cb836da52e9b2fcc2a23a47" compoundref="Giris_8cs" startline="397" endline="409">Risk1.Giris.checkBox7_CheckedChanged</referencedby>
+        <referencedby refid="classRisk1_1_1Giris_1a1ced79e7c65a399f658645071c1463d7" compoundref="Giris_8cs" startline="25" endline="204">Risk1.Giris.Giris_Load</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1Giris_1a2fb68e1041151ece7c3742029f893d4f" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.CheckBox</type>
+        <definition>System.Windows.Forms.CheckBox Risk1.Giris.checkBox7</definition>
+        <argsstring></argsstring>
+        <name>checkBox7</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.Designer.cs" line="521" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.Designer.cs" bodystart="521" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1Giris_1a4a5210fdcd147ecd24239a0d7aa8cc51" compoundref="Giris_8cs" startline="523" endline="542">Risk1.Giris.button7_Click</referencedby>
+        <referencedby refid="classRisk1_1_1Giris_1abc811cad6cb836da52e9b2fcc2a23a47" compoundref="Giris_8cs" startline="397" endline="409">Risk1.Giris.checkBox7_CheckedChanged</referencedby>
+        <referencedby refid="classRisk1_1_1Giris_1a1ced79e7c65a399f658645071c1463d7" compoundref="Giris_8cs" startline="25" endline="204">Risk1.Giris.Giris_Load</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1Giris_1ab8d67f901c6479f41fb1c54181e111c7" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Button</type>
+        <definition>System.Windows.Forms.Button Risk1.Giris.button6</definition>
+        <argsstring></argsstring>
+        <name>button6</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.Designer.cs" line="522" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.Designer.cs" bodystart="522" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1Giris_1a65a0f85b8e156b51b748b6235c951268" compoundref="Giris_8cs" startline="383" endline="395">Risk1.Giris.checkBox6_CheckedChanged</referencedby>
+        <referencedby refid="classRisk1_1_1Giris_1a1ced79e7c65a399f658645071c1463d7" compoundref="Giris_8cs" startline="25" endline="204">Risk1.Giris.Giris_Load</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1Giris_1af3e1387ba9347febf52d1b1b621f46c9" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.CheckBox</type>
+        <definition>System.Windows.Forms.CheckBox Risk1.Giris.checkBox6</definition>
+        <argsstring></argsstring>
+        <name>checkBox6</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.Designer.cs" line="523" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.Designer.cs" bodystart="523" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1Giris_1a189cbbcc2d0919f0e80c76cbdd359666" compoundref="Giris_8cs" startline="502" endline="521">Risk1.Giris.button6_Click</referencedby>
+        <referencedby refid="classRisk1_1_1Giris_1a65a0f85b8e156b51b748b6235c951268" compoundref="Giris_8cs" startline="383" endline="395">Risk1.Giris.checkBox6_CheckedChanged</referencedby>
+        <referencedby refid="classRisk1_1_1Giris_1a1ced79e7c65a399f658645071c1463d7" compoundref="Giris_8cs" startline="25" endline="204">Risk1.Giris.Giris_Load</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1Giris_1a8838d8443b2550265c73e0f0bce547e5" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Button</type>
+        <definition>System.Windows.Forms.Button Risk1.Giris.button5</definition>
+        <argsstring></argsstring>
+        <name>button5</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.Designer.cs" line="524" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.Designer.cs" bodystart="524" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1Giris_1a1ce460a966373ad90d5f4b0f416ef4c6" compoundref="Giris_8cs" startline="369" endline="381">Risk1.Giris.checkBox5_CheckedChanged</referencedby>
+        <referencedby refid="classRisk1_1_1Giris_1a1ced79e7c65a399f658645071c1463d7" compoundref="Giris_8cs" startline="25" endline="204">Risk1.Giris.Giris_Load</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1Giris_1a205c0053da256159e552008a2e70b790" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.CheckBox</type>
+        <definition>System.Windows.Forms.CheckBox Risk1.Giris.checkBox5</definition>
+        <argsstring></argsstring>
+        <name>checkBox5</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.Designer.cs" line="525" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.Designer.cs" bodystart="525" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1Giris_1a068b4ba92acfba3ea4d68afb9240eabe" compoundref="Giris_8cs" startline="474" endline="493">Risk1.Giris.button5_Click</referencedby>
+        <referencedby refid="classRisk1_1_1Giris_1a1ce460a966373ad90d5f4b0f416ef4c6" compoundref="Giris_8cs" startline="369" endline="381">Risk1.Giris.checkBox5_CheckedChanged</referencedby>
+        <referencedby refid="classRisk1_1_1Giris_1a1ced79e7c65a399f658645071c1463d7" compoundref="Giris_8cs" startline="25" endline="204">Risk1.Giris.Giris_Load</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1Giris_1abfdf3ffd19551248fae52b3b29eca350" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Button</type>
+        <definition>System.Windows.Forms.Button Risk1.Giris.button4</definition>
+        <argsstring></argsstring>
+        <name>button4</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.Designer.cs" line="526" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.Designer.cs" bodystart="526" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1Giris_1af0c05a615c7593832328200e935ff355" compoundref="Giris_8cs" startline="355" endline="367">Risk1.Giris.checkBox4_CheckedChanged</referencedby>
+        <referencedby refid="classRisk1_1_1Giris_1a1ced79e7c65a399f658645071c1463d7" compoundref="Giris_8cs" startline="25" endline="204">Risk1.Giris.Giris_Load</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1Giris_1aeb413530514d55ce5add5eb451b8e7b6" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.CheckBox</type>
+        <definition>System.Windows.Forms.CheckBox Risk1.Giris.checkBox4</definition>
+        <argsstring></argsstring>
+        <name>checkBox4</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.Designer.cs" line="527" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.Designer.cs" bodystart="527" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1Giris_1ac0048106fdabf233aacf304415e3f21f" compoundref="Giris_8cs" startline="291" endline="310">Risk1.Giris.button4_Click</referencedby>
+        <referencedby refid="classRisk1_1_1Giris_1af0c05a615c7593832328200e935ff355" compoundref="Giris_8cs" startline="355" endline="367">Risk1.Giris.checkBox4_CheckedChanged</referencedby>
+        <referencedby refid="classRisk1_1_1Giris_1a1ced79e7c65a399f658645071c1463d7" compoundref="Giris_8cs" startline="25" endline="204">Risk1.Giris.Giris_Load</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1Giris_1ab4c4e1b0e87384e8a5f5fefe2f340d62" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Button</type>
+        <definition>System.Windows.Forms.Button Risk1.Giris.button3</definition>
+        <argsstring></argsstring>
+        <name>button3</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.Designer.cs" line="528" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.Designer.cs" bodystart="528" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1Giris_1a5da4f90c20578abf6f70218910700426" compoundref="Giris_8cs" startline="312" endline="324">Risk1.Giris.checkBox3_CheckedChanged</referencedby>
+        <referencedby refid="classRisk1_1_1Giris_1a1ced79e7c65a399f658645071c1463d7" compoundref="Giris_8cs" startline="25" endline="204">Risk1.Giris.Giris_Load</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1Giris_1ab5fa85c534f32de0b0db11e4d9d5d0d6" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.CheckBox</type>
+        <definition>System.Windows.Forms.CheckBox Risk1.Giris.checkBox3</definition>
+        <argsstring></argsstring>
+        <name>checkBox3</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.Designer.cs" line="529" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.Designer.cs" bodystart="529" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1Giris_1a4d23bf7204d066111b067c4a3bb1f918" compoundref="Giris_8cs" startline="270" endline="289">Risk1.Giris.button3_Click</referencedby>
+        <referencedby refid="classRisk1_1_1Giris_1a5da4f90c20578abf6f70218910700426" compoundref="Giris_8cs" startline="312" endline="324">Risk1.Giris.checkBox3_CheckedChanged</referencedby>
+        <referencedby refid="classRisk1_1_1Giris_1a1ced79e7c65a399f658645071c1463d7" compoundref="Giris_8cs" startline="25" endline="204">Risk1.Giris.Giris_Load</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1Giris_1abd2e7d091f676b33432079f2a05bb1a9" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Button</type>
+        <definition>System.Windows.Forms.Button Risk1.Giris.button2</definition>
+        <argsstring></argsstring>
+        <name>button2</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.Designer.cs" line="530" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.Designer.cs" bodystart="530" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1Giris_1a3bf36b88e27a277a1051e756d3baf04f" compoundref="Giris_8cs" startline="341" endline="353">Risk1.Giris.checkBox2_CheckedChanged</referencedby>
+        <referencedby refid="classRisk1_1_1Giris_1a1ced79e7c65a399f658645071c1463d7" compoundref="Giris_8cs" startline="25" endline="204">Risk1.Giris.Giris_Load</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1Giris_1a3273b5dffe1d7841caff8d3e4df80310" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.CheckBox</type>
+        <definition>System.Windows.Forms.CheckBox Risk1.Giris.checkBox2</definition>
+        <argsstring></argsstring>
+        <name>checkBox2</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.Designer.cs" line="531" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.Designer.cs" bodystart="531" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1Giris_1a6671661b4570cf55076d12ac826bcf8e" compoundref="Giris_8cs" startline="249" endline="268">Risk1.Giris.button2_Click</referencedby>
+        <referencedby refid="classRisk1_1_1Giris_1a3bf36b88e27a277a1051e756d3baf04f" compoundref="Giris_8cs" startline="341" endline="353">Risk1.Giris.checkBox2_CheckedChanged</referencedby>
+        <referencedby refid="classRisk1_1_1Giris_1a1ced79e7c65a399f658645071c1463d7" compoundref="Giris_8cs" startline="25" endline="204">Risk1.Giris.Giris_Load</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1Giris_1a25ecfb19bcf5d3b8fda054a17ca40b9a" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Button</type>
+        <definition>System.Windows.Forms.Button Risk1.Giris.button11</definition>
+        <argsstring></argsstring>
+        <name>button11</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.Designer.cs" line="532" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.Designer.cs" bodystart="532" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1Giris_1acbee20a7eb5132837e7a45a4e9c9284b" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.TextBox</type>
+        <definition>System.Windows.Forms.TextBox Risk1.Giris.textBox6</definition>
+        <argsstring></argsstring>
+        <name>textBox6</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.Designer.cs" line="533" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.Designer.cs" bodystart="533" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1Giris_1a189cbbcc2d0919f0e80c76cbdd359666" compoundref="Giris_8cs" startline="502" endline="521">Risk1.Giris.button6_Click</referencedby>
+        <referencedby refid="classRisk1_1_1Giris_1a1ced79e7c65a399f658645071c1463d7" compoundref="Giris_8cs" startline="25" endline="204">Risk1.Giris.Giris_Load</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1Giris_1ada24982d3f6e367c3f332c0a31da7333" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.TextBox</type>
+        <definition>System.Windows.Forms.TextBox Risk1.Giris.textBox7</definition>
+        <argsstring></argsstring>
+        <name>textBox7</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.Designer.cs" line="534" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.Designer.cs" bodystart="534" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1Giris_1a4a5210fdcd147ecd24239a0d7aa8cc51" compoundref="Giris_8cs" startline="523" endline="542">Risk1.Giris.button7_Click</referencedby>
+        <referencedby refid="classRisk1_1_1Giris_1a1ced79e7c65a399f658645071c1463d7" compoundref="Giris_8cs" startline="25" endline="204">Risk1.Giris.Giris_Load</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1Giris_1ad36d852abe798dbcc4f481f2e8452340" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.TextBox</type>
+        <definition>System.Windows.Forms.TextBox Risk1.Giris.textBox8</definition>
+        <argsstring></argsstring>
+        <name>textBox8</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.Designer.cs" line="535" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.Designer.cs" bodystart="535" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1Giris_1a1f55a3c5206c6594c083d512d75736b2" compoundref="Giris_8cs" startline="544" endline="563">Risk1.Giris.button8_Click</referencedby>
+        <referencedby refid="classRisk1_1_1Giris_1a1ced79e7c65a399f658645071c1463d7" compoundref="Giris_8cs" startline="25" endline="204">Risk1.Giris.Giris_Load</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1Giris_1afb2c3a704dce79ea769b9056433d54ae" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.TextBox</type>
+        <definition>System.Windows.Forms.TextBox Risk1.Giris.textBox9</definition>
+        <argsstring></argsstring>
+        <name>textBox9</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.Designer.cs" line="536" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.Designer.cs" bodystart="536" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1Giris_1a84733a29fb83310cf623610fd5be5a54" compoundref="Giris_8cs" startline="565" endline="584">Risk1.Giris.button9_Click</referencedby>
+        <referencedby refid="classRisk1_1_1Giris_1a1ced79e7c65a399f658645071c1463d7" compoundref="Giris_8cs" startline="25" endline="204">Risk1.Giris.Giris_Load</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1Giris_1a538000e9f811688a0c67a860d3861320" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.TextBox</type>
+        <definition>System.Windows.Forms.TextBox Risk1.Giris.textBox10</definition>
+        <argsstring></argsstring>
+        <name>textBox10</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.Designer.cs" line="537" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.Designer.cs" bodystart="537" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1Giris_1a4d311457a6d2b43f2b8145ff0741d895" compoundref="Giris_8cs" startline="453" endline="472">Risk1.Giris.button10_Click</referencedby>
+        <referencedby refid="classRisk1_1_1Giris_1a1ced79e7c65a399f658645071c1463d7" compoundref="Giris_8cs" startline="25" endline="204">Risk1.Giris.Giris_Load</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1Giris_1a56582fed3814f3c1c1bb79fbc24869ba" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.TextBox</type>
+        <definition>System.Windows.Forms.TextBox Risk1.Giris.textBox5</definition>
+        <argsstring></argsstring>
+        <name>textBox5</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.Designer.cs" line="538" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.Designer.cs" bodystart="538" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1Giris_1a068b4ba92acfba3ea4d68afb9240eabe" compoundref="Giris_8cs" startline="474" endline="493">Risk1.Giris.button5_Click</referencedby>
+        <referencedby refid="classRisk1_1_1Giris_1a1ced79e7c65a399f658645071c1463d7" compoundref="Giris_8cs" startline="25" endline="204">Risk1.Giris.Giris_Load</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1Giris_1a76bfb2c39dcde396e2f26a67c368624e" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.TextBox</type>
+        <definition>System.Windows.Forms.TextBox Risk1.Giris.textBox4</definition>
+        <argsstring></argsstring>
+        <name>textBox4</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.Designer.cs" line="539" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.Designer.cs" bodystart="539" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1Giris_1ac0048106fdabf233aacf304415e3f21f" compoundref="Giris_8cs" startline="291" endline="310">Risk1.Giris.button4_Click</referencedby>
+        <referencedby refid="classRisk1_1_1Giris_1a1ced79e7c65a399f658645071c1463d7" compoundref="Giris_8cs" startline="25" endline="204">Risk1.Giris.Giris_Load</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1Giris_1afa34c52bb008fba73dfd7dacfdb13c68" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.TextBox</type>
+        <definition>System.Windows.Forms.TextBox Risk1.Giris.textBox3</definition>
+        <argsstring></argsstring>
+        <name>textBox3</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.Designer.cs" line="540" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.Designer.cs" bodystart="540" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1Giris_1a4d23bf7204d066111b067c4a3bb1f918" compoundref="Giris_8cs" startline="270" endline="289">Risk1.Giris.button3_Click</referencedby>
+        <referencedby refid="classRisk1_1_1Giris_1a1ced79e7c65a399f658645071c1463d7" compoundref="Giris_8cs" startline="25" endline="204">Risk1.Giris.Giris_Load</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1Giris_1a8dd76198d08ac32a60af59303b47697b" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.TextBox</type>
+        <definition>System.Windows.Forms.TextBox Risk1.Giris.textBox2</definition>
+        <argsstring></argsstring>
+        <name>textBox2</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.Designer.cs" line="541" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.Designer.cs" bodystart="541" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1Giris_1a6671661b4570cf55076d12ac826bcf8e" compoundref="Giris_8cs" startline="249" endline="268">Risk1.Giris.button2_Click</referencedby>
+        <referencedby refid="classRisk1_1_1Giris_1a1ced79e7c65a399f658645071c1463d7" compoundref="Giris_8cs" startline="25" endline="204">Risk1.Giris.Giris_Load</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1Giris_1a6941c10aab7ece363c93f1eae50611f2" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.TextBox</type>
+        <definition>System.Windows.Forms.TextBox Risk1.Giris.textBox1</definition>
+        <argsstring></argsstring>
+        <name>textBox1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.Designer.cs" line="542" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.Designer.cs" bodystart="542" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1Giris_1afaa3c42b10d1c3401faf4d0cb70a5c3a" compoundref="Giris_8cs" startline="228" endline="247">Risk1.Giris.button1_Click</referencedby>
+        <referencedby refid="classRisk1_1_1Giris_1a1ced79e7c65a399f658645071c1463d7" compoundref="Giris_8cs" startline="25" endline="204">Risk1.Giris.Giris_Load</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1Giris_1ac4c58ea9e6332bab0fb683699171694b" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Button</type>
+        <definition>System.Windows.Forms.Button Risk1.Giris.button12</definition>
+        <argsstring></argsstring>
+        <name>button12</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.Designer.cs" line="543" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.Designer.cs" bodystart="543" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classRisk1_1_1Giris_1a9b102a61cdb52c2624cb41b6f3aa389f" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Risk1.Giris.Giris</definition>
+        <argsstring>(List&lt; Player &gt; ps, Form1 form1)</argsstring>
+        <name>Giris</name>
+        <param>
+          <type>List&lt; <ref refid="classRisk1_1_1Player" kindref="compound">Player</ref> &gt;</type>
+          <declname>ps</declname>
+        </param>
+        <param>
+          <type><ref refid="classRisk1_1_1Form1" kindref="compound">Form1</ref></type>
+          <declname>form1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.cs" line="18" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.cs" bodystart="17" bodyend="23"/>
+        <references refid="classRisk1_1_1Giris_1af5ac97f59cbeebd95721def69014002f" compoundref="Giris_8cs" startline="16">Risk1.Giris.f1</references>
+        <references refid="classRisk1_1_1Giris_1a49cef639858829e2d819ed902446dc2a" compoundref="Giris_8Designer_8cs" startline="29" endline="507">Risk1.Giris.InitializeComponent</references>
+        <references refid="classRisk1_1_1Giris_1aa01ca1c02c483cd1fdc447d7a4caad8b" compoundref="Giris_8cs" startline="14">Risk1.Giris.players</references>
+        <references refid="classRisk1_1_1Giris_1adf48b14e627fcd8bbb8ba1f402289cc3" compoundref="Giris_8cs" startline="15">Risk1.Giris.playersTemp</references>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="classRisk1_1_1Giris_1a1ced79e7c65a399f658645071c1463d7" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.Giris.Giris_Load</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>Giris_Load</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.cs" line="26" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.cs" bodystart="25" bodyend="204"/>
+        <references refid="classRisk1_1_1Player_1af8290784db991493decf1cf374ca12b9" compoundref="Player_8cs" startline="44">Risk1.Player.aiId</references>
+        <references refid="classRisk1_1_1Giris_1a9227c2803a39023eeffdbb723ff8534e" compoundref="Giris_8Designer_8cs" startline="512">Risk1.Giris.button1</references>
+        <references refid="classRisk1_1_1Giris_1a3dece39fac9d82d82140e46cb49ac80d" compoundref="Giris_8Designer_8cs" startline="514">Risk1.Giris.button10</references>
+        <references refid="classRisk1_1_1Giris_1abd2e7d091f676b33432079f2a05bb1a9" compoundref="Giris_8Designer_8cs" startline="530">Risk1.Giris.button2</references>
+        <references refid="classRisk1_1_1Giris_1ab4c4e1b0e87384e8a5f5fefe2f340d62" compoundref="Giris_8Designer_8cs" startline="528">Risk1.Giris.button3</references>
+        <references refid="classRisk1_1_1Giris_1abfdf3ffd19551248fae52b3b29eca350" compoundref="Giris_8Designer_8cs" startline="526">Risk1.Giris.button4</references>
+        <references refid="classRisk1_1_1Giris_1a8838d8443b2550265c73e0f0bce547e5" compoundref="Giris_8Designer_8cs" startline="524">Risk1.Giris.button5</references>
+        <references refid="classRisk1_1_1Giris_1ab8d67f901c6479f41fb1c54181e111c7" compoundref="Giris_8Designer_8cs" startline="522">Risk1.Giris.button6</references>
+        <references refid="classRisk1_1_1Giris_1a6512a576e427ee98edf270f39d751e09" compoundref="Giris_8Designer_8cs" startline="520">Risk1.Giris.button7</references>
+        <references refid="classRisk1_1_1Giris_1ad3572ebb1c3f369158265ff12e1f9037" compoundref="Giris_8Designer_8cs" startline="518">Risk1.Giris.button8</references>
+        <references refid="classRisk1_1_1Giris_1ab90be8dd381518ebaed70f1dbd42140f" compoundref="Giris_8Designer_8cs" startline="516">Risk1.Giris.button9</references>
+        <references refid="classRisk1_1_1Giris_1aaef52e47c2447ba1b9f34947ae92fc2b" compoundref="Giris_8Designer_8cs" startline="511">Risk1.Giris.checkBox1</references>
+        <references refid="classRisk1_1_1Giris_1a1bfb7309b5a0cb54f6893a9b67c58c85" compoundref="Giris_8Designer_8cs" startline="515">Risk1.Giris.checkBox10</references>
+        <references refid="classRisk1_1_1Giris_1a3273b5dffe1d7841caff8d3e4df80310" compoundref="Giris_8Designer_8cs" startline="531">Risk1.Giris.checkBox2</references>
+        <references refid="classRisk1_1_1Giris_1ab5fa85c534f32de0b0db11e4d9d5d0d6" compoundref="Giris_8Designer_8cs" startline="529">Risk1.Giris.checkBox3</references>
+        <references refid="classRisk1_1_1Giris_1aeb413530514d55ce5add5eb451b8e7b6" compoundref="Giris_8Designer_8cs" startline="527">Risk1.Giris.checkBox4</references>
+        <references refid="classRisk1_1_1Giris_1a205c0053da256159e552008a2e70b790" compoundref="Giris_8Designer_8cs" startline="525">Risk1.Giris.checkBox5</references>
+        <references refid="classRisk1_1_1Giris_1af3e1387ba9347febf52d1b1b621f46c9" compoundref="Giris_8Designer_8cs" startline="523">Risk1.Giris.checkBox6</references>
+        <references refid="classRisk1_1_1Giris_1a2fb68e1041151ece7c3742029f893d4f" compoundref="Giris_8Designer_8cs" startline="521">Risk1.Giris.checkBox7</references>
+        <references refid="classRisk1_1_1Giris_1a7059cffce3637902c9d34b162c726996" compoundref="Giris_8Designer_8cs" startline="519">Risk1.Giris.checkBox8</references>
+        <references refid="classRisk1_1_1Giris_1a0aed86da7a8ba8d4d31baa6da26dd3be" compoundref="Giris_8Designer_8cs" startline="517">Risk1.Giris.checkBox9</references>
+        <references refid="classRisk1_1_1Giris_1af5ac97f59cbeebd95721def69014002f" compoundref="Giris_8cs" startline="16">Risk1.Giris.f1</references>
+        <references refid="classRisk1_1_1Player_1ac99d1275ddd02711f7602529dc3b7391" compoundref="Player_8cs" startline="19">Risk1.Player.isHuman</references>
+        <references refid="classRisk1_1_1Player_1aed169b8b7afadb133a6b7750fd3f1c74" compoundref="Player_8cs" startline="14">Risk1.Player.name</references>
+        <references refid="classRisk1_1_1Giris_1aa01ca1c02c483cd1fdc447d7a4caad8b" compoundref="Giris_8cs" startline="14">Risk1.Giris.players</references>
+        <references refid="classRisk1_1_1Giris_1a6941c10aab7ece363c93f1eae50611f2" compoundref="Giris_8Designer_8cs" startline="542">Risk1.Giris.textBox1</references>
+        <references refid="classRisk1_1_1Giris_1a538000e9f811688a0c67a860d3861320" compoundref="Giris_8Designer_8cs" startline="537">Risk1.Giris.textBox10</references>
+        <references refid="classRisk1_1_1Giris_1a8dd76198d08ac32a60af59303b47697b" compoundref="Giris_8Designer_8cs" startline="541">Risk1.Giris.textBox2</references>
+        <references refid="classRisk1_1_1Giris_1afa34c52bb008fba73dfd7dacfdb13c68" compoundref="Giris_8Designer_8cs" startline="540">Risk1.Giris.textBox3</references>
+        <references refid="classRisk1_1_1Giris_1a76bfb2c39dcde396e2f26a67c368624e" compoundref="Giris_8Designer_8cs" startline="539">Risk1.Giris.textBox4</references>
+        <references refid="classRisk1_1_1Giris_1a56582fed3814f3c1c1bb79fbc24869ba" compoundref="Giris_8Designer_8cs" startline="538">Risk1.Giris.textBox5</references>
+        <references refid="classRisk1_1_1Giris_1acbee20a7eb5132837e7a45a4e9c9284b" compoundref="Giris_8Designer_8cs" startline="533">Risk1.Giris.textBox6</references>
+        <references refid="classRisk1_1_1Giris_1ada24982d3f6e367c3f332c0a31da7333" compoundref="Giris_8Designer_8cs" startline="534">Risk1.Giris.textBox7</references>
+        <references refid="classRisk1_1_1Giris_1ad36d852abe798dbcc4f481f2e8452340" compoundref="Giris_8Designer_8cs" startline="535">Risk1.Giris.textBox8</references>
+        <references refid="classRisk1_1_1Giris_1afb2c3a704dce79ea769b9056433d54ae" compoundref="Giris_8Designer_8cs" startline="536">Risk1.Giris.textBox9</references>
+        <references refid="classRisk1_1_1Form1_1a4a32a0335e6463b9746c414f466f382f" compoundref="Form1_8cs" startline="40">Risk1.Form1.yapayzekalar</references>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1Giris_1aaa85c831a11faf538b6b835c07a1803d" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.Giris.button11_Click</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>button11_Click</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.cs" line="208" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.cs" bodystart="207" bodyend="226"/>
+        <references refid="classRisk1_1_1Player_1aadf3d0c8e35abaf5d206c5be1c986d38" compoundref="Player_8cs" startline="23">Risk1.Player.isActive</references>
+        <references refid="classRisk1_1_1Giris_1aa01ca1c02c483cd1fdc447d7a4caad8b" compoundref="Giris_8cs" startline="14">Risk1.Giris.players</references>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1Giris_1afaa3c42b10d1c3401faf4d0cb70a5c3a" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.Giris.button1_Click</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>button1_Click</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.cs" line="229" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.cs" bodystart="228" bodyend="247"/>
+        <references refid="classRisk1_1_1Giris_1aaef52e47c2447ba1b9f34947ae92fc2b" compoundref="Giris_8Designer_8cs" startline="511">Risk1.Giris.checkBox1</references>
+        <references refid="classRisk1_1_1Giris_1aa01ca1c02c483cd1fdc447d7a4caad8b" compoundref="Giris_8cs" startline="14">Risk1.Giris.players</references>
+        <references refid="classRisk1_1_1Giris_1a6941c10aab7ece363c93f1eae50611f2" compoundref="Giris_8Designer_8cs" startline="542">Risk1.Giris.textBox1</references>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1Giris_1a6671661b4570cf55076d12ac826bcf8e" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.Giris.button2_Click</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>button2_Click</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.cs" line="250" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.cs" bodystart="249" bodyend="268"/>
+        <references refid="classRisk1_1_1Giris_1a3273b5dffe1d7841caff8d3e4df80310" compoundref="Giris_8Designer_8cs" startline="531">Risk1.Giris.checkBox2</references>
+        <references refid="classRisk1_1_1Giris_1aa01ca1c02c483cd1fdc447d7a4caad8b" compoundref="Giris_8cs" startline="14">Risk1.Giris.players</references>
+        <references refid="classRisk1_1_1Giris_1a8dd76198d08ac32a60af59303b47697b" compoundref="Giris_8Designer_8cs" startline="541">Risk1.Giris.textBox2</references>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1Giris_1a4d23bf7204d066111b067c4a3bb1f918" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.Giris.button3_Click</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>button3_Click</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.cs" line="271" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.cs" bodystart="270" bodyend="289"/>
+        <references refid="classRisk1_1_1Giris_1ab5fa85c534f32de0b0db11e4d9d5d0d6" compoundref="Giris_8Designer_8cs" startline="529">Risk1.Giris.checkBox3</references>
+        <references refid="classRisk1_1_1Giris_1aa01ca1c02c483cd1fdc447d7a4caad8b" compoundref="Giris_8cs" startline="14">Risk1.Giris.players</references>
+        <references refid="classRisk1_1_1Giris_1afa34c52bb008fba73dfd7dacfdb13c68" compoundref="Giris_8Designer_8cs" startline="540">Risk1.Giris.textBox3</references>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1Giris_1ac0048106fdabf233aacf304415e3f21f" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.Giris.button4_Click</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>button4_Click</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.cs" line="292" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.cs" bodystart="291" bodyend="310"/>
+        <references refid="classRisk1_1_1Giris_1aeb413530514d55ce5add5eb451b8e7b6" compoundref="Giris_8Designer_8cs" startline="527">Risk1.Giris.checkBox4</references>
+        <references refid="classRisk1_1_1Giris_1aa01ca1c02c483cd1fdc447d7a4caad8b" compoundref="Giris_8cs" startline="14">Risk1.Giris.players</references>
+        <references refid="classRisk1_1_1Giris_1a76bfb2c39dcde396e2f26a67c368624e" compoundref="Giris_8Designer_8cs" startline="539">Risk1.Giris.textBox4</references>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1Giris_1a5da4f90c20578abf6f70218910700426" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.Giris.checkBox3_CheckedChanged</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>checkBox3_CheckedChanged</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.cs" line="313" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.cs" bodystart="312" bodyend="324"/>
+        <references refid="classRisk1_1_1Giris_1ab4c4e1b0e87384e8a5f5fefe2f340d62" compoundref="Giris_8Designer_8cs" startline="528">Risk1.Giris.button3</references>
+        <references refid="classRisk1_1_1Giris_1ab5fa85c534f32de0b0db11e4d9d5d0d6" compoundref="Giris_8Designer_8cs" startline="529">Risk1.Giris.checkBox3</references>
+        <references refid="classRisk1_1_1Giris_1aa01ca1c02c483cd1fdc447d7a4caad8b" compoundref="Giris_8cs" startline="14">Risk1.Giris.players</references>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1Giris_1a0dc46b4e3c39ba5f2687fef8cd9702cc" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.Giris.checkBox1_CheckedChanged</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>checkBox1_CheckedChanged</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.cs" line="327" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.cs" bodystart="326" bodyend="339"/>
+        <references refid="classRisk1_1_1Giris_1a9227c2803a39023eeffdbb723ff8534e" compoundref="Giris_8Designer_8cs" startline="512">Risk1.Giris.button1</references>
+        <references refid="classRisk1_1_1Giris_1aaef52e47c2447ba1b9f34947ae92fc2b" compoundref="Giris_8Designer_8cs" startline="511">Risk1.Giris.checkBox1</references>
+        <references refid="classRisk1_1_1Giris_1aa01ca1c02c483cd1fdc447d7a4caad8b" compoundref="Giris_8cs" startline="14">Risk1.Giris.players</references>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1Giris_1a3bf36b88e27a277a1051e756d3baf04f" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.Giris.checkBox2_CheckedChanged</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>checkBox2_CheckedChanged</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.cs" line="342" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.cs" bodystart="341" bodyend="353"/>
+        <references refid="classRisk1_1_1Giris_1abd2e7d091f676b33432079f2a05bb1a9" compoundref="Giris_8Designer_8cs" startline="530">Risk1.Giris.button2</references>
+        <references refid="classRisk1_1_1Giris_1a3273b5dffe1d7841caff8d3e4df80310" compoundref="Giris_8Designer_8cs" startline="531">Risk1.Giris.checkBox2</references>
+        <references refid="classRisk1_1_1Giris_1aa01ca1c02c483cd1fdc447d7a4caad8b" compoundref="Giris_8cs" startline="14">Risk1.Giris.players</references>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1Giris_1af0c05a615c7593832328200e935ff355" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.Giris.checkBox4_CheckedChanged</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>checkBox4_CheckedChanged</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.cs" line="356" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.cs" bodystart="355" bodyend="367"/>
+        <references refid="classRisk1_1_1Giris_1abfdf3ffd19551248fae52b3b29eca350" compoundref="Giris_8Designer_8cs" startline="526">Risk1.Giris.button4</references>
+        <references refid="classRisk1_1_1Giris_1aeb413530514d55ce5add5eb451b8e7b6" compoundref="Giris_8Designer_8cs" startline="527">Risk1.Giris.checkBox4</references>
+        <references refid="classRisk1_1_1Giris_1aa01ca1c02c483cd1fdc447d7a4caad8b" compoundref="Giris_8cs" startline="14">Risk1.Giris.players</references>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1Giris_1a1ce460a966373ad90d5f4b0f416ef4c6" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.Giris.checkBox5_CheckedChanged</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>checkBox5_CheckedChanged</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.cs" line="370" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.cs" bodystart="369" bodyend="381"/>
+        <references refid="classRisk1_1_1Giris_1a8838d8443b2550265c73e0f0bce547e5" compoundref="Giris_8Designer_8cs" startline="524">Risk1.Giris.button5</references>
+        <references refid="classRisk1_1_1Giris_1a205c0053da256159e552008a2e70b790" compoundref="Giris_8Designer_8cs" startline="525">Risk1.Giris.checkBox5</references>
+        <references refid="classRisk1_1_1Giris_1aa01ca1c02c483cd1fdc447d7a4caad8b" compoundref="Giris_8cs" startline="14">Risk1.Giris.players</references>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1Giris_1a65a0f85b8e156b51b748b6235c951268" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.Giris.checkBox6_CheckedChanged</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>checkBox6_CheckedChanged</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.cs" line="384" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.cs" bodystart="383" bodyend="395"/>
+        <references refid="classRisk1_1_1Giris_1ab8d67f901c6479f41fb1c54181e111c7" compoundref="Giris_8Designer_8cs" startline="522">Risk1.Giris.button6</references>
+        <references refid="classRisk1_1_1Giris_1af3e1387ba9347febf52d1b1b621f46c9" compoundref="Giris_8Designer_8cs" startline="523">Risk1.Giris.checkBox6</references>
+        <references refid="classRisk1_1_1Giris_1aa01ca1c02c483cd1fdc447d7a4caad8b" compoundref="Giris_8cs" startline="14">Risk1.Giris.players</references>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1Giris_1abc811cad6cb836da52e9b2fcc2a23a47" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.Giris.checkBox7_CheckedChanged</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>checkBox7_CheckedChanged</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.cs" line="398" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.cs" bodystart="397" bodyend="409"/>
+        <references refid="classRisk1_1_1Giris_1a6512a576e427ee98edf270f39d751e09" compoundref="Giris_8Designer_8cs" startline="520">Risk1.Giris.button7</references>
+        <references refid="classRisk1_1_1Giris_1a2fb68e1041151ece7c3742029f893d4f" compoundref="Giris_8Designer_8cs" startline="521">Risk1.Giris.checkBox7</references>
+        <references refid="classRisk1_1_1Giris_1aa01ca1c02c483cd1fdc447d7a4caad8b" compoundref="Giris_8cs" startline="14">Risk1.Giris.players</references>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1Giris_1aa99968e6848d8f601883fd52bf2efd7f" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.Giris.checkBox8_CheckedChanged</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>checkBox8_CheckedChanged</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.cs" line="412" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.cs" bodystart="411" bodyend="423"/>
+        <references refid="classRisk1_1_1Giris_1ad3572ebb1c3f369158265ff12e1f9037" compoundref="Giris_8Designer_8cs" startline="518">Risk1.Giris.button8</references>
+        <references refid="classRisk1_1_1Giris_1a7059cffce3637902c9d34b162c726996" compoundref="Giris_8Designer_8cs" startline="519">Risk1.Giris.checkBox8</references>
+        <references refid="classRisk1_1_1Giris_1aa01ca1c02c483cd1fdc447d7a4caad8b" compoundref="Giris_8cs" startline="14">Risk1.Giris.players</references>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1Giris_1a707fba3fd1509c611f26a524d02d6bc5" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.Giris.checkBox9_CheckedChanged</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>checkBox9_CheckedChanged</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.cs" line="426" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.cs" bodystart="425" bodyend="437"/>
+        <references refid="classRisk1_1_1Giris_1ab90be8dd381518ebaed70f1dbd42140f" compoundref="Giris_8Designer_8cs" startline="516">Risk1.Giris.button9</references>
+        <references refid="classRisk1_1_1Giris_1a0aed86da7a8ba8d4d31baa6da26dd3be" compoundref="Giris_8Designer_8cs" startline="517">Risk1.Giris.checkBox9</references>
+        <references refid="classRisk1_1_1Giris_1aa01ca1c02c483cd1fdc447d7a4caad8b" compoundref="Giris_8cs" startline="14">Risk1.Giris.players</references>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1Giris_1a96bd3dcb1de3b4ede5c650ee9bf4a7ce" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.Giris.checkBox10_CheckedChanged</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>checkBox10_CheckedChanged</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.cs" line="440" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.cs" bodystart="439" bodyend="451"/>
+        <references refid="classRisk1_1_1Giris_1a3dece39fac9d82d82140e46cb49ac80d" compoundref="Giris_8Designer_8cs" startline="514">Risk1.Giris.button10</references>
+        <references refid="classRisk1_1_1Giris_1a1bfb7309b5a0cb54f6893a9b67c58c85" compoundref="Giris_8Designer_8cs" startline="515">Risk1.Giris.checkBox10</references>
+        <references refid="classRisk1_1_1Giris_1aa01ca1c02c483cd1fdc447d7a4caad8b" compoundref="Giris_8cs" startline="14">Risk1.Giris.players</references>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1Giris_1a4d311457a6d2b43f2b8145ff0741d895" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.Giris.button10_Click</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>button10_Click</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.cs" line="454" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.cs" bodystart="453" bodyend="472"/>
+        <references refid="classRisk1_1_1Giris_1a1bfb7309b5a0cb54f6893a9b67c58c85" compoundref="Giris_8Designer_8cs" startline="515">Risk1.Giris.checkBox10</references>
+        <references refid="classRisk1_1_1Giris_1aa01ca1c02c483cd1fdc447d7a4caad8b" compoundref="Giris_8cs" startline="14">Risk1.Giris.players</references>
+        <references refid="classRisk1_1_1Giris_1a538000e9f811688a0c67a860d3861320" compoundref="Giris_8Designer_8cs" startline="537">Risk1.Giris.textBox10</references>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1Giris_1a068b4ba92acfba3ea4d68afb9240eabe" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.Giris.button5_Click</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>button5_Click</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.cs" line="475" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.cs" bodystart="474" bodyend="493"/>
+        <references refid="classRisk1_1_1Giris_1a205c0053da256159e552008a2e70b790" compoundref="Giris_8Designer_8cs" startline="525">Risk1.Giris.checkBox5</references>
+        <references refid="classRisk1_1_1Giris_1aa01ca1c02c483cd1fdc447d7a4caad8b" compoundref="Giris_8cs" startline="14">Risk1.Giris.players</references>
+        <references refid="classRisk1_1_1Giris_1a56582fed3814f3c1c1bb79fbc24869ba" compoundref="Giris_8Designer_8cs" startline="538">Risk1.Giris.textBox5</references>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1Giris_1ab366cb8bbabffcf6231f116d28af2ca6" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.Giris.button12_Click</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>button12_Click</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.cs" line="496" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.cs" bodystart="495" bodyend="500"/>
+        <references refid="classRisk1_1_1Giris_1af5ac97f59cbeebd95721def69014002f" compoundref="Giris_8cs" startline="16">Risk1.Giris.f1</references>
+        <references refid="classRisk1_1_1Giris_1aa01ca1c02c483cd1fdc447d7a4caad8b" compoundref="Giris_8cs" startline="14">Risk1.Giris.players</references>
+        <references refid="classRisk1_1_1Giris_1adf48b14e627fcd8bbb8ba1f402289cc3" compoundref="Giris_8cs" startline="15">Risk1.Giris.playersTemp</references>
+        <references refid="classRisk1_1_1Form1_1acbc231cada51c02354509b1ba92a0427" compoundref="Form1_8cs" startline="2450">Risk1.Form1.yeniOyunIptal</references>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1Giris_1a189cbbcc2d0919f0e80c76cbdd359666" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.Giris.button6_Click</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>button6_Click</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.cs" line="503" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.cs" bodystart="502" bodyend="521"/>
+        <references refid="classRisk1_1_1Giris_1af3e1387ba9347febf52d1b1b621f46c9" compoundref="Giris_8Designer_8cs" startline="523">Risk1.Giris.checkBox6</references>
+        <references refid="classRisk1_1_1Giris_1aa01ca1c02c483cd1fdc447d7a4caad8b" compoundref="Giris_8cs" startline="14">Risk1.Giris.players</references>
+        <references refid="classRisk1_1_1Giris_1acbee20a7eb5132837e7a45a4e9c9284b" compoundref="Giris_8Designer_8cs" startline="533">Risk1.Giris.textBox6</references>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1Giris_1a4a5210fdcd147ecd24239a0d7aa8cc51" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.Giris.button7_Click</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>button7_Click</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.cs" line="524" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.cs" bodystart="523" bodyend="542"/>
+        <references refid="classRisk1_1_1Giris_1a2fb68e1041151ece7c3742029f893d4f" compoundref="Giris_8Designer_8cs" startline="521">Risk1.Giris.checkBox7</references>
+        <references refid="classRisk1_1_1Giris_1aa01ca1c02c483cd1fdc447d7a4caad8b" compoundref="Giris_8cs" startline="14">Risk1.Giris.players</references>
+        <references refid="classRisk1_1_1Giris_1ada24982d3f6e367c3f332c0a31da7333" compoundref="Giris_8Designer_8cs" startline="534">Risk1.Giris.textBox7</references>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1Giris_1a1f55a3c5206c6594c083d512d75736b2" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.Giris.button8_Click</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>button8_Click</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.cs" line="545" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.cs" bodystart="544" bodyend="563"/>
+        <references refid="classRisk1_1_1Giris_1a7059cffce3637902c9d34b162c726996" compoundref="Giris_8Designer_8cs" startline="519">Risk1.Giris.checkBox8</references>
+        <references refid="classRisk1_1_1Giris_1aa01ca1c02c483cd1fdc447d7a4caad8b" compoundref="Giris_8cs" startline="14">Risk1.Giris.players</references>
+        <references refid="classRisk1_1_1Giris_1ad36d852abe798dbcc4f481f2e8452340" compoundref="Giris_8Designer_8cs" startline="535">Risk1.Giris.textBox8</references>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1Giris_1a84733a29fb83310cf623610fd5be5a54" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.Giris.button9_Click</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>button9_Click</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.cs" line="566" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.cs" bodystart="565" bodyend="584"/>
+        <references refid="classRisk1_1_1Giris_1a0aed86da7a8ba8d4d31baa6da26dd3be" compoundref="Giris_8Designer_8cs" startline="517">Risk1.Giris.checkBox9</references>
+        <references refid="classRisk1_1_1Giris_1aa01ca1c02c483cd1fdc447d7a4caad8b" compoundref="Giris_8cs" startline="14">Risk1.Giris.players</references>
+        <references refid="classRisk1_1_1Giris_1afb2c3a704dce79ea769b9056433d54ae" compoundref="Giris_8Designer_8cs" startline="536">Risk1.Giris.textBox9</references>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1Giris_1a49cef639858829e2d819ed902446dc2a" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.Giris.InitializeComponent</definition>
+        <argsstring>()</argsstring>
+        <name>InitializeComponent</name>
+        <briefdescription>
+<para>Required method for Designer support - do not modify the contents of this method with the code editor. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.Designer.cs" line="30" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.Designer.cs" bodystart="29" bodyend="507"/>
+        <referencedby refid="classRisk1_1_1Giris_1a9b102a61cdb52c2624cb41b6f3aa389f" compoundref="Giris_8cs" startline="17" endline="23">Risk1.Giris.Giris</referencedby>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="protected-func">
+      <memberdef kind="function" id="classRisk1_1_1Giris_1a1611ab33ee89aaf446801a3368d61172" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override void</type>
+        <definition>override void Risk1.Giris.Dispose</definition>
+        <argsstring>(bool disposing)</argsstring>
+        <name>Dispose</name>
+        <param>
+          <type>bool</type>
+          <declname>disposing</declname>
+        </param>
+        <briefdescription>
+<para>Clean up any resources being used. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>disposing</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>true if managed resources should be disposed; otherwise, false.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.Designer.cs" line="15" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.Designer.cs" bodystart="14" bodyend="21"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <collaborationgraph>
+      <node id="279">
+        <label>ArtificalIntelligence</label>
+        <link refid="classRisk1_1_1ArtificalIntelligence"/>
+      </node>
+      <node id="280">
+        <label>Risk1.Statistics</label>
+        <link refid="classRisk1_1_1Statistics"/>
+      </node>
+      <node id="281">
+        <label>Risk1.GameData</label>
+        <link refid="classRisk1_1_1GameData"/>
+      </node>
+      <node id="283">
+        <label>Risk1.Player</label>
+        <link refid="classRisk1_1_1Player"/>
+      </node>
+      <node id="276">
+        <label>Risk1.Giris</label>
+        <link refid="classRisk1_1_1Giris"/>
+        <childnode refid="277" relation="usage">
+          <edgelabel>f1</edgelabel>
+        </childnode>
+        <childnode refid="285" relation="usage">
+          <edgelabel>textBox4</edgelabel>
+          <edgelabel>button4</edgelabel>
+          <edgelabel>checkBox5</edgelabel>
+          <edgelabel>button10</edgelabel>
+          <edgelabel>textBox5</edgelabel>
+          <edgelabel>button11</edgelabel>
+          <edgelabel>button5</edgelabel>
+          <edgelabel>checkBox6</edgelabel>
+          <edgelabel>checkBox10</edgelabel>
+          <edgelabel>button12</edgelabel>
+          <edgelabel>...</edgelabel>
+        </childnode>
+      </node>
+      <node id="284">
+        <label>Risk1.Ordu</label>
+        <link refid="classRisk1_1_1Ordu"/>
+      </node>
+      <node id="278">
+        <label>Risk1.AI</label>
+        <link refid="classRisk1_1_1AI"/>
+        <childnode refid="279" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="285">
+        <label>System</label>
+      </node>
+      <node id="277">
+        <label>Risk1.Form1</label>
+        <link refid="classRisk1_1_1Form1"/>
+        <childnode refid="278" relation="usage">
+          <edgelabel>ai</edgelabel>
+        </childnode>
+        <childnode refid="280" relation="usage">
+          <edgelabel>statistics</edgelabel>
+        </childnode>
+        <childnode refid="281" relation="usage">
+          <edgelabel>gameData</edgelabel>
+        </childnode>
+        <childnode refid="282" relation="usage">
+          <edgelabel>ilkTiklananBolge</edgelabel>
+        </childnode>
+        <childnode refid="285" relation="usage">
+          <edgelabel>showStatisticsToolStripMenuItem</edgelabel>
+          <edgelabel>rulesToolStripMenuItem</edgelabel>
+          <edgelabel>exitToolStripMenuItem</edgelabel>
+          <edgelabel>pictureBox1</edgelabel>
+          <edgelabel>timer1</edgelabel>
+          <edgelabel>pictureBox2</edgelabel>
+          <edgelabel>aboutToolStripMenuItem</edgelabel>
+          <edgelabel>endGameToolStripMenuItem</edgelabel>
+          <edgelabel>label1</edgelabel>
+          <edgelabel>pictureBox3</edgelabel>
+          <edgelabel>...</edgelabel>
+        </childnode>
+        <childnode refid="286" relation="usage">
+          <edgelabel>ai2</edgelabel>
+        </childnode>
+        <childnode refid="287" relation="usage">
+          <edgelabel>ai3</edgelabel>
+        </childnode>
+        <childnode refid="288" relation="usage">
+          <edgelabel>ai4</edgelabel>
+        </childnode>
+      </node>
+      <node id="286">
+        <label>Risk1.AI2</label>
+        <link refid="classRisk1_1_1AI2"/>
+        <childnode refid="279" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="287">
+        <label>Risk1.AI3</label>
+        <link refid="classRisk1_1_1AI3"/>
+        <childnode refid="279" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="288">
+        <label>Risk1.AI4</label>
+        <link refid="classRisk1_1_1AI4"/>
+        <childnode refid="279" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="282">
+        <label>Risk1.Bolge</label>
+        <link refid="classRisk1_1_1Bolge"/>
+        <childnode refid="283" relation="usage">
+          <edgelabel>sahip</edgelabel>
+        </childnode>
+        <childnode refid="284" relation="usage">
+          <edgelabel>ordu</edgelabel>
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.cs" line="13" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Giris.cs" bodystart="12" bodyend="585"/>
+    <listofallmembers>
+      <member refid="classRisk1_1_1Giris_1a9227c2803a39023eeffdbb723ff8534e" prot="private" virt="non-virtual"><scope>Risk1::Giris</scope><name>button1</name></member>
+      <member refid="classRisk1_1_1Giris_1a3dece39fac9d82d82140e46cb49ac80d" prot="private" virt="non-virtual"><scope>Risk1::Giris</scope><name>button10</name></member>
+      <member refid="classRisk1_1_1Giris_1a4d311457a6d2b43f2b8145ff0741d895" prot="private" virt="non-virtual"><scope>Risk1::Giris</scope><name>button10_Click</name></member>
+      <member refid="classRisk1_1_1Giris_1a25ecfb19bcf5d3b8fda054a17ca40b9a" prot="private" virt="non-virtual"><scope>Risk1::Giris</scope><name>button11</name></member>
+      <member refid="classRisk1_1_1Giris_1aaa85c831a11faf538b6b835c07a1803d" prot="private" virt="non-virtual"><scope>Risk1::Giris</scope><name>button11_Click</name></member>
+      <member refid="classRisk1_1_1Giris_1ac4c58ea9e6332bab0fb683699171694b" prot="private" virt="non-virtual"><scope>Risk1::Giris</scope><name>button12</name></member>
+      <member refid="classRisk1_1_1Giris_1ab366cb8bbabffcf6231f116d28af2ca6" prot="private" virt="non-virtual"><scope>Risk1::Giris</scope><name>button12_Click</name></member>
+      <member refid="classRisk1_1_1Giris_1afaa3c42b10d1c3401faf4d0cb70a5c3a" prot="private" virt="non-virtual"><scope>Risk1::Giris</scope><name>button1_Click</name></member>
+      <member refid="classRisk1_1_1Giris_1abd2e7d091f676b33432079f2a05bb1a9" prot="private" virt="non-virtual"><scope>Risk1::Giris</scope><name>button2</name></member>
+      <member refid="classRisk1_1_1Giris_1a6671661b4570cf55076d12ac826bcf8e" prot="private" virt="non-virtual"><scope>Risk1::Giris</scope><name>button2_Click</name></member>
+      <member refid="classRisk1_1_1Giris_1ab4c4e1b0e87384e8a5f5fefe2f340d62" prot="private" virt="non-virtual"><scope>Risk1::Giris</scope><name>button3</name></member>
+      <member refid="classRisk1_1_1Giris_1a4d23bf7204d066111b067c4a3bb1f918" prot="private" virt="non-virtual"><scope>Risk1::Giris</scope><name>button3_Click</name></member>
+      <member refid="classRisk1_1_1Giris_1abfdf3ffd19551248fae52b3b29eca350" prot="private" virt="non-virtual"><scope>Risk1::Giris</scope><name>button4</name></member>
+      <member refid="classRisk1_1_1Giris_1ac0048106fdabf233aacf304415e3f21f" prot="private" virt="non-virtual"><scope>Risk1::Giris</scope><name>button4_Click</name></member>
+      <member refid="classRisk1_1_1Giris_1a8838d8443b2550265c73e0f0bce547e5" prot="private" virt="non-virtual"><scope>Risk1::Giris</scope><name>button5</name></member>
+      <member refid="classRisk1_1_1Giris_1a068b4ba92acfba3ea4d68afb9240eabe" prot="private" virt="non-virtual"><scope>Risk1::Giris</scope><name>button5_Click</name></member>
+      <member refid="classRisk1_1_1Giris_1ab8d67f901c6479f41fb1c54181e111c7" prot="private" virt="non-virtual"><scope>Risk1::Giris</scope><name>button6</name></member>
+      <member refid="classRisk1_1_1Giris_1a189cbbcc2d0919f0e80c76cbdd359666" prot="private" virt="non-virtual"><scope>Risk1::Giris</scope><name>button6_Click</name></member>
+      <member refid="classRisk1_1_1Giris_1a6512a576e427ee98edf270f39d751e09" prot="private" virt="non-virtual"><scope>Risk1::Giris</scope><name>button7</name></member>
+      <member refid="classRisk1_1_1Giris_1a4a5210fdcd147ecd24239a0d7aa8cc51" prot="private" virt="non-virtual"><scope>Risk1::Giris</scope><name>button7_Click</name></member>
+      <member refid="classRisk1_1_1Giris_1ad3572ebb1c3f369158265ff12e1f9037" prot="private" virt="non-virtual"><scope>Risk1::Giris</scope><name>button8</name></member>
+      <member refid="classRisk1_1_1Giris_1a1f55a3c5206c6594c083d512d75736b2" prot="private" virt="non-virtual"><scope>Risk1::Giris</scope><name>button8_Click</name></member>
+      <member refid="classRisk1_1_1Giris_1ab90be8dd381518ebaed70f1dbd42140f" prot="private" virt="non-virtual"><scope>Risk1::Giris</scope><name>button9</name></member>
+      <member refid="classRisk1_1_1Giris_1a84733a29fb83310cf623610fd5be5a54" prot="private" virt="non-virtual"><scope>Risk1::Giris</scope><name>button9_Click</name></member>
+      <member refid="classRisk1_1_1Giris_1aaef52e47c2447ba1b9f34947ae92fc2b" prot="private" virt="non-virtual"><scope>Risk1::Giris</scope><name>checkBox1</name></member>
+      <member refid="classRisk1_1_1Giris_1a1bfb7309b5a0cb54f6893a9b67c58c85" prot="private" virt="non-virtual"><scope>Risk1::Giris</scope><name>checkBox10</name></member>
+      <member refid="classRisk1_1_1Giris_1a96bd3dcb1de3b4ede5c650ee9bf4a7ce" prot="private" virt="non-virtual"><scope>Risk1::Giris</scope><name>checkBox10_CheckedChanged</name></member>
+      <member refid="classRisk1_1_1Giris_1a0dc46b4e3c39ba5f2687fef8cd9702cc" prot="private" virt="non-virtual"><scope>Risk1::Giris</scope><name>checkBox1_CheckedChanged</name></member>
+      <member refid="classRisk1_1_1Giris_1a3273b5dffe1d7841caff8d3e4df80310" prot="private" virt="non-virtual"><scope>Risk1::Giris</scope><name>checkBox2</name></member>
+      <member refid="classRisk1_1_1Giris_1a3bf36b88e27a277a1051e756d3baf04f" prot="private" virt="non-virtual"><scope>Risk1::Giris</scope><name>checkBox2_CheckedChanged</name></member>
+      <member refid="classRisk1_1_1Giris_1ab5fa85c534f32de0b0db11e4d9d5d0d6" prot="private" virt="non-virtual"><scope>Risk1::Giris</scope><name>checkBox3</name></member>
+      <member refid="classRisk1_1_1Giris_1a5da4f90c20578abf6f70218910700426" prot="private" virt="non-virtual"><scope>Risk1::Giris</scope><name>checkBox3_CheckedChanged</name></member>
+      <member refid="classRisk1_1_1Giris_1aeb413530514d55ce5add5eb451b8e7b6" prot="private" virt="non-virtual"><scope>Risk1::Giris</scope><name>checkBox4</name></member>
+      <member refid="classRisk1_1_1Giris_1af0c05a615c7593832328200e935ff355" prot="private" virt="non-virtual"><scope>Risk1::Giris</scope><name>checkBox4_CheckedChanged</name></member>
+      <member refid="classRisk1_1_1Giris_1a205c0053da256159e552008a2e70b790" prot="private" virt="non-virtual"><scope>Risk1::Giris</scope><name>checkBox5</name></member>
+      <member refid="classRisk1_1_1Giris_1a1ce460a966373ad90d5f4b0f416ef4c6" prot="private" virt="non-virtual"><scope>Risk1::Giris</scope><name>checkBox5_CheckedChanged</name></member>
+      <member refid="classRisk1_1_1Giris_1af3e1387ba9347febf52d1b1b621f46c9" prot="private" virt="non-virtual"><scope>Risk1::Giris</scope><name>checkBox6</name></member>
+      <member refid="classRisk1_1_1Giris_1a65a0f85b8e156b51b748b6235c951268" prot="private" virt="non-virtual"><scope>Risk1::Giris</scope><name>checkBox6_CheckedChanged</name></member>
+      <member refid="classRisk1_1_1Giris_1a2fb68e1041151ece7c3742029f893d4f" prot="private" virt="non-virtual"><scope>Risk1::Giris</scope><name>checkBox7</name></member>
+      <member refid="classRisk1_1_1Giris_1abc811cad6cb836da52e9b2fcc2a23a47" prot="private" virt="non-virtual"><scope>Risk1::Giris</scope><name>checkBox7_CheckedChanged</name></member>
+      <member refid="classRisk1_1_1Giris_1a7059cffce3637902c9d34b162c726996" prot="private" virt="non-virtual"><scope>Risk1::Giris</scope><name>checkBox8</name></member>
+      <member refid="classRisk1_1_1Giris_1aa99968e6848d8f601883fd52bf2efd7f" prot="private" virt="non-virtual"><scope>Risk1::Giris</scope><name>checkBox8_CheckedChanged</name></member>
+      <member refid="classRisk1_1_1Giris_1a0aed86da7a8ba8d4d31baa6da26dd3be" prot="private" virt="non-virtual"><scope>Risk1::Giris</scope><name>checkBox9</name></member>
+      <member refid="classRisk1_1_1Giris_1a707fba3fd1509c611f26a524d02d6bc5" prot="private" virt="non-virtual"><scope>Risk1::Giris</scope><name>checkBox9_CheckedChanged</name></member>
+      <member refid="classRisk1_1_1Giris_1afd04ec9c2f0a3a9e507303f98348726d" prot="private" virt="non-virtual"><scope>Risk1::Giris</scope><name>components</name></member>
+      <member refid="classRisk1_1_1Giris_1a1611ab33ee89aaf446801a3368d61172" prot="protected" virt="non-virtual"><scope>Risk1::Giris</scope><name>Dispose</name></member>
+      <member refid="classRisk1_1_1Giris_1af5ac97f59cbeebd95721def69014002f" prot="private" virt="non-virtual"><scope>Risk1::Giris</scope><name>f1</name></member>
+      <member refid="classRisk1_1_1Giris_1a9b102a61cdb52c2624cb41b6f3aa389f" prot="public" virt="non-virtual"><scope>Risk1::Giris</scope><name>Giris</name></member>
+      <member refid="classRisk1_1_1Giris_1a1ced79e7c65a399f658645071c1463d7" prot="private" virt="non-virtual"><scope>Risk1::Giris</scope><name>Giris_Load</name></member>
+      <member refid="classRisk1_1_1Giris_1a49cef639858829e2d819ed902446dc2a" prot="private" virt="non-virtual"><scope>Risk1::Giris</scope><name>InitializeComponent</name></member>
+      <member refid="classRisk1_1_1Giris_1a650d8556699baa98117ac5f1f3c277b5" prot="private" virt="non-virtual"><scope>Risk1::Giris</scope><name>panel1</name></member>
+      <member refid="classRisk1_1_1Giris_1aa01ca1c02c483cd1fdc447d7a4caad8b" prot="private" virt="non-virtual"><scope>Risk1::Giris</scope><name>players</name></member>
+      <member refid="classRisk1_1_1Giris_1adf48b14e627fcd8bbb8ba1f402289cc3" prot="private" virt="non-virtual"><scope>Risk1::Giris</scope><name>playersTemp</name></member>
+      <member refid="classRisk1_1_1Giris_1a6941c10aab7ece363c93f1eae50611f2" prot="private" virt="non-virtual"><scope>Risk1::Giris</scope><name>textBox1</name></member>
+      <member refid="classRisk1_1_1Giris_1a538000e9f811688a0c67a860d3861320" prot="private" virt="non-virtual"><scope>Risk1::Giris</scope><name>textBox10</name></member>
+      <member refid="classRisk1_1_1Giris_1a8dd76198d08ac32a60af59303b47697b" prot="private" virt="non-virtual"><scope>Risk1::Giris</scope><name>textBox2</name></member>
+      <member refid="classRisk1_1_1Giris_1afa34c52bb008fba73dfd7dacfdb13c68" prot="private" virt="non-virtual"><scope>Risk1::Giris</scope><name>textBox3</name></member>
+      <member refid="classRisk1_1_1Giris_1a76bfb2c39dcde396e2f26a67c368624e" prot="private" virt="non-virtual"><scope>Risk1::Giris</scope><name>textBox4</name></member>
+      <member refid="classRisk1_1_1Giris_1a56582fed3814f3c1c1bb79fbc24869ba" prot="private" virt="non-virtual"><scope>Risk1::Giris</scope><name>textBox5</name></member>
+      <member refid="classRisk1_1_1Giris_1acbee20a7eb5132837e7a45a4e9c9284b" prot="private" virt="non-virtual"><scope>Risk1::Giris</scope><name>textBox6</name></member>
+      <member refid="classRisk1_1_1Giris_1ada24982d3f6e367c3f332c0a31da7333" prot="private" virt="non-virtual"><scope>Risk1::Giris</scope><name>textBox7</name></member>
+      <member refid="classRisk1_1_1Giris_1ad36d852abe798dbcc4f481f2e8452340" prot="private" virt="non-virtual"><scope>Risk1::Giris</scope><name>textBox8</name></member>
+      <member refid="classRisk1_1_1Giris_1afb2c3a704dce79ea769b9056433d54ae" prot="private" virt="non-virtual"><scope>Risk1::Giris</scope><name>textBox9</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,185 @@
+c:\users\ferid\documents\visual studio 2010\Projects\Risk1\Risk1\bin\Debug\Risk1.exe
+c:\users\ferid\documents\visual studio 2010\Projects\Risk1\Risk1\bin\Debug\Risk1.pdb
+c:\users\ferid\documents\visual studio 2010\Projects\Risk1\Risk1\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\ferid\documents\visual studio 2010\Projects\Risk1\Risk1\obj\x86\Debug\Risk1.Form1.resources
+c:\users\ferid\documents\visual studio 2010\Projects\Risk1\Risk1\obj\x86\Debug\Risk1.Properties.Resources.resources
+c:\users\ferid\documents\visual studio 2010\Projects\Risk1\Risk1\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\ferid\documents\visual studio 2010\Projects\Risk1\Risk1\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\ferid\documents\visual studio 2010\Projects\Risk1\Risk1\obj\x86\Debug\Risk1.exe
+c:\users\ferid\documents\visual studio 2010\Projects\Risk1\Risk1\obj\x86\Debug\Risk1.pdb
+C:\Users\FERID\Documents\Visual Studio 2010\Projects\Risk1\Risk1\obj\x86\Debug\Risk1.ChangePlayer.resources
+C:\Users\FERID\Documents\Visual Studio 2010\Projects\Risk1\Risk1\obj\x86\Debug\Risk1.Giris.resources
+C:\Users\FERID\Desktop\RISK\VERSİYONLAR\V3 Yeni oyun başlatma özelliği tamamlandı\Risk1\Risk1\obj\x86\Debug\Risk1.exe
+C:\Users\FERID\Desktop\RISK\VERSİYONLAR\V3 Yeni oyun başlatma özelliği tamamlandı\Risk1\Risk1\obj\x86\Debug\Risk1.pdb
+C:\Users\Ferid\Desktop\RISK\VERSİYONLAR\V3 Yeni oyun başlatma özelliği tamamlandı\Risk1\Risk1\bin\Debug\Risk1.exe
+C:\Users\Ferid\Desktop\RISK\VERSİYONLAR\V3 Yeni oyun başlatma özelliği tamamlandı\Risk1\Risk1\bin\Debug\Risk1.pdb
+C:\Users\Ferid\Desktop\RISK\VERSİYONLAR\V3 Yeni oyun başlatma özelliği tamamlandı\Risk1\Risk1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ferid\Desktop\RISK\VERSİYONLAR\V3 Yeni oyun başlatma özelliği tamamlandı\Risk1\Risk1\obj\x86\Debug\Risk1.ChangePlayer.resources
+C:\Users\Ferid\Desktop\RISK\VERSİYONLAR\V3 Yeni oyun başlatma özelliği tamamlandı\Risk1\Risk1\obj\x86\Debug\Risk1.Form1.resources
+C:\Users\Ferid\Desktop\RISK\VERSİYONLAR\V3 Yeni oyun başlatma özelliği tamamlandı\Risk1\Risk1\obj\x86\Debug\Risk1.Form2.resources
+C:\Users\Ferid\Desktop\RISK\VERSİYONLAR\V3 Yeni oyun başlatma özelliği tamamlandı\Risk1\Risk1\obj\x86\Debug\Risk1.Giris.resources
+C:\Users\Ferid\Desktop\RISK\VERSİYONLAR\V3 Yeni oyun başlatma özelliği tamamlandı\Risk1\Risk1\obj\x86\Debug\Risk1.Properties.Resources.resources
+C:\Users\Ferid\Desktop\RISK\VERSİYONLAR\V3 Yeni oyun başlatma özelliği tamamlandı\Risk1\Risk1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ferid\Desktop\RISK\VERSİYONLAR\V3 Yeni oyun başlatma özelliği tamamlandı\Risk1\Risk1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ferid\Documents\Visual Studio 2010\Projects\Risk1\Risk1\obj\x86\Debug\Risk1.SaldiriEkrani.resources
+C:\Users\Ferid\Documents\Visual Studio 2010\Projects\Risk1\Risk1\obj\x86\Debug\Risk1.ArmyMove.resources
+C:\Users\Ferid\Documents\Visual Studio 2010\Projects\Risk1\Risk1\obj\x86\Debug\Risk1.Loading.resources
+C:\Users\Ferid\Documents\Visual Studio 2010\Projects\Risk1\Risk1\obj\x86\Debug\Risk1.About.resources
+C:\Users\Ferid\Documents\Visual Studio 2010\Projects\Risk1\Risk1\obj\x86\Debug\Risk1.Rules.resources
+C:\Users\Ferid\Documents\Visual Studio 2010\Projects\Risk\Risk1\Risk1\obj\x86\Debug\Risk1.exe
+C:\Users\Ferid\Documents\Visual Studio 2010\Projects\Risk\Risk1\Risk1\obj\x86\Debug\Risk1.pdb
+C:\Users\Ferid\Documents\Visual Studio 2010\Projects\Risk\Risk1\Risk1\bin\Debug\Risk1.exe
+C:\Users\Ferid\Documents\Visual Studio 2010\Projects\Risk\Risk1\Risk1\bin\Debug\Risk1.pdb
+C:\Users\Ferid\Documents\Visual Studio 2010\Projects\Risk\Risk1\Risk1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ferid\Documents\Visual Studio 2010\Projects\Risk\Risk1\Risk1\obj\x86\Debug\Risk1.ArmyMove.resources
+C:\Users\Ferid\Documents\Visual Studio 2010\Projects\Risk\Risk1\Risk1\obj\x86\Debug\Risk1.ChangePlayer.resources
+C:\Users\Ferid\Documents\Visual Studio 2010\Projects\Risk\Risk1\Risk1\obj\x86\Debug\Risk1.Form1.resources
+C:\Users\Ferid\Documents\Visual Studio 2010\Projects\Risk\Risk1\Risk1\obj\x86\Debug\Risk1.About.resources
+C:\Users\Ferid\Documents\Visual Studio 2010\Projects\Risk\Risk1\Risk1\obj\x86\Debug\Risk1.Giris.resources
+C:\Users\Ferid\Documents\Visual Studio 2010\Projects\Risk\Risk1\Risk1\obj\x86\Debug\Risk1.Loading.resources
+C:\Users\Ferid\Documents\Visual Studio 2010\Projects\Risk\Risk1\Risk1\obj\x86\Debug\Risk1.Properties.Resources.resources
+C:\Users\Ferid\Documents\Visual Studio 2010\Projects\Risk\Risk1\Risk1\obj\x86\Debug\Risk1.Rules.resources
+C:\Users\Ferid\Documents\Visual Studio 2010\Projects\Risk\Risk1\Risk1\obj\x86\Debug\Risk1.SaldiriEkrani.resources
+C:\Users\Ferid\Documents\Visual Studio 2010\Projects\Risk\Risk1\Risk1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ferid\Documents\Visual Studio 2010\Projects\Risk\Risk1\Risk1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ferid\Documents\Visual Studio 2010\Projects\Risk1\Risk1\obj\x86\Debug\Risk1.ChangeStyle.resources
+C:\Users\Ferid\Documents\Visual Studio 2010\Projects\Risk1\Risk1\obj\x86\Debug\GenerateResource.read.277.tlog
+C:\Users\Ferid\Documents\Visual Studio 2010\Projects\Risk1\Risk1\obj\x86\Debug\Risk1.Galibiyet.resources
+C:\Users\Ferid\Documents\Visual Studio 2010\Projects\Risk1\Risk1\obj\x86\Debug\Risk1.Chart.resources
+C:\Users\Ferid\Desktop\RISK\VERSİYONLAR\_V40\Risk1\Risk1\obj\x86\Debug\Risk1.exe
+C:\Users\Ferid\Desktop\RISK\VERSİYONLAR\_V40\Risk1\Risk1\obj\x86\Debug\Risk1.pdb
+C:\Users\Ferid\Desktop\RISK\VERSİYONLAR\_V40\Risk1\Risk1\bin\Debug\Risk1.exe
+C:\Users\Ferid\Desktop\RISK\VERSİYONLAR\_V40\Risk1\Risk1\bin\Debug\Risk1.pdb
+C:\Users\Ferid\Desktop\RISK\VERSİYONLAR\_V40\Risk1\Risk1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ferid\Desktop\RISK\VERSİYONLAR\_V40\Risk1\Risk1\obj\x86\Debug\Risk1.ArmyMove.resources
+C:\Users\Ferid\Desktop\RISK\VERSİYONLAR\_V40\Risk1\Risk1\obj\x86\Debug\Risk1.ChangePlayer.resources
+C:\Users\Ferid\Desktop\RISK\VERSİYONLAR\_V40\Risk1\Risk1\obj\x86\Debug\Risk1.ChangeStyle.resources
+C:\Users\Ferid\Desktop\RISK\VERSİYONLAR\_V40\Risk1\Risk1\obj\x86\Debug\Risk1.Chart.resources
+C:\Users\Ferid\Desktop\RISK\VERSİYONLAR\_V40\Risk1\Risk1\obj\x86\Debug\Risk1.Form1.resources
+C:\Users\Ferid\Desktop\RISK\VERSİYONLAR\_V40\Risk1\Risk1\obj\x86\Debug\Risk1.About.resources
+C:\Users\Ferid\Desktop\RISK\VERSİYONLAR\_V40\Risk1\Risk1\obj\x86\Debug\Risk1.Galibiyet.resources
+C:\Users\Ferid\Desktop\RISK\VERSİYONLAR\_V40\Risk1\Risk1\obj\x86\Debug\Risk1.Giris.resources
+C:\Users\Ferid\Desktop\RISK\VERSİYONLAR\_V40\Risk1\Risk1\obj\x86\Debug\Risk1.Loading.resources
+C:\Users\Ferid\Desktop\RISK\VERSİYONLAR\_V40\Risk1\Risk1\obj\x86\Debug\Risk1.Properties.Resources.resources
+C:\Users\Ferid\Desktop\RISK\VERSİYONLAR\_V40\Risk1\Risk1\obj\x86\Debug\Risk1.Rules.resources
+C:\Users\Ferid\Desktop\RISK\VERSİYONLAR\_V40\Risk1\Risk1\obj\x86\Debug\Risk1.SaldiriEkrani.resources
+C:\Users\Ferid\Desktop\RISK\VERSİYONLAR\_V40\Risk1\Risk1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ferid\Desktop\RISK\VERSİYONLAR\_V40\Risk1\Risk1\obj\x86\Debug\GenerateResource.read.277.tlog
+C:\Users\Ferid\Desktop\RISK\VERSİYONLAR\_V40\Risk1\Risk1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ferid\Desktop\Risk1\Risk1\obj\x86\Debug\Risk1.exe
+C:\Users\Ferid\Desktop\Risk1\Risk1\obj\x86\Debug\Risk1.pdb
+C:\Users\Ferid\Desktop\Risk1\Risk1\bin\Debug\Risk1.exe
+C:\Users\Ferid\Desktop\Risk1\Risk1\bin\Debug\Risk1.pdb
+C:\Users\Ferid\Desktop\Risk1\Risk1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ferid\Desktop\Risk1\Risk1\obj\x86\Debug\Risk1.ArmyMove.resources
+C:\Users\Ferid\Desktop\Risk1\Risk1\obj\x86\Debug\Risk1.ChangePlayer.resources
+C:\Users\Ferid\Desktop\Risk1\Risk1\obj\x86\Debug\Risk1.ChangeStyle.resources
+C:\Users\Ferid\Desktop\Risk1\Risk1\obj\x86\Debug\Risk1.Chart.resources
+C:\Users\Ferid\Desktop\Risk1\Risk1\obj\x86\Debug\Risk1.Form1.resources
+C:\Users\Ferid\Desktop\Risk1\Risk1\obj\x86\Debug\Risk1.About.resources
+C:\Users\Ferid\Desktop\Risk1\Risk1\obj\x86\Debug\Risk1.Galibiyet.resources
+C:\Users\Ferid\Desktop\Risk1\Risk1\obj\x86\Debug\Risk1.Giris.resources
+C:\Users\Ferid\Desktop\Risk1\Risk1\obj\x86\Debug\Risk1.Loading.resources
+C:\Users\Ferid\Desktop\Risk1\Risk1\obj\x86\Debug\Risk1.Properties.Resources.resources
+C:\Users\Ferid\Desktop\Risk1\Risk1\obj\x86\Debug\Risk1.Rules.resources
+C:\Users\Ferid\Desktop\Risk1\Risk1\obj\x86\Debug\Risk1.SaldiriEkrani.resources
+C:\Users\Ferid\Desktop\Risk1\Risk1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ferid\Desktop\Risk1\Risk1\obj\x86\Debug\GenerateResource.read.277.tlog
+C:\Users\Ferid\Desktop\Risk1\Risk1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ferid\Desktop\Risk1\Risk1\bin\Debug\Risk1.exe.config
+C:\Users\Ferid\Desktop\Risk1\Risk1\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Ferid\Desktop\Risk1\Risk1\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Ferid\Desktop\Absolute Risk Source\Risk1\bin\Debug\Risk1.exe.config
+C:\Users\Ferid\Desktop\Absolute Risk Source\Risk1\obj\x86\Debug\Risk1.exe
+C:\Users\Ferid\Desktop\Absolute Risk Source\Risk1\obj\x86\Debug\Risk1.pdb
+C:\Users\Ferid\Desktop\Absolute Risk Source\Risk1\bin\Debug\Risk1.exe
+C:\Users\Ferid\Desktop\Absolute Risk Source\Risk1\bin\Debug\Risk1.pdb
+C:\Users\Ferid\Desktop\Absolute Risk Source\Risk1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ferid\Desktop\Absolute Risk Source\Risk1\obj\x86\Debug\Risk1.ArmyMove.resources
+C:\Users\Ferid\Desktop\Absolute Risk Source\Risk1\obj\x86\Debug\Risk1.ChangePlayer.resources
+C:\Users\Ferid\Desktop\Absolute Risk Source\Risk1\obj\x86\Debug\Risk1.ChangeStyle.resources
+C:\Users\Ferid\Desktop\Absolute Risk Source\Risk1\obj\x86\Debug\Risk1.Chart.resources
+C:\Users\Ferid\Desktop\Absolute Risk Source\Risk1\obj\x86\Debug\Risk1.Form1.resources
+C:\Users\Ferid\Desktop\Absolute Risk Source\Risk1\obj\x86\Debug\Risk1.About.resources
+C:\Users\Ferid\Desktop\Absolute Risk Source\Risk1\obj\x86\Debug\Risk1.Galibiyet.resources
+C:\Users\Ferid\Desktop\Absolute Risk Source\Risk1\obj\x86\Debug\Risk1.Giris.resources
+C:\Users\Ferid\Desktop\Absolute Risk Source\Risk1\obj\x86\Debug\Risk1.Loading.resources
+C:\Users\Ferid\Desktop\Absolute Risk Source\Risk1\obj\x86\Debug\Risk1.Properties.Resources.resources
+C:\Users\Ferid\Desktop\Absolute Risk Source\Risk1\obj\x86\Debug\Risk1.Rules.resources
+C:\Users\Ferid\Desktop\Absolute Risk Source\Risk1\obj\x86\Debug\Risk1.SaldiriEkrani.resources
+C:\Users\Ferid\Desktop\Absolute Risk Source\Risk1\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Ferid\Desktop\Absolute Risk Source\Risk1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ferid\Desktop\Absolute Risk Source\Risk1\obj\x86\Debug\GenerateResource.read.277.tlog
+C:\Users\Ferid\Desktop\Absolute Risk Source\Risk1\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Ferid\Desktop\Absolute Risk Source\Risk1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ferid\Desktop\absoluterisksourcecode\Absolute Risk Source\Risk1\bin\Debug\Risk1.exe.config
+C:\Users\Ferid\Desktop\absoluterisksourcecode\Absolute Risk Source\Risk1\obj\x86\Debug\Risk1.exe
+C:\Users\Ferid\Desktop\absoluterisksourcecode\Absolute Risk Source\Risk1\obj\x86\Debug\Risk1.pdb
+C:\Users\Ferid\Desktop\absoluterisksourcecode\Absolute Risk Source\Risk1\bin\Debug\Risk1.exe
+C:\Users\Ferid\Desktop\absoluterisksourcecode\Absolute Risk Source\Risk1\bin\Debug\Risk1.pdb
+C:\Users\Ferid\Desktop\absoluterisksourcecode\Absolute Risk Source\Risk1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ferid\Desktop\absoluterisksourcecode\Absolute Risk Source\Risk1\obj\x86\Debug\Risk1.ArmyMove.resources
+C:\Users\Ferid\Desktop\absoluterisksourcecode\Absolute Risk Source\Risk1\obj\x86\Debug\Risk1.ChangePlayer.resources
+C:\Users\Ferid\Desktop\absoluterisksourcecode\Absolute Risk Source\Risk1\obj\x86\Debug\Risk1.ChangeStyle.resources
+C:\Users\Ferid\Desktop\absoluterisksourcecode\Absolute Risk Source\Risk1\obj\x86\Debug\Risk1.Chart.resources
+C:\Users\Ferid\Desktop\absoluterisksourcecode\Absolute Risk Source\Risk1\obj\x86\Debug\Risk1.Form1.resources
+C:\Users\Ferid\Desktop\absoluterisksourcecode\Absolute Risk Source\Risk1\obj\x86\Debug\Risk1.About.resources
+C:\Users\Ferid\Desktop\absoluterisksourcecode\Absolute Risk Source\Risk1\obj\x86\Debug\Risk1.Galibiyet.resources
+C:\Users\Ferid\Desktop\absoluterisksourcecode\Absolute Risk Source\Risk1\obj\x86\Debug\Risk1.Giris.resources
+C:\Users\Ferid\Desktop\absoluterisksourcecode\Absolute Risk Source\Risk1\obj\x86\Debug\Risk1.Loading.resources
+C:\Users\Ferid\Desktop\absoluterisksourcecode\Absolute Risk Source\Risk1\obj\x86\Debug\Risk1.Properties.Resources.resources
+C:\Users\Ferid\Desktop\absoluterisksourcecode\Absolute Risk Source\Risk1\obj\x86\Debug\Risk1.Rules.resources
+C:\Users\Ferid\Desktop\absoluterisksourcecode\Absolute Risk Source\Risk1\obj\x86\Debug\Risk1.SaldiriEkrani.resources
+C:\Users\Ferid\Desktop\absoluterisksourcecode\Absolute Risk Source\Risk1\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Ferid\Desktop\absoluterisksourcecode\Absolute Risk Source\Risk1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ferid\Desktop\absoluterisksourcecode\Absolute Risk Source\Risk1\obj\x86\Debug\GenerateResource.read.277.tlog
+C:\Users\Ferid\Desktop\absoluterisksourcecode\Absolute Risk Source\Risk1\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Ferid\Desktop\absoluterisksourcecode\Absolute Risk Source\Risk1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ferid\Desktop\absoluterisksourcecode-13.04.2012\Absolute Risk Source\Risk1\bin\Debug\Risk1.exe.config
+C:\Users\Ferid\Desktop\absoluterisksourcecode-13.04.2012\Absolute Risk Source\Risk1\obj\x86\Debug\Risk1.exe
+C:\Users\Ferid\Desktop\absoluterisksourcecode-13.04.2012\Absolute Risk Source\Risk1\obj\x86\Debug\Risk1.pdb
+C:\Users\Ferid\Desktop\absoluterisksourcecode-13.04.2012\Absolute Risk Source\Risk1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ferid\Desktop\absoluterisksourcecode-13.04.2012\Absolute Risk Source\Risk1\obj\x86\Debug\Risk1.ArmyMove.resources
+C:\Users\Ferid\Desktop\absoluterisksourcecode-13.04.2012\Absolute Risk Source\Risk1\obj\x86\Debug\Risk1.ChangePlayer.resources
+C:\Users\Ferid\Desktop\absoluterisksourcecode-13.04.2012\Absolute Risk Source\Risk1\obj\x86\Debug\Risk1.ChangeStyle.resources
+C:\Users\Ferid\Desktop\absoluterisksourcecode-13.04.2012\Absolute Risk Source\Risk1\obj\x86\Debug\Risk1.Chart.resources
+C:\Users\Ferid\Desktop\absoluterisksourcecode-13.04.2012\Absolute Risk Source\Risk1\obj\x86\Debug\Risk1.Form1.resources
+C:\Users\Ferid\Desktop\absoluterisksourcecode-13.04.2012\Absolute Risk Source\Risk1\obj\x86\Debug\Risk1.About.resources
+C:\Users\Ferid\Desktop\absoluterisksourcecode-13.04.2012\Absolute Risk Source\Risk1\obj\x86\Debug\Risk1.Galibiyet.resources
+C:\Users\Ferid\Desktop\absoluterisksourcecode-13.04.2012\Absolute Risk Source\Risk1\obj\x86\Debug\Risk1.GalibiyetTurnLimit.resources
+C:\Users\Ferid\Desktop\absoluterisksourcecode-13.04.2012\Absolute Risk Source\Risk1\obj\x86\Debug\Risk1.Giris.resources
+C:\Users\Ferid\Desktop\absoluterisksourcecode-13.04.2012\Absolute Risk Source\Risk1\obj\x86\Debug\Risk1.Loading.resources
+C:\Users\Ferid\Desktop\absoluterisksourcecode-13.04.2012\Absolute Risk Source\Risk1\obj\x86\Debug\Risk1.Properties.Resources.resources
+C:\Users\Ferid\Desktop\absoluterisksourcecode-13.04.2012\Absolute Risk Source\Risk1\obj\x86\Debug\Risk1.Rules.resources
+C:\Users\Ferid\Desktop\absoluterisksourcecode-13.04.2012\Absolute Risk Source\Risk1\obj\x86\Debug\Risk1.SaldiriEkrani.resources
+C:\Users\Ferid\Desktop\absoluterisksourcecode-13.04.2012\Absolute Risk Source\Risk1\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Ferid\Desktop\absoluterisksourcecode-13.04.2012\Absolute Risk Source\Risk1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ferid\Desktop\absoluterisksourcecode-13.04.2012\Absolute Risk Source\Risk1\obj\x86\Debug\GenerateResource.read.277.tlog
+C:\Users\Ferid\Desktop\absoluterisksourcecode-13.04.2012\Absolute Risk Source\Risk1\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Ferid\Desktop\absoluterisksourcecode-13.04.2012\Absolute Risk Source\Risk1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ferid\Desktop\absoluterisksourcecode-13.04.2012\Absolute Risk Source\Risk1\bin\Debug\Risk1.exe
+C:\Users\Ferid\Desktop\absoluterisksourcecode-13.04.2012\Absolute Risk Source\Risk1\bin\Debug\Risk1.pdb
+C:\Users\Ferid\Desktop\absoluterisksourcecode-16.04.2012\Absolute Risk Source\Risk1\bin\Debug\Risk1.exe.config
+C:\Users\Ferid\Desktop\absoluterisksourcecode-16.04.2012\Absolute Risk Source\Risk1\obj\x86\Debug\Risk1.exe
+C:\Users\Ferid\Desktop\absoluterisksourcecode-16.04.2012\Absolute Risk Source\Risk1\obj\x86\Debug\Risk1.pdb
+C:\Users\Ferid\Desktop\absoluterisksourcecode-16.04.2012\Absolute Risk Source\Risk1\bin\Debug\Risk1.exe
+C:\Users\Ferid\Desktop\absoluterisksourcecode-16.04.2012\Absolute Risk Source\Risk1\bin\Debug\Risk1.pdb
+C:\Users\Ferid\Desktop\absoluterisksourcecode-16.04.2012\Absolute Risk Source\Risk1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ferid\Desktop\absoluterisksourcecode-16.04.2012\Absolute Risk Source\Risk1\obj\x86\Debug\Risk1.ArmyMove.resources
+C:\Users\Ferid\Desktop\absoluterisksourcecode-16.04.2012\Absolute Risk Source\Risk1\obj\x86\Debug\Risk1.ChangePlayer.resources
+C:\Users\Ferid\Desktop\absoluterisksourcecode-16.04.2012\Absolute Risk Source\Risk1\obj\x86\Debug\Risk1.ChangeStyle.resources
+C:\Users\Ferid\Desktop\absoluterisksourcecode-16.04.2012\Absolute Risk Source\Risk1\obj\x86\Debug\Risk1.Chart.resources
+C:\Users\Ferid\Desktop\absoluterisksourcecode-16.04.2012\Absolute Risk Source\Risk1\obj\x86\Debug\Risk1.Form1.resources
+C:\Users\Ferid\Desktop\absoluterisksourcecode-16.04.2012\Absolute Risk Source\Risk1\obj\x86\Debug\Risk1.About.resources
+C:\Users\Ferid\Desktop\absoluterisksourcecode-16.04.2012\Absolute Risk Source\Risk1\obj\x86\Debug\Risk1.Galibiyet.resources
+C:\Users\Ferid\Desktop\absoluterisksourcecode-16.04.2012\Absolute Risk Source\Risk1\obj\x86\Debug\Risk1.GalibiyetTurnLimit.resources
+C:\Users\Ferid\Desktop\absoluterisksourcecode-16.04.2012\Absolute Risk Source\Risk1\obj\x86\Debug\Risk1.Giris.resources
+C:\Users\Ferid\Desktop\absoluterisksourcecode-16.04.2012\Absolute Risk Source\Risk1\obj\x86\Debug\Risk1.Loading.resources
+C:\Users\Ferid\Desktop\absoluterisksourcecode-16.04.2012\Absolute Risk Source\Risk1\obj\x86\Debug\Risk1.Properties.Resources.resources
+C:\Users\Ferid\Desktop\absoluterisksourcecode-16.04.2012\Absolute Risk Source\Risk1\obj\x86\Debug\Risk1.Rules.resources
+C:\Users\Ferid\Desktop\absoluterisksourcecode-16.04.2012\Absolute Risk Source\Risk1\obj\x86\Debug\Risk1.SaldiriEkrani.resources
+C:\Users\Ferid\Desktop\absoluterisksourcecode-16.04.2012\Absolute Risk Source\Risk1\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Ferid\Desktop\absoluterisksourcecode-16.04.2012\Absolute Risk Source\Risk1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ferid\Desktop\absoluterisksourcecode-16.04.2012\Absolute Risk Source\Risk1\obj\x86\Debug\GenerateResource.read.277.tlog
+C:\Users\Ferid\Desktop\absoluterisksourcecode-16.04.2012\Absolute Risk Source\Risk1\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Ferid\Desktop\absoluterisksourcecode-16.04.2012\Absolute Risk Source\Risk1\obj\x86\Debug\GenerateResource.write.1.tlog

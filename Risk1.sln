@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Risk1", "Risk1\Risk1.csproj", "{562C8017-864F-4CE3-A9C3-B3E4016E3E8E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{62DC1C9E-A210-4A89-B7A2-9BD280E74FC7}"
+	ProjectSection(SolutionItems) = preProject
+		Continent.cs = Continent.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{562C8017-864F-4CE3-A9C3-B3E4016E3E8E}.Debug|x86.ActiveCfg = Debug|x86
+		{562C8017-864F-4CE3-A9C3-B3E4016E3E8E}.Debug|x86.Build.0 = Debug|x86
+		{562C8017-864F-4CE3-A9C3-B3E4016E3E8E}.Release|x86.ActiveCfg = Release|x86
+		{562C8017-864F-4CE3-A9C3-B3E4016E3E8E}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

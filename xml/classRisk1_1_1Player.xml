@@ -1,0 +1,382 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.0">
+  <compounddef id="classRisk1_1_1Player" kind="class" prot="public">
+    <compoundname>Risk1::Player</compoundname>
+      <sectiondef kind="public-attrib">
+      <memberdef kind="variable" id="classRisk1_1_1Player_1aed169b8b7afadb133a6b7750fd3f1c74" prot="public" static="no" mutable="no">
+        <type>String</type>
+        <definition>String Risk1.Player.name</definition>
+        <argsstring></argsstring>
+        <name>name</name>
+        <briefdescription>
+<para>Kullanıcının adını tutar. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Player.cs" line="14" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Player.cs" bodystart="14" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1ChangePlayer_1ae868351b168792cba1f4ceefbcee413d" compoundref="ChangePlayer_8cs" startline="49" endline="76">Risk1.ChangePlayer.button2_Click</referencedby>
+        <referencedby refid="classRisk1_1_1ChangePlayer_1a97e6bd4cb296ce42edd93579cc3b882a" compoundref="ChangePlayer_8cs" startline="28" endline="47">Risk1.ChangePlayer.ChangePlayer_Load</referencedby>
+        <referencedby refid="classRisk1_1_1Form1_1a231cf34d18e80a780b2b00f84f2f7da6" compoundref="Form1_8cs" startline="1048" endline="1078">Risk1.Form1.changeStatistics</referencedby>
+        <referencedby refid="classRisk1_1_1ChangePlayer_1aa4bd51c8ff6b0ab81803041d60dc4550" compoundref="ChangePlayer_8cs" startline="78" endline="95">Risk1.ChangePlayer.comboBox1_SelectedIndexChanged</referencedby>
+        <referencedby refid="classRisk1_1_1ChangePlayer_1a12f440fce086bab32d3630e081ebc457" compoundref="ChangePlayer_8cs" startline="97" endline="104">Risk1.ChangePlayer.comboBox2_SelectedIndexChanged</referencedby>
+        <referencedby refid="classRisk1_1_1Giris_1a1ced79e7c65a399f658645071c1463d7" compoundref="Giris_8cs" startline="25" endline="204">Risk1.Giris.Giris_Load</referencedby>
+        <referencedby refid="classRisk1_1_1ChangePlayer_1a1234df4ee96694bbc7966bb4a4de1269" compoundref="ChangePlayer_8cs" startline="106" endline="133">Risk1.ChangePlayer.HangiYapayZekaSecili</referencedby>
+        <referencedby refid="classRisk1_1_1Player_1a7da82dc9a97ce8fca22e8af52d40c5da" compoundref="Player_8cs" startline="97" endline="102">Risk1.Player.Player</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1Player_1abd09f5bdd9126924b2f047c5bc36d271" prot="public" static="no" mutable="no">
+        <type>Color</type>
+        <definition>Color Risk1.Player.color</definition>
+        <argsstring></argsstring>
+        <name>color</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Player.cs" line="15" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Player.cs" bodystart="15" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1ArmyMove_1ab4c45aeefe4c555dc1c58959a4aab987" compoundref="ArmyMove_8cs" startline="29" endline="38">Risk1.ArmyMove.ArmyMove_Load</referencedby>
+        <referencedby refid="classRisk1_1_1ChangePlayer_1ae868351b168792cba1f4ceefbcee413d" compoundref="ChangePlayer_8cs" startline="49" endline="76">Risk1.ChangePlayer.button2_Click</referencedby>
+        <referencedby refid="classRisk1_1_1ChangePlayer_1a97e6bd4cb296ce42edd93579cc3b882a" compoundref="ChangePlayer_8cs" startline="28" endline="47">Risk1.ChangePlayer.ChangePlayer_Load</referencedby>
+        <referencedby refid="classRisk1_1_1Form1_1a231cf34d18e80a780b2b00f84f2f7da6" compoundref="Form1_8cs" startline="1048" endline="1078">Risk1.Form1.changeStatistics</referencedby>
+        <referencedby refid="classRisk1_1_1Chart_1a292cfeec007997e7e62d6b52469da629" compoundref="Chart_8cs" startline="22" endline="60">Risk1.Chart.Chart_Load</referencedby>
+        <referencedby refid="classRisk1_1_1SaldiriEkrani_1a3894c6cb2e9a9e2950ee9ab4d13dfaad" compoundref="SaldiriEkrani_8cs" startline="33" endline="42">Risk1.SaldiriEkrani.SaldiriEkrani_Load</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1Player_1ac99d1275ddd02711f7602529dc3b7391" prot="public" static="no" mutable="no">
+        <type>bool</type>
+        <definition>bool Risk1.Player.isHuman</definition>
+        <argsstring></argsstring>
+        <name>isHuman</name>
+        <briefdescription>
+<para>Kullanıcının insan mı yapay zeka mı olduğu bilgisini tutar. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Player.cs" line="19" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Player.cs" bodystart="19" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1ChangePlayer_1ae868351b168792cba1f4ceefbcee413d" compoundref="ChangePlayer_8cs" startline="49" endline="76">Risk1.ChangePlayer.button2_Click</referencedby>
+        <referencedby refid="classRisk1_1_1ChangePlayer_1a97e6bd4cb296ce42edd93579cc3b882a" compoundref="ChangePlayer_8cs" startline="28" endline="47">Risk1.ChangePlayer.ChangePlayer_Load</referencedby>
+        <referencedby refid="classRisk1_1_1Form1_1a018eea4103c89dab9ab61df7f8dd2e78" compoundref="Form1_8cs" startline="581" endline="808">Risk1.Form1.changeTurn</referencedby>
+        <referencedby refid="classRisk1_1_1ChangePlayer_1aa4bd51c8ff6b0ab81803041d60dc4550" compoundref="ChangePlayer_8cs" startline="78" endline="95">Risk1.ChangePlayer.comboBox1_SelectedIndexChanged</referencedby>
+        <referencedby refid="classRisk1_1_1ChangePlayer_1a12f440fce086bab32d3630e081ebc457" compoundref="ChangePlayer_8cs" startline="97" endline="104">Risk1.ChangePlayer.comboBox2_SelectedIndexChanged</referencedby>
+        <referencedby refid="classRisk1_1_1Form1_1a9445ecc6d07f9139fe1a279cc85a30f0" compoundref="Form1_8cs" startline="1326" endline="1877">Risk1.Form1.Form1_Load</referencedby>
+        <referencedby refid="classRisk1_1_1Giris_1a1ced79e7c65a399f658645071c1463d7" compoundref="Giris_8cs" startline="25" endline="204">Risk1.Giris.Giris_Load</referencedby>
+        <referencedby refid="classRisk1_1_1Player_1a7da82dc9a97ce8fca22e8af52d40c5da" compoundref="Player_8cs" startline="97" endline="102">Risk1.Player.Player</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1Player_1aadf3d0c8e35abaf5d206c5be1c986d38" prot="public" static="no" mutable="no">
+        <type>bool</type>
+        <definition>bool Risk1.Player.isActive</definition>
+        <argsstring></argsstring>
+        <name>isActive</name>
+        <briefdescription>
+<para>Oyuncunun aktif olup olmadığı bilgisini tutar. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Player.cs" line="23" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Player.cs" bodystart="23" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1Giris_1aaa85c831a11faf538b6b835c07a1803d" compoundref="Giris_8cs" startline="207" endline="226">Risk1.Giris.button11_Click</referencedby>
+        <referencedby refid="classRisk1_1_1Form1_1a9445ecc6d07f9139fe1a279cc85a30f0" compoundref="Form1_8cs" startline="1326" endline="1877">Risk1.Form1.Form1_Load</referencedby>
+        <referencedby refid="classRisk1_1_1Player_1a7da82dc9a97ce8fca22e8af52d40c5da" compoundref="Player_8cs" startline="97" endline="102">Risk1.Player.Player</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1Player_1a37d306fb05f59a83f94847cbb59f8c69" prot="public" static="no" mutable="no">
+        <type>List&lt; <ref refid="classRisk1_1_1Bolge" kindref="compound">Bolge</ref> &gt;</type>
+        <definition>List&lt;Bolge&gt; Risk1.Player.bolgeler</definition>
+        <argsstring></argsstring>
+        <name>bolgeler</name>
+        <initializer>new List&lt;<ref refid="classRisk1_1_1Bolge" kindref="compound">Bolge</ref>&gt;()</initializer>
+        <briefdescription>
+<para>Kullanıcının sahip olduğu bölgelerin listesidir. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Player.cs" line="27" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Player.cs" bodystart="27" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1Player_1a260cff01d1750dad6988aee12fb1ab52" compoundref="Player_8cs" startline="122" endline="125">Risk1.Player.getNumberOfTerritories</referencedby>
+        <referencedby refid="classRisk1_1_1Player_1a77adac00fc3d2b33decfad9cab38a505" compoundref="Player_8cs" startline="108" endline="117">Risk1.Player.getTotalNumberOfArmies</referencedby>
+        <referencedby refid="classRisk1_1_1Form1_1aad27c5edc2ea6a98809ac2ef30758d14" compoundref="Form1_8cs" startline="918" endline="948">Risk1.Form1.hangiKitalaraSahip</referencedby>
+        <referencedby refid="classRisk1_1_1Form1_1a34c0581d500cc7314bd2d8a7f29da524" compoundref="Form1_8cs" startline="853" endline="916">Risk1.Form1.kitaKazanci</referencedby>
+        <referencedby refid="classRisk1_1_1SaldiriEkrani_1aaa88336a2cdb39fac1bf5d9959c8083e" compoundref="SaldiriEkrani_8cs" startline="175" endline="235">Risk1.SaldiriEkrani.warAttack</referencedby>
+        <referencedby refid="classRisk1_1_1SaldiriEkrani_1af22f046d5ad2382e986640b8a74686b8" compoundref="SaldiriEkrani_8cs" startline="107" endline="173">Risk1.SaldiriEkrani.warDoORDie</referencedby>
+        <referencedby refid="classRisk1_1_1SaldiriEkrani_1abf5f5722a078df9b3ad893acd93c2806" compoundref="SaldiriEkrani_8cs" startline="49" endline="104">Risk1.SaldiriEkrani.warDoORDieForAi</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1Player_1a80b683d4534d6204129ba7e5a73fc807" prot="public" static="no" mutable="no">
+        <type>int</type>
+        <definition>int Risk1.Player.yeniAskerler</definition>
+        <argsstring></argsstring>
+        <name>yeniAskerler</name>
+        <initializer>0</initializer>
+        <briefdescription>
+<para>Her döngüde oyuncuya gelen asker sayısını belirtir. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Player.cs" line="31" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Player.cs" bodystart="31" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1Player_1a6175c7280a4a53d25e9a1845f9117981" prot="public" static="no" mutable="no">
+        <type>int</type>
+        <definition>int Risk1.Player.ilkAskerSayisi</definition>
+        <argsstring></argsstring>
+        <name>ilkAskerSayisi</name>
+        <briefdescription>
+<para>Kullanıcıya oyun başladığında verilen asker sayısını belirtir. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Player.cs" line="35" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Player.cs" bodystart="35" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1Form1_1a9445ecc6d07f9139fe1a279cc85a30f0" compoundref="Form1_8cs" startline="1326" endline="1877">Risk1.Form1.Form1_Load</referencedby>
+        <referencedby refid="classRisk1_1_1Form1_1a8f0aea1fafa07ff40b37e695026bdf0e" compoundref="Form1_8cs" startline="2591" endline="2599">Risk1.Form1.rulesToolStripMenuItem_Click</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1Player_1a7b2f4c1a1346b195318a9ee3df8e1e2a" prot="public" static="no" mutable="no">
+        <type>String</type>
+        <definition>String Risk1.Player.kitalar</definition>
+        <argsstring></argsstring>
+        <name>kitalar</name>
+        <briefdescription>
+<para>Kullanıcının sahşp olduğu kıtaların listesidir. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Player.cs" line="39" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Player.cs" bodystart="39" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1Form1_1a231cf34d18e80a780b2b00f84f2f7da6" compoundref="Form1_8cs" startline="1048" endline="1078">Risk1.Form1.changeStatistics</referencedby>
+        <referencedby refid="classRisk1_1_1Player_1a831339d9f68f0e1ee8a45a5ec366bc73" compoundref="Player_8cs" startline="131" endline="134">Risk1.Player.getSahipOlduguKitalar</referencedby>
+        <referencedby refid="classRisk1_1_1Form1_1aad27c5edc2ea6a98809ac2ef30758d14" compoundref="Form1_8cs" startline="918" endline="948">Risk1.Form1.hangiKitalaraSahip</referencedby>
+        <referencedby refid="classRisk1_1_1Form1_1a34c0581d500cc7314bd2d8a7f29da524" compoundref="Form1_8cs" startline="853" endline="916">Risk1.Form1.kitaKazanci</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1Player_1af8290784db991493decf1cf374ca12b9" prot="public" static="no" mutable="no">
+        <type>int</type>
+        <definition>int Risk1.Player.aiId</definition>
+        <argsstring></argsstring>
+        <name>aiId</name>
+        <briefdescription>
+<para>Oyuncu yapay zekaysa onun ID sini belirten değişkendir. </para>        </briefdescription>
+        <detaileddescription>
+<para>Her kullanıcı için farklı değer almak zorundadır. </para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Player.cs" line="44" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Player.cs" bodystart="44" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1ChangePlayer_1a2b6e196cbdec013f7dea4a89e09ba1cd" compoundref="ChangePlayer_8cs" startline="135" endline="157">Risk1.ChangePlayer.comboBox2Ayarla</referencedby>
+        <referencedby refid="classRisk1_1_1Form1_1a9445ecc6d07f9139fe1a279cc85a30f0" compoundref="Form1_8cs" startline="1326" endline="1877">Risk1.Form1.Form1_Load</referencedby>
+        <referencedby refid="classRisk1_1_1Giris_1a1ced79e7c65a399f658645071c1463d7" compoundref="Giris_8cs" startline="25" endline="204">Risk1.Giris.Giris_Load</referencedby>
+        <referencedby refid="classRisk1_1_1ChangePlayer_1a1234df4ee96694bbc7966bb4a4de1269" compoundref="ChangePlayer_8cs" startline="106" endline="133">Risk1.ChangePlayer.HangiYapayZekaSecili</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1Player_1a510e4a223e3bc2ed435076ad80dafc58" prot="public" static="no" mutable="no">
+        <type>bool</type>
+        <definition>bool Risk1.Player.buTurnBirisiniOldurduMu</definition>
+        <argsstring></argsstring>
+        <name>buTurnBirisiniOldurduMu</name>
+        <initializer> false</initializer>
+        <briefdescription>
+<para>Oyunda oyuncu bir önceki döngüde bir oyuncuyu elemişse döngü sonunda bu değer &apos;true&apos; değerini alır. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Player.cs" line="48" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Player.cs" bodystart="48" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1Form1_1a34c0581d500cc7314bd2d8a7f29da524" compoundref="Form1_8cs" startline="853" endline="916">Risk1.Form1.kitaKazanci</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1Player_1a0d710d267e88ee155fa7c7276ad3526d" prot="public" static="no" mutable="no">
+        <type>int</type>
+        <definition>int Risk1.Player.kacKisiOldurdu</definition>
+        <argsstring></argsstring>
+        <name>kacKisiOldurdu</name>
+        <initializer> 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Player.cs" line="50" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Player.cs" bodystart="50" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1Form1_1a34c0581d500cc7314bd2d8a7f29da524" compoundref="Form1_8cs" startline="853" endline="916">Risk1.Form1.kitaKazanci</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1Player_1afbbd08007be045f4ec7744be5aad908c" prot="public" static="no" mutable="no">
+        <type>int</type>
+        <definition>int Risk1.Player.buTurnKacKisiOldurdu</definition>
+        <argsstring></argsstring>
+        <name>buTurnKacKisiOldurdu</name>
+        <initializer> 0</initializer>
+        <briefdescription>
+<para>Oyunda oyuncunun &apos;buTurnBirisiniOldurduMu&apos; değişkeni &apos;true&apos; değerini almışsa kullanıcının kaç kişiyi öldürdüğü değeri tutulur. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Player.cs" line="54" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Player.cs" bodystart="54" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1Form1_1a34c0581d500cc7314bd2d8a7f29da524" compoundref="Form1_8cs" startline="853" endline="916">Risk1.Form1.kitaKazanci</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1Player_1a7a5827b7d9fbe10402581477e0f53575" prot="public" static="no" mutable="no">
+        <type>int</type>
+        <definition>int Risk1.Player.number</definition>
+        <argsstring></argsstring>
+        <name>number</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Player.cs" line="55" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Player.cs" bodystart="55" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1Chart_1a292cfeec007997e7e62d6b52469da629" compoundref="Chart_8cs" startline="22" endline="60">Risk1.Chart.Chart_Load</referencedby>
+        <referencedby refid="classRisk1_1_1Form1_1a9445ecc6d07f9139fe1a279cc85a30f0" compoundref="Form1_8cs" startline="1326" endline="1877">Risk1.Form1.Form1_Load</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1Player_1a569d61dcae14e40ddec7ae3306a91823" prot="public" static="no" mutable="no">
+        <type>List&lt; int &gt;</type>
+        <definition>List&lt;int&gt; Risk1.Player.askerSayisiTarihi</definition>
+        <argsstring></argsstring>
+        <name>askerSayisiTarihi</name>
+        <initializer> new List&lt;int&gt;()</initializer>
+        <briefdescription>
+<para>İstatiksel bilgilerde kullanılmaktadır. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Player.cs" line="59" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Player.cs" bodystart="59" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1Player_1a2d3fb1f210a9162238b8e9c1bc27894b" compoundref="Player_8cs" startline="63" endline="92">Risk1.Player.OptimizeAskerSayisiTarihi</referencedby>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classRisk1_1_1Player_1a2d3fb1f210a9162238b8e9c1bc27894b" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>List&lt; int &gt;</type>
+        <definition>List&lt;int&gt; Risk1.Player.OptimizeAskerSayisiTarihi</definition>
+        <argsstring>()</argsstring>
+        <name>OptimizeAskerSayisiTarihi</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Player.cs" line="64" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Player.cs" bodystart="63" bodyend="92"/>
+        <references refid="classRisk1_1_1Player_1a569d61dcae14e40ddec7ae3306a91823" compoundref="Player_8cs" startline="59">Risk1.Player.askerSayisiTarihi</references>
+        <referencedby refid="classRisk1_1_1Chart_1a292cfeec007997e7e62d6b52469da629" compoundref="Chart_8cs" startline="22" endline="60">Risk1.Chart.Chart_Load</referencedby>
+        <referencedby refid="classRisk1_1_1Form1_1a33b0a37450d54eaf9cffa464044b6898" compoundref="Form1_8cs" startline="2455" endline="2553">Risk1.Form1.newGameToolStripMenuItem_Click</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1Player_1ae5c3057aa63ac578b7a3f9bf25fa1b67" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Risk1.Player.Player</definition>
+        <argsstring>()</argsstring>
+        <name>Player</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Player.cs" line="95" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Player.cs" bodystart="95" bodyend="95"/>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1Player_1a7da82dc9a97ce8fca22e8af52d40c5da" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Risk1.Player.Player</definition>
+        <argsstring>(string n, bool human, bool active)</argsstring>
+        <name>Player</name>
+        <param>
+          <type>string</type>
+          <declname>n</declname>
+        </param>
+        <param>
+          <type>bool</type>
+          <declname>human</declname>
+        </param>
+        <param>
+          <type>bool</type>
+          <declname>active</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Player.cs" line="98" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Player.cs" bodystart="97" bodyend="102"/>
+        <references refid="classRisk1_1_1Player_1aadf3d0c8e35abaf5d206c5be1c986d38" compoundref="Player_8cs" startline="23">Risk1.Player.isActive</references>
+        <references refid="classRisk1_1_1Player_1ac99d1275ddd02711f7602529dc3b7391" compoundref="Player_8cs" startline="19">Risk1.Player.isHuman</references>
+        <references refid="classRisk1_1_1Player_1aed169b8b7afadb133a6b7750fd3f1c74" compoundref="Player_8cs" startline="14">Risk1.Player.name</references>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1Player_1a77adac00fc3d2b33decfad9cab38a505" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>int Risk1.Player.getTotalNumberOfArmies</definition>
+        <argsstring>()</argsstring>
+        <name>getTotalNumberOfArmies</name>
+        <briefdescription>
+<para>Oyuncunun toplam asker sayını döndürür. </para>        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="return"><para>Toplam Asker Sayısı</para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Player.cs" line="109" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Player.cs" bodystart="108" bodyend="117"/>
+        <references refid="classRisk1_1_1Ordu_1a6c0b78a761fe481445bd7c86c8aeb833" compoundref="Ordu_8cs" startline="10">Risk1.Ordu.askerSayisi</references>
+        <references refid="classRisk1_1_1Player_1a37d306fb05f59a83f94847cbb59f8c69" compoundref="Player_8cs" startline="27">Risk1.Player.bolgeler</references>
+        <references refid="classRisk1_1_1Bolge_1a4835838ca280efd4a82724fd75b5b170" compoundref="Bolge_8cs" startline="39">Risk1.Bolge.ordu</references>
+        <referencedby refid="classRisk1_1_1Form1_1a231cf34d18e80a780b2b00f84f2f7da6" compoundref="Form1_8cs" startline="1048" endline="1078">Risk1.Form1.changeStatistics</referencedby>
+        <referencedby refid="classRisk1_1_1ArtificalIntelligence_1a6679f397c090e382d448286783707838" compoundref="ArtificalIntelligence_8cs" startline="172" endline="184">Risk1.ArtificalIntelligence.getToplamDusmanSayisi</referencedby>
+        <referencedby refid="classRisk1_1_1Form1_1a3ea2efd9ee250aab2d1efdc6368b32a7" compoundref="Form1_8cs" startline="816" endline="851">Risk1.Form1.olduMu</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1Player_1a260cff01d1750dad6988aee12fb1ab52" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>int Risk1.Player.getNumberOfTerritories</definition>
+        <argsstring>()</argsstring>
+        <name>getNumberOfTerritories</name>
+        <briefdescription>
+<para>Oyuncunun toplam bölge sayısını döndürür. </para>        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="return"><para>Toplam Bölge Sayısı</para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Player.cs" line="123" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Player.cs" bodystart="122" bodyend="125"/>
+        <references refid="classRisk1_1_1Player_1a37d306fb05f59a83f94847cbb59f8c69" compoundref="Player_8cs" startline="27">Risk1.Player.bolgeler</references>
+        <referencedby refid="classRisk1_1_1Form1_1a231cf34d18e80a780b2b00f84f2f7da6" compoundref="Form1_8cs" startline="1048" endline="1078">Risk1.Form1.changeStatistics</referencedby>
+        <referencedby refid="classRisk1_1_1Form1_1a34c0581d500cc7314bd2d8a7f29da524" compoundref="Form1_8cs" startline="853" endline="916">Risk1.Form1.kitaKazanci</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1Player_1a831339d9f68f0e1ee8a45a5ec366bc73" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>String</type>
+        <definition>String Risk1.Player.getSahipOlduguKitalar</definition>
+        <argsstring>()</argsstring>
+        <name>getSahipOlduguKitalar</name>
+        <briefdescription>
+<para>Oyunucunun sahip olduğu kıta sayısını döndürür. </para>        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="return"><para>Toplam Kıta Sayısı</para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Player.cs" line="132" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Player.cs" bodystart="131" bodyend="134"/>
+        <references refid="classRisk1_1_1Player_1a7b2f4c1a1346b195318a9ee3df8e1e2a" compoundref="Player_8cs" startline="39">Risk1.Player.kitalar</references>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Player.cs" line="10" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Player.cs" bodystart="9" bodyend="137"/>
+    <listofallmembers>
+      <member refid="classRisk1_1_1Player_1af8290784db991493decf1cf374ca12b9" prot="public" virt="non-virtual"><scope>Risk1::Player</scope><name>aiId</name></member>
+      <member refid="classRisk1_1_1Player_1a569d61dcae14e40ddec7ae3306a91823" prot="public" virt="non-virtual"><scope>Risk1::Player</scope><name>askerSayisiTarihi</name></member>
+      <member refid="classRisk1_1_1Player_1a37d306fb05f59a83f94847cbb59f8c69" prot="public" virt="non-virtual"><scope>Risk1::Player</scope><name>bolgeler</name></member>
+      <member refid="classRisk1_1_1Player_1a510e4a223e3bc2ed435076ad80dafc58" prot="public" virt="non-virtual"><scope>Risk1::Player</scope><name>buTurnBirisiniOldurduMu</name></member>
+      <member refid="classRisk1_1_1Player_1afbbd08007be045f4ec7744be5aad908c" prot="public" virt="non-virtual"><scope>Risk1::Player</scope><name>buTurnKacKisiOldurdu</name></member>
+      <member refid="classRisk1_1_1Player_1abd09f5bdd9126924b2f047c5bc36d271" prot="public" virt="non-virtual"><scope>Risk1::Player</scope><name>color</name></member>
+      <member refid="classRisk1_1_1Player_1a260cff01d1750dad6988aee12fb1ab52" prot="public" virt="non-virtual"><scope>Risk1::Player</scope><name>getNumberOfTerritories</name></member>
+      <member refid="classRisk1_1_1Player_1a831339d9f68f0e1ee8a45a5ec366bc73" prot="public" virt="non-virtual"><scope>Risk1::Player</scope><name>getSahipOlduguKitalar</name></member>
+      <member refid="classRisk1_1_1Player_1a77adac00fc3d2b33decfad9cab38a505" prot="public" virt="non-virtual"><scope>Risk1::Player</scope><name>getTotalNumberOfArmies</name></member>
+      <member refid="classRisk1_1_1Player_1a6175c7280a4a53d25e9a1845f9117981" prot="public" virt="non-virtual"><scope>Risk1::Player</scope><name>ilkAskerSayisi</name></member>
+      <member refid="classRisk1_1_1Player_1aadf3d0c8e35abaf5d206c5be1c986d38" prot="public" virt="non-virtual"><scope>Risk1::Player</scope><name>isActive</name></member>
+      <member refid="classRisk1_1_1Player_1ac99d1275ddd02711f7602529dc3b7391" prot="public" virt="non-virtual"><scope>Risk1::Player</scope><name>isHuman</name></member>
+      <member refid="classRisk1_1_1Player_1a0d710d267e88ee155fa7c7276ad3526d" prot="public" virt="non-virtual"><scope>Risk1::Player</scope><name>kacKisiOldurdu</name></member>
+      <member refid="classRisk1_1_1Player_1a7b2f4c1a1346b195318a9ee3df8e1e2a" prot="public" virt="non-virtual"><scope>Risk1::Player</scope><name>kitalar</name></member>
+      <member refid="classRisk1_1_1Player_1aed169b8b7afadb133a6b7750fd3f1c74" prot="public" virt="non-virtual"><scope>Risk1::Player</scope><name>name</name></member>
+      <member refid="classRisk1_1_1Player_1a7a5827b7d9fbe10402581477e0f53575" prot="public" virt="non-virtual"><scope>Risk1::Player</scope><name>number</name></member>
+      <member refid="classRisk1_1_1Player_1a2d3fb1f210a9162238b8e9c1bc27894b" prot="public" virt="non-virtual"><scope>Risk1::Player</scope><name>OptimizeAskerSayisiTarihi</name></member>
+      <member refid="classRisk1_1_1Player_1ae5c3057aa63ac578b7a3f9bf25fa1b67" prot="public" virt="non-virtual"><scope>Risk1::Player</scope><name>Player</name></member>
+      <member refid="classRisk1_1_1Player_1a7da82dc9a97ce8fca22e8af52d40c5da" prot="public" virt="non-virtual"><scope>Risk1::Player</scope><name>Player</name></member>
+      <member refid="classRisk1_1_1Player_1a80b683d4534d6204129ba7e5a73fc807" prot="public" virt="non-virtual"><scope>Risk1::Player</scope><name>yeniAskerler</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

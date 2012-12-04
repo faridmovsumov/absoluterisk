@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.0">
+  <compounddef id="classRisk1_1_1NodeConnection" kind="class" prot="package">
+    <compoundname>Risk1::NodeConnection</compoundname>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="classRisk1_1_1NodeConnection_1a1858203bf27d66e175d139ba9e7ec48b" prot="package" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type>Node</type>
+        <definition>Node Risk1.NodeConnection.Target</definition>
+        <argsstring></argsstring>
+        <name>Target</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/NodeConnection.cs" line="12" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/NodeConnection.cs" bodystart="12" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="classRisk1_1_1NodeConnection_1afc2261e188d95c6ccbb3f898727347c6" prot="package" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type>double</type>
+        <definition>double Risk1.NodeConnection.Distance</definition>
+        <argsstring></argsstring>
+        <name>Distance</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/NodeConnection.cs" line="13" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/NodeConnection.cs" bodystart="13" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="package-func">
+      <memberdef kind="function" id="classRisk1_1_1NodeConnection_1a7ca7fd5a17d2189fd195dbb20b8d32a2" prot="package" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Risk1.NodeConnection.NodeConnection</definition>
+        <argsstring>(Node target, double distance)</argsstring>
+        <name>NodeConnection</name>
+        <param>
+          <type>Node</type>
+          <declname>target</declname>
+        </param>
+        <param>
+          <type>double</type>
+          <declname>distance</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/NodeConnection.cs" line="16" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/NodeConnection.cs" bodystart="15" bodyend="19"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/NodeConnection.cs" line="11" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/NodeConnection.cs" bodystart="10" bodyend="20"/>
+    <listofallmembers>
+      <member refid="classRisk1_1_1NodeConnection_1afc2261e188d95c6ccbb3f898727347c6" prot="package" virt="non-virtual"><scope>Risk1::NodeConnection</scope><name>Distance</name></member>
+      <member refid="classRisk1_1_1NodeConnection_1a7ca7fd5a17d2189fd195dbb20b8d32a2" prot="package" virt="non-virtual"><scope>Risk1::NodeConnection</scope><name>NodeConnection</name></member>
+      <member refid="classRisk1_1_1NodeConnection_1a1858203bf27d66e175d139ba9e7ec48b" prot="package" virt="non-virtual"><scope>Risk1::NodeConnection</scope><name>Target</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

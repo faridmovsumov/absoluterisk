@@ -1,0 +1,14 @@
+digraph G
+{
+  bgcolor="transparent";
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="Risk1.AI2.avrupadaToprakVarMi",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node2 [label="Risk1.AI2.devam",height=0.2,width=0.4,color="black",URL="$classRisk1_1_1AI2.html#a1705ebdc50faa7063433935184ce3ffb",tooltip="Kullanıcının hamle yapmaya devam edip etmeyeceğini belirler."];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node3 [label="Risk1.AI2.saldiracanMi",height=0.2,width=0.4,color="black",URL="$classRisk1_1_1AI2.html#a66b35cb7b1ac9e75697b94070d13e195",tooltip="Bu metod kullanıcının saldırı yapmak isteyip istemediğini belirler."];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node4 [label="Risk1.AI2.getTerritoriesIndexToPlaceNewArmies",height=0.2,width=0.4,color="black",URL="$classRisk1_1_1AI2.html#aab8c09b5e55af95f1217ed61bcd0bc35",tooltip="Oyuncu her turn&#39;de kazandığı yeni askerleri hangi bolgelere yerleştireceğini bu metod sayesinde belir..."];
+}

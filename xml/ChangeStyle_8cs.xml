@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.0">
+  <compounddef id="ChangeStyle_8cs" kind="file">
+    <compoundname>ChangeStyle.cs</compoundname>
+    <innerclass refid="classRisk1_1_1ChangeStyle" prot="public">Risk1::ChangeStyle</innerclass>
+    <innernamespace refid="namespaceRisk1">Risk1</innernamespace>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal">﻿using<sp/>System;</highlight></codeline>
+<codeline lineno="2"><highlight class="normal"></highlight><highlight class="keyword">using</highlight><highlight class="normal"><sp/>System.Collections.Generic;</highlight></codeline>
+<codeline lineno="3"><highlight class="normal"></highlight><highlight class="keyword">using</highlight><highlight class="normal"><sp/>System.ComponentModel;</highlight></codeline>
+<codeline lineno="4"><highlight class="normal"></highlight><highlight class="keyword">using</highlight><highlight class="normal"><sp/>System.Data;</highlight></codeline>
+<codeline lineno="5"><highlight class="normal"></highlight><highlight class="keyword">using</highlight><highlight class="normal"><sp/>System.Drawing;</highlight></codeline>
+<codeline lineno="6"><highlight class="normal"></highlight><highlight class="keyword">using</highlight><highlight class="normal"><sp/>System.Linq;</highlight></codeline>
+<codeline lineno="7"><highlight class="normal"></highlight><highlight class="keyword">using</highlight><highlight class="normal"><sp/>System.Text;</highlight></codeline>
+<codeline lineno="8"><highlight class="normal"></highlight><highlight class="keyword">using</highlight><highlight class="normal"><sp/>System.Windows.Forms;</highlight></codeline>
+<codeline lineno="9"><highlight class="normal"></highlight></codeline>
+<codeline lineno="10"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal">Risk1</highlight></codeline>
+<codeline lineno="11"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="12" refid="classRisk1_1_1ChangeStyle" refkind="compound"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">partial<sp/>class<sp/></highlight><highlight class="normal"><ref refid="classRisk1_1_1ChangeStyle" kindref="compound">ChangeStyle</ref><sp/>:<sp/>Form</highlight></codeline>
+<codeline lineno="13"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="14" refid="classRisk1_1_1ChangeStyle_1ad65dd90425cb477b33cf492af4743170" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="classRisk1_1_1Form1" kindref="compound">Form1</ref><sp/><ref refid="classRisk1_1_1ChangeStyle_1ad65dd90425cb477b33cf492af4743170" kindref="member">f1</ref>;</highlight></codeline>
+<codeline lineno="15" refid="classRisk1_1_1ChangeStyle_1a375a730ec008f4c52b0c1fb8499efd6f" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>Color<sp/><ref refid="classRisk1_1_1ChangeStyle_1a375a730ec008f4c52b0c1fb8499efd6f" kindref="member">c</ref>;</highlight></codeline>
+<codeline lineno="16" refid="classRisk1_1_1ChangeStyle_1a218667e53d0e9dd5e1d8996e8d056324" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/><ref refid="classRisk1_1_1ChangeStyle_1a218667e53d0e9dd5e1d8996e8d056324" kindref="member">ChangeStyle</ref>(<ref refid="classRisk1_1_1Form1" kindref="compound">Form1</ref><sp/>form1)</highlight></codeline>
+<codeline lineno="17"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="18"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="classRisk1_1_1ChangeStyle_1aa768006d6e358ea58a58712dddb9de9e" kindref="member" tooltip="Required method for Designer support - do not modify the contents of this method with the code editor...">InitializeComponent</ref>();</highlight></codeline>
+<codeline lineno="19"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="classRisk1_1_1ChangeStyle_1ad65dd90425cb477b33cf492af4743170" kindref="member">f1</ref><sp/>=<sp/>form1;</highlight></codeline>
+<codeline lineno="20"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="21"><highlight class="normal"></highlight></codeline>
+<codeline lineno="22"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight></codeline>
+<codeline lineno="23"><highlight class="normal"></highlight></codeline>
+<codeline lineno="24" refid="classRisk1_1_1ChangeStyle_1a9d7c5ebf1430daefd79bdcf3690fa209" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">private</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="classRisk1_1_1ChangeStyle_1a9d7c5ebf1430daefd79bdcf3690fa209" kindref="member">button1_Click</ref>(</highlight><highlight class="keywordtype">object</highlight><highlight class="normal"><sp/>sender,<sp/>EventArgs<sp/>e)</highlight></codeline>
+<codeline lineno="25"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="26"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="classRisk1_1_1ChangeStyle_1a1a11eb9026d74f8d9763533209e4a8a9" kindref="member">colorDialog1</ref>.ShowDialog();</highlight></codeline>
+<codeline lineno="27"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="classRisk1_1_1ChangeStyle_1adc9844f00e4ec47832ee68db3c7c79d9" kindref="member">button1</ref>.BackColor<sp/>=<sp/><ref refid="classRisk1_1_1ChangeStyle_1a1a11eb9026d74f8d9763533209e4a8a9" kindref="member">colorDialog1</ref>.Color;</highlight></codeline>
+<codeline lineno="28"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//f1.changeDenizColor(colorDialog1.Color);</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="29"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="classRisk1_1_1ChangeStyle_1a375a730ec008f4c52b0c1fb8499efd6f" kindref="member">c</ref><sp/>=<sp/><ref refid="classRisk1_1_1ChangeStyle_1a1a11eb9026d74f8d9763533209e4a8a9" kindref="member">colorDialog1</ref>.Color;</highlight></codeline>
+<codeline lineno="30"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="31"><highlight class="normal"></highlight></codeline>
+<codeline lineno="32" refid="classRisk1_1_1ChangeStyle_1a5bf41bcc4de2533e4f1a8f2cc8f5e97d" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">private</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="classRisk1_1_1ChangeStyle_1a5bf41bcc4de2533e4f1a8f2cc8f5e97d" kindref="member">ChangeStyle_Load</ref>(</highlight><highlight class="keywordtype">object</highlight><highlight class="normal"><sp/>sender,<sp/>EventArgs<sp/>e)</highlight></codeline>
+<codeline lineno="33"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="34"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="classRisk1_1_1ChangeStyle_1a1a11eb9026d74f8d9763533209e4a8a9" kindref="member">colorDialog1</ref>.Color<sp/>=<sp/><ref refid="classRisk1_1_1ChangeStyle_1ad65dd90425cb477b33cf492af4743170" kindref="member">f1</ref>.<ref refid="classRisk1_1_1Form1_1a2b57c6655a7cdf74eeaa00055c8b5b8b" kindref="member">deniz</ref>[0].renk;</highlight></codeline>
+<codeline lineno="35"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="classRisk1_1_1ChangeStyle_1adc9844f00e4ec47832ee68db3c7c79d9" kindref="member">button1</ref>.BackColor<sp/>=<sp/><ref refid="classRisk1_1_1ChangeStyle_1ad65dd90425cb477b33cf492af4743170" kindref="member">f1</ref>.<ref refid="classRisk1_1_1Form1_1a2b57c6655a7cdf74eeaa00055c8b5b8b" kindref="member">deniz</ref>[0].renk;</highlight></codeline>
+<codeline lineno="36"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="classRisk1_1_1ChangeStyle_1a375a730ec008f4c52b0c1fb8499efd6f" kindref="member">c</ref><sp/>=<sp/><ref refid="classRisk1_1_1ChangeStyle_1a1a11eb9026d74f8d9763533209e4a8a9" kindref="member">colorDialog1</ref>.Color;</highlight></codeline>
+<codeline lineno="37"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="38"><highlight class="normal"></highlight></codeline>
+<codeline lineno="39" refid="classRisk1_1_1ChangeStyle_1a713454ba512bb2a1d80d4fab8cc274cc" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">private</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="classRisk1_1_1ChangeStyle_1a713454ba512bb2a1d80d4fab8cc274cc" kindref="member">button2_Click</ref>(</highlight><highlight class="keywordtype">object</highlight><highlight class="normal"><sp/>sender,<sp/>EventArgs<sp/>e)</highlight></codeline>
+<codeline lineno="40"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="41"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="classRisk1_1_1ChangeStyle_1ad65dd90425cb477b33cf492af4743170" kindref="member">f1</ref>.<ref refid="classRisk1_1_1Form1_1a268cb2b8da2c2a9d666d800f6fe6cf87" kindref="member">changeDenizColor</ref>(<ref refid="classRisk1_1_1ChangeStyle_1a375a730ec008f4c52b0c1fb8499efd6f" kindref="member">c</ref>);</highlight></codeline>
+<codeline lineno="42"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>this.Close();</highlight></codeline>
+<codeline lineno="43"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="44"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="45"><highlight class="normal">}</highlight></codeline>
+    </programlisting>
+    <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ChangeStyle.cs"/>
+  </compounddef>
+</doxygen>

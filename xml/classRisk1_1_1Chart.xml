@@ -1,0 +1,287 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.0">
+  <compounddef id="classRisk1_1_1Chart" kind="class" prot="public">
+    <compoundname>Risk1::Chart</compoundname>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classRisk1_1_1Chart_1ad21a65ad5d47488f070eba1609c3703e" prot="private" static="no" mutable="no">
+        <type><ref refid="classRisk1_1_1Form1" kindref="compound">Form1</ref></type>
+        <definition>Form1 Risk1.Chart.f1</definition>
+        <argsstring></argsstring>
+        <name>f1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Chart.cs" line="15" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Chart.cs" bodystart="15" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1Chart_1a425390bbe98d4eb50e5f82295dd1b04f" compoundref="Chart_8cs" startline="16" endline="20">Risk1.Chart.Chart</referencedby>
+        <referencedby refid="classRisk1_1_1Chart_1a292cfeec007997e7e62d6b52469da629" compoundref="Chart_8cs" startline="22" endline="60">Risk1.Chart.Chart_Load</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1Chart_1afb5e6710786b3560ce2dddedc01a6e4b" prot="private" static="no" mutable="no">
+        <type>System.ComponentModel.IContainer</type>
+        <definition>System.ComponentModel.IContainer Risk1.Chart.components</definition>
+        <argsstring></argsstring>
+        <name>components</name>
+        <initializer> null</initializer>
+        <briefdescription>
+<para>Required designer variable. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Chart.Designer.cs" line="8" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Chart.Designer.cs" bodystart="8" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1Chart_1a035b1e95450686bde2e874bde7bdfbba" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.DataVisualization.Charting.Chart</type>
+        <definition>System.Windows.Forms.DataVisualization.Charting.Chart Risk1.Chart.chart1</definition>
+        <argsstring></argsstring>
+        <name>chart1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Chart.Designer.cs" line="71" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Chart.Designer.cs" bodystart="71" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1Chart_1a292cfeec007997e7e62d6b52469da629" compoundref="Chart_8cs" startline="22" endline="60">Risk1.Chart.Chart_Load</referencedby>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classRisk1_1_1Chart_1a425390bbe98d4eb50e5f82295dd1b04f" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Risk1.Chart.Chart</definition>
+        <argsstring>(Form1 form1)</argsstring>
+        <name>Chart</name>
+        <param>
+          <type><ref refid="classRisk1_1_1Form1" kindref="compound">Form1</ref></type>
+          <declname>form1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Chart.cs" line="17" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Chart.cs" bodystart="16" bodyend="20"/>
+        <references refid="classRisk1_1_1Chart_1ad21a65ad5d47488f070eba1609c3703e" compoundref="Chart_8cs" startline="15">Risk1.Chart.f1</references>
+        <references refid="classRisk1_1_1Chart_1a8b85052c5229367c126af7eefcc701ae" compoundref="Chart_8Designer_8cs" startline="29" endline="67">Risk1.Chart.InitializeComponent</references>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="classRisk1_1_1Chart_1a292cfeec007997e7e62d6b52469da629" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.Chart.Chart_Load</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>Chart_Load</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Chart.cs" line="23" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Chart.cs" bodystart="22" bodyend="60"/>
+        <references refid="classRisk1_1_1Chart_1a035b1e95450686bde2e874bde7bdfbba" compoundref="Chart_8Designer_8cs" startline="71">Risk1.Chart.chart1</references>
+        <references refid="classRisk1_1_1Player_1abd09f5bdd9126924b2f047c5bc36d271" compoundref="Player_8cs" startline="15">Risk1.Player.color</references>
+        <references refid="classRisk1_1_1Chart_1ad21a65ad5d47488f070eba1609c3703e" compoundref="Chart_8cs" startline="15">Risk1.Chart.f1</references>
+        <references refid="classRisk1_1_1Player_1a7a5827b7d9fbe10402581477e0f53575" compoundref="Player_8cs" startline="55">Risk1.Player.number</references>
+        <references refid="classRisk1_1_1Player_1a2d3fb1f210a9162238b8e9c1bc27894b" compoundref="Player_8cs" startline="63" endline="92">Risk1.Player.OptimizeAskerSayisiTarihi</references>
+        <references refid="classRisk1_1_1Form1_1acba062c38cacbc0d1488ce2f8dfe8715" compoundref="Form1_8cs" startline="25">Risk1.Form1.players</references>
+        <references refid="classRisk1_1_1Form1_1a92e167dba4211bca7b6e2bcdb4991790" compoundref="Form1_8cs" startline="28">Risk1.Form1.turn</references>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1Chart_1ad44e1793f634f4ee049b0059d4bc3f9b" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.Chart.chart1_Click</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>chart1_Click</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Chart.cs" line="63" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Chart.cs" bodystart="62" bodyend="65"/>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1Chart_1a8b85052c5229367c126af7eefcc701ae" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.Chart.InitializeComponent</definition>
+        <argsstring>()</argsstring>
+        <name>InitializeComponent</name>
+        <briefdescription>
+<para>Required method for Designer support - do not modify the contents of this method with the code editor. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Chart.Designer.cs" line="30" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Chart.Designer.cs" bodystart="29" bodyend="67"/>
+        <referencedby refid="classRisk1_1_1Chart_1a425390bbe98d4eb50e5f82295dd1b04f" compoundref="Chart_8cs" startline="16" endline="20">Risk1.Chart.Chart</referencedby>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="protected-func">
+      <memberdef kind="function" id="classRisk1_1_1Chart_1aa74cad952ff55706088c2b96011b65b7" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override void</type>
+        <definition>override void Risk1.Chart.Dispose</definition>
+        <argsstring>(bool disposing)</argsstring>
+        <name>Dispose</name>
+        <param>
+          <type>bool</type>
+          <declname>disposing</declname>
+        </param>
+        <briefdescription>
+<para>Clean up any resources being used. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>disposing</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>true if managed resources should be disposed; otherwise, false.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Chart.Designer.cs" line="15" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Chart.Designer.cs" bodystart="14" bodyend="21"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <collaborationgraph>
+      <node id="229">
+        <label>Risk1.Chart</label>
+        <link refid="classRisk1_1_1Chart"/>
+        <childnode refid="230" relation="usage">
+          <edgelabel>f1</edgelabel>
+        </childnode>
+        <childnode refid="238" relation="usage">
+          <edgelabel>chart1</edgelabel>
+          <edgelabel>components</edgelabel>
+        </childnode>
+      </node>
+      <node id="232">
+        <label>ArtificalIntelligence</label>
+        <link refid="classRisk1_1_1ArtificalIntelligence"/>
+      </node>
+      <node id="233">
+        <label>Risk1.Statistics</label>
+        <link refid="classRisk1_1_1Statistics"/>
+      </node>
+      <node id="234">
+        <label>Risk1.GameData</label>
+        <link refid="classRisk1_1_1GameData"/>
+      </node>
+      <node id="236">
+        <label>Risk1.Player</label>
+        <link refid="classRisk1_1_1Player"/>
+      </node>
+      <node id="237">
+        <label>Risk1.Ordu</label>
+        <link refid="classRisk1_1_1Ordu"/>
+      </node>
+      <node id="231">
+        <label>Risk1.AI</label>
+        <link refid="classRisk1_1_1AI"/>
+        <childnode refid="232" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="238">
+        <label>System</label>
+      </node>
+      <node id="230">
+        <label>Risk1.Form1</label>
+        <link refid="classRisk1_1_1Form1"/>
+        <childnode refid="231" relation="usage">
+          <edgelabel>ai</edgelabel>
+        </childnode>
+        <childnode refid="233" relation="usage">
+          <edgelabel>statistics</edgelabel>
+        </childnode>
+        <childnode refid="234" relation="usage">
+          <edgelabel>gameData</edgelabel>
+        </childnode>
+        <childnode refid="235" relation="usage">
+          <edgelabel>ilkTiklananBolge</edgelabel>
+        </childnode>
+        <childnode refid="238" relation="usage">
+          <edgelabel>showStatisticsToolStripMenuItem</edgelabel>
+          <edgelabel>rulesToolStripMenuItem</edgelabel>
+          <edgelabel>exitToolStripMenuItem</edgelabel>
+          <edgelabel>pictureBox1</edgelabel>
+          <edgelabel>timer1</edgelabel>
+          <edgelabel>pictureBox2</edgelabel>
+          <edgelabel>aboutToolStripMenuItem</edgelabel>
+          <edgelabel>endGameToolStripMenuItem</edgelabel>
+          <edgelabel>label1</edgelabel>
+          <edgelabel>pictureBox3</edgelabel>
+          <edgelabel>...</edgelabel>
+        </childnode>
+        <childnode refid="239" relation="usage">
+          <edgelabel>ai2</edgelabel>
+        </childnode>
+        <childnode refid="240" relation="usage">
+          <edgelabel>ai3</edgelabel>
+        </childnode>
+        <childnode refid="241" relation="usage">
+          <edgelabel>ai4</edgelabel>
+        </childnode>
+      </node>
+      <node id="239">
+        <label>Risk1.AI2</label>
+        <link refid="classRisk1_1_1AI2"/>
+        <childnode refid="232" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="240">
+        <label>Risk1.AI3</label>
+        <link refid="classRisk1_1_1AI3"/>
+        <childnode refid="232" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="241">
+        <label>Risk1.AI4</label>
+        <link refid="classRisk1_1_1AI4"/>
+        <childnode refid="232" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="235">
+        <label>Risk1.Bolge</label>
+        <link refid="classRisk1_1_1Bolge"/>
+        <childnode refid="236" relation="usage">
+          <edgelabel>sahip</edgelabel>
+        </childnode>
+        <childnode refid="237" relation="usage">
+          <edgelabel>ordu</edgelabel>
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Chart.cs" line="14" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Chart.cs" bodystart="13" bodyend="66"/>
+    <listofallmembers>
+      <member refid="classRisk1_1_1Chart_1a425390bbe98d4eb50e5f82295dd1b04f" prot="public" virt="non-virtual"><scope>Risk1::Chart</scope><name>Chart</name></member>
+      <member refid="classRisk1_1_1Chart_1a035b1e95450686bde2e874bde7bdfbba" prot="private" virt="non-virtual"><scope>Risk1::Chart</scope><name>chart1</name></member>
+      <member refid="classRisk1_1_1Chart_1ad44e1793f634f4ee049b0059d4bc3f9b" prot="private" virt="non-virtual"><scope>Risk1::Chart</scope><name>chart1_Click</name></member>
+      <member refid="classRisk1_1_1Chart_1a292cfeec007997e7e62d6b52469da629" prot="private" virt="non-virtual"><scope>Risk1::Chart</scope><name>Chart_Load</name></member>
+      <member refid="classRisk1_1_1Chart_1afb5e6710786b3560ce2dddedc01a6e4b" prot="private" virt="non-virtual"><scope>Risk1::Chart</scope><name>components</name></member>
+      <member refid="classRisk1_1_1Chart_1aa74cad952ff55706088c2b96011b65b7" prot="protected" virt="non-virtual"><scope>Risk1::Chart</scope><name>Dispose</name></member>
+      <member refid="classRisk1_1_1Chart_1ad21a65ad5d47488f070eba1609c3703e" prot="private" virt="non-virtual"><scope>Risk1::Chart</scope><name>f1</name></member>
+      <member refid="classRisk1_1_1Chart_1a8b85052c5229367c126af7eefcc701ae" prot="private" virt="non-virtual"><scope>Risk1::Chart</scope><name>InitializeComponent</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

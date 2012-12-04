@@ -1,0 +1,612 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.0">
+  <compounddef id="classRisk1_1_1AI2" kind="class" prot="public">
+    <compoundname>Risk1::AI2</compoundname>
+    <basecompoundref refid="classRisk1_1_1ArtificalIntelligence" prot="public" virt="non-virtual">Risk1.ArtificalIntelligence</basecompoundref>
+      <sectiondef kind="public-static-attrib">
+      <memberdef kind="variable" id="classRisk1_1_1AI2_1ad817aa3c5478ee3feb4b076280256a28" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Risk1.AI2.aiId</definition>
+        <argsstring></argsstring>
+        <name>aiId</name>
+        <initializer> 2</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/AI2.cs" line="18" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/AI2.cs" bodystart="18" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1ChangePlayer_1a1234df4ee96694bbc7966bb4a4de1269" compoundref="ChangePlayer_8cs" startline="106" endline="133">Risk1.ChangePlayer.HangiYapayZekaSecili</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1AI2_1a11fd45f52d1a737b2bfc78c1ae39ea23" prot="public" static="yes" mutable="no">
+        <type>string</type>
+        <definition>string Risk1.AI2.name</definition>
+        <argsstring></argsstring>
+        <name>name</name>
+        <initializer>&quot;Hitler&quot;</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/AI2.cs" line="19" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/AI2.cs" bodystart="19" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1AI2_1a02cc8e742d2e49a64aa015184b9058ad" compoundref="AI2_8cs" startline="22" endline="25">Risk1.AI2.getName</referencedby>
+        <referencedby refid="classRisk1_1_1ChangePlayer_1a1234df4ee96694bbc7966bb4a4de1269" compoundref="ChangePlayer_8cs" startline="106" endline="133">Risk1.ChangePlayer.HangiYapayZekaSecili</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1AI2_1a41e5f3b61cf30c7713ad734a75e17f59" prot="public" static="yes" mutable="no">
+        <type>Image</type>
+        <definition>Image Risk1.AI2.resim</definition>
+        <argsstring></argsstring>
+        <name>resim</name>
+        <initializer> Properties.Resources.hitler</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/AI2.cs" line="20" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/AI2.cs" bodystart="20" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1ChangePlayer_1a1234df4ee96694bbc7966bb4a4de1269" compoundref="ChangePlayer_8cs" startline="106" endline="133">Risk1.ChangePlayer.HangiYapayZekaSecili</referencedby>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-attrib">
+      <memberdef kind="variable" id="classRisk1_1_1AI2_1ab8f8dd448a4fc2099a130613782a7c8b" prot="public" static="no" mutable="no">
+        <type>int</type>
+        <definition>int Risk1.AI2.saldirmaDurumu</definition>
+        <argsstring></argsstring>
+        <name>saldirmaDurumu</name>
+        <initializer> 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/AI2.cs" line="27" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/AI2.cs" bodystart="27" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1AI2_1a1705ebdc50faa7063433935184ce3ffb" compoundref="AI2_8cs" startline="330" endline="482">Risk1.AI2.devam</referencedby>
+        <referencedby refid="classRisk1_1_1AI2_1a846a3c4dae11acc5e2f7c0e2fa314169" compoundref="AI2_8cs" startline="521" endline="579">Risk1.AI2.getSavasBolgeIndexleri</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1AI2_1a0bbc6d661607965f24ae7fa0c9b0ac91" prot="public" static="no" mutable="no">
+        <type>List&lt; int &gt;</type>
+        <definition>List&lt;int&gt; Risk1.AI2.durum3SaldiriIndexleri</definition>
+        <argsstring></argsstring>
+        <name>durum3SaldiriIndexleri</name>
+        <initializer> new List&lt;int&gt;(2)</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/AI2.cs" line="28" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/AI2.cs" bodystart="28" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1AI2_1a1705ebdc50faa7063433935184ce3ffb" compoundref="AI2_8cs" startline="330" endline="482">Risk1.AI2.devam</referencedby>
+        <referencedby refid="classRisk1_1_1AI2_1a846a3c4dae11acc5e2f7c0e2fa314169" compoundref="AI2_8cs" startline="521" endline="579">Risk1.AI2.getSavasBolgeIndexleri</referencedby>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classRisk1_1_1AI2_1a460eff2b7693eca60687b36e5d952150" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Risk1.AI2.AI2</definition>
+        <argsstring>()</argsstring>
+        <name>AI2</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/AI2.cs" line="15" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/AI2.cs" bodystart="14" bodyend="17"/>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1AI2_1a02cc8e742d2e49a64aa015184b9058ad" prot="public" static="no" const="no" explicit="no" inline="yes" virt="virtual">
+        <type>override string</type>
+        <definition>override string Risk1.AI2.getName</definition>
+        <argsstring>()</argsstring>
+        <name>getName</name>
+        <reimplements refid="classRisk1_1_1ArtificalIntelligence_1a0bd5db6c0d0b373c8cf4c1e1367e046d">getName</reimplements>
+        <briefdescription>
+<para>Bu metod Yapay zekanın ismini döndürmelidir. </para>        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="return"><para>name</para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/AI2.cs" line="23" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/AI2.cs" bodystart="22" bodyend="25"/>
+        <references refid="classRisk1_1_1AI2_1a11fd45f52d1a737b2bfc78c1ae39ea23" compoundref="AI2_8cs" startline="19">Risk1.AI2.name</references>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1AI2_1a47c4a8aa8d5ce56382e79ff002207e94" prot="public" static="no" const="no" explicit="no" inline="yes" virt="virtual">
+        <type>override int</type>
+        <definition>override int Risk1.AI2.requestTerritory</definition>
+        <argsstring>(GameData f1)</argsstring>
+        <name>requestTerritory</name>
+        <reimplements refid="classRisk1_1_1ArtificalIntelligence_1ae102afcd81cd18946e9dbfeb26a39ee9">requestTerritory</reimplements>
+        <param>
+          <type><ref refid="classRisk1_1_1GameData" kindref="compound">GameData</ref></type>
+          <declname>form1</declname>
+        </param>
+        <briefdescription>
+<para>Bu metod bölgeler seçilirken istenen bolgenin indexini dondurmektedir. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>form1</parametername>
+</parameternamelist>
+<parameterdescription>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>istenen bolgenin indexi</para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/AI2.cs" line="31" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/AI2.cs" bodystart="30" bodyend="62"/>
+        <references refid="classRisk1_1_1GameData_1a655b99838f04e5ce1ef36842ad5f6108" compoundref="GameData_8cs" startline="13">Risk1.GameData.bolgeler</references>
+        <references refid="classRisk1_1_1ArtificalIntelligence_1a17550d4316476426536c3a3124ba651d" compoundref="ArtificalIntelligence_8cs" startline="108" endline="123">Risk1.ArtificalIntelligence.rastgeleBolgeSec</references>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1AI2_1a8adb4300b085ca6c7433e6e5a1173349" prot="public" static="no" const="no" explicit="no" inline="yes" virt="virtual">
+        <type>override int</type>
+        <definition>override int Risk1.AI2.getTerritoryToPlaceFirstArmies</definition>
+        <argsstring>(GameData f1)</argsstring>
+        <name>getTerritoryToPlaceFirstArmies</name>
+        <reimplements refid="classRisk1_1_1ArtificalIntelligence_1a8edd0bf06ab79b5e29d0f8b9a575ed28">getTerritoryToPlaceFirstArmies</reimplements>
+        <param>
+          <type><ref refid="classRisk1_1_1GameData" kindref="compound">GameData</ref></type>
+          <declname>form1</declname>
+        </param>
+        <briefdescription>
+<para>İlk başta tüm oyunculara verilen ilk askerler dağıtılırken her oyuncuya tek tek askerlerini nereye koyması gerektiği sorulur bu metod ilk ordunun koyulması gereken bolgenin indexini dondurur. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>form1</parametername>
+</parameternamelist>
+<parameterdescription>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>ilk ordunun koyulması gereken bolgenin indexini dondurur</para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/AI2.cs" line="66" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/AI2.cs" bodystart="65" bodyend="109"/>
+        <references refid="classRisk1_1_1ArtificalIntelligence_1a0fda6d74869871d836b81e8b6b724b89" compoundref="ArtificalIntelligence_8cs" startline="130" endline="143">Risk1.ArtificalIntelligence.getEnGucluBolgemIndex</references>
+        <references refid="classRisk1_1_1Bolge_1a722de30a96f87b39b46bcbcde47c5327" compoundref="Bolge_8cs" startline="47">Risk1.Bolge.index</references>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1AI2_1aab8c09b5e55af95f1217ed61bcd0bc35" prot="public" static="no" const="no" explicit="no" inline="yes" virt="virtual">
+        <type>override List&lt; int &gt;</type>
+        <definition>override List&lt;int&gt; Risk1.AI2.getTerritoriesIndexToPlaceNewArmies</definition>
+        <argsstring>(GameData f1)</argsstring>
+        <name>getTerritoriesIndexToPlaceNewArmies</name>
+        <reimplements refid="classRisk1_1_1ArtificalIntelligence_1a52220507f86de828310ce3e2caf8440a">getTerritoriesIndexToPlaceNewArmies</reimplements>
+        <param>
+          <type><ref refid="classRisk1_1_1GameData" kindref="compound">GameData</ref></type>
+          <declname>form1</declname>
+        </param>
+        <briefdescription>
+<para>Oyuncu her turn&apos;de kazandığı yeni askerleri hangi bolgelere yerleştireceğini bu metod sayesinde belirler. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>form1</parametername>
+</parameternamelist>
+<parameterdescription>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>Askerlerin yerleştirilmek istendiği bolge indexleri</para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/AI2.cs" line="112" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/AI2.cs" bodystart="111" bodyend="217"/>
+        <references refid="classRisk1_1_1AI2_1aea1eec6f5984621b1d0da64bbbafd35e" compoundref="AI2_8cs" startline="261" endline="299">Risk1.AI2.avrupadaToprakVarMi</references>
+        <references refid="classRisk1_1_1GameData_1a655b99838f04e5ce1ef36842ad5f6108" compoundref="GameData_8cs" startline="13">Risk1.GameData.bolgeler</references>
+        <references refid="classRisk1_1_1AI2_1a425735fb0e3e089020b94e7da15c3e29" compoundref="AI2_8cs" startline="602" endline="613">Risk1.AI2.getDahaGucluDusmanSayisi</references>
+        <references refid="classRisk1_1_1ArtificalIntelligence_1a0fda6d74869871d836b81e8b6b724b89" compoundref="ArtificalIntelligence_8cs" startline="130" endline="143">Risk1.ArtificalIntelligence.getEnGucluBolgemIndex</references>
+        <references refid="classRisk1_1_1ArtificalIntelligence_1ab05fcfb9caa1ff3d34f40fcd2b761c7c" compoundref="ArtificalIntelligence_8cs" startline="76" endline="87">Risk1.ArtificalIntelligence.getKomsuDusmanSayisi</references>
+        <references refid="classRisk1_1_1Bolge_1a722de30a96f87b39b46bcbcde47c5327" compoundref="Bolge_8cs" startline="47">Risk1.Bolge.index</references>
+        <references refid="classRisk1_1_1GameData_1a16905c7b10b187cf87e3230b7fed535f" compoundref="GameData_8cs" startline="17">Risk1.GameData.players</references>
+        <references refid="classRisk1_1_1GameData_1a2a64f037ed41ca17881a1c98bab7b0e6" compoundref="GameData_8cs" startline="25">Risk1.GameData.turn</references>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1AI2_1a9d2c428b722df2121b0e2721a536221a" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Risk1.AI2.avrupaBendeMi</definition>
+        <argsstring>(GameData f1)</argsstring>
+        <name>avrupaBendeMi</name>
+        <param>
+          <type><ref refid="classRisk1_1_1GameData" kindref="compound">GameData</ref></type>
+          <declname>f1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/AI2.cs" line="220" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/AI2.cs" bodystart="219" bodyend="258"/>
+        <references refid="classRisk1_1_1Bolge_1a722de30a96f87b39b46bcbcde47c5327" compoundref="Bolge_8cs" startline="47">Risk1.Bolge.index</references>
+        <referencedby refid="classRisk1_1_1AI2_1a1705ebdc50faa7063433935184ce3ffb" compoundref="AI2_8cs" startline="330" endline="482">Risk1.AI2.devam</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1AI2_1a1705ebdc50faa7063433935184ce3ffb" prot="public" static="no" const="no" explicit="no" inline="yes" virt="virtual">
+        <type>override bool</type>
+        <definition>override bool Risk1.AI2.devam</definition>
+        <argsstring>(GameData f1)</argsstring>
+        <name>devam</name>
+        <reimplements refid="classRisk1_1_1ArtificalIntelligence_1ab34a4c1580a36bb7cdcc626323c7ed61">devam</reimplements>
+        <param>
+          <type><ref refid="classRisk1_1_1GameData" kindref="compound">GameData</ref></type>
+          <declname>form1</declname>
+        </param>
+        <briefdescription>
+<para>Kullanıcının hamle yapmaya devam edip etmeyeceğini belirler. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>form1</parametername>
+</parameternamelist>
+<parameterdescription>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>Devam etmek istiyorsa true devam etmek istemiyorsa false.</para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/AI2.cs" line="331" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/AI2.cs" bodystart="330" bodyend="482"/>
+        <references refid="classRisk1_1_1Ordu_1a6c0b78a761fe481445bd7c86c8aeb833" compoundref="Ordu_8cs" startline="10">Risk1.Ordu.askerSayisi</references>
+        <references refid="classRisk1_1_1AI2_1a9d2c428b722df2121b0e2721a536221a" compoundref="AI2_8cs" startline="219" endline="258">Risk1.AI2.avrupaBendeMi</references>
+        <references refid="classRisk1_1_1AI2_1aea1eec6f5984621b1d0da64bbbafd35e" compoundref="AI2_8cs" startline="261" endline="299">Risk1.AI2.avrupadaToprakVarMi</references>
+        <references refid="classRisk1_1_1GameData_1a655b99838f04e5ce1ef36842ad5f6108" compoundref="GameData_8cs" startline="13">Risk1.GameData.bolgeler</references>
+        <references refid="classRisk1_1_1AI2_1ac82f71953081c53c80a10a75a338e1a4" compoundref="AI2_8cs" startline="487" endline="519">Risk1.AI2.buBolgeAvrupadaMi</references>
+        <references refid="classRisk1_1_1AI2_1a0bbc6d661607965f24ae7fa0c9b0ac91" compoundref="AI2_8cs" startline="28">Risk1.AI2.durum3SaldiriIndexleri</references>
+        <references refid="classRisk1_1_1AI2_1a191e157f57f2e672d4fe482986b063cd" compoundref="AI2_8cs" startline="316" endline="328">Risk1.AI2.getAvrupadakiAskerSayisi</references>
+        <references refid="classRisk1_1_1AI2_1ab09da4181f97097501c9647ff65ab19d" compoundref="AI2_8cs" startline="301" endline="313">Risk1.AI2.getAvrupadakiDusmanSayisi</references>
+        <references refid="classRisk1_1_1ArtificalIntelligence_1a0fda6d74869871d836b81e8b6b724b89" compoundref="ArtificalIntelligence_8cs" startline="130" endline="143">Risk1.ArtificalIntelligence.getEnGucluBolgemIndex</references>
+        <references refid="classRisk1_1_1ArtificalIntelligence_1ab05fcfb9caa1ff3d34f40fcd2b761c7c" compoundref="ArtificalIntelligence_8cs" startline="76" endline="87">Risk1.ArtificalIntelligence.getKomsuDusmanSayisi</references>
+        <references refid="classRisk1_1_1Bolge_1a722de30a96f87b39b46bcbcde47c5327" compoundref="Bolge_8cs" startline="47">Risk1.Bolge.index</references>
+        <references refid="classRisk1_1_1Bolge_1a5c75223b180f951ad397462272091e1f" compoundref="Bolge_8cs" startline="27">Risk1.Bolge.komsular</references>
+        <references refid="classRisk1_1_1Bolge_1a4835838ca280efd4a82724fd75b5b170" compoundref="Bolge_8cs" startline="39">Risk1.Bolge.ordu</references>
+        <references refid="classRisk1_1_1GameData_1a16905c7b10b187cf87e3230b7fed535f" compoundref="GameData_8cs" startline="17">Risk1.GameData.players</references>
+        <references refid="classRisk1_1_1Bolge_1a6ea883664353e7480178fb57e5e856d8" compoundref="Bolge_8cs" startline="35">Risk1.Bolge.sahip</references>
+        <references refid="classRisk1_1_1AI2_1ab8f8dd448a4fc2099a130613782a7c8b" compoundref="AI2_8cs" startline="27">Risk1.AI2.saldirmaDurumu</references>
+        <references refid="classRisk1_1_1GameData_1a2a64f037ed41ca17881a1c98bab7b0e6" compoundref="GameData_8cs" startline="25">Risk1.GameData.turn</references>
+        <referencedby refid="classRisk1_1_1AI2_1a66b35cb7b1ac9e75697b94070d13e195" compoundref="AI2_8cs" startline="581" endline="584">Risk1.AI2.saldiracanMi</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1AI2_1a846a3c4dae11acc5e2f7c0e2fa314169" prot="public" static="no" const="no" explicit="no" inline="yes" virt="virtual">
+        <type>override List&lt; int &gt;</type>
+        <definition>override List&lt;int&gt; Risk1.AI2.getSavasBolgeIndexleri</definition>
+        <argsstring>(GameData f1)</argsstring>
+        <name>getSavasBolgeIndexleri</name>
+        <reimplements refid="classRisk1_1_1ArtificalIntelligence_1a838561a3aa7b4c9384ec3b39393de9bf">getSavasBolgeIndexleri</reimplements>
+        <param>
+          <type><ref refid="classRisk1_1_1GameData" kindref="compound">GameData</ref></type>
+          <declname>form1</declname>
+        </param>
+        <briefdescription>
+<para>Bu metod savaş yapılacak bolgelerin indexlerini belirlemek içindir. </para>        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="return"><para>Metod geriye iki elemanlı bir liste döndürür. Birinci eleman nereden saldırı yapılacağını ikinci eleman ise nereye saldırı yapılacağını gösterir. Burada iki bolgenin komsu olmasına dikkat edilmelidir.</para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/AI2.cs" line="522" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/AI2.cs" bodystart="521" bodyend="579"/>
+        <references refid="classRisk1_1_1Ordu_1a6c0b78a761fe481445bd7c86c8aeb833" compoundref="Ordu_8cs" startline="10">Risk1.Ordu.askerSayisi</references>
+        <references refid="classRisk1_1_1AI2_1ac82f71953081c53c80a10a75a338e1a4" compoundref="AI2_8cs" startline="487" endline="519">Risk1.AI2.buBolgeAvrupadaMi</references>
+        <references refid="classRisk1_1_1AI2_1a0bbc6d661607965f24ae7fa0c9b0ac91" compoundref="AI2_8cs" startline="28">Risk1.AI2.durum3SaldiriIndexleri</references>
+        <references refid="classRisk1_1_1ArtificalIntelligence_1ab05fcfb9caa1ff3d34f40fcd2b761c7c" compoundref="ArtificalIntelligence_8cs" startline="76" endline="87">Risk1.ArtificalIntelligence.getKomsuDusmanSayisi</references>
+        <references refid="classRisk1_1_1Bolge_1a722de30a96f87b39b46bcbcde47c5327" compoundref="Bolge_8cs" startline="47">Risk1.Bolge.index</references>
+        <references refid="classRisk1_1_1Bolge_1a5c75223b180f951ad397462272091e1f" compoundref="Bolge_8cs" startline="27">Risk1.Bolge.komsular</references>
+        <references refid="classRisk1_1_1Bolge_1a4835838ca280efd4a82724fd75b5b170" compoundref="Bolge_8cs" startline="39">Risk1.Bolge.ordu</references>
+        <references refid="classRisk1_1_1GameData_1a16905c7b10b187cf87e3230b7fed535f" compoundref="GameData_8cs" startline="17">Risk1.GameData.players</references>
+        <references refid="classRisk1_1_1Bolge_1a6ea883664353e7480178fb57e5e856d8" compoundref="Bolge_8cs" startline="35">Risk1.Bolge.sahip</references>
+        <references refid="classRisk1_1_1AI2_1ab8f8dd448a4fc2099a130613782a7c8b" compoundref="AI2_8cs" startline="27">Risk1.AI2.saldirmaDurumu</references>
+        <references refid="classRisk1_1_1GameData_1a2a64f037ed41ca17881a1c98bab7b0e6" compoundref="GameData_8cs" startline="25">Risk1.GameData.turn</references>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1AI2_1a66b35cb7b1ac9e75697b94070d13e195" prot="public" static="no" const="no" explicit="no" inline="yes" virt="virtual">
+        <type>override bool</type>
+        <definition>override bool Risk1.AI2.saldiracanMi</definition>
+        <argsstring>(GameData f1)</argsstring>
+        <name>saldiracanMi</name>
+        <reimplements refid="classRisk1_1_1ArtificalIntelligence_1afabe12befd86daf7b946c2e863f1de6c">saldiracanMi</reimplements>
+        <param>
+          <type><ref refid="classRisk1_1_1GameData" kindref="compound">GameData</ref></type>
+          <declname>form1</declname>
+        </param>
+        <briefdescription>
+<para>Bu metod kullanıcının saldırı yapmak isteyip istemediğini belirler. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>form1</parametername>
+</parameternamelist>
+<parameterdescription>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>Eğer saldırı yapmak istiyorsa true istemiyorsa false döndürür.</para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/AI2.cs" line="582" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/AI2.cs" bodystart="581" bodyend="584"/>
+        <references refid="classRisk1_1_1AI2_1a1705ebdc50faa7063433935184ce3ffb" compoundref="AI2_8cs" startline="330" endline="482">Risk1.AI2.devam</references>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1AI2_1a425735fb0e3e089020b94e7da15c3e29" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>int Risk1.AI2.getDahaGucluDusmanSayisi</definition>
+        <argsstring>(Bolge b)</argsstring>
+        <name>getDahaGucluDusmanSayisi</name>
+        <param>
+          <type><ref refid="classRisk1_1_1Bolge" kindref="compound">Bolge</ref></type>
+          <declname>b</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/AI2.cs" line="603" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/AI2.cs" bodystart="602" bodyend="613"/>
+        <references refid="classRisk1_1_1Ordu_1a6c0b78a761fe481445bd7c86c8aeb833" compoundref="Ordu_8cs" startline="10">Risk1.Ordu.askerSayisi</references>
+        <references refid="classRisk1_1_1Bolge_1a5c75223b180f951ad397462272091e1f" compoundref="Bolge_8cs" startline="27">Risk1.Bolge.komsular</references>
+        <references refid="classRisk1_1_1Bolge_1a4835838ca280efd4a82724fd75b5b170" compoundref="Bolge_8cs" startline="39">Risk1.Bolge.ordu</references>
+        <references refid="classRisk1_1_1Bolge_1a6ea883664353e7480178fb57e5e856d8" compoundref="Bolge_8cs" startline="35">Risk1.Bolge.sahip</references>
+        <referencedby refid="classRisk1_1_1AI2_1aab8c09b5e55af95f1217ed61bcd0bc35" compoundref="AI2_8cs" startline="111" endline="217">Risk1.AI2.getTerritoriesIndexToPlaceNewArmies</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1AI2_1a17f993750af03c7fee96e791b23a594a" prot="public" static="no" const="no" explicit="no" inline="yes" virt="virtual">
+        <type>override List&lt; int &gt;</type>
+        <definition>override List&lt;int&gt; Risk1.AI2.divideArmies</definition>
+        <argsstring>(int index1, int index2, GameData f1)</argsstring>
+        <name>divideArmies</name>
+        <reimplements refid="classRisk1_1_1ArtificalIntelligence_1a629a95e0d3083c66b617e8ef2c428315">divideArmies</reimplements>
+        <param>
+          <type>int</type>
+          <declname>index1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>index2</declname>
+        </param>
+        <param>
+          <type><ref refid="classRisk1_1_1GameData" kindref="compound">GameData</ref></type>
+          <declname>form1</declname>
+        </param>
+        <briefdescription>
+<para>Oyuncu bir bölgeyi igal ettikten sonra o bölge ile kendi bölgesi arasındaki askerleri nasıl paylaştıracağına bu metod vasıtasıyla karar verir. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>index1</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Saldırının gerçekleştiği bölgenin index&apos;i</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>index2</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>İşgal edilen bölgenin index&apos;i</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>Geriye iki elemanlı bir liste döndürülecek birinci eleman index1 ile belirttiğimiz bolgede kalacak asker sayısını ikinci eleman ise index2 ile belirttiğimiz bolgede kalacak eleman sayısını gostermelidir.</para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/AI2.cs" line="617" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/AI2.cs" bodystart="616" bodyend="644"/>
+        <references refid="classRisk1_1_1GameData_1a655b99838f04e5ce1ef36842ad5f6108" compoundref="GameData_8cs" startline="13">Risk1.GameData.bolgeler</references>
+        <references refid="classRisk1_1_1AI2_1a8f74a756e143121442dabccb394c9a48" compoundref="AI2_8cs" startline="588" endline="600">Risk1.AI2.getAvrupadakiToprakSayisi</references>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1AI2_1a0d2632b73eb8571f5bb099940f5016c6" prot="public" static="no" const="no" explicit="no" inline="yes" virt="virtual">
+        <type>override bool</type>
+        <definition>override bool Risk1.AI2.askerTransferiYapacakmisin</definition>
+        <argsstring>(GameData f1)</argsstring>
+        <name>askerTransferiYapacakmisin</name>
+        <reimplements refid="classRisk1_1_1ArtificalIntelligence_1a0057340c0c30a7bb5160cc63cc3f22c7">askerTransferiYapacakmisin</reimplements>
+        <param>
+          <type><ref refid="classRisk1_1_1GameData" kindref="compound">GameData</ref></type>
+          <declname>f1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/AI2.cs" line="647" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/AI2.cs" bodystart="646" bodyend="662"/>
+        <references refid="classRisk1_1_1Ordu_1a6c0b78a761fe481445bd7c86c8aeb833" compoundref="Ordu_8cs" startline="10">Risk1.Ordu.askerSayisi</references>
+        <references refid="classRisk1_1_1ArtificalIntelligence_1a5c1b336994fa1ad57e7dc28d68ae85cb" compoundref="ArtificalIntelligence_8cs" startline="90" endline="101">Risk1.ArtificalIntelligence.getDostSayisi</references>
+        <references refid="classRisk1_1_1ArtificalIntelligence_1ab05fcfb9caa1ff3d34f40fcd2b761c7c" compoundref="ArtificalIntelligence_8cs" startline="76" endline="87">Risk1.ArtificalIntelligence.getKomsuDusmanSayisi</references>
+        <references refid="classRisk1_1_1Bolge_1a4835838ca280efd4a82724fd75b5b170" compoundref="Bolge_8cs" startline="39">Risk1.Bolge.ordu</references>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1AI2_1a1c34b17fe848156ff9c481e8686e0120" prot="public" static="no" const="no" explicit="no" inline="yes" virt="virtual">
+        <type>override List&lt; int &gt;</type>
+        <definition>override List&lt;int&gt; Risk1.AI2.askerTransferiYap</definition>
+        <argsstring>(GameData f1)</argsstring>
+        <name>askerTransferiYap</name>
+        <reimplements refid="classRisk1_1_1ArtificalIntelligence_1aedf56a4b3a40f4d3e205698feb5d9cce">askerTransferiYap</reimplements>
+        <param>
+          <type><ref refid="classRisk1_1_1GameData" kindref="compound">GameData</ref></type>
+          <declname>f1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/AI2.cs" line="665" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/AI2.cs" bodystart="664" bodyend="697"/>
+        <references refid="classRisk1_1_1Ordu_1a6c0b78a761fe481445bd7c86c8aeb833" compoundref="Ordu_8cs" startline="10">Risk1.Ordu.askerSayisi</references>
+        <references refid="classRisk1_1_1ArtificalIntelligence_1a5c1b336994fa1ad57e7dc28d68ae85cb" compoundref="ArtificalIntelligence_8cs" startline="90" endline="101">Risk1.ArtificalIntelligence.getDostSayisi</references>
+        <references refid="classRisk1_1_1ArtificalIntelligence_1ab05fcfb9caa1ff3d34f40fcd2b761c7c" compoundref="ArtificalIntelligence_8cs" startline="76" endline="87">Risk1.ArtificalIntelligence.getKomsuDusmanSayisi</references>
+        <references refid="classRisk1_1_1Bolge_1a722de30a96f87b39b46bcbcde47c5327" compoundref="Bolge_8cs" startline="47">Risk1.Bolge.index</references>
+        <references refid="classRisk1_1_1Bolge_1a5c75223b180f951ad397462272091e1f" compoundref="Bolge_8cs" startline="27">Risk1.Bolge.komsular</references>
+        <references refid="classRisk1_1_1Bolge_1a4835838ca280efd4a82724fd75b5b170" compoundref="Bolge_8cs" startline="39">Risk1.Bolge.ordu</references>
+        <references refid="classRisk1_1_1Bolge_1a6ea883664353e7480178fb57e5e856d8" compoundref="Bolge_8cs" startline="35">Risk1.Bolge.sahip</references>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="classRisk1_1_1AI2_1aea1eec6f5984621b1d0da64bbbafd35e" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Risk1.AI2.avrupadaToprakVarMi</definition>
+        <argsstring>(GameData f1)</argsstring>
+        <name>avrupadaToprakVarMi</name>
+        <param>
+          <type><ref refid="classRisk1_1_1GameData" kindref="compound">GameData</ref></type>
+          <declname>f1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/AI2.cs" line="262" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/AI2.cs" bodystart="261" bodyend="299"/>
+        <references refid="classRisk1_1_1Bolge_1a722de30a96f87b39b46bcbcde47c5327" compoundref="Bolge_8cs" startline="47">Risk1.Bolge.index</references>
+        <referencedby refid="classRisk1_1_1AI2_1a1705ebdc50faa7063433935184ce3ffb" compoundref="AI2_8cs" startline="330" endline="482">Risk1.AI2.devam</referencedby>
+        <referencedby refid="classRisk1_1_1AI2_1aab8c09b5e55af95f1217ed61bcd0bc35" compoundref="AI2_8cs" startline="111" endline="217">Risk1.AI2.getTerritoriesIndexToPlaceNewArmies</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1AI2_1ab09da4181f97097501c9647ff65ab19d" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>int Risk1.AI2.getAvrupadakiDusmanSayisi</definition>
+        <argsstring>(GameData f1)</argsstring>
+        <name>getAvrupadakiDusmanSayisi</name>
+        <param>
+          <type><ref refid="classRisk1_1_1GameData" kindref="compound">GameData</ref></type>
+          <declname>f1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/AI2.cs" line="302" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/AI2.cs" bodystart="301" bodyend="313"/>
+        <references refid="classRisk1_1_1Ordu_1a6c0b78a761fe481445bd7c86c8aeb833" compoundref="Ordu_8cs" startline="10">Risk1.Ordu.askerSayisi</references>
+        <references refid="classRisk1_1_1Bolge_1a4835838ca280efd4a82724fd75b5b170" compoundref="Bolge_8cs" startline="39">Risk1.Bolge.ordu</references>
+        <references refid="classRisk1_1_1Bolge_1a6ea883664353e7480178fb57e5e856d8" compoundref="Bolge_8cs" startline="35">Risk1.Bolge.sahip</references>
+        <referencedby refid="classRisk1_1_1AI2_1a1705ebdc50faa7063433935184ce3ffb" compoundref="AI2_8cs" startline="330" endline="482">Risk1.AI2.devam</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1AI2_1a191e157f57f2e672d4fe482986b063cd" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>int Risk1.AI2.getAvrupadakiAskerSayisi</definition>
+        <argsstring>(GameData f1)</argsstring>
+        <name>getAvrupadakiAskerSayisi</name>
+        <param>
+          <type><ref refid="classRisk1_1_1GameData" kindref="compound">GameData</ref></type>
+          <declname>f1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/AI2.cs" line="317" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/AI2.cs" bodystart="316" bodyend="328"/>
+        <references refid="classRisk1_1_1Ordu_1a6c0b78a761fe481445bd7c86c8aeb833" compoundref="Ordu_8cs" startline="10">Risk1.Ordu.askerSayisi</references>
+        <references refid="classRisk1_1_1Bolge_1a4835838ca280efd4a82724fd75b5b170" compoundref="Bolge_8cs" startline="39">Risk1.Bolge.ordu</references>
+        <references refid="classRisk1_1_1Bolge_1a6ea883664353e7480178fb57e5e856d8" compoundref="Bolge_8cs" startline="35">Risk1.Bolge.sahip</references>
+        <referencedby refid="classRisk1_1_1AI2_1a1705ebdc50faa7063433935184ce3ffb" compoundref="AI2_8cs" startline="330" endline="482">Risk1.AI2.devam</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1AI2_1ac82f71953081c53c80a10a75a338e1a4" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Risk1.AI2.buBolgeAvrupadaMi</definition>
+        <argsstring>(Bolge b)</argsstring>
+        <name>buBolgeAvrupadaMi</name>
+        <param>
+          <type><ref refid="classRisk1_1_1Bolge" kindref="compound">Bolge</ref></type>
+          <declname>b</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/AI2.cs" line="488" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/AI2.cs" bodystart="487" bodyend="519"/>
+        <references refid="classRisk1_1_1Bolge_1a722de30a96f87b39b46bcbcde47c5327" compoundref="Bolge_8cs" startline="47">Risk1.Bolge.index</references>
+        <referencedby refid="classRisk1_1_1AI2_1a1705ebdc50faa7063433935184ce3ffb" compoundref="AI2_8cs" startline="330" endline="482">Risk1.AI2.devam</referencedby>
+        <referencedby refid="classRisk1_1_1AI2_1a8f74a756e143121442dabccb394c9a48" compoundref="AI2_8cs" startline="588" endline="600">Risk1.AI2.getAvrupadakiToprakSayisi</referencedby>
+        <referencedby refid="classRisk1_1_1AI2_1a846a3c4dae11acc5e2f7c0e2fa314169" compoundref="AI2_8cs" startline="521" endline="579">Risk1.AI2.getSavasBolgeIndexleri</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1AI2_1a8f74a756e143121442dabccb394c9a48" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>int Risk1.AI2.getAvrupadakiToprakSayisi</definition>
+        <argsstring>(GameData f1)</argsstring>
+        <name>getAvrupadakiToprakSayisi</name>
+        <param>
+          <type><ref refid="classRisk1_1_1GameData" kindref="compound">GameData</ref></type>
+          <declname>f1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/AI2.cs" line="589" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/AI2.cs" bodystart="588" bodyend="600"/>
+        <references refid="classRisk1_1_1AI2_1ac82f71953081c53c80a10a75a338e1a4" compoundref="AI2_8cs" startline="487" endline="519">Risk1.AI2.buBolgeAvrupadaMi</references>
+        <referencedby refid="classRisk1_1_1AI2_1a17f993750af03c7fee96e791b23a594a" compoundref="AI2_8cs" startline="616" endline="644">Risk1.AI2.divideArmies</referencedby>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="175">
+        <label>ArtificalIntelligence</label>
+        <link refid="classRisk1_1_1ArtificalIntelligence"/>
+      </node>
+      <node id="174">
+        <label>Risk1.AI2</label>
+        <link refid="classRisk1_1_1AI2"/>
+        <childnode refid="175" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="177">
+        <label>ArtificalIntelligence</label>
+        <link refid="classRisk1_1_1ArtificalIntelligence"/>
+      </node>
+      <node id="176">
+        <label>Risk1.AI2</label>
+        <link refid="classRisk1_1_1AI2"/>
+        <childnode refid="177" relation="public-inheritance">
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/AI2.cs" line="13" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/AI2.cs" bodystart="12" bodyend="699"/>
+    <listofallmembers>
+      <member refid="classRisk1_1_1AI2_1a460eff2b7693eca60687b36e5d952150" prot="public" virt="non-virtual"><scope>Risk1::AI2</scope><name>AI2</name></member>
+      <member refid="classRisk1_1_1AI2_1ad817aa3c5478ee3feb4b076280256a28" prot="public" virt="non-virtual"><scope>Risk1::AI2</scope><name>aiId</name></member>
+      <member refid="classRisk1_1_1AI2_1a1c34b17fe848156ff9c481e8686e0120" prot="public" virt="virtual"><scope>Risk1::AI2</scope><name>askerTransferiYap</name></member>
+      <member refid="classRisk1_1_1AI2_1a0d2632b73eb8571f5bb099940f5016c6" prot="public" virt="virtual"><scope>Risk1::AI2</scope><name>askerTransferiYapacakmisin</name></member>
+      <member refid="classRisk1_1_1AI2_1a9d2c428b722df2121b0e2721a536221a" prot="public" virt="non-virtual"><scope>Risk1::AI2</scope><name>avrupaBendeMi</name></member>
+      <member refid="classRisk1_1_1AI2_1aea1eec6f5984621b1d0da64bbbafd35e" prot="private" virt="non-virtual"><scope>Risk1::AI2</scope><name>avrupadaToprakVarMi</name></member>
+      <member refid="classRisk1_1_1ArtificalIntelligence_1a0b5535c9348df051106c34e057158acf" prot="public" virt="non-virtual"><scope>Risk1::AI2</scope><name>bolgelerimdenRastgeleSec</name></member>
+      <member refid="classRisk1_1_1AI2_1ac82f71953081c53c80a10a75a338e1a4" prot="private" virt="non-virtual"><scope>Risk1::AI2</scope><name>buBolgeAvrupadaMi</name></member>
+      <member refid="classRisk1_1_1AI2_1a1705ebdc50faa7063433935184ce3ffb" prot="public" virt="virtual"><scope>Risk1::AI2</scope><name>devam</name></member>
+      <member refid="classRisk1_1_1AI2_1a17f993750af03c7fee96e791b23a594a" prot="public" virt="virtual"><scope>Risk1::AI2</scope><name>divideArmies</name></member>
+      <member refid="classRisk1_1_1AI2_1a0bbc6d661607965f24ae7fa0c9b0ac91" prot="public" virt="non-virtual"><scope>Risk1::AI2</scope><name>durum3SaldiriIndexleri</name></member>
+      <member refid="classRisk1_1_1AI2_1a191e157f57f2e672d4fe482986b063cd" prot="private" virt="non-virtual"><scope>Risk1::AI2</scope><name>getAvrupadakiAskerSayisi</name></member>
+      <member refid="classRisk1_1_1AI2_1ab09da4181f97097501c9647ff65ab19d" prot="private" virt="non-virtual"><scope>Risk1::AI2</scope><name>getAvrupadakiDusmanSayisi</name></member>
+      <member refid="classRisk1_1_1AI2_1a8f74a756e143121442dabccb394c9a48" prot="private" virt="non-virtual"><scope>Risk1::AI2</scope><name>getAvrupadakiToprakSayisi</name></member>
+      <member refid="classRisk1_1_1AI2_1a425735fb0e3e089020b94e7da15c3e29" prot="public" virt="non-virtual"><scope>Risk1::AI2</scope><name>getDahaGucluDusmanSayisi</name></member>
+      <member refid="classRisk1_1_1ArtificalIntelligence_1a5c1b336994fa1ad57e7dc28d68ae85cb" prot="public" virt="non-virtual"><scope>Risk1::AI2</scope><name>getDostSayisi</name></member>
+      <member refid="classRisk1_1_1ArtificalIntelligence_1a0fda6d74869871d836b81e8b6b724b89" prot="public" virt="non-virtual"><scope>Risk1::AI2</scope><name>getEnGucluBolgemIndex</name></member>
+      <member refid="classRisk1_1_1ArtificalIntelligence_1ab05fcfb9caa1ff3d34f40fcd2b761c7c" prot="public" virt="non-virtual"><scope>Risk1::AI2</scope><name>getKomsuDusmanSayisi</name></member>
+      <member refid="classRisk1_1_1AI2_1a02cc8e742d2e49a64aa015184b9058ad" prot="public" virt="virtual"><scope>Risk1::AI2</scope><name>getName</name></member>
+      <member refid="classRisk1_1_1AI2_1a846a3c4dae11acc5e2f7c0e2fa314169" prot="public" virt="virtual"><scope>Risk1::AI2</scope><name>getSavasBolgeIndexleri</name></member>
+      <member refid="classRisk1_1_1AI2_1aab8c09b5e55af95f1217ed61bcd0bc35" prot="public" virt="virtual"><scope>Risk1::AI2</scope><name>getTerritoriesIndexToPlaceNewArmies</name></member>
+      <member refid="classRisk1_1_1AI2_1a8adb4300b085ca6c7433e6e5a1173349" prot="public" virt="virtual"><scope>Risk1::AI2</scope><name>getTerritoryToPlaceFirstArmies</name></member>
+      <member refid="classRisk1_1_1ArtificalIntelligence_1a6679f397c090e382d448286783707838" prot="public" virt="non-virtual"><scope>Risk1::AI2</scope><name>getToplamDusmanSayisi</name></member>
+      <member refid="classRisk1_1_1AI2_1a11fd45f52d1a737b2bfc78c1ae39ea23" prot="public" virt="non-virtual"><scope>Risk1::AI2</scope><name>name</name></member>
+      <member refid="classRisk1_1_1ArtificalIntelligence_1a17550d4316476426536c3a3124ba651d" prot="public" virt="non-virtual"><scope>Risk1::AI2</scope><name>rastgeleBolgeSec</name></member>
+      <member refid="classRisk1_1_1AI2_1a47c4a8aa8d5ce56382e79ff002207e94" prot="public" virt="virtual"><scope>Risk1::AI2</scope><name>requestTerritory</name></member>
+      <member refid="classRisk1_1_1AI2_1a41e5f3b61cf30c7713ad734a75e17f59" prot="public" virt="non-virtual"><scope>Risk1::AI2</scope><name>resim</name></member>
+      <member refid="classRisk1_1_1AI2_1a66b35cb7b1ac9e75697b94070d13e195" prot="public" virt="virtual"><scope>Risk1::AI2</scope><name>saldiracanMi</name></member>
+      <member refid="classRisk1_1_1AI2_1ab8f8dd448a4fc2099a130613782a7c8b" prot="public" virt="non-virtual"><scope>Risk1::AI2</scope><name>saldirmaDurumu</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

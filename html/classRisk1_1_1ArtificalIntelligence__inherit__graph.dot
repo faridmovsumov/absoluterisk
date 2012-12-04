@@ -1,0 +1,15 @@
+digraph G
+{
+  bgcolor="transparent";
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  Node1 [label="{Risk1.ArtificalIntelligence\n||+ getName()\l+ requestTerritory()\l+ getTerritoryToPlaceFirstArmies()\l+ getTerritoriesIndexToPlaceNewArmies()\l+ devam()\l+ saldiracanMi()\l+ getSavasBolgeIndexleri()\l+ divideArmies()\l+ askerTransferiYapacakmisin()\l+ askerTransferiYap()\land 5 more...}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="FreeSans"];
+  Node2 [label="{Risk1.AI\n|+ aiid\l+ name\l+ resim\l|+ AI()\l+ getName()\l+ requestTerritory()\l+ getTerritoryToPlaceFirstArmies()\l+ getTerritoriesIndexToPlaceNewArmies()\l+ devam()\l+ saldiracanMi()\l+ getSavasBolgeIndexleri()\l+ divideArmies()\l+ askerTransferiYapacakmisin()\l+ askerTransferiYap()\l}",height=0.2,width=0.4,color="black",URL="$classRisk1_1_1AI.html"];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="FreeSans"];
+  Node3 [label="{Risk1.AI2\n|+ saldirmaDurumu\l+ durum3SaldiriIndexleri\l+ aiId\l+ name\l+ resim\l|+ AI2()\l+ getName()\l+ requestTerritory()\l+ getTerritoryToPlaceFirstArmies()\l+ getTerritoriesIndexToPlaceNewArmies()\l+ avrupaBendeMi()\l+ devam()\l+ getSavasBolgeIndexleri()\l+ saldiracanMi()\l+ getDahaGucluDusmanSayisi()\l+ divideArmies()\l+ askerTransferiYapacakmisin()\l+ askerTransferiYap()\l- avrupadaToprakVarMi()\l- getAvrupadakiDusmanSayisi()\l- getAvrupadakiAskerSayisi()\l- buBolgeAvrupadaMi()\l- getAvrupadakiToprakSayisi()\l}",height=0.2,width=0.4,color="black",URL="$classRisk1_1_1AI2.html"];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="FreeSans"];
+  Node4 [label="{Risk1.AI3\n|+ aiid\l+ name\l+ resim\l|+ getName()\l+ requestTerritory()\l+ getTerritoryToPlaceFirstArmies()\l+ getTerritoriesIndexToPlaceNewArmies()\l+ devam()\l+ saldiracanMi()\l+ getDahaGucluDusmanSayisi()\l+ getSavasBolgeIndexleri()\l+ divideArmies()\l+ askerTransferiYapacakmisin()\l+ askerTransferiYap()\l}",height=0.2,width=0.4,color="black",URL="$classRisk1_1_1AI3.html"];
+  Node1 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="FreeSans"];
+  Node5 [label="{Risk1.AI4\n|+ saldirmaDurumu\l+ durum3SaldiriIndexleri\l+ aiid\l+ name\l+ resim\l|+ getName()\l+ requestTerritory()\l+ getTerritoryToPlaceFirstArmies()\l+ getTerritoriesIndexToPlaceNewArmies()\l+ devam()\l+ saldiracanMi()\l+ getSavasBolgeIndexleri()\l+ divideArmies()\l+ askerTransferiYapacakmisin()\l+ askerTransferiYap()\l- southAmericaBendeMi()\l- southAmericaSinirindaDusmanVarMi()\l- dusmanNerede()\l- southAmericadaToprakVarMi()\l- buBolgeGuneyAmerikadaMi()\l}",height=0.2,width=0.4,color="black",URL="$classRisk1_1_1AI4.html"];
+}

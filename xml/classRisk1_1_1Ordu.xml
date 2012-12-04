@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.0">
+  <compounddef id="classRisk1_1_1Ordu" kind="class" prot="public">
+    <compoundname>Risk1::Ordu</compoundname>
+      <sectiondef kind="public-attrib">
+      <memberdef kind="variable" id="classRisk1_1_1Ordu_1a6c0b78a761fe481445bd7c86c8aeb833" prot="public" static="no" mutable="no">
+        <type>int</type>
+        <definition>int Risk1.Ordu.askerSayisi</definition>
+        <argsstring></argsstring>
+        <name>askerSayisi</name>
+        <initializer>1</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Ordu.cs" line="10" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Ordu.cs" bodystart="10" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1ArmyMove_1ab4c45aeefe4c555dc1c58959a4aab987" compoundref="ArmyMove_8cs" startline="29" endline="38">Risk1.ArmyMove.ArmyMove_Load</referencedby>
+        <referencedby refid="classRisk1_1_1AI_1a8f01fa0442c84bfb0f5cf35154dc998f" compoundref="AI_8cs" startline="140" endline="173">Risk1.AI.askerTransferiYap</referencedby>
+        <referencedby refid="classRisk1_1_1AI3_1aaaa81333bd121aecae97da72a46fb61e" compoundref="AI3_8cs" startline="165" endline="198">Risk1.AI3.askerTransferiYap</referencedby>
+        <referencedby refid="classRisk1_1_1AI4_1a0ff0f07a29ff8b7f5115f4e57e1be809" compoundref="AI4_8cs" startline="478" endline="511">Risk1.AI4.askerTransferiYap</referencedby>
+        <referencedby refid="classRisk1_1_1AI2_1a1c34b17fe848156ff9c481e8686e0120" compoundref="AI2_8cs" startline="664" endline="697">Risk1.AI2.askerTransferiYap</referencedby>
+        <referencedby refid="classRisk1_1_1AI_1acb5f92d8b859d1549ba9130fab8704c5" compoundref="AI_8cs" startline="121" endline="138">Risk1.AI.askerTransferiYapacakmisin</referencedby>
+        <referencedby refid="classRisk1_1_1AI3_1a3edf7172a25539724a7a5f334e36f841" compoundref="AI3_8cs" startline="146" endline="163">Risk1.AI3.askerTransferiYapacakmisin</referencedby>
+        <referencedby refid="classRisk1_1_1AI4_1a2729ce69398d167ae07f9fc60974c7bd" compoundref="AI4_8cs" startline="459" endline="476">Risk1.AI4.askerTransferiYapacakmisin</referencedby>
+        <referencedby refid="classRisk1_1_1AI2_1a0d2632b73eb8571f5bb099940f5016c6" compoundref="AI2_8cs" startline="646" endline="662">Risk1.AI2.askerTransferiYapacakmisin</referencedby>
+        <referencedby refid="classRisk1_1_1ArmyMove_1a09e09e7458ac9052691780c5da677939" compoundref="ArmyMove_8cs" startline="44" endline="54">Risk1.ArmyMove.bolge1Azalt</referencedby>
+        <referencedby refid="classRisk1_1_1ArmyMove_1a025df8b3c0755c0bc95a5e334a6b5b17" compoundref="ArmyMove_8cs" startline="55" endline="65">Risk1.ArmyMove.bolge2Azalt</referencedby>
+        <referencedby refid="classRisk1_1_1ArmyMove_1a1a535916bcd16f58bca38e0734a7483d" compoundref="ArmyMove_8cs" startline="115" endline="138">Risk1.ArmyMove.button1_Click</referencedby>
+        <referencedby refid="classRisk1_1_1ArmyMove_1ac86702bc4b7793a2bb30e94a30f85f8c" compoundref="ArmyMove_8cs" startline="101" endline="113">Risk1.ArmyMove.button2_Click</referencedby>
+        <referencedby refid="classRisk1_1_1Form1_1a3c3980da047bdb83f50586a836375f61" compoundref="Form1_8cs" startline="265" endline="478">Risk1.Form1.changeLabel</referencedby>
+        <referencedby refid="classRisk1_1_1Form1_1a018eea4103c89dab9ab61df7f8dd2e78" compoundref="Form1_8cs" startline="581" endline="808">Risk1.Form1.changeTurn</referencedby>
+        <referencedby refid="classRisk1_1_1AI_1ad306afda141e2350ef7080967530a1e8" compoundref="AI_8cs" startline="62" endline="75">Risk1.AI.devam</referencedby>
+        <referencedby refid="classRisk1_1_1AI3_1a6b916e468796d19c79b9f2fe8d7d801f" compoundref="AI3_8cs" startline="80" endline="95">Risk1.AI3.devam</referencedby>
+        <referencedby refid="classRisk1_1_1AI4_1a3652393c6f74add7886cfab61c00b975" compoundref="AI4_8cs" startline="229" endline="360">Risk1.AI4.devam</referencedby>
+        <referencedby refid="classRisk1_1_1AI2_1a1705ebdc50faa7063433935184ce3ffb" compoundref="AI2_8cs" startline="330" endline="482">Risk1.AI2.devam</referencedby>
+        <referencedby refid="classRisk1_1_1AI2_1a191e157f57f2e672d4fe482986b063cd" compoundref="AI2_8cs" startline="316" endline="328">Risk1.AI2.getAvrupadakiAskerSayisi</referencedby>
+        <referencedby refid="classRisk1_1_1AI2_1ab09da4181f97097501c9647ff65ab19d" compoundref="AI2_8cs" startline="301" endline="313">Risk1.AI2.getAvrupadakiDusmanSayisi</referencedby>
+        <referencedby refid="classRisk1_1_1AI3_1ae7a45e1bc7d677e53cba15566ec69bcf" compoundref="AI3_8cs" startline="102" endline="113">Risk1.AI3.getDahaGucluDusmanSayisi</referencedby>
+        <referencedby refid="classRisk1_1_1AI2_1a425735fb0e3e089020b94e7da15c3e29" compoundref="AI2_8cs" startline="602" endline="613">Risk1.AI2.getDahaGucluDusmanSayisi</referencedby>
+        <referencedby refid="classRisk1_1_1ArtificalIntelligence_1a0fda6d74869871d836b81e8b6b724b89" compoundref="ArtificalIntelligence_8cs" startline="130" endline="143">Risk1.ArtificalIntelligence.getEnGucluBolgemIndex</referencedby>
+        <referencedby refid="classRisk1_1_1AI_1af68b309b9396155d898e15cb3c73198a" compoundref="AI_8cs" startline="83" endline="99">Risk1.AI.getSavasBolgeIndexleri</referencedby>
+        <referencedby refid="classRisk1_1_1AI3_1aa75d79ce12781f752dc2a3b56e345d35" compoundref="AI3_8cs" startline="116" endline="132">Risk1.AI3.getSavasBolgeIndexleri</referencedby>
+        <referencedby refid="classRisk1_1_1AI4_1a10f11e2bddf5dd1a9a18d4c08a42b9c4" compoundref="AI4_8cs" startline="389" endline="445">Risk1.AI4.getSavasBolgeIndexleri</referencedby>
+        <referencedby refid="classRisk1_1_1AI2_1a846a3c4dae11acc5e2f7c0e2fa314169" compoundref="AI2_8cs" startline="521" endline="579">Risk1.AI2.getSavasBolgeIndexleri</referencedby>
+        <referencedby refid="classRisk1_1_1Player_1a77adac00fc3d2b33decfad9cab38a505" compoundref="Player_8cs" startline="108" endline="117">Risk1.Player.getTotalNumberOfArmies</referencedby>
+        <referencedby refid="classRisk1_1_1Form1_1aefee05c8e80333207f348827ebd415df" compoundref="Form1_8cs" startline="91" endline="258">Risk1.Form1.pictureBox1_Click</referencedby>
+        <referencedby refid="classRisk1_1_1SaldiriEkrani_1a3894c6cb2e9a9e2950ee9ab4d13dfaad" compoundref="SaldiriEkrani_8cs" startline="33" endline="42">Risk1.SaldiriEkrani.SaldiriEkrani_Load</referencedby>
+        <referencedby refid="classRisk1_1_1SaldiriEkrani_1aaa88336a2cdb39fac1bf5d9959c8083e" compoundref="SaldiriEkrani_8cs" startline="175" endline="235">Risk1.SaldiriEkrani.warAttack</referencedby>
+        <referencedby refid="classRisk1_1_1SaldiriEkrani_1af22f046d5ad2382e986640b8a74686b8" compoundref="SaldiriEkrani_8cs" startline="107" endline="173">Risk1.SaldiriEkrani.warDoORDie</referencedby>
+        <referencedby refid="classRisk1_1_1SaldiriEkrani_1abf5f5722a078df9b3ad893acd93c2806" compoundref="SaldiriEkrani_8cs" startline="49" endline="104">Risk1.SaldiriEkrani.warDoORDieForAi</referencedby>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Ordu.cs" line="9" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Ordu.cs" bodystart="8" bodyend="11"/>
+    <listofallmembers>
+      <member refid="classRisk1_1_1Ordu_1a6c0b78a761fe481445bd7c86c8aeb833" prot="public" virt="non-virtual"><scope>Risk1::Ordu</scope><name>askerSayisi</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

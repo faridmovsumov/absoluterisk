@@ -1,0 +1,24 @@
+digraph G
+{
+  bgcolor="transparent";
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="Risk1.ArtificalIntelligence.getDostSayisi",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node2 [label="Risk1.AI.askerTransferiYap",height=0.2,width=0.4,color="black",URL="$classRisk1_1_1AI.html#a8f01fa0442c84bfb0f5cf35154dc998f"];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node3 [label="Risk1.AI3.askerTransferiYap",height=0.2,width=0.4,color="black",URL="$classRisk1_1_1AI3.html#aaaa81333bd121aecae97da72a46fb61e"];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node4 [label="Risk1.AI4.askerTransferiYap",height=0.2,width=0.4,color="black",URL="$classRisk1_1_1AI4.html#a0ff0f07a29ff8b7f5115f4e57e1be809"];
+  Node1 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node5 [label="Risk1.AI2.askerTransferiYap",height=0.2,width=0.4,color="black",URL="$classRisk1_1_1AI2.html#a1c34b17fe848156ff9c481e8686e0120"];
+  Node1 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node6 [label="Risk1.AI.askerTransferiYapacakmisin",height=0.2,width=0.4,color="black",URL="$classRisk1_1_1AI.html#acb5f92d8b859d1549ba9130fab8704c5"];
+  Node1 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node7 [label="Risk1.AI3.askerTransferiYapacakmisin",height=0.2,width=0.4,color="black",URL="$classRisk1_1_1AI3.html#a3edf7172a25539724a7a5f334e36f841"];
+  Node1 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node8 [label="Risk1.AI4.askerTransferiYapacakmisin",height=0.2,width=0.4,color="black",URL="$classRisk1_1_1AI4.html#a2729ce69398d167ae07f9fc60974c7bd"];
+  Node1 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node9 [label="Risk1.AI2.askerTransferiYapacakmisin",height=0.2,width=0.4,color="black",URL="$classRisk1_1_1AI2.html#a0d2632b73eb8571f5bb099940f5016c6"];
+}

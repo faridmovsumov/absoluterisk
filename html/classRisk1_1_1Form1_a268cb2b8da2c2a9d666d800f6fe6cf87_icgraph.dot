@@ -1,0 +1,12 @@
+digraph G
+{
+  bgcolor="transparent";
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="Risk1.Form1.changeDenizColor",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node2 [label="Risk1.ChangeStyle.button2_Click",height=0.2,width=0.4,color="black",URL="$classRisk1_1_1ChangeStyle.html#a713454ba512bb2a1d80d4fab8cc274cc"];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node3 [label="Risk1.Form1.Form1_Load",height=0.2,width=0.4,color="black",URL="$classRisk1_1_1Form1.html#a9445ecc6d07f9139fe1a279cc85a30f0"];
+}

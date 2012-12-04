@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.0">
+  <compounddef id="namespaceRisk1" kind="namespace">
+    <compoundname>Risk1</compoundname>
+    <innerclass refid="classRisk1_1_1About" prot="public">Risk1::About</innerclass>
+    <innerclass refid="classRisk1_1_1AI" prot="public">Risk1::AI</innerclass>
+    <innerclass refid="classRisk1_1_1AI2" prot="public">Risk1::AI2</innerclass>
+    <innerclass refid="classRisk1_1_1AI3" prot="public">Risk1::AI3</innerclass>
+    <innerclass refid="classRisk1_1_1AI4" prot="public">Risk1::AI4</innerclass>
+    <innerclass refid="classRisk1_1_1ArmyMove" prot="public">Risk1::ArmyMove</innerclass>
+    <innerclass refid="classRisk1_1_1ArtificalIntelligence" prot="public">Risk1::ArtificalIntelligence</innerclass>
+    <innerclass refid="classRisk1_1_1Bolge" prot="public">Risk1::Bolge</innerclass>
+    <innerclass refid="classRisk1_1_1ChangePlayer" prot="public">Risk1::ChangePlayer</innerclass>
+    <innerclass refid="classRisk1_1_1ChangeStyle" prot="public">Risk1::ChangeStyle</innerclass>
+    <innerclass refid="classRisk1_1_1Chart" prot="public">Risk1::Chart</innerclass>
+    <innerclass refid="classRisk1_1_1Continent" prot="public">Risk1::Continent</innerclass>
+    <innerclass refid="classRisk1_1_1DistanceCalculator" prot="public">Risk1::DistanceCalculator</innerclass>
+    <innerclass refid="classRisk1_1_1Form1" prot="public">Risk1::Form1</innerclass>
+    <innerclass refid="classRisk1_1_1Galibiyet" prot="public">Risk1::Galibiyet</innerclass>
+    <innerclass refid="classRisk1_1_1GameData" prot="public">Risk1::GameData</innerclass>
+    <innerclass refid="classRisk1_1_1Giris" prot="public">Risk1::Giris</innerclass>
+    <innerclass refid="classRisk1_1_1Graph" prot="public">Risk1::Graph</innerclass>
+    <innerclass refid="classRisk1_1_1Loading" prot="public">Risk1::Loading</innerclass>
+    <innerclass refid="classRisk1_1_1Node" prot="package">Risk1::Node</innerclass>
+    <innerclass refid="classRisk1_1_1NodeConnection" prot="package">Risk1::NodeConnection</innerclass>
+    <innerclass refid="classRisk1_1_1Nokta" prot="public">Risk1::Nokta</innerclass>
+    <innerclass refid="classRisk1_1_1Ordu" prot="public">Risk1::Ordu</innerclass>
+    <innerclass refid="classRisk1_1_1Player" prot="public">Risk1::Player</innerclass>
+    <innerclass refid="classRisk1_1_1Program" prot="public">Risk1::Program</innerclass>
+    <innerclass refid="classRisk1_1_1Rules" prot="public">Risk1::Rules</innerclass>
+    <innerclass refid="classRisk1_1_1SaldiriEkrani" prot="public">Risk1::SaldiriEkrani</innerclass>
+    <innerclass refid="classRisk1_1_1Statistics" prot="public">Risk1::Statistics</innerclass>
+    <innernamespace refid="namespaceRisk1_1_1Properties">Risk1::Properties</innernamespace>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/About.cs" line="11"/>
+  </compounddef>
+</doxygen>

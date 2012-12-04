@@ -1,0 +1,12 @@
+digraph G
+{
+  bgcolor="transparent";
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="Risk1.Player.OptimizeAskerSayisiTarihi",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node2 [label="Risk1.Chart.Chart_Load",height=0.2,width=0.4,color="black",URL="$classRisk1_1_1Chart.html#a292cfeec007997e7e62d6b52469da629"];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node3 [label="Risk1.Form1.newGameToolStripMenuItem_Click",height=0.2,width=0.4,color="black",URL="$classRisk1_1_1Form1.html#a33b0a37450d54eaf9cffa464044b6898"];
+}

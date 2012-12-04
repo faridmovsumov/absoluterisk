@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.0">
+  <compounddef id="classRisk1_1_1Continent" kind="class" prot="public">
+    <compoundname>Risk1::Continent</compoundname>
+      <sectiondef kind="public-attrib">
+      <memberdef kind="variable" id="classRisk1_1_1Continent_1a2a4b8ae45630c7b5f94f42ff179c8b6e" prot="public" static="no" mutable="no">
+        <type>String</type>
+        <definition>String Risk1.Continent.name</definition>
+        <argsstring></argsstring>
+        <name>name</name>
+        <briefdescription>
+<para>Kıtanın adının tutulduğu değişkendir. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Continent.cs" line="19" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Continent.cs" bodystart="19" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1Continent_1ac9d55bfca6c500df6cbdbf4f73ea9b7c" compoundref="Continent_8cs" startline="10" endline="14">Risk1.Continent.Continent</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1Continent_1ab4b96fa2d464996343483d368d0419b8" prot="public" static="no" mutable="no">
+        <type>List&lt; <ref refid="classRisk1_1_1Bolge" kindref="compound">Bolge</ref> &gt;</type>
+        <definition>List&lt;Bolge&gt; Risk1.Continent.bolgeler</definition>
+        <argsstring></argsstring>
+        <name>bolgeler</name>
+        <initializer>new List&lt;<ref refid="classRisk1_1_1Bolge" kindref="compound">Bolge</ref>&gt;()</initializer>
+        <briefdescription>
+<para>Kıtada bulunan bölgelerin listesinin tutulduğu değişkendir. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Continent.cs" line="23" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Continent.cs" bodystart="23" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1Form1_1a9445ecc6d07f9139fe1a279cc85a30f0" compoundref="Form1_8cs" startline="1326" endline="1877">Risk1.Form1.Form1_Load</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1Continent_1a543121f27b513cc18ddb9850c61357af" prot="public" static="no" mutable="no">
+        <type>int</type>
+        <definition>int Risk1.Continent.getirisi</definition>
+        <argsstring></argsstring>
+        <name>getirisi</name>
+        <briefdescription>
+<para>Kıtanın bütün bölgelerine de sahip olan oyuncunun her döngüde kazanacağı extra asker sayısını ifade eder. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Continent.cs" line="27" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Continent.cs" bodystart="27" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1Continent_1ac9d55bfca6c500df6cbdbf4f73ea9b7c" compoundref="Continent_8cs" startline="10" endline="14">Risk1.Continent.Continent</referencedby>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classRisk1_1_1Continent_1ac9d55bfca6c500df6cbdbf4f73ea9b7c" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Risk1.Continent.Continent</definition>
+        <argsstring>(string n, int g)</argsstring>
+        <name>Continent</name>
+        <param>
+          <type>string</type>
+          <declname>n</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>g</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Continent.cs" line="11" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Continent.cs" bodystart="10" bodyend="14"/>
+        <references refid="classRisk1_1_1Continent_1a543121f27b513cc18ddb9850c61357af" compoundref="Continent_8cs" startline="27">Risk1.Continent.getirisi</references>
+        <references refid="classRisk1_1_1Continent_1a2a4b8ae45630c7b5f94f42ff179c8b6e" compoundref="Continent_8cs" startline="19">Risk1.Continent.name</references>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Continent.cs" line="9" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Continent.cs" bodystart="8" bodyend="28"/>
+    <listofallmembers>
+      <member refid="classRisk1_1_1Continent_1ab4b96fa2d464996343483d368d0419b8" prot="public" virt="non-virtual"><scope>Risk1::Continent</scope><name>bolgeler</name></member>
+      <member refid="classRisk1_1_1Continent_1ac9d55bfca6c500df6cbdbf4f73ea9b7c" prot="public" virt="non-virtual"><scope>Risk1::Continent</scope><name>Continent</name></member>
+      <member refid="classRisk1_1_1Continent_1a543121f27b513cc18ddb9850c61357af" prot="public" virt="non-virtual"><scope>Risk1::Continent</scope><name>getirisi</name></member>
+      <member refid="classRisk1_1_1Continent_1a2a4b8ae45630c7b5f94f42ff179c8b6e" prot="public" virt="non-virtual"><scope>Risk1::Continent</scope><name>name</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

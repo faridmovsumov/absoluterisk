@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.0">
+  <compounddef id="GameData_8cs" kind="file">
+    <compoundname>GameData.cs</compoundname>
+    <innerclass refid="classRisk1_1_1GameData" prot="public">Risk1::GameData</innerclass>
+    <innernamespace refid="namespaceRisk1">Risk1</innernamespace>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal">﻿using<sp/>System;</highlight></codeline>
+<codeline lineno="2"><highlight class="normal"></highlight><highlight class="keyword">using</highlight><highlight class="normal"><sp/>System.Collections.Generic;</highlight></codeline>
+<codeline lineno="3"><highlight class="normal"></highlight><highlight class="keyword">using</highlight><highlight class="normal"><sp/>System.Linq;</highlight></codeline>
+<codeline lineno="4"><highlight class="normal"></highlight><highlight class="keyword">using</highlight><highlight class="normal"><sp/>System.Text;</highlight></codeline>
+<codeline lineno="5"><highlight class="normal"></highlight></codeline>
+<codeline lineno="6"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal">Risk1</highlight></codeline>
+<codeline lineno="7"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="8" refid="classRisk1_1_1GameData" refkind="compound"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">class<sp/></highlight><highlight class="normal"><ref refid="classRisk1_1_1GameData" kindref="compound">GameData</ref></highlight></codeline>
+<codeline lineno="9"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="13" refid="classRisk1_1_1GameData_1a655b99838f04e5ce1ef36842ad5f6108" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>List&lt;Bolge&gt;<sp/><ref refid="classRisk1_1_1GameData_1a655b99838f04e5ce1ef36842ad5f6108" kindref="member" tooltip="Oyundaki bölgelerin listesini tutar.">bolgeler</ref><sp/>=<sp/></highlight><highlight class="keyword">new</highlight><highlight class="normal"><sp/>List&lt;Bolge&gt;();</highlight></codeline>
+<codeline lineno="17" refid="classRisk1_1_1GameData_1a16905c7b10b187cf87e3230b7fed535f" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>List&lt;Player&gt;<sp/><ref refid="classRisk1_1_1GameData_1a16905c7b10b187cf87e3230b7fed535f" kindref="member" tooltip="Oyunda bulunan oyuncuların listesini tutar.">players</ref><sp/>=<sp/></highlight><highlight class="keyword">new</highlight><highlight class="normal"><sp/>List&lt;Player&gt;();</highlight></codeline>
+<codeline lineno="21" refid="classRisk1_1_1GameData_1a9a51185da03370bc1cd8e37f7115159b" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>List&lt;Continent&gt;<sp/><ref refid="classRisk1_1_1GameData_1a9a51185da03370bc1cd8e37f7115159b" kindref="member" tooltip="Oyunda bulunan kıtaların listesini tutar.">kitalar</ref><sp/>=<sp/></highlight><highlight class="keyword">new</highlight><highlight class="normal"><sp/>List&lt;Continent&gt;();</highlight></codeline>
+<codeline lineno="25" refid="classRisk1_1_1GameData_1a2a64f037ed41ca17881a1c98bab7b0e6" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/><ref refid="classRisk1_1_1GameData_1a2a64f037ed41ca17881a1c98bab7b0e6" kindref="member" tooltip="players listesindeki oyuncular arasında sıranın kimde olduğunu belirtir.">turn</ref>;</highlight></codeline>
+<codeline lineno="29" refid="classRisk1_1_1GameData_1a061197b8a441d1870843cb7ecf5722fd" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/><ref refid="classRisk1_1_1GameData_1a061197b8a441d1870843cb7ecf5722fd" kindref="member" tooltip="Ganimet bölgesinin index değerine bu değişken sayesinde erişilir.">ganimetBolgesi</ref>;</highlight></codeline>
+<codeline lineno="33" refid="classRisk1_1_1GameData_1ad30895d74cb29bfd9524762868c405e5" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/><ref refid="classRisk1_1_1GameData_1ad30895d74cb29bfd9524762868c405e5" kindref="member" tooltip="Ganimet bölgesinin oyuncuya kazandırdığı asker sayısıdır.">ganimetKazanci</ref>;</highlight></codeline>
+<codeline lineno="34"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="35"><highlight class="normal">}</highlight></codeline>
+    </programlisting>
+    <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/GameData.cs"/>
+  </compounddef>
+</doxygen>

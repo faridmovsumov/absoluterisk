@@ -1,0 +1,28 @@
+var classRisk1_1_1ChangePlayer =
+[
+    [ "ChangePlayer", "classRisk1_1_1ChangePlayer.html#aff308caa967fbf602eae6e615abe4844", null ],
+    [ "button1_Click", "classRisk1_1_1ChangePlayer.html#aefac0d9b7406093625a6c0bc1229521f", null ],
+    [ "button2_Click", "classRisk1_1_1ChangePlayer.html#ae868351b168792cba1f4ceefbcee413d", null ],
+    [ "ChangePlayer_Load", "classRisk1_1_1ChangePlayer.html#a97e6bd4cb296ce42edd93579cc3b882a", null ],
+    [ "comboBox1_SelectedIndexChanged", "classRisk1_1_1ChangePlayer.html#aa4bd51c8ff6b0ab81803041d60dc4550", null ],
+    [ "comboBox2_SelectedIndexChanged", "classRisk1_1_1ChangePlayer.html#a12f440fce086bab32d3630e081ebc457", null ],
+    [ "comboBox2Ayarla", "classRisk1_1_1ChangePlayer.html#a2b6e196cbdec013f7dea4a89e09ba1cd", null ],
+    [ "Dispose", "classRisk1_1_1ChangePlayer.html#a2fb3b0a71e6a9b0b47887b8e4d64081b", null ],
+    [ "HangiYapayZekaSecili", "classRisk1_1_1ChangePlayer.html#a1234df4ee96694bbc7966bb4a4de1269", null ],
+    [ "InitializeComponent", "classRisk1_1_1ChangePlayer.html#ad0cdaccd65a2a3aa8fd2a4d6ba49b97c", null ],
+    [ "pictureBox1_MouseEnter", "classRisk1_1_1ChangePlayer.html#a575a1c72cbd82b22afed002b434c2dbb", null ],
+    [ "button1", "classRisk1_1_1ChangePlayer.html#abe8a96fdb0f806d8bb8556c4ca159836", null ],
+    [ "button2", "classRisk1_1_1ChangePlayer.html#a061dfa44b3bdb656d85bff045e8fe6d1", null ],
+    [ "colorDialog1", "classRisk1_1_1ChangePlayer.html#a58d4208610ad45bd6dac33db0da0349a", null ],
+    [ "comboBox1", "classRisk1_1_1ChangePlayer.html#aa3e1947f3cf73ee1b32a29ad3a804a46", null ],
+    [ "comboBox2", "classRisk1_1_1ChangePlayer.html#a24a8edd9e032e21812e7c1c4f68cde5a", null ],
+    [ "components", "classRisk1_1_1ChangePlayer.html#ab09e1afc929e78933a80fde02bdfa7c5", null ],
+    [ "label1", "classRisk1_1_1ChangePlayer.html#a79284fed0df33abadd1a62b7239761d8", null ],
+    [ "label2", "classRisk1_1_1ChangePlayer.html#ac3e84e4fdae2b7a8004c147a3fc6e355", null ],
+    [ "label3", "classRisk1_1_1ChangePlayer.html#af4a8acc0efbb0b3735c04ba362456a4f", null ],
+    [ "label4", "classRisk1_1_1ChangePlayer.html#afce26caf2ce6ac3d06c393f45d079572", null ],
+    [ "pictureBox1", "classRisk1_1_1ChangePlayer.html#a8a3b98d218d49cfe9f3dcca145b875b0", null ],
+    [ "player", "classRisk1_1_1ChangePlayer.html#aa3fdf0b99b7a8a9b30da161525c3bc53", null ],
+    [ "textBox1", "classRisk1_1_1ChangePlayer.html#a1ef846ec7df5b1c39662c2028072a8cd", null ],
+    [ "toolTip1", "classRisk1_1_1ChangePlayer.html#af5b6c258034d37b204616bada83ba219", null ]
+];

@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.0">
+  <compounddef id="Galibiyet_8cs" kind="file">
+    <compoundname>Galibiyet.cs</compoundname>
+    <innerclass refid="classRisk1_1_1Galibiyet" prot="public">Risk1::Galibiyet</innerclass>
+    <innernamespace refid="namespaceRisk1">Risk1</innernamespace>
+    <innernamespace refid="namespaceSystem_1_1Media">System::Media</innernamespace>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal">﻿using<sp/>System;</highlight></codeline>
+<codeline lineno="2"><highlight class="normal"></highlight><highlight class="keyword">using</highlight><highlight class="normal"><sp/>System.Collections.Generic;</highlight></codeline>
+<codeline lineno="3"><highlight class="normal"></highlight><highlight class="keyword">using</highlight><highlight class="normal"><sp/>System.ComponentModel;</highlight></codeline>
+<codeline lineno="4"><highlight class="normal"></highlight><highlight class="keyword">using</highlight><highlight class="normal"><sp/>System.Data;</highlight></codeline>
+<codeline lineno="5"><highlight class="normal"></highlight><highlight class="keyword">using</highlight><highlight class="normal"><sp/>System.Drawing;</highlight></codeline>
+<codeline lineno="6"><highlight class="normal"></highlight><highlight class="keyword">using</highlight><highlight class="normal"><sp/>System.Linq;</highlight></codeline>
+<codeline lineno="7"><highlight class="normal"></highlight><highlight class="keyword">using</highlight><highlight class="normal"><sp/>System.Text;</highlight></codeline>
+<codeline lineno="8"><highlight class="normal"></highlight><highlight class="keyword">using</highlight><highlight class="normal"><sp/>System.Windows.Forms;</highlight></codeline>
+<codeline lineno="9"><highlight class="normal"></highlight><highlight class="keyword">using</highlight><highlight class="normal"><sp/>System.Media;</highlight></codeline>
+<codeline lineno="10"><highlight class="normal"></highlight></codeline>
+<codeline lineno="11"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal">Risk1</highlight></codeline>
+<codeline lineno="12"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="13" refid="classRisk1_1_1Galibiyet" refkind="compound"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">partial<sp/>class<sp/></highlight><highlight class="normal"><ref refid="classRisk1_1_1Galibiyet" kindref="compound">Galibiyet</ref><sp/>:<sp/>Form</highlight></codeline>
+<codeline lineno="14"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="15" refid="classRisk1_1_1Galibiyet_1a1ecbef753d19f448923991db512359da" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>String<sp/><ref refid="classRisk1_1_1Galibiyet_1a1ecbef753d19f448923991db512359da" kindref="member">winner</ref>;</highlight></codeline>
+<codeline lineno="16" refid="classRisk1_1_1Galibiyet_1ad6cd9d139537c0d21182ebec6c85b9fd" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="classRisk1_1_1Form1" kindref="compound">Form1</ref><sp/><ref refid="classRisk1_1_1Galibiyet_1ad6cd9d139537c0d21182ebec6c85b9fd" kindref="member">f1</ref>;</highlight></codeline>
+<codeline lineno="17" refid="classRisk1_1_1Galibiyet_1afb310bd3db89a7f649ffe2b21a6f5a05" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/><ref refid="classRisk1_1_1Galibiyet_1afb310bd3db89a7f649ffe2b21a6f5a05" kindref="member">Galibiyet</ref>(<ref refid="classRisk1_1_1Form1" kindref="compound">Form1</ref><sp/>form1)</highlight></codeline>
+<codeline lineno="18"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="19"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="classRisk1_1_1Galibiyet_1ab0cecec34cec81b5b8859adcba2e2ac0" kindref="member" tooltip="Required method for Designer support - do not modify the contents of this method with the code editor...">InitializeComponent</ref>();</highlight></codeline>
+<codeline lineno="20"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="classRisk1_1_1Galibiyet_1a1ecbef753d19f448923991db512359da" kindref="member">winner</ref><sp/>=<sp/>form1.<ref refid="classRisk1_1_1Form1_1acba062c38cacbc0d1488ce2f8dfe8715" kindref="member">players</ref>[0].name;</highlight></codeline>
+<codeline lineno="21"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="classRisk1_1_1Galibiyet_1ad6cd9d139537c0d21182ebec6c85b9fd" kindref="member">f1</ref><sp/>=<sp/>form1;</highlight></codeline>
+<codeline lineno="22"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="23"><highlight class="normal"></highlight></codeline>
+<codeline lineno="24" refid="classRisk1_1_1Galibiyet_1af0949e014dcb9fc08fc793968b84cf06" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">private</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="classRisk1_1_1Galibiyet_1af0949e014dcb9fc08fc793968b84cf06" kindref="member">Galibiyet_Load</ref>(</highlight><highlight class="keywordtype">object</highlight><highlight class="normal"><sp/>sender,<sp/>EventArgs<sp/>e)</highlight></codeline>
+<codeline lineno="25"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="26"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="classRisk1_1_1Galibiyet_1a1e9700a0ce38cfe1d18a1f2aac1947c6" kindref="member">label1</ref>.Text<sp/>=<sp/><ref refid="classRisk1_1_1Galibiyet_1a1ecbef753d19f448923991db512359da" kindref="member">winner</ref><sp/>+<sp/></highlight><highlight class="stringliteral">&quot;\nConquered<sp/>The<sp/>World!&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline lineno="27"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="classRisk1_1_1Galibiyet_1a1e9700a0ce38cfe1d18a1f2aac1947c6" kindref="member">label1</ref>.ForeColor<sp/>=<sp/><ref refid="classRisk1_1_1Galibiyet_1ad6cd9d139537c0d21182ebec6c85b9fd" kindref="member">f1</ref>.<ref refid="classRisk1_1_1Form1_1acba062c38cacbc0d1488ce2f8dfe8715" kindref="member">players</ref>[0].color;</highlight></codeline>
+<codeline lineno="28"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="classRisk1_1_1Galibiyet_1a09fd88eaac736ebfe05c4063df684bb1" kindref="member">richTextBox1</ref>.SelectionAlignment<sp/>=<sp/>HorizontalAlignment.Center;</highlight></codeline>
+<codeline lineno="29"><highlight class="normal"></highlight></codeline>
+<codeline lineno="30"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>String<sp/>temp<sp/>=<sp/></highlight><highlight class="stringliteral">&quot;&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline lineno="31"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>a<sp/>=<sp/>1;</highlight></codeline>
+<codeline lineno="32"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">foreach</highlight><highlight class="normal"><sp/>(String<sp/>s<sp/></highlight><highlight class="keywordflow">in</highlight><highlight class="normal"><sp/><ref refid="classRisk1_1_1Galibiyet_1ad6cd9d139537c0d21182ebec6c85b9fd" kindref="member">f1</ref>.<ref refid="classRisk1_1_1Form1_1a7c8a171c9572ccad9375b34da730ffd4" kindref="member">statistics</ref>.<ref refid="classRisk1_1_1Statistics_1a624adf691b2f3342b04d45ac6fc57160" kindref="member">siralama</ref>.Reverse&lt;String&gt;())</highlight></codeline>
+<codeline lineno="33"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="34"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>temp<sp/>+=<sp/>a.ToString()+</highlight><highlight class="stringliteral">&quot;<sp/>&quot;</highlight><highlight class="normal">+s<sp/>+<sp/></highlight><highlight class="stringliteral">&quot;\n&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline lineno="35"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>a++;</highlight></codeline>
+<codeline lineno="36"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="37"><highlight class="normal"></highlight></codeline>
+<codeline lineno="38"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="classRisk1_1_1Galibiyet_1a09fd88eaac736ebfe05c4063df684bb1" kindref="member">richTextBox1</ref>.Text<sp/>=<sp/>temp;</highlight></codeline>
+<codeline lineno="39"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//SoundPlayer<sp/>simpleSound<sp/>=<sp/>new<sp/>SoundPlayer(Properties.Resources.korsanlar);</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="40"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//simpleSound.Play();</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="41"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="42"><highlight class="normal"></highlight></codeline>
+<codeline lineno="43" refid="classRisk1_1_1Galibiyet_1a81187b54a69d8ca16a80abe01208e1ec" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">private</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="classRisk1_1_1Galibiyet_1a81187b54a69d8ca16a80abe01208e1ec" kindref="member">button1_Click</ref>(</highlight><highlight class="keywordtype">object</highlight><highlight class="normal"><sp/>sender,<sp/>EventArgs<sp/>e)</highlight></codeline>
+<codeline lineno="44"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="45"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>Application.Exit();</highlight></codeline>
+<codeline lineno="46"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="47"><highlight class="normal"></highlight></codeline>
+<codeline lineno="48" refid="classRisk1_1_1Galibiyet_1a9b9371f14f7247b56f9e7a25508569d4" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">private</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="classRisk1_1_1Galibiyet_1a9b9371f14f7247b56f9e7a25508569d4" kindref="member">button2_Click</ref>(</highlight><highlight class="keywordtype">object</highlight><highlight class="normal"><sp/>sender,<sp/>EventArgs<sp/>e)</highlight></codeline>
+<codeline lineno="49"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="50"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>Application.Restart();</highlight></codeline>
+<codeline lineno="51"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="52"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="53"><highlight class="normal">}</highlight></codeline>
+    </programlisting>
+    <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Galibiyet.cs"/>
+  </compounddef>
+</doxygen>

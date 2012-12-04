@@ -1,0 +1,16 @@
+digraph G
+{
+  bgcolor="transparent";
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="Risk1.ArtificalIntelligence.rastgeleBolgeSec",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node2 [label="Risk1.AI3.requestTerritory",height=0.2,width=0.4,color="black",URL="$classRisk1_1_1AI3.html#a27e22175380b4f007f7daa64bb7e09e7",tooltip="Bu metod bölgeler seçilirken istenen bolgenin indexini dondurmektedir."];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node3 [label="Risk1.AI4.requestTerritory",height=0.2,width=0.4,color="black",URL="$classRisk1_1_1AI4.html#a7d7db4cefd29f6a8c125e0aa8bc49e70",tooltip="Bu metod bölgeler seçilirken istenen bolgenin indexini dondurmektedir."];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node4 [label="Risk1.AI.requestTerritory",height=0.2,width=0.4,color="black",URL="$classRisk1_1_1AI.html#a5311c50312809f2bf95ba4e2f9fbe986",tooltip="Bu metod bölgeler seçilirken istenen bolgenin indexini dondurmektedir."];
+  Node1 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node5 [label="Risk1.AI2.requestTerritory",height=0.2,width=0.4,color="black",URL="$classRisk1_1_1AI2.html#a47c4a8aa8d5ce56382e79ff002207e94",tooltip="Bu metod bölgeler seçilirken istenen bolgenin indexini dondurmektedir."];
+}

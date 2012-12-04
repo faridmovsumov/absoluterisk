@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.0">
+  <compounddef id="namespaceRisk1_1_1Properties" kind="namespace">
+    <compoundname>Risk1::Properties</compoundname>
+    <innerclass refid="classRisk1_1_1Properties_1_1Resources" prot="package">Risk1::Properties::Resources</innerclass>
+    <innerclass refid="classRisk1_1_1Properties_1_1Settings" prot="package">Risk1::Properties::Settings</innerclass>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Properties/Resources.Designer.cs" line="11"/>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.0">
+  <compounddef id="classRisk1_1_1Nokta" kind="class" prot="public">
+    <compoundname>Risk1::Nokta</compoundname>
+      <sectiondef kind="public-attrib">
+      <memberdef kind="variable" id="classRisk1_1_1Nokta_1a38734cf3eb7ab8ccb572afa4d9e4ae14" prot="public" static="no" mutable="no">
+        <type>Point</type>
+        <definition>Point Risk1.Nokta.point</definition>
+        <argsstring></argsstring>
+        <name>point</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Nokta.cs" line="12" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Nokta.cs" bodystart="12" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1Form1_1a268cb2b8da2c2a9d666d800f6fe6cf87" compoundref="Form1_8cs" startline="490" endline="499">Risk1.Form1.changeDenizColor</referencedby>
+        <referencedby refid="classRisk1_1_1Form1_1a84035cc71fa2ae6ce86fc0096141c32d" compoundref="Form1_8cs" startline="501" endline="510">Risk1.Form1.changeSinirColor</referencedby>
+        <referencedby refid="classRisk1_1_1Form1_1aa203bf2cf556808029aa90fd2d6eb6e2" compoundref="Form1_8cs" startline="480" endline="488">Risk1.Form1.changeTerritoryColor</referencedby>
+        <referencedby refid="classRisk1_1_1Form1_1a9445ecc6d07f9139fe1a279cc85a30f0" compoundref="Form1_8cs" startline="1326" endline="1877">Risk1.Form1.Form1_Load</referencedby>
+        <referencedby refid="classRisk1_1_1Form1_1aefee05c8e80333207f348827ebd415df" compoundref="Form1_8cs" startline="91" endline="258">Risk1.Form1.pictureBox1_Click</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1Nokta_1ad1f0dd36332d28b8434777bb63477fc6" prot="public" static="no" mutable="no">
+        <type>Color</type>
+        <definition>Color Risk1.Nokta.renk</definition>
+        <argsstring></argsstring>
+        <name>renk</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Nokta.cs" line="13" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Nokta.cs" bodystart="13" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1Form1_1a268cb2b8da2c2a9d666d800f6fe6cf87" compoundref="Form1_8cs" startline="490" endline="499">Risk1.Form1.changeDenizColor</referencedby>
+        <referencedby refid="classRisk1_1_1Form1_1a84035cc71fa2ae6ce86fc0096141c32d" compoundref="Form1_8cs" startline="501" endline="510">Risk1.Form1.changeSinirColor</referencedby>
+        <referencedby refid="classRisk1_1_1Form1_1ada2d7021ebaa443aea50a582dda37cf2" compoundref="Form1_8cs" startline="1880" endline="1890">Risk1.Form1.Find1</referencedby>
+        <referencedby refid="classRisk1_1_1Form1_1a7bd52101e474434d9a2d7d22b89f1400" compoundref="Form1_8cs" startline="1988" endline="1998">Risk1.Form1.Find10</referencedby>
+        <referencedby refid="classRisk1_1_1Form1_1a3fa0e05ba92a087b425c3ea287dfad25" compoundref="Form1_8cs" startline="2000" endline="2010">Risk1.Form1.Find11</referencedby>
+        <referencedby refid="classRisk1_1_1Form1_1a7b63be2dcd84b2778a43f896b89cb88c" compoundref="Form1_8cs" startline="2012" endline="2022">Risk1.Form1.Find12</referencedby>
+        <referencedby refid="classRisk1_1_1Form1_1a278df2f4a345bcc28165612704b3dd09" compoundref="Form1_8cs" startline="2024" endline="2034">Risk1.Form1.Find13</referencedby>
+        <referencedby refid="classRisk1_1_1Form1_1a912fa186c2caaa10530386ef2b33b786" compoundref="Form1_8cs" startline="2036" endline="2046">Risk1.Form1.Find14</referencedby>
+        <referencedby refid="classRisk1_1_1Form1_1a19c1afb9b324f5da30c2d1a13ba617c4" compoundref="Form1_8cs" startline="2048" endline="2058">Risk1.Form1.Find15</referencedby>
+        <referencedby refid="classRisk1_1_1Form1_1a71919812f8828813665cce2425b90fd1" compoundref="Form1_8cs" startline="2060" endline="2070">Risk1.Form1.Find16</referencedby>
+        <referencedby refid="classRisk1_1_1Form1_1ab1b589a951b45ea5d4097ac8ca653077" compoundref="Form1_8cs" startline="2072" endline="2082">Risk1.Form1.Find17</referencedby>
+        <referencedby refid="classRisk1_1_1Form1_1ac20c23eb96be55609d473c06bea1161c" compoundref="Form1_8cs" startline="2084" endline="2094">Risk1.Form1.Find18</referencedby>
+        <referencedby refid="classRisk1_1_1Form1_1a02e365339ad8a3c10beb4e2c863d4ad3" compoundref="Form1_8cs" startline="2096" endline="2106">Risk1.Form1.Find19</referencedby>
+        <referencedby refid="classRisk1_1_1Form1_1ab2e93ee24d825cd705e6819ba98580c7" compoundref="Form1_8cs" startline="1892" endline="1902">Risk1.Form1.Find2</referencedby>
+        <referencedby refid="classRisk1_1_1Form1_1ac60f5366778795a615923027774f5d58" compoundref="Form1_8cs" startline="2108" endline="2118">Risk1.Form1.Find20</referencedby>
+        <referencedby refid="classRisk1_1_1Form1_1a73a749c341bcab3581d32d93cef4d762" compoundref="Form1_8cs" startline="2120" endline="2130">Risk1.Form1.Find21</referencedby>
+        <referencedby refid="classRisk1_1_1Form1_1a94bcabf0f9612581b3b52026828d7469" compoundref="Form1_8cs" startline="2132" endline="2142">Risk1.Form1.Find22</referencedby>
+        <referencedby refid="classRisk1_1_1Form1_1ac24d37e239688f886e8448c93ec41556" compoundref="Form1_8cs" startline="2144" endline="2154">Risk1.Form1.Find23</referencedby>
+        <referencedby refid="classRisk1_1_1Form1_1a5ca9680698f183d0368baf0dec45713a" compoundref="Form1_8cs" startline="2156" endline="2166">Risk1.Form1.Find24</referencedby>
+        <referencedby refid="classRisk1_1_1Form1_1a61d622674fcabad50da00276806121e2" compoundref="Form1_8cs" startline="2168" endline="2178">Risk1.Form1.Find25</referencedby>
+        <referencedby refid="classRisk1_1_1Form1_1aee2ba9b0a112a37b75b028f0aa3b7434" compoundref="Form1_8cs" startline="2180" endline="2190">Risk1.Form1.Find26</referencedby>
+        <referencedby refid="classRisk1_1_1Form1_1aeab52c80ae0a45fdb2f68d313e41edea" compoundref="Form1_8cs" startline="2192" endline="2202">Risk1.Form1.Find27</referencedby>
+        <referencedby refid="classRisk1_1_1Form1_1ae943f11146c085a6b15a2487b05606f3" compoundref="Form1_8cs" startline="2204" endline="2214">Risk1.Form1.Find28</referencedby>
+        <referencedby refid="classRisk1_1_1Form1_1a516fc857c0eb6d77e6ec1bae92f49094" compoundref="Form1_8cs" startline="2216" endline="2226">Risk1.Form1.Find29</referencedby>
+        <referencedby refid="classRisk1_1_1Form1_1a69e3bd27dd86235f723b8c680ce662ae" compoundref="Form1_8cs" startline="1904" endline="1914">Risk1.Form1.Find3</referencedby>
+        <referencedby refid="classRisk1_1_1Form1_1a6e9b3230d824a86ad7df34b0ff8352f5" compoundref="Form1_8cs" startline="2228" endline="2238">Risk1.Form1.Find30</referencedby>
+        <referencedby refid="classRisk1_1_1Form1_1a4a28549ed168a1d56ce741d5744b00c1" compoundref="Form1_8cs" startline="2240" endline="2250">Risk1.Form1.Find31</referencedby>
+        <referencedby refid="classRisk1_1_1Form1_1ae076b4138419b6273f7260ff3c864838" compoundref="Form1_8cs" startline="2252" endline="2262">Risk1.Form1.Find32</referencedby>
+        <referencedby refid="classRisk1_1_1Form1_1a0b5a9cc47ef74aa170598dcfc972e0a2" compoundref="Form1_8cs" startline="2264" endline="2274">Risk1.Form1.Find33</referencedby>
+        <referencedby refid="classRisk1_1_1Form1_1aa40d549252e52f33462b5adeb8affdaf" compoundref="Form1_8cs" startline="2276" endline="2286">Risk1.Form1.Find34</referencedby>
+        <referencedby refid="classRisk1_1_1Form1_1a6bb0426b8360d82ab820c765f10cbab2" compoundref="Form1_8cs" startline="2288" endline="2298">Risk1.Form1.Find35</referencedby>
+        <referencedby refid="classRisk1_1_1Form1_1a9362e3d18edee620ae704b0ae170995b" compoundref="Form1_8cs" startline="2300" endline="2310">Risk1.Form1.Find36</referencedby>
+        <referencedby refid="classRisk1_1_1Form1_1a362747ebf59e20d49618bccaa2616bac" compoundref="Form1_8cs" startline="2312" endline="2322">Risk1.Form1.Find37</referencedby>
+        <referencedby refid="classRisk1_1_1Form1_1a46421b2ae3c5567ae30d5c22e008ed9d" compoundref="Form1_8cs" startline="2324" endline="2334">Risk1.Form1.Find38</referencedby>
+        <referencedby refid="classRisk1_1_1Form1_1ae0e48a96bee270f4cf540f2c9fbb1502" compoundref="Form1_8cs" startline="2336" endline="2346">Risk1.Form1.Find39</referencedby>
+        <referencedby refid="classRisk1_1_1Form1_1ab10d5a35d1891f176a5cfa01d1fb27a9" compoundref="Form1_8cs" startline="1916" endline="1926">Risk1.Form1.Find4</referencedby>
+        <referencedby refid="classRisk1_1_1Form1_1a225f06e481f25e1a4bba3c2049e40214" compoundref="Form1_8cs" startline="2348" endline="2358">Risk1.Form1.Find40</referencedby>
+        <referencedby refid="classRisk1_1_1Form1_1a7b7e411d427d8dc901d9835f82572ece" compoundref="Form1_8cs" startline="2360" endline="2370">Risk1.Form1.Find41</referencedby>
+        <referencedby refid="classRisk1_1_1Form1_1afafe749e6169b9d2e811c0794f465f7d" compoundref="Form1_8cs" startline="2372" endline="2382">Risk1.Form1.Find42</referencedby>
+        <referencedby refid="classRisk1_1_1Form1_1a9b2c0579094cd859c8898e4b203165a9" compoundref="Form1_8cs" startline="1928" endline="1938">Risk1.Form1.Find5</referencedby>
+        <referencedby refid="classRisk1_1_1Form1_1aed2f04c282fadc48a2515d63081aabca" compoundref="Form1_8cs" startline="1940" endline="1950">Risk1.Form1.Find6</referencedby>
+        <referencedby refid="classRisk1_1_1Form1_1ad44c76abd70c9ba0df859947cafa3b0f" compoundref="Form1_8cs" startline="1952" endline="1962">Risk1.Form1.Find7</referencedby>
+        <referencedby refid="classRisk1_1_1Form1_1a22d021bbef6454436fc55b6fcec77b18" compoundref="Form1_8cs" startline="1964" endline="1974">Risk1.Form1.Find8</referencedby>
+        <referencedby refid="classRisk1_1_1Form1_1af0fe6890a5ad36e0915f6148e47f6680" compoundref="Form1_8cs" startline="1976" endline="1986">Risk1.Form1.Find9</referencedby>
+        <referencedby refid="classRisk1_1_1Form1_1ab8074ccd59b624a5da28313ec698a6b5" compoundref="Form1_8cs" startline="2384" endline="2394">Risk1.Form1.FindDeniz</referencedby>
+        <referencedby refid="classRisk1_1_1Form1_1acf0c8ce3c7f6ca1c3fe409f3327c415a" compoundref="Form1_8cs" startline="2396" endline="2406">Risk1.Form1.FindSinir</referencedby>
+        <referencedby refid="classRisk1_1_1Form1_1a9445ecc6d07f9139fe1a279cc85a30f0" compoundref="Form1_8cs" startline="1326" endline="1877">Risk1.Form1.Form1_Load</referencedby>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Nokta.cs" line="11" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Nokta.cs" bodystart="10" bodyend="16"/>
+    <listofallmembers>
+      <member refid="classRisk1_1_1Nokta_1a38734cf3eb7ab8ccb572afa4d9e4ae14" prot="public" virt="non-virtual"><scope>Risk1::Nokta</scope><name>point</name></member>
+      <member refid="classRisk1_1_1Nokta_1ad1f0dd36332d28b8434777bb63477fc6" prot="public" virt="non-virtual"><scope>Risk1::Nokta</scope><name>renk</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

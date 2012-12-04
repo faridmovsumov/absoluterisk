@@ -1,0 +1,16 @@
+digraph G
+{
+  bgcolor="transparent";
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="Risk1.SaldiriEkrani.warDoORDie",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node2 [label="Risk1.Form1.changeLabel",height=0.2,width=0.4,color="black",URL="$classRisk1_1_1Form1.html#a3c3980da047bdb83f50586a836375f61"];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node3 [label="Risk1.Form1.changeTerritoryColor",height=0.2,width=0.4,color="black",URL="$classRisk1_1_1Form1.html#aa203bf2cf556808029aa90fd2d6eb6e2"];
+  Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node4 [label="Risk1.Form1.refreshGame",height=0.2,width=0.4,color="black",URL="$classRisk1_1_1Form1.html#a207f03f821474907153b623b676fe7b1"];
+  Node1 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node5 [label="Risk1.SaldiriEkrani.refreshSaldiriEkrani",height=0.2,width=0.4,color="black",URL="$classRisk1_1_1SaldiriEkrani.html#a72e0cde0677e9a86f4f86dfce27dfe0c"];
+}

@@ -1,0 +1,9 @@
+digraph G
+{
+  bgcolor="transparent";
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  Node1 [label="{Risk1.About\n|- components\l- label1\l- button1\l- label2\l- label3\l- linkLabel1\l- panel1\l|+ About()\l# Dispose()\l- button1_Click()\l- linkLabel1_LinkClicked()\l- About_Load()\l- label4_Click()\l- label3_Click()\l- label2_Click()\l- label1_Click()\l- InitializeComponent()\l}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node2 -> Node1 [color="grey25",fontsize="10",style="solid",label=" label1\npanel1\nlabel2\nlabel3\nlinkLabel1\ncomponents\nbutton1" ,arrowhead="odiamond",fontname="FreeSans"];
+  Node2 [label="{System\n||}",height=0.2,width=0.4,color="grey75"];
+}

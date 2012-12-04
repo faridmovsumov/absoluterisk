@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.0">
+  <compounddef id="Bolge_8cs" kind="file">
+    <compoundname>Bolge.cs</compoundname>
+    <innerclass refid="classRisk1_1_1Bolge" prot="public">Risk1::Bolge</innerclass>
+    <innernamespace refid="namespaceRisk1">Risk1</innernamespace>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal">﻿using<sp/>System;</highlight></codeline>
+<codeline lineno="2"><highlight class="normal"></highlight><highlight class="keyword">using</highlight><highlight class="normal"><sp/>System.Collections.Generic;</highlight></codeline>
+<codeline lineno="3"><highlight class="normal"></highlight><highlight class="keyword">using</highlight><highlight class="normal"><sp/>System.Linq;</highlight></codeline>
+<codeline lineno="4"><highlight class="normal"></highlight><highlight class="keyword">using</highlight><highlight class="normal"><sp/>System.Text;</highlight></codeline>
+<codeline lineno="5"><highlight class="normal"></highlight><highlight class="keyword">using</highlight><highlight class="normal"><sp/>System.Drawing;</highlight></codeline>
+<codeline lineno="6"><highlight class="normal"></highlight></codeline>
+<codeline lineno="7"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal">Risk1</highlight></codeline>
+<codeline lineno="8"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="9" refid="classRisk1_1_1Bolge" refkind="compound"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">class<sp/></highlight><highlight class="normal"><ref refid="classRisk1_1_1Bolge" kindref="compound">Bolge</ref></highlight></codeline>
+<codeline lineno="10"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="11" refid="classRisk1_1_1Bolge_1a04807dfae0f3e8bde61bff73e7adebce" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/><ref refid="classRisk1_1_1Bolge_1ae43051b1aa27f0b136683cf3ac136810" kindref="member">Bolge</ref>(List&lt;Nokta&gt;<sp/>nok,String<sp/>ad)</highlight></codeline>
+<codeline lineno="12"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="13"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>this.<ref refid="classRisk1_1_1Bolge_1aee4aeea0a95930d26aa290fafdeb03b7" kindref="member">noktalar</ref><sp/>=<sp/>nok;</highlight></codeline>
+<codeline lineno="14"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>this.<ref refid="classRisk1_1_1Bolge_1a4c7e438f8452f95fe887892d243651bc" kindref="member" tooltip="Bölgenin ismini döndürür.">isim</ref><sp/>=<sp/>ad;</highlight></codeline>
+<codeline lineno="15"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="16"><highlight class="normal"></highlight></codeline>
+<codeline lineno="17" refid="classRisk1_1_1Bolge_1ae43051b1aa27f0b136683cf3ac136810" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/><ref refid="classRisk1_1_1Bolge_1ae43051b1aa27f0b136683cf3ac136810" kindref="member">Bolge</ref>(){}</highlight></codeline>
+<codeline lineno="18"><highlight class="normal"></highlight></codeline>
+<codeline lineno="19" refid="classRisk1_1_1Bolge_1aee4aeea0a95930d26aa290fafdeb03b7" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>List&lt;Nokta&gt;<sp/><ref refid="classRisk1_1_1Bolge_1aee4aeea0a95930d26aa290fafdeb03b7" kindref="member">noktalar</ref><sp/>=<sp/></highlight><highlight class="keyword">new</highlight><highlight class="normal"><sp/>List&lt;Nokta&gt;();</highlight></codeline>
+<codeline lineno="23" refid="classRisk1_1_1Bolge_1a4c7e438f8452f95fe887892d243651bc" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>String<sp/><ref refid="classRisk1_1_1Bolge_1a4c7e438f8452f95fe887892d243651bc" kindref="member" tooltip="Bölgenin ismini döndürür.">isim</ref>=</highlight><highlight class="stringliteral">&quot;&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline lineno="27" refid="classRisk1_1_1Bolge_1a5c75223b180f951ad397462272091e1f" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>List&lt;Bolge&gt;<sp/><ref refid="classRisk1_1_1Bolge_1a5c75223b180f951ad397462272091e1f" kindref="member" tooltip="Komşu bölgelerin listesini tutar.">komsular</ref><sp/>=<sp/></highlight><highlight class="keyword">new</highlight><highlight class="normal"><sp/>List&lt;Bolge&gt;();</highlight></codeline>
+<codeline lineno="31" refid="classRisk1_1_1Bolge_1a9867ffb069ff399eb6db8c8567391f42" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">bool</highlight><highlight class="normal"><sp/><ref refid="classRisk1_1_1Bolge_1a9867ffb069ff399eb6db8c8567391f42" kindref="member" tooltip="Bölgenin sahipli olup olmadığını belirtir.">sahipli</ref><sp/>=<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">;</highlight></codeline>
+<codeline lineno="35" refid="classRisk1_1_1Bolge_1a6ea883664353e7480178fb57e5e856d8" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/><ref refid="classRisk1_1_1Player" kindref="compound">Player</ref><sp/><ref refid="classRisk1_1_1Bolge_1a6ea883664353e7480178fb57e5e856d8" kindref="member" tooltip="Bölgenin sahibi olan oyuncuyu döndürür.">sahip</ref>;</highlight></codeline>
+<codeline lineno="39" refid="classRisk1_1_1Bolge_1a4835838ca280efd4a82724fd75b5b170" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/><ref refid="classRisk1_1_1Ordu" kindref="compound">Ordu</ref><sp/><ref refid="classRisk1_1_1Bolge_1a4835838ca280efd4a82724fd75b5b170" kindref="member" tooltip="Asker sayısına Erişmek için kullanılır.">ordu</ref>=</highlight><highlight class="keyword">new</highlight><highlight class="normal"><sp/><ref refid="classRisk1_1_1Ordu" kindref="compound">Ordu</ref>();</highlight></codeline>
+<codeline lineno="43" refid="classRisk1_1_1Bolge_1af69b11070979661a70dba8f606d28026" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/><ref refid="classRisk1_1_1Bolge_1af69b11070979661a70dba8f606d28026" kindref="member" tooltip="Bölgenin numarasını belirtir.">number</ref>;</highlight></codeline>
+<codeline lineno="47" refid="classRisk1_1_1Bolge_1a722de30a96f87b39b46bcbcde47c5327" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/><ref refid="classRisk1_1_1Bolge_1a722de30a96f87b39b46bcbcde47c5327" kindref="member" tooltip="Bölgenin listedeki yerini belirtir.">index</ref>;</highlight></codeline>
+<codeline lineno="48"><highlight class="normal"></highlight></codeline>
+<codeline lineno="49"><highlight class="normal"></highlight></codeline>
+<codeline lineno="50" refid="classRisk1_1_1Bolge_1a459883e2838b19f0a06a001a2100a48a" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>Color<sp/><ref refid="classRisk1_1_1Bolge_1a459883e2838b19f0a06a001a2100a48a" kindref="member">getColor</ref>()</highlight></codeline>
+<codeline lineno="51"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="52"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(<ref refid="classRisk1_1_1Bolge_1aee4aeea0a95930d26aa290fafdeb03b7" kindref="member">noktalar</ref>.Count<sp/>&gt;<sp/>0)</highlight></codeline>
+<codeline lineno="53"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/><ref refid="classRisk1_1_1Bolge_1aee4aeea0a95930d26aa290fafdeb03b7" kindref="member">noktalar</ref>[0].renk;</highlight></codeline>
+<codeline lineno="54"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">else</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="55"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>Color.SaddleBrown;</highlight></codeline>
+<codeline lineno="56"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="57"><highlight class="normal"></highlight></codeline>
+<codeline lineno="58"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight></codeline>
+<codeline lineno="59"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="60"><highlight class="normal">}</highlight></codeline>
+    </programlisting>
+    <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Bolge.cs"/>
+  </compounddef>
+</doxygen>

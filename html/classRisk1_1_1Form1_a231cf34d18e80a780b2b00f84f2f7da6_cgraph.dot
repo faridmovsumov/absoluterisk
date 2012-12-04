@@ -1,0 +1,26 @@
+digraph G
+{
+  bgcolor="transparent";
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="Risk1.Form1.changeStatistics",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node2 [label="Risk1.Player.getNumberOfTerritories",height=0.2,width=0.4,color="black",URL="$classRisk1_1_1Player.html#a260cff01d1750dad6988aee12fb1ab52",tooltip="Oyuncunun toplam bölge sayısını döndürür."];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node3 [label="Risk1.Player.getTotalNumberOfArmies",height=0.2,width=0.4,color="black",URL="$classRisk1_1_1Player.html#a77adac00fc3d2b33decfad9cab38a505",tooltip="Oyuncunun toplam asker sayını döndürür."];
+  Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node4 [label="Risk1.Form1.hangiKitalaraSahip",height=0.2,width=0.4,color="black",URL="$classRisk1_1_1Form1.html#aad27c5edc2ea6a98809ac2ef30758d14"];
+  Node4 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node5 [label="Risk1.Form1.kuzeyAmerika",height=0.2,width=0.4,color="black",URL="$classRisk1_1_1Form1.html#ad61ae971ebb6b290df88f422d03cd553"];
+  Node4 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node6 [label="Risk1.Form1.guneyAmerika",height=0.2,width=0.4,color="black",URL="$classRisk1_1_1Form1.html#a04a9266d5445e1dd94af4453099262eb"];
+  Node4 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node7 [label="Risk1.Form1.afrika",height=0.2,width=0.4,color="black",URL="$classRisk1_1_1Form1.html#a1cbbe42bb3ce0201c8f993f0931ecc25"];
+  Node4 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node8 [label="Risk1.Form1.asya",height=0.2,width=0.4,color="black",URL="$classRisk1_1_1Form1.html#aba2319fc88ba913295d1cbc779b68e56"];
+  Node4 -> Node9 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node9 [label="Risk1.Form1.avrupa",height=0.2,width=0.4,color="black",URL="$classRisk1_1_1Form1.html#af0d9fdf1c1a1dea7b45550bcc3d8317b"];
+  Node4 -> Node10 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node10 [label="Risk1.Form1.avustralya",height=0.2,width=0.4,color="black",URL="$classRisk1_1_1Form1.html#ad41c52a50800dd0ab3e3dd8d059a13d6"];
+}

@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.0">
+  <compounddef id="classRisk1_1_1Graph" kind="class" prot="public">
+    <compoundname>Risk1::Graph</compoundname>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="classRisk1_1_1Graph_1a9d5550fb48f665f07869629178c0b8bc" prot="package" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type>IDictionary&lt; string, Node &gt;</type>
+        <definition>IDictionary&lt;string, Node&gt; Risk1.Graph.Nodes</definition>
+        <argsstring></argsstring>
+        <name>Nodes</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Graph.cs" line="12" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Graph.cs" bodystart="12" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classRisk1_1_1Graph_1a05412f85e339b55c31abe956b0b60188" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Risk1.Graph.Graph</definition>
+        <argsstring>()</argsstring>
+        <name>Graph</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Graph.cs" line="15" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Graph.cs" bodystart="14" bodyend="17"/>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1Graph_1a31783ee607de51b082efa2a90342b4ec" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.Graph.AddNode</definition>
+        <argsstring>(string name)</argsstring>
+        <name>AddNode</name>
+        <param>
+          <type>string</type>
+          <declname>name</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Graph.cs" line="20" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Graph.cs" bodystart="19" bodyend="23"/>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1Graph_1a572fd0ccd66d838614a78496c4851748" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.Graph.AddConnection</definition>
+        <argsstring>(string fromNode, string toNode, int distance, bool twoWay)</argsstring>
+        <name>AddConnection</name>
+        <param>
+          <type>string</type>
+          <declname>fromNode</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>toNode</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>distance</declname>
+        </param>
+        <param>
+          <type>bool</type>
+          <declname>twoWay</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Graph.cs" line="26" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Graph.cs" bodystart="25" bodyend="28"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Graph.cs" line="11" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Graph.cs" bodystart="10" bodyend="29"/>
+    <listofallmembers>
+      <member refid="classRisk1_1_1Graph_1a572fd0ccd66d838614a78496c4851748" prot="public" virt="non-virtual"><scope>Risk1::Graph</scope><name>AddConnection</name></member>
+      <member refid="classRisk1_1_1Graph_1a31783ee607de51b082efa2a90342b4ec" prot="public" virt="non-virtual"><scope>Risk1::Graph</scope><name>AddNode</name></member>
+      <member refid="classRisk1_1_1Graph_1a05412f85e339b55c31abe956b0b60188" prot="public" virt="non-virtual"><scope>Risk1::Graph</scope><name>Graph</name></member>
+      <member refid="classRisk1_1_1Graph_1a9d5550fb48f665f07869629178c0b8bc" prot="package" virt="non-virtual"><scope>Risk1::Graph</scope><name>Nodes</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

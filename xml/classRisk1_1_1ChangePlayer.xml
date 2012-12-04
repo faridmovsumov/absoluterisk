@@ -1,0 +1,548 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.0">
+  <compounddef id="classRisk1_1_1ChangePlayer" kind="class" prot="public">
+    <compoundname>Risk1::ChangePlayer</compoundname>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classRisk1_1_1ChangePlayer_1aa3fdf0b99b7a8a9b30da161525c3bc53" prot="private" static="no" mutable="no">
+        <type><ref refid="classRisk1_1_1Player" kindref="compound">Player</ref></type>
+        <definition>Player Risk1.ChangePlayer.player</definition>
+        <argsstring></argsstring>
+        <name>player</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ChangePlayer.cs" line="14" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ChangePlayer.cs" bodystart="14" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1ChangePlayer_1ae868351b168792cba1f4ceefbcee413d" compoundref="ChangePlayer_8cs" startline="49" endline="76">Risk1.ChangePlayer.button2_Click</referencedby>
+        <referencedby refid="classRisk1_1_1ChangePlayer_1aff308caa967fbf602eae6e615abe4844" compoundref="ChangePlayer_8cs" startline="16" endline="20">Risk1.ChangePlayer.ChangePlayer</referencedby>
+        <referencedby refid="classRisk1_1_1ChangePlayer_1a97e6bd4cb296ce42edd93579cc3b882a" compoundref="ChangePlayer_8cs" startline="28" endline="47">Risk1.ChangePlayer.ChangePlayer_Load</referencedby>
+        <referencedby refid="classRisk1_1_1ChangePlayer_1aa4bd51c8ff6b0ab81803041d60dc4550" compoundref="ChangePlayer_8cs" startline="78" endline="95">Risk1.ChangePlayer.comboBox1_SelectedIndexChanged</referencedby>
+        <referencedby refid="classRisk1_1_1ChangePlayer_1a12f440fce086bab32d3630e081ebc457" compoundref="ChangePlayer_8cs" startline="97" endline="104">Risk1.ChangePlayer.comboBox2_SelectedIndexChanged</referencedby>
+        <referencedby refid="classRisk1_1_1ChangePlayer_1a2b6e196cbdec013f7dea4a89e09ba1cd" compoundref="ChangePlayer_8cs" startline="135" endline="157">Risk1.ChangePlayer.comboBox2Ayarla</referencedby>
+        <referencedby refid="classRisk1_1_1ChangePlayer_1a1234df4ee96694bbc7966bb4a4de1269" compoundref="ChangePlayer_8cs" startline="106" endline="133">Risk1.ChangePlayer.HangiYapayZekaSecili</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1ChangePlayer_1ab09e1afc929e78933a80fde02bdfa7c5" prot="private" static="no" mutable="no">
+        <type>System.ComponentModel.IContainer</type>
+        <definition>System.ComponentModel.IContainer Risk1.ChangePlayer.components</definition>
+        <argsstring></argsstring>
+        <name>components</name>
+        <initializer> null</initializer>
+        <briefdescription>
+<para>Required designer variable. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ChangePlayer.Designer.cs" line="8" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ChangePlayer.Designer.cs" bodystart="8" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1ChangePlayer_1a1ef846ec7df5b1c39662c2028072a8cd" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.TextBox</type>
+        <definition>System.Windows.Forms.TextBox Risk1.ChangePlayer.textBox1</definition>
+        <argsstring></argsstring>
+        <name>textBox1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ChangePlayer.Designer.cs" line="178" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ChangePlayer.Designer.cs" bodystart="178" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1ChangePlayer_1ae868351b168792cba1f4ceefbcee413d" compoundref="ChangePlayer_8cs" startline="49" endline="76">Risk1.ChangePlayer.button2_Click</referencedby>
+        <referencedby refid="classRisk1_1_1ChangePlayer_1a97e6bd4cb296ce42edd93579cc3b882a" compoundref="ChangePlayer_8cs" startline="28" endline="47">Risk1.ChangePlayer.ChangePlayer_Load</referencedby>
+        <referencedby refid="classRisk1_1_1ChangePlayer_1aa4bd51c8ff6b0ab81803041d60dc4550" compoundref="ChangePlayer_8cs" startline="78" endline="95">Risk1.ChangePlayer.comboBox1_SelectedIndexChanged</referencedby>
+        <referencedby refid="classRisk1_1_1ChangePlayer_1a12f440fce086bab32d3630e081ebc457" compoundref="ChangePlayer_8cs" startline="97" endline="104">Risk1.ChangePlayer.comboBox2_SelectedIndexChanged</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1ChangePlayer_1a79284fed0df33abadd1a62b7239761d8" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Label</type>
+        <definition>System.Windows.Forms.Label Risk1.ChangePlayer.label1</definition>
+        <argsstring></argsstring>
+        <name>label1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ChangePlayer.Designer.cs" line="179" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ChangePlayer.Designer.cs" bodystart="179" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1ChangePlayer_1ac3e84e4fdae2b7a8004c147a3fc6e355" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Label</type>
+        <definition>System.Windows.Forms.Label Risk1.ChangePlayer.label2</definition>
+        <argsstring></argsstring>
+        <name>label2</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ChangePlayer.Designer.cs" line="180" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ChangePlayer.Designer.cs" bodystart="180" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1ChangePlayer_1a58d4208610ad45bd6dac33db0da0349a" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.ColorDialog</type>
+        <definition>System.Windows.Forms.ColorDialog Risk1.ChangePlayer.colorDialog1</definition>
+        <argsstring></argsstring>
+        <name>colorDialog1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ChangePlayer.Designer.cs" line="181" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ChangePlayer.Designer.cs" bodystart="181" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1ChangePlayer_1aefac0d9b7406093625a6c0bc1229521f" compoundref="ChangePlayer_8cs" startline="22" endline="26">Risk1.ChangePlayer.button1_Click</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1ChangePlayer_1abe8a96fdb0f806d8bb8556c4ca159836" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Button</type>
+        <definition>System.Windows.Forms.Button Risk1.ChangePlayer.button1</definition>
+        <argsstring></argsstring>
+        <name>button1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ChangePlayer.Designer.cs" line="182" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ChangePlayer.Designer.cs" bodystart="182" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1ChangePlayer_1aefac0d9b7406093625a6c0bc1229521f" compoundref="ChangePlayer_8cs" startline="22" endline="26">Risk1.ChangePlayer.button1_Click</referencedby>
+        <referencedby refid="classRisk1_1_1ChangePlayer_1ae868351b168792cba1f4ceefbcee413d" compoundref="ChangePlayer_8cs" startline="49" endline="76">Risk1.ChangePlayer.button2_Click</referencedby>
+        <referencedby refid="classRisk1_1_1ChangePlayer_1a97e6bd4cb296ce42edd93579cc3b882a" compoundref="ChangePlayer_8cs" startline="28" endline="47">Risk1.ChangePlayer.ChangePlayer_Load</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1ChangePlayer_1aa3e1947f3cf73ee1b32a29ad3a804a46" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.ComboBox</type>
+        <definition>System.Windows.Forms.ComboBox Risk1.ChangePlayer.comboBox1</definition>
+        <argsstring></argsstring>
+        <name>comboBox1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ChangePlayer.Designer.cs" line="183" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ChangePlayer.Designer.cs" bodystart="183" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1ChangePlayer_1ae868351b168792cba1f4ceefbcee413d" compoundref="ChangePlayer_8cs" startline="49" endline="76">Risk1.ChangePlayer.button2_Click</referencedby>
+        <referencedby refid="classRisk1_1_1ChangePlayer_1a97e6bd4cb296ce42edd93579cc3b882a" compoundref="ChangePlayer_8cs" startline="28" endline="47">Risk1.ChangePlayer.ChangePlayer_Load</referencedby>
+        <referencedby refid="classRisk1_1_1ChangePlayer_1aa4bd51c8ff6b0ab81803041d60dc4550" compoundref="ChangePlayer_8cs" startline="78" endline="95">Risk1.ChangePlayer.comboBox1_SelectedIndexChanged</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1ChangePlayer_1af4a8acc0efbb0b3735c04ba362456a4f" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Label</type>
+        <definition>System.Windows.Forms.Label Risk1.ChangePlayer.label3</definition>
+        <argsstring></argsstring>
+        <name>label3</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ChangePlayer.Designer.cs" line="184" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ChangePlayer.Designer.cs" bodystart="184" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1ChangePlayer_1a061dfa44b3bdb656d85bff045e8fe6d1" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Button</type>
+        <definition>System.Windows.Forms.Button Risk1.ChangePlayer.button2</definition>
+        <argsstring></argsstring>
+        <name>button2</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ChangePlayer.Designer.cs" line="185" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ChangePlayer.Designer.cs" bodystart="185" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1ChangePlayer_1afce26caf2ce6ac3d06c393f45d079572" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Label</type>
+        <definition>System.Windows.Forms.Label Risk1.ChangePlayer.label4</definition>
+        <argsstring></argsstring>
+        <name>label4</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ChangePlayer.Designer.cs" line="186" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ChangePlayer.Designer.cs" bodystart="186" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1ChangePlayer_1a24a8edd9e032e21812e7c1c4f68cde5a" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.ComboBox</type>
+        <definition>System.Windows.Forms.ComboBox Risk1.ChangePlayer.comboBox2</definition>
+        <argsstring></argsstring>
+        <name>comboBox2</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ChangePlayer.Designer.cs" line="187" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ChangePlayer.Designer.cs" bodystart="187" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1ChangePlayer_1a97e6bd4cb296ce42edd93579cc3b882a" compoundref="ChangePlayer_8cs" startline="28" endline="47">Risk1.ChangePlayer.ChangePlayer_Load</referencedby>
+        <referencedby refid="classRisk1_1_1ChangePlayer_1aa4bd51c8ff6b0ab81803041d60dc4550" compoundref="ChangePlayer_8cs" startline="78" endline="95">Risk1.ChangePlayer.comboBox1_SelectedIndexChanged</referencedby>
+        <referencedby refid="classRisk1_1_1ChangePlayer_1a2b6e196cbdec013f7dea4a89e09ba1cd" compoundref="ChangePlayer_8cs" startline="135" endline="157">Risk1.ChangePlayer.comboBox2Ayarla</referencedby>
+        <referencedby refid="classRisk1_1_1ChangePlayer_1a1234df4ee96694bbc7966bb4a4de1269" compoundref="ChangePlayer_8cs" startline="106" endline="133">Risk1.ChangePlayer.HangiYapayZekaSecili</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1ChangePlayer_1a8a3b98d218d49cfe9f3dcca145b875b0" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.PictureBox</type>
+        <definition>System.Windows.Forms.PictureBox Risk1.ChangePlayer.pictureBox1</definition>
+        <argsstring></argsstring>
+        <name>pictureBox1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ChangePlayer.Designer.cs" line="188" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ChangePlayer.Designer.cs" bodystart="188" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1ChangePlayer_1a2b6e196cbdec013f7dea4a89e09ba1cd" compoundref="ChangePlayer_8cs" startline="135" endline="157">Risk1.ChangePlayer.comboBox2Ayarla</referencedby>
+        <referencedby refid="classRisk1_1_1ChangePlayer_1a1234df4ee96694bbc7966bb4a4de1269" compoundref="ChangePlayer_8cs" startline="106" endline="133">Risk1.ChangePlayer.HangiYapayZekaSecili</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1ChangePlayer_1af5b6c258034d37b204616bada83ba219" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.ToolTip</type>
+        <definition>System.Windows.Forms.ToolTip Risk1.ChangePlayer.toolTip1</definition>
+        <argsstring></argsstring>
+        <name>toolTip1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ChangePlayer.Designer.cs" line="189" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ChangePlayer.Designer.cs" bodystart="189" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classRisk1_1_1ChangePlayer_1aff308caa967fbf602eae6e615abe4844" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Risk1.ChangePlayer.ChangePlayer</definition>
+        <argsstring>(Player p)</argsstring>
+        <name>ChangePlayer</name>
+        <param>
+          <type><ref refid="classRisk1_1_1Player" kindref="compound">Player</ref></type>
+          <declname>p</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ChangePlayer.cs" line="17" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ChangePlayer.cs" bodystart="16" bodyend="20"/>
+        <references refid="classRisk1_1_1ChangePlayer_1ad0cdaccd65a2a3aa8fd2a4d6ba49b97c" compoundref="ChangePlayer_8Designer_8cs" startline="29" endline="174">Risk1.ChangePlayer.InitializeComponent</references>
+        <references refid="classRisk1_1_1ChangePlayer_1aa3fdf0b99b7a8a9b30da161525c3bc53" compoundref="ChangePlayer_8cs" startline="14">Risk1.ChangePlayer.player</references>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1ChangePlayer_1a1234df4ee96694bbc7966bb4a4de1269" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.ChangePlayer.HangiYapayZekaSecili</definition>
+        <argsstring>()</argsstring>
+        <name>HangiYapayZekaSecili</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ChangePlayer.cs" line="107" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ChangePlayer.cs" bodystart="106" bodyend="133"/>
+        <references refid="classRisk1_1_1AI3_1a18a0f2954b20b64df6faf5712430d78c" compoundref="AI3_8cs" startline="11">Risk1.AI3.aiid</references>
+        <references refid="classRisk1_1_1AI4_1a93e641a1dd23d86011467e47fe4ac539" compoundref="AI4_8cs" startline="11">Risk1.AI4.aiid</references>
+        <references refid="classRisk1_1_1AI_1a04a59f7795189056ea4bbcd547f2fced" compoundref="AI_8cs" startline="15">Risk1.AI.aiid</references>
+        <references refid="classRisk1_1_1AI2_1ad817aa3c5478ee3feb4b076280256a28" compoundref="AI2_8cs" startline="18">Risk1.AI2.aiId</references>
+        <references refid="classRisk1_1_1Player_1af8290784db991493decf1cf374ca12b9" compoundref="Player_8cs" startline="44">Risk1.Player.aiId</references>
+        <references refid="classRisk1_1_1ChangePlayer_1a24a8edd9e032e21812e7c1c4f68cde5a" compoundref="ChangePlayer_8Designer_8cs" startline="187">Risk1.ChangePlayer.comboBox2</references>
+        <references refid="classRisk1_1_1AI4_1adf1923e009fcf9a58fed2ad99fd4ce8c" compoundref="AI4_8cs" startline="12">Risk1.AI4.name</references>
+        <references refid="classRisk1_1_1AI3_1a75f7349df61539c0e7cea5292f702298" compoundref="AI3_8cs" startline="12">Risk1.AI3.name</references>
+        <references refid="classRisk1_1_1Player_1aed169b8b7afadb133a6b7750fd3f1c74" compoundref="Player_8cs" startline="14">Risk1.Player.name</references>
+        <references refid="classRisk1_1_1AI_1a2b8360c901a937b333a04a98d66138e7" compoundref="AI_8cs" startline="16">Risk1.AI.name</references>
+        <references refid="classRisk1_1_1AI2_1a11fd45f52d1a737b2bfc78c1ae39ea23" compoundref="AI2_8cs" startline="19">Risk1.AI2.name</references>
+        <references refid="classRisk1_1_1ChangePlayer_1a8a3b98d218d49cfe9f3dcca145b875b0" compoundref="ChangePlayer_8Designer_8cs" startline="188">Risk1.ChangePlayer.pictureBox1</references>
+        <references refid="classRisk1_1_1ChangePlayer_1aa3fdf0b99b7a8a9b30da161525c3bc53" compoundref="ChangePlayer_8cs" startline="14">Risk1.ChangePlayer.player</references>
+        <references refid="classRisk1_1_1AI4_1a0fa69f4586e55a63d5b30d1cdbaf5aa3" compoundref="AI4_8cs" startline="13">Risk1.AI4.resim</references>
+        <references refid="classRisk1_1_1AI3_1a4e48b24e578abc6c3a5484400c431ac9" compoundref="AI3_8cs" startline="13">Risk1.AI3.resim</references>
+        <references refid="classRisk1_1_1AI_1aa356dd41b89fa6728cadeed72f97213d" compoundref="AI_8cs" startline="17">Risk1.AI.resim</references>
+        <references refid="classRisk1_1_1AI2_1a41e5f3b61cf30c7713ad734a75e17f59" compoundref="AI2_8cs" startline="20">Risk1.AI2.resim</references>
+        <referencedby refid="classRisk1_1_1ChangePlayer_1ae868351b168792cba1f4ceefbcee413d" compoundref="ChangePlayer_8cs" startline="49" endline="76">Risk1.ChangePlayer.button2_Click</referencedby>
+        <referencedby refid="classRisk1_1_1ChangePlayer_1aa4bd51c8ff6b0ab81803041d60dc4550" compoundref="ChangePlayer_8cs" startline="78" endline="95">Risk1.ChangePlayer.comboBox1_SelectedIndexChanged</referencedby>
+        <referencedby refid="classRisk1_1_1ChangePlayer_1a12f440fce086bab32d3630e081ebc457" compoundref="ChangePlayer_8cs" startline="97" endline="104">Risk1.ChangePlayer.comboBox2_SelectedIndexChanged</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1ChangePlayer_1a2b6e196cbdec013f7dea4a89e09ba1cd" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.ChangePlayer.comboBox2Ayarla</definition>
+        <argsstring>()</argsstring>
+        <name>comboBox2Ayarla</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ChangePlayer.cs" line="136" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ChangePlayer.cs" bodystart="135" bodyend="157"/>
+        <references refid="classRisk1_1_1Player_1af8290784db991493decf1cf374ca12b9" compoundref="Player_8cs" startline="44">Risk1.Player.aiId</references>
+        <references refid="classRisk1_1_1ChangePlayer_1a24a8edd9e032e21812e7c1c4f68cde5a" compoundref="ChangePlayer_8Designer_8cs" startline="187">Risk1.ChangePlayer.comboBox2</references>
+        <references refid="classRisk1_1_1ChangePlayer_1a8a3b98d218d49cfe9f3dcca145b875b0" compoundref="ChangePlayer_8Designer_8cs" startline="188">Risk1.ChangePlayer.pictureBox1</references>
+        <references refid="classRisk1_1_1ChangePlayer_1aa3fdf0b99b7a8a9b30da161525c3bc53" compoundref="ChangePlayer_8cs" startline="14">Risk1.ChangePlayer.player</references>
+        <referencedby refid="classRisk1_1_1ChangePlayer_1a97e6bd4cb296ce42edd93579cc3b882a" compoundref="ChangePlayer_8cs" startline="28" endline="47">Risk1.ChangePlayer.ChangePlayer_Load</referencedby>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="classRisk1_1_1ChangePlayer_1aefac0d9b7406093625a6c0bc1229521f" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.ChangePlayer.button1_Click</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>button1_Click</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ChangePlayer.cs" line="23" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ChangePlayer.cs" bodystart="22" bodyend="26"/>
+        <references refid="classRisk1_1_1ChangePlayer_1abe8a96fdb0f806d8bb8556c4ca159836" compoundref="ChangePlayer_8Designer_8cs" startline="182">Risk1.ChangePlayer.button1</references>
+        <references refid="classRisk1_1_1ChangePlayer_1a58d4208610ad45bd6dac33db0da0349a" compoundref="ChangePlayer_8Designer_8cs" startline="181">Risk1.ChangePlayer.colorDialog1</references>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1ChangePlayer_1a97e6bd4cb296ce42edd93579cc3b882a" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.ChangePlayer.ChangePlayer_Load</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>ChangePlayer_Load</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ChangePlayer.cs" line="29" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ChangePlayer.cs" bodystart="28" bodyend="47"/>
+        <references refid="classRisk1_1_1ChangePlayer_1abe8a96fdb0f806d8bb8556c4ca159836" compoundref="ChangePlayer_8Designer_8cs" startline="182">Risk1.ChangePlayer.button1</references>
+        <references refid="classRisk1_1_1Player_1abd09f5bdd9126924b2f047c5bc36d271" compoundref="Player_8cs" startline="15">Risk1.Player.color</references>
+        <references refid="classRisk1_1_1ChangePlayer_1aa3e1947f3cf73ee1b32a29ad3a804a46" compoundref="ChangePlayer_8Designer_8cs" startline="183">Risk1.ChangePlayer.comboBox1</references>
+        <references refid="classRisk1_1_1ChangePlayer_1a24a8edd9e032e21812e7c1c4f68cde5a" compoundref="ChangePlayer_8Designer_8cs" startline="187">Risk1.ChangePlayer.comboBox2</references>
+        <references refid="classRisk1_1_1ChangePlayer_1a2b6e196cbdec013f7dea4a89e09ba1cd" compoundref="ChangePlayer_8cs" startline="135" endline="157">Risk1.ChangePlayer.comboBox2Ayarla</references>
+        <references refid="classRisk1_1_1Player_1ac99d1275ddd02711f7602529dc3b7391" compoundref="Player_8cs" startline="19">Risk1.Player.isHuman</references>
+        <references refid="classRisk1_1_1Player_1aed169b8b7afadb133a6b7750fd3f1c74" compoundref="Player_8cs" startline="14">Risk1.Player.name</references>
+        <references refid="classRisk1_1_1ChangePlayer_1aa3fdf0b99b7a8a9b30da161525c3bc53" compoundref="ChangePlayer_8cs" startline="14">Risk1.ChangePlayer.player</references>
+        <references refid="classRisk1_1_1ChangePlayer_1a1ef846ec7df5b1c39662c2028072a8cd" compoundref="ChangePlayer_8Designer_8cs" startline="178">Risk1.ChangePlayer.textBox1</references>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1ChangePlayer_1ae868351b168792cba1f4ceefbcee413d" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.ChangePlayer.button2_Click</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>button2_Click</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ChangePlayer.cs" line="50" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ChangePlayer.cs" bodystart="49" bodyend="76"/>
+        <references refid="classRisk1_1_1ChangePlayer_1abe8a96fdb0f806d8bb8556c4ca159836" compoundref="ChangePlayer_8Designer_8cs" startline="182">Risk1.ChangePlayer.button1</references>
+        <references refid="classRisk1_1_1Player_1abd09f5bdd9126924b2f047c5bc36d271" compoundref="Player_8cs" startline="15">Risk1.Player.color</references>
+        <references refid="classRisk1_1_1ChangePlayer_1aa3e1947f3cf73ee1b32a29ad3a804a46" compoundref="ChangePlayer_8Designer_8cs" startline="183">Risk1.ChangePlayer.comboBox1</references>
+        <references refid="classRisk1_1_1ChangePlayer_1a1234df4ee96694bbc7966bb4a4de1269" compoundref="ChangePlayer_8cs" startline="106" endline="133">Risk1.ChangePlayer.HangiYapayZekaSecili</references>
+        <references refid="classRisk1_1_1Player_1ac99d1275ddd02711f7602529dc3b7391" compoundref="Player_8cs" startline="19">Risk1.Player.isHuman</references>
+        <references refid="classRisk1_1_1Player_1aed169b8b7afadb133a6b7750fd3f1c74" compoundref="Player_8cs" startline="14">Risk1.Player.name</references>
+        <references refid="classRisk1_1_1ChangePlayer_1aa3fdf0b99b7a8a9b30da161525c3bc53" compoundref="ChangePlayer_8cs" startline="14">Risk1.ChangePlayer.player</references>
+        <references refid="classRisk1_1_1ChangePlayer_1a1ef846ec7df5b1c39662c2028072a8cd" compoundref="ChangePlayer_8Designer_8cs" startline="178">Risk1.ChangePlayer.textBox1</references>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1ChangePlayer_1aa4bd51c8ff6b0ab81803041d60dc4550" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.ChangePlayer.comboBox1_SelectedIndexChanged</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>comboBox1_SelectedIndexChanged</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ChangePlayer.cs" line="79" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ChangePlayer.cs" bodystart="78" bodyend="95"/>
+        <references refid="classRisk1_1_1ChangePlayer_1aa3e1947f3cf73ee1b32a29ad3a804a46" compoundref="ChangePlayer_8Designer_8cs" startline="183">Risk1.ChangePlayer.comboBox1</references>
+        <references refid="classRisk1_1_1ChangePlayer_1a24a8edd9e032e21812e7c1c4f68cde5a" compoundref="ChangePlayer_8Designer_8cs" startline="187">Risk1.ChangePlayer.comboBox2</references>
+        <references refid="classRisk1_1_1ChangePlayer_1a1234df4ee96694bbc7966bb4a4de1269" compoundref="ChangePlayer_8cs" startline="106" endline="133">Risk1.ChangePlayer.HangiYapayZekaSecili</references>
+        <references refid="classRisk1_1_1Player_1ac99d1275ddd02711f7602529dc3b7391" compoundref="Player_8cs" startline="19">Risk1.Player.isHuman</references>
+        <references refid="classRisk1_1_1Player_1aed169b8b7afadb133a6b7750fd3f1c74" compoundref="Player_8cs" startline="14">Risk1.Player.name</references>
+        <references refid="classRisk1_1_1ChangePlayer_1aa3fdf0b99b7a8a9b30da161525c3bc53" compoundref="ChangePlayer_8cs" startline="14">Risk1.ChangePlayer.player</references>
+        <references refid="classRisk1_1_1ChangePlayer_1a1ef846ec7df5b1c39662c2028072a8cd" compoundref="ChangePlayer_8Designer_8cs" startline="178">Risk1.ChangePlayer.textBox1</references>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1ChangePlayer_1a12f440fce086bab32d3630e081ebc457" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.ChangePlayer.comboBox2_SelectedIndexChanged</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>comboBox2_SelectedIndexChanged</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ChangePlayer.cs" line="98" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ChangePlayer.cs" bodystart="97" bodyend="104"/>
+        <references refid="classRisk1_1_1ChangePlayer_1a1234df4ee96694bbc7966bb4a4de1269" compoundref="ChangePlayer_8cs" startline="106" endline="133">Risk1.ChangePlayer.HangiYapayZekaSecili</references>
+        <references refid="classRisk1_1_1Player_1ac99d1275ddd02711f7602529dc3b7391" compoundref="Player_8cs" startline="19">Risk1.Player.isHuman</references>
+        <references refid="classRisk1_1_1Player_1aed169b8b7afadb133a6b7750fd3f1c74" compoundref="Player_8cs" startline="14">Risk1.Player.name</references>
+        <references refid="classRisk1_1_1ChangePlayer_1aa3fdf0b99b7a8a9b30da161525c3bc53" compoundref="ChangePlayer_8cs" startline="14">Risk1.ChangePlayer.player</references>
+        <references refid="classRisk1_1_1ChangePlayer_1a1ef846ec7df5b1c39662c2028072a8cd" compoundref="ChangePlayer_8Designer_8cs" startline="178">Risk1.ChangePlayer.textBox1</references>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1ChangePlayer_1a575a1c72cbd82b22afed002b434c2dbb" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.ChangePlayer.pictureBox1_MouseEnter</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>pictureBox1_MouseEnter</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ChangePlayer.cs" line="160" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ChangePlayer.cs" bodystart="159" bodyend="162"/>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1ChangePlayer_1ad0cdaccd65a2a3aa8fd2a4d6ba49b97c" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.ChangePlayer.InitializeComponent</definition>
+        <argsstring>()</argsstring>
+        <name>InitializeComponent</name>
+        <briefdescription>
+<para>Required method for Designer support - do not modify the contents of this method with the code editor. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ChangePlayer.Designer.cs" line="30" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ChangePlayer.Designer.cs" bodystart="29" bodyend="174"/>
+        <referencedby refid="classRisk1_1_1ChangePlayer_1aff308caa967fbf602eae6e615abe4844" compoundref="ChangePlayer_8cs" startline="16" endline="20">Risk1.ChangePlayer.ChangePlayer</referencedby>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="protected-func">
+      <memberdef kind="function" id="classRisk1_1_1ChangePlayer_1a2fb3b0a71e6a9b0b47887b8e4d64081b" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override void</type>
+        <definition>override void Risk1.ChangePlayer.Dispose</definition>
+        <argsstring>(bool disposing)</argsstring>
+        <name>Dispose</name>
+        <param>
+          <type>bool</type>
+          <declname>disposing</declname>
+        </param>
+        <briefdescription>
+<para>Clean up any resources being used. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>disposing</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>true if managed resources should be disposed; otherwise, false.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ChangePlayer.Designer.cs" line="15" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ChangePlayer.Designer.cs" bodystart="14" bodyend="21"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <collaborationgraph>
+      <node id="211">
+        <label>Risk1.ChangePlayer</label>
+        <link refid="classRisk1_1_1ChangePlayer"/>
+        <childnode refid="212" relation="usage">
+          <edgelabel>pictureBox1</edgelabel>
+          <edgelabel>comboBox2</edgelabel>
+          <edgelabel>label1</edgelabel>
+          <edgelabel>label2</edgelabel>
+          <edgelabel>label3</edgelabel>
+          <edgelabel>label4</edgelabel>
+          <edgelabel>toolTip1</edgelabel>
+          <edgelabel>components</edgelabel>
+          <edgelabel>button1</edgelabel>
+          <edgelabel>textBox1</edgelabel>
+          <edgelabel>...</edgelabel>
+        </childnode>
+        <childnode refid="213" relation="usage">
+          <edgelabel>player</edgelabel>
+        </childnode>
+      </node>
+      <node id="213">
+        <label>Risk1.Player</label>
+        <link refid="classRisk1_1_1Player"/>
+      </node>
+      <node id="212">
+        <label>System</label>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ChangePlayer.cs" line="13" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/ChangePlayer.cs" bodystart="12" bodyend="164"/>
+    <listofallmembers>
+      <member refid="classRisk1_1_1ChangePlayer_1abe8a96fdb0f806d8bb8556c4ca159836" prot="private" virt="non-virtual"><scope>Risk1::ChangePlayer</scope><name>button1</name></member>
+      <member refid="classRisk1_1_1ChangePlayer_1aefac0d9b7406093625a6c0bc1229521f" prot="private" virt="non-virtual"><scope>Risk1::ChangePlayer</scope><name>button1_Click</name></member>
+      <member refid="classRisk1_1_1ChangePlayer_1a061dfa44b3bdb656d85bff045e8fe6d1" prot="private" virt="non-virtual"><scope>Risk1::ChangePlayer</scope><name>button2</name></member>
+      <member refid="classRisk1_1_1ChangePlayer_1ae868351b168792cba1f4ceefbcee413d" prot="private" virt="non-virtual"><scope>Risk1::ChangePlayer</scope><name>button2_Click</name></member>
+      <member refid="classRisk1_1_1ChangePlayer_1aff308caa967fbf602eae6e615abe4844" prot="public" virt="non-virtual"><scope>Risk1::ChangePlayer</scope><name>ChangePlayer</name></member>
+      <member refid="classRisk1_1_1ChangePlayer_1a97e6bd4cb296ce42edd93579cc3b882a" prot="private" virt="non-virtual"><scope>Risk1::ChangePlayer</scope><name>ChangePlayer_Load</name></member>
+      <member refid="classRisk1_1_1ChangePlayer_1a58d4208610ad45bd6dac33db0da0349a" prot="private" virt="non-virtual"><scope>Risk1::ChangePlayer</scope><name>colorDialog1</name></member>
+      <member refid="classRisk1_1_1ChangePlayer_1aa3e1947f3cf73ee1b32a29ad3a804a46" prot="private" virt="non-virtual"><scope>Risk1::ChangePlayer</scope><name>comboBox1</name></member>
+      <member refid="classRisk1_1_1ChangePlayer_1aa4bd51c8ff6b0ab81803041d60dc4550" prot="private" virt="non-virtual"><scope>Risk1::ChangePlayer</scope><name>comboBox1_SelectedIndexChanged</name></member>
+      <member refid="classRisk1_1_1ChangePlayer_1a24a8edd9e032e21812e7c1c4f68cde5a" prot="private" virt="non-virtual"><scope>Risk1::ChangePlayer</scope><name>comboBox2</name></member>
+      <member refid="classRisk1_1_1ChangePlayer_1a12f440fce086bab32d3630e081ebc457" prot="private" virt="non-virtual"><scope>Risk1::ChangePlayer</scope><name>comboBox2_SelectedIndexChanged</name></member>
+      <member refid="classRisk1_1_1ChangePlayer_1a2b6e196cbdec013f7dea4a89e09ba1cd" prot="public" virt="non-virtual"><scope>Risk1::ChangePlayer</scope><name>comboBox2Ayarla</name></member>
+      <member refid="classRisk1_1_1ChangePlayer_1ab09e1afc929e78933a80fde02bdfa7c5" prot="private" virt="non-virtual"><scope>Risk1::ChangePlayer</scope><name>components</name></member>
+      <member refid="classRisk1_1_1ChangePlayer_1a2fb3b0a71e6a9b0b47887b8e4d64081b" prot="protected" virt="non-virtual"><scope>Risk1::ChangePlayer</scope><name>Dispose</name></member>
+      <member refid="classRisk1_1_1ChangePlayer_1a1234df4ee96694bbc7966bb4a4de1269" prot="public" virt="non-virtual"><scope>Risk1::ChangePlayer</scope><name>HangiYapayZekaSecili</name></member>
+      <member refid="classRisk1_1_1ChangePlayer_1ad0cdaccd65a2a3aa8fd2a4d6ba49b97c" prot="private" virt="non-virtual"><scope>Risk1::ChangePlayer</scope><name>InitializeComponent</name></member>
+      <member refid="classRisk1_1_1ChangePlayer_1a79284fed0df33abadd1a62b7239761d8" prot="private" virt="non-virtual"><scope>Risk1::ChangePlayer</scope><name>label1</name></member>
+      <member refid="classRisk1_1_1ChangePlayer_1ac3e84e4fdae2b7a8004c147a3fc6e355" prot="private" virt="non-virtual"><scope>Risk1::ChangePlayer</scope><name>label2</name></member>
+      <member refid="classRisk1_1_1ChangePlayer_1af4a8acc0efbb0b3735c04ba362456a4f" prot="private" virt="non-virtual"><scope>Risk1::ChangePlayer</scope><name>label3</name></member>
+      <member refid="classRisk1_1_1ChangePlayer_1afce26caf2ce6ac3d06c393f45d079572" prot="private" virt="non-virtual"><scope>Risk1::ChangePlayer</scope><name>label4</name></member>
+      <member refid="classRisk1_1_1ChangePlayer_1a8a3b98d218d49cfe9f3dcca145b875b0" prot="private" virt="non-virtual"><scope>Risk1::ChangePlayer</scope><name>pictureBox1</name></member>
+      <member refid="classRisk1_1_1ChangePlayer_1a575a1c72cbd82b22afed002b434c2dbb" prot="private" virt="non-virtual"><scope>Risk1::ChangePlayer</scope><name>pictureBox1_MouseEnter</name></member>
+      <member refid="classRisk1_1_1ChangePlayer_1aa3fdf0b99b7a8a9b30da161525c3bc53" prot="private" virt="non-virtual"><scope>Risk1::ChangePlayer</scope><name>player</name></member>
+      <member refid="classRisk1_1_1ChangePlayer_1a1ef846ec7df5b1c39662c2028072a8cd" prot="private" virt="non-virtual"><scope>Risk1::ChangePlayer</scope><name>textBox1</name></member>
+      <member refid="classRisk1_1_1ChangePlayer_1af5b6c258034d37b204616bada83ba219" prot="private" virt="non-virtual"><scope>Risk1::ChangePlayer</scope><name>toolTip1</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

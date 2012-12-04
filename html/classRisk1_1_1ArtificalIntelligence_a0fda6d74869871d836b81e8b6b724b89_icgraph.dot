@@ -1,0 +1,26 @@
+digraph G
+{
+  bgcolor="transparent";
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="Risk1.ArtificalIntelligence.getEnGucluBolgemIndex",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node2 [label="Risk1.AI4.devam",height=0.2,width=0.4,color="black",URL="$classRisk1_1_1AI4.html#a3652393c6f74add7886cfab61c00b975",tooltip="Kullanıcının hamle yapmaya devam edip etmeyeceğini belirler."];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node3 [label="Risk1.AI4.saldiracanMi",height=0.2,width=0.4,color="black",URL="$classRisk1_1_1AI4.html#a086f1670a1e9423d27c1f49991f4203b",tooltip="Bu metod kullanıcının saldırı yapmak isteyip istemediğini belirler."];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node4 [label="Risk1.AI2.devam",height=0.2,width=0.4,color="black",URL="$classRisk1_1_1AI2.html#a1705ebdc50faa7063433935184ce3ffb",tooltip="Kullanıcının hamle yapmaya devam edip etmeyeceğini belirler."];
+  Node4 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node5 [label="Risk1.AI2.saldiracanMi",height=0.2,width=0.4,color="black",URL="$classRisk1_1_1AI2.html#a66b35cb7b1ac9e75697b94070d13e195",tooltip="Bu metod kullanıcının saldırı yapmak isteyip istemediğini belirler."];
+  Node1 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node6 [label="Risk1.AI3.getTerritoriesIndexToPlaceNewArmies",height=0.2,width=0.4,color="black",URL="$classRisk1_1_1AI3.html#a1ea5576f9c4afaf2491fb1da85a26b6a",tooltip="Oyuncu her turn&#39;de kazandığı yeni askerleri hangi bolgelere yerleştireceğini bu metod sayesinde belir..."];
+  Node1 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node7 [label="Risk1.AI2.getTerritoriesIndexToPlaceNewArmies",height=0.2,width=0.4,color="black",URL="$classRisk1_1_1AI2.html#aab8c09b5e55af95f1217ed61bcd0bc35",tooltip="Oyuncu her turn&#39;de kazandığı yeni askerleri hangi bolgelere yerleştireceğini bu metod sayesinde belir..."];
+  Node1 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node8 [label="Risk1.AI4.getTerritoriesIndexToPlaceNewArmies",height=0.2,width=0.4,color="black",URL="$classRisk1_1_1AI4.html#add6f66591f2cf0863a40b9c6f214ce67",tooltip="Oyuncu her turn&#39;de kazandığı yeni askerleri hangi bolgelere yerleştireceğini bu metod sayesinde belir..."];
+  Node1 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node9 [label="Risk1.AI4.getTerritoryToPlaceFirstArmies",height=0.2,width=0.4,color="black",URL="$classRisk1_1_1AI4.html#ab1250f614189fb98632f4e763bcf4fee",tooltip="İlk başta tüm oyunculara verilen ilk askerler dağıtılırken her oyuncuya tek tek askerlerini nereye ko..."];
+  Node1 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node10 [label="Risk1.AI2.getTerritoryToPlaceFirstArmies",height=0.2,width=0.4,color="black",URL="$classRisk1_1_1AI2.html#a8adb4300b085ca6c7433e6e5a1173349",tooltip="İlk başta tüm oyunculara verilen ilk askerler dağıtılırken her oyuncuya tek tek askerlerini nereye ko..."];
+}

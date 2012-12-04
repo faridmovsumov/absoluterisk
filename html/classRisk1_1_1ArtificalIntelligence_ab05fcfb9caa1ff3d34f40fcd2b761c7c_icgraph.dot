@@ -1,0 +1,46 @@
+digraph G
+{
+  bgcolor="transparent";
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="Risk1.ArtificalIntelligence.getKomsuDusmanSayisi",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node2 [label="Risk1.AI.askerTransferiYap",height=0.2,width=0.4,color="black",URL="$classRisk1_1_1AI.html#a8f01fa0442c84bfb0f5cf35154dc998f"];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node3 [label="Risk1.AI3.askerTransferiYap",height=0.2,width=0.4,color="black",URL="$classRisk1_1_1AI3.html#aaaa81333bd121aecae97da72a46fb61e"];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node4 [label="Risk1.AI4.askerTransferiYap",height=0.2,width=0.4,color="black",URL="$classRisk1_1_1AI4.html#a0ff0f07a29ff8b7f5115f4e57e1be809"];
+  Node1 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node5 [label="Risk1.AI2.askerTransferiYap",height=0.2,width=0.4,color="black",URL="$classRisk1_1_1AI2.html#a1c34b17fe848156ff9c481e8686e0120"];
+  Node1 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node6 [label="Risk1.AI.askerTransferiYapacakmisin",height=0.2,width=0.4,color="black",URL="$classRisk1_1_1AI.html#acb5f92d8b859d1549ba9130fab8704c5"];
+  Node1 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node7 [label="Risk1.AI3.askerTransferiYapacakmisin",height=0.2,width=0.4,color="black",URL="$classRisk1_1_1AI3.html#a3edf7172a25539724a7a5f334e36f841"];
+  Node1 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node8 [label="Risk1.AI4.askerTransferiYapacakmisin",height=0.2,width=0.4,color="black",URL="$classRisk1_1_1AI4.html#a2729ce69398d167ae07f9fc60974c7bd"];
+  Node1 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node9 [label="Risk1.AI2.askerTransferiYapacakmisin",height=0.2,width=0.4,color="black",URL="$classRisk1_1_1AI2.html#a0d2632b73eb8571f5bb099940f5016c6"];
+  Node1 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node10 [label="Risk1.AI4.devam",height=0.2,width=0.4,color="black",URL="$classRisk1_1_1AI4.html#a3652393c6f74add7886cfab61c00b975",tooltip="Kullanıcının hamle yapmaya devam edip etmeyeceğini belirler."];
+  Node10 -> Node11 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node11 [label="Risk1.AI4.saldiracanMi",height=0.2,width=0.4,color="black",URL="$classRisk1_1_1AI4.html#a086f1670a1e9423d27c1f49991f4203b",tooltip="Bu metod kullanıcının saldırı yapmak isteyip istemediğini belirler."];
+  Node1 -> Node12 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node12 [label="Risk1.AI2.devam",height=0.2,width=0.4,color="black",URL="$classRisk1_1_1AI2.html#a1705ebdc50faa7063433935184ce3ffb",tooltip="Kullanıcının hamle yapmaya devam edip etmeyeceğini belirler."];
+  Node12 -> Node13 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node13 [label="Risk1.AI2.saldiracanMi",height=0.2,width=0.4,color="black",URL="$classRisk1_1_1AI2.html#a66b35cb7b1ac9e75697b94070d13e195",tooltip="Bu metod kullanıcının saldırı yapmak isteyip istemediğini belirler."];
+  Node1 -> Node14 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node14 [label="Risk1.AI4.getSavasBolgeIndexleri",height=0.2,width=0.4,color="black",URL="$classRisk1_1_1AI4.html#a10f11e2bddf5dd1a9a18d4c08a42b9c4",tooltip="Bu metod savaş yapılacak bolgelerin indexlerini belirlemek içindir."];
+  Node1 -> Node15 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node15 [label="Risk1.AI2.getSavasBolgeIndexleri",height=0.2,width=0.4,color="black",URL="$classRisk1_1_1AI2.html#a846a3c4dae11acc5e2f7c0e2fa314169",tooltip="Bu metod savaş yapılacak bolgelerin indexlerini belirlemek içindir."];
+  Node1 -> Node16 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node16 [label="Risk1.AI.getTerritoriesIndexToPlaceNewArmies",height=0.2,width=0.4,color="black",URL="$classRisk1_1_1AI.html#a2d28a99b8a1c1a84635a8b68573b86db",tooltip="Oyuncu her turn&#39;de kazandığı yeni askerleri hangi bolgelere yerleştireceğini bu metod sayesinde belir..."];
+  Node1 -> Node17 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node17 [label="Risk1.AI3.getTerritoriesIndexToPlaceNewArmies",height=0.2,width=0.4,color="black",URL="$classRisk1_1_1AI3.html#a1ea5576f9c4afaf2491fb1da85a26b6a",tooltip="Oyuncu her turn&#39;de kazandığı yeni askerleri hangi bolgelere yerleştireceğini bu metod sayesinde belir..."];
+  Node1 -> Node18 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node18 [label="Risk1.AI2.getTerritoriesIndexToPlaceNewArmies",height=0.2,width=0.4,color="black",URL="$classRisk1_1_1AI2.html#aab8c09b5e55af95f1217ed61bcd0bc35",tooltip="Oyuncu her turn&#39;de kazandığı yeni askerleri hangi bolgelere yerleştireceğini bu metod sayesinde belir..."];
+  Node1 -> Node19 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node19 [label="Risk1.AI4.getTerritoriesIndexToPlaceNewArmies",height=0.2,width=0.4,color="black",URL="$classRisk1_1_1AI4.html#add6f66591f2cf0863a40b9c6f214ce67",tooltip="Oyuncu her turn&#39;de kazandığı yeni askerleri hangi bolgelere yerleştireceğini bu metod sayesinde belir..."];
+  Node1 -> Node20 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node20 [label="Risk1.AI3.getTerritoryToPlaceFirstArmies",height=0.2,width=0.4,color="black",URL="$classRisk1_1_1AI3.html#a345f86b6a58639cd52480d939d3d0b7b",tooltip="İlk başta tüm oyunculara verilen ilk askerler dağıtılırken her oyuncuya tek tek askerlerini nereye ko..."];
+}

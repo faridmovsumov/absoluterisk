@@ -1,0 +1,22 @@
+digraph G
+{
+  bgcolor="transparent";
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="Risk1.AI4.devam",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node2 [label="Risk1.AI4.buBolgeGuneyAmerikadaMi",height=0.2,width=0.4,color="black",URL="$classRisk1_1_1AI4.html#ae2f16f8a0b8f14eef4ba8f73b4b258fb"];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node3 [label="Risk1.ArtificalIntelligence.getEnGucluBolgemIndex",height=0.2,width=0.4,color="black",URL="$classRisk1_1_1ArtificalIntelligence.html#a0fda6d74869871d836b81e8b6b724b89",tooltip="Oyuncunun sahip olduğu bölgeler içinden en fazla sayıda asker bulunduran bölgenin indexini gönderir..."];
+  Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node4 [label="Risk1.ArtificalIntelligence.getKomsuDusmanSayisi",height=0.2,width=0.4,color="black",URL="$classRisk1_1_1ArtificalIntelligence.html#ab05fcfb9caa1ff3d34f40fcd2b761c7c"];
+  Node1 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node5 [label="Risk1.ArtificalIntelligence.getToplamDusmanSayisi",height=0.2,width=0.4,color="black",URL="$classRisk1_1_1ArtificalIntelligence.html#a6679f397c090e382d448286783707838",tooltip="Oyunda bulunan bütün düşmanların toplam asker sayısını döndürür."];
+  Node5 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node6 [label="Risk1.Player.getTotalNumberOfArmies",height=0.2,width=0.4,color="black",URL="$classRisk1_1_1Player.html#a77adac00fc3d2b33decfad9cab38a505",tooltip="Oyuncunun toplam asker sayını döndürür."];
+  Node1 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node7 [label="Risk1.AI4.southAmericaBendeMi",height=0.2,width=0.4,color="black",URL="$classRisk1_1_1AI4.html#aef950f6901fd42aaa790d3d545e6e885"];
+  Node1 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node8 [label="Risk1.AI4.southAmericadaToprakVarMi",height=0.2,width=0.4,color="black",URL="$classRisk1_1_1AI4.html#ae2998fb3dc70ad732185d7c33b75264d"];
+}

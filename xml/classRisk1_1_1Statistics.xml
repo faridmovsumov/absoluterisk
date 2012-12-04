@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.0">
+  <compounddef id="classRisk1_1_1Statistics" kind="class" prot="public">
+    <compoundname>Risk1::Statistics</compoundname>
+      <sectiondef kind="public-attrib">
+      <memberdef kind="variable" id="classRisk1_1_1Statistics_1a5a72545fefe06ce1d7ede1f88b2b9b6b" prot="public" static="no" mutable="no">
+        <type>List&lt; <ref refid="classRisk1_1_1Player" kindref="compound">Player</ref> &gt;</type>
+        <definition>List&lt;Player&gt; Risk1.Statistics.players</definition>
+        <argsstring></argsstring>
+        <name>players</name>
+        <initializer> new List&lt;<ref refid="classRisk1_1_1Player" kindref="compound">Player</ref>&gt;()</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Statistics.cs" line="10" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Statistics.cs" bodystart="10" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1Form1_1a33b0a37450d54eaf9cffa464044b6898" compoundref="Form1_8cs" startline="2455" endline="2553">Risk1.Form1.newGameToolStripMenuItem_Click</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1Statistics_1a624adf691b2f3342b04d45ac6fc57160" prot="public" static="no" mutable="no">
+        <type>List&lt; String &gt;</type>
+        <definition>List&lt;String&gt; Risk1.Statistics.siralama</definition>
+        <argsstring></argsstring>
+        <name>siralama</name>
+        <initializer> new List&lt;String&gt;()</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Statistics.cs" line="11" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Statistics.cs" bodystart="11" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1Galibiyet_1af0949e014dcb9fc08fc793968b84cf06" compoundref="Galibiyet_8cs" startline="24" endline="41">Risk1.Galibiyet.Galibiyet_Load</referencedby>
+        <referencedby refid="classRisk1_1_1Form1_1a3ea2efd9ee250aab2d1efdc6368b32a7" compoundref="Form1_8cs" startline="816" endline="851">Risk1.Form1.olduMu</referencedby>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Statistics.cs" line="9" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Statistics.cs" bodystart="8" bodyend="12"/>
+    <listofallmembers>
+      <member refid="classRisk1_1_1Statistics_1a5a72545fefe06ce1d7ede1f88b2b9b6b" prot="public" virt="non-virtual"><scope>Risk1::Statistics</scope><name>players</name></member>
+      <member refid="classRisk1_1_1Statistics_1a624adf691b2f3342b04d45ac6fc57160" prot="public" virt="non-virtual"><scope>Risk1::Statistics</scope><name>siralama</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

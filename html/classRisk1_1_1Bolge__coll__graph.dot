@@ -1,0 +1,11 @@
+digraph G
+{
+  bgcolor="transparent";
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  Node1 [label="{Risk1.Bolge\n|+ noktalar\l+ isim\l+ komsular\l+ sahipli\l+ number\l+ index\l|+ Bolge()\l+ Bolge()\l+ getColor()\l}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node2 -> Node1 [color="grey25",fontsize="10",style="solid",label=" sahip" ,arrowhead="odiamond",fontname="FreeSans"];
+  Node2 [label="{Risk1.Player\n|+ name\l+ color\l+ isHuman\l+ isActive\l+ bolgeler\l+ yeniAskerler\l+ ilkAskerSayisi\l+ kitalar\l+ aiId\l+ buTurnBirisiniOldurduMu\l+ kacKisiOldurdu\l+ buTurnKacKisiOldurdu\l+ number\l+ askerSayisiTarihi\l|+ OptimizeAskerSayisiTarihi()\l+ Player()\l+ Player()\l+ getTotalNumberOfArmies()\l+ getNumberOfTerritories()\l+ getSahipOlduguKitalar()\l}",height=0.2,width=0.4,color="black",URL="$classRisk1_1_1Player.html"];
+  Node3 -> Node1 [color="grey25",fontsize="10",style="solid",label=" ordu" ,arrowhead="odiamond",fontname="FreeSans"];
+  Node3 [label="{Risk1.Ordu\n|+ askerSayisi\l|}",height=0.2,width=0.4,color="black",URL="$classRisk1_1_1Ordu.html"];
+}

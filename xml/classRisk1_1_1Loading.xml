@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.0">
+  <compounddef id="classRisk1_1_1Loading" kind="class" prot="public">
+    <compoundname>Risk1::Loading</compoundname>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classRisk1_1_1Loading_1a33d5c5a5414d2ca83711fa8d724c8700" prot="private" static="no" mutable="no">
+        <type>System.ComponentModel.IContainer</type>
+        <definition>System.ComponentModel.IContainer Risk1.Loading.components</definition>
+        <argsstring></argsstring>
+        <name>components</name>
+        <initializer> null</initializer>
+        <briefdescription>
+<para>Required designer variable. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Loading.Designer.cs" line="8" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Loading.Designer.cs" bodystart="8" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classRisk1_1_1Loading_1ac2a646340fed8e1328101dd4a4587c3e" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Risk1.Loading.Loading</definition>
+        <argsstring>()</argsstring>
+        <name>Loading</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Loading.cs" line="15" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Loading.cs" bodystart="14" bodyend="17"/>
+        <references refid="classRisk1_1_1Loading_1aad8a66cbe31bc345c7223c36baae669b" compoundref="Loading_8Designer_8cs" startline="29" endline="48">Risk1.Loading.InitializeComponent</references>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="protected-func">
+      <memberdef kind="function" id="classRisk1_1_1Loading_1abe250d0e1aa2175e158744945a6cf018" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override void</type>
+        <definition>override void Risk1.Loading.Dispose</definition>
+        <argsstring>(bool disposing)</argsstring>
+        <name>Dispose</name>
+        <param>
+          <type>bool</type>
+          <declname>disposing</declname>
+        </param>
+        <briefdescription>
+<para>Clean up any resources being used. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>disposing</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>true if managed resources should be disposed; otherwise, false.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Loading.Designer.cs" line="15" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Loading.Designer.cs" bodystart="14" bodyend="21"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="classRisk1_1_1Loading_1aad8a66cbe31bc345c7223c36baae669b" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.Loading.InitializeComponent</definition>
+        <argsstring>()</argsstring>
+        <name>InitializeComponent</name>
+        <briefdescription>
+<para>Required method for Designer support - do not modify the contents of this method with the code editor. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Loading.Designer.cs" line="30" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Loading.Designer.cs" bodystart="29" bodyend="48"/>
+        <referencedby refid="classRisk1_1_1Loading_1ac2a646340fed8e1328101dd4a4587c3e" compoundref="Loading_8cs" startline="14" endline="17">Risk1.Loading.Loading</referencedby>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <collaborationgraph>
+      <node id="293">
+        <label>System</label>
+      </node>
+      <node id="292">
+        <label>Risk1.Loading</label>
+        <link refid="classRisk1_1_1Loading"/>
+        <childnode refid="293" relation="usage">
+          <edgelabel>components</edgelabel>
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Loading.cs" line="13" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Loading.cs" bodystart="12" bodyend="18"/>
+    <listofallmembers>
+      <member refid="classRisk1_1_1Loading_1a33d5c5a5414d2ca83711fa8d724c8700" prot="private" virt="non-virtual"><scope>Risk1::Loading</scope><name>components</name></member>
+      <member refid="classRisk1_1_1Loading_1abe250d0e1aa2175e158744945a6cf018" prot="protected" virt="non-virtual"><scope>Risk1::Loading</scope><name>Dispose</name></member>
+      <member refid="classRisk1_1_1Loading_1aad8a66cbe31bc345c7223c36baae669b" prot="private" virt="non-virtual"><scope>Risk1::Loading</scope><name>InitializeComponent</name></member>
+      <member refid="classRisk1_1_1Loading_1ac2a646340fed8e1328101dd4a4587c3e" prot="public" virt="non-virtual"><scope>Risk1::Loading</scope><name>Loading</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

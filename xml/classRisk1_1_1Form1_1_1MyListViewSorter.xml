@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.0">
+  <compounddef id="classRisk1_1_1Form1_1_1MyListViewSorter" kind="class" prot="public">
+    <compoundname>Risk1::Form1::MyListViewSorter</compoundname>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classRisk1_1_1Form1_1_1MyListViewSorter_1abd4be34f83c05db730f86e240e661970" prot="private" static="no" mutable="no">
+        <type>int</type>
+        <definition>int Risk1.Form1.MyListViewSorter._columnIndex</definition>
+        <argsstring></argsstring>
+        <name>_columnIndex</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Form1.cs" line="1082" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Form1.cs" bodystart="1082" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1Form1_1_1MyListViewSorter_1a6343bc915f518bef8aa569ce7cf7cb52" compoundref="Form1_8cs" startline="1091" endline="1100">Risk1.Form1.MyListViewSorter.Compare</referencedby>
+        <referencedby refid="classRisk1_1_1Form1_1_1MyListViewSorter_1a94c7eea158b58da58f3c333490b1cf2e" compoundref="Form1_8cs" startline="1084" endline="1087">Risk1.Form1.MyListViewSorter.MyListViewSorter</referencedby>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classRisk1_1_1Form1_1_1MyListViewSorter_1a94c7eea158b58da58f3c333490b1cf2e" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Risk1.Form1.MyListViewSorter.MyListViewSorter</definition>
+        <argsstring>(int columnIndex)</argsstring>
+        <name>MyListViewSorter</name>
+        <param>
+          <type>int</type>
+          <declname>columnIndex</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Form1.cs" line="1085" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Form1.cs" bodystart="1084" bodyend="1087"/>
+        <references refid="classRisk1_1_1Form1_1_1MyListViewSorter_1abd4be34f83c05db730f86e240e661970" compoundref="Form1_8cs" startline="1082">Risk1.Form1.MyListViewSorter._columnIndex</references>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1Form1_1_1MyListViewSorter_1a6343bc915f518bef8aa569ce7cf7cb52" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>int Risk1.Form1.MyListViewSorter.Compare</definition>
+        <argsstring>(object x, object y)</argsstring>
+        <name>Compare</name>
+        <param>
+          <type>object</type>
+          <declname>x</declname>
+        </param>
+        <param>
+          <type>object</type>
+          <declname>y</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Form1.cs" line="1092" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Form1.cs" bodystart="1091" bodyend="1100"/>
+        <references refid="classRisk1_1_1Form1_1_1MyListViewSorter_1abd4be34f83c05db730f86e240e661970" compoundref="Form1_8cs" startline="1082">Risk1.Form1.MyListViewSorter._columnIndex</references>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Form1.cs" line="1081" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Form1.cs" bodystart="1080" bodyend="1103"/>
+    <listofallmembers>
+      <member refid="classRisk1_1_1Form1_1_1MyListViewSorter_1abd4be34f83c05db730f86e240e661970" prot="private" virt="non-virtual"><scope>Risk1::Form1::MyListViewSorter</scope><name>_columnIndex</name></member>
+      <member refid="classRisk1_1_1Form1_1_1MyListViewSorter_1a6343bc915f518bef8aa569ce7cf7cb52" prot="public" virt="non-virtual"><scope>Risk1::Form1::MyListViewSorter</scope><name>Compare</name></member>
+      <member refid="classRisk1_1_1Form1_1_1MyListViewSorter_1a94c7eea158b58da58f3c333490b1cf2e" prot="public" virt="non-virtual"><scope>Risk1::Form1::MyListViewSorter</scope><name>MyListViewSorter</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

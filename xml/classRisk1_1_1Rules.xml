@@ -1,0 +1,445 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.0">
+  <compounddef id="classRisk1_1_1Rules" kind="class" prot="public">
+    <compoundname>Risk1::Rules</compoundname>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classRisk1_1_1Rules_1ad58fd4773a794cff4c042694750a66b4" prot="private" static="no" mutable="no">
+        <type><ref refid="classRisk1_1_1Form1" kindref="compound">Form1</ref></type>
+        <definition>Form1 Risk1.Rules.f1</definition>
+        <argsstring></argsstring>
+        <name>f1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Rules.cs" line="14" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Rules.cs" bodystart="14" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1Rules_1a5271effd90e30f2c55ec0c13af041c11" compoundref="Rules_8cs" startline="31" endline="59">Risk1.Rules.button1_Click</referencedby>
+        <referencedby refid="classRisk1_1_1Rules_1a10b0fbd4e7404a2108f079bb234b3f81" compoundref="Rules_8cs" startline="16" endline="21">Risk1.Rules.Rules</referencedby>
+        <referencedby refid="classRisk1_1_1Rules_1a533722cdf63463f3e6349d3f4797ec51" compoundref="Rules_8cs" startline="23" endline="29">Risk1.Rules.Rules_Load</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1Rules_1a87a00a1879948ef62546d31b5bb4f000" prot="private" static="no" mutable="no">
+        <type>int</type>
+        <definition>int Risk1.Rules.temp</definition>
+        <argsstring></argsstring>
+        <name>temp</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Rules.cs" line="15" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Rules.cs" bodystart="15" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1Rules_1a10b0fbd4e7404a2108f079bb234b3f81" compoundref="Rules_8cs" startline="16" endline="21">Risk1.Rules.Rules</referencedby>
+        <referencedby refid="classRisk1_1_1Rules_1a533722cdf63463f3e6349d3f4797ec51" compoundref="Rules_8cs" startline="23" endline="29">Risk1.Rules.Rules_Load</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1Rules_1a96f04722cf43f6596a31ee81459f5aaa" prot="private" static="no" mutable="no">
+        <type>System.ComponentModel.IContainer</type>
+        <definition>System.ComponentModel.IContainer Risk1.Rules.components</definition>
+        <argsstring></argsstring>
+        <name>components</name>
+        <initializer> null</initializer>
+        <briefdescription>
+<para>Required designer variable. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Rules.Designer.cs" line="8" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Rules.Designer.cs" bodystart="8" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1Rules_1a26face3dcc5d97870aa378c710487b0b" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Label</type>
+        <definition>System.Windows.Forms.Label Risk1.Rules.label1</definition>
+        <argsstring></argsstring>
+        <name>label1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Rules.Designer.cs" line="143" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Rules.Designer.cs" bodystart="143" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1Rules_1a99c82b7a1124e5dd55b82ae690bb83c7" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.TextBox</type>
+        <definition>System.Windows.Forms.TextBox Risk1.Rules.textBox1</definition>
+        <argsstring></argsstring>
+        <name>textBox1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Rules.Designer.cs" line="144" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Rules.Designer.cs" bodystart="144" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1Rules_1a5271effd90e30f2c55ec0c13af041c11" compoundref="Rules_8cs" startline="31" endline="59">Risk1.Rules.button1_Click</referencedby>
+        <referencedby refid="classRisk1_1_1Rules_1a533722cdf63463f3e6349d3f4797ec51" compoundref="Rules_8cs" startline="23" endline="29">Risk1.Rules.Rules_Load</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1Rules_1a898f85dc62cf14306669095cf47d5f89" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Button</type>
+        <definition>System.Windows.Forms.Button Risk1.Rules.button1</definition>
+        <argsstring></argsstring>
+        <name>button1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Rules.Designer.cs" line="145" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Rules.Designer.cs" bodystart="145" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1Rules_1a16d9b861731fd7434e24814938629038" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Button</type>
+        <definition>System.Windows.Forms.Button Risk1.Rules.button2</definition>
+        <argsstring></argsstring>
+        <name>button2</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Rules.Designer.cs" line="146" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Rules.Designer.cs" bodystart="146" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1Rules_1a0598106d5d12d23bb8657671b817aa5d" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.CheckBox</type>
+        <definition>System.Windows.Forms.CheckBox Risk1.Rules.checkBox1</definition>
+        <argsstring></argsstring>
+        <name>checkBox1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Rules.Designer.cs" line="147" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Rules.Designer.cs" bodystart="147" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1Rules_1a5271effd90e30f2c55ec0c13af041c11" compoundref="Rules_8cs" startline="31" endline="59">Risk1.Rules.button1_Click</referencedby>
+        <referencedby refid="classRisk1_1_1Rules_1a533722cdf63463f3e6349d3f4797ec51" compoundref="Rules_8cs" startline="23" endline="29">Risk1.Rules.Rules_Load</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1Rules_1a1ab9b6cad6ea4f852343169baea8ab36" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Panel</type>
+        <definition>System.Windows.Forms.Panel Risk1.Rules.panel1</definition>
+        <argsstring></argsstring>
+        <name>panel1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Rules.Designer.cs" line="148" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Rules.Designer.cs" bodystart="148" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1Rules_1aba3661bd539af3dcac6c0b8ab4a96814" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Label</type>
+        <definition>System.Windows.Forms.Label Risk1.Rules.label2</definition>
+        <argsstring></argsstring>
+        <name>label2</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Rules.Designer.cs" line="149" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Rules.Designer.cs" bodystart="149" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1Rules_1a11d9917e00b57a53fd2564f69b1770b5" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.TextBox</type>
+        <definition>System.Windows.Forms.TextBox Risk1.Rules.textBox2</definition>
+        <argsstring></argsstring>
+        <name>textBox2</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Rules.Designer.cs" line="150" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Rules.Designer.cs" bodystart="150" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1Rules_1a5271effd90e30f2c55ec0c13af041c11" compoundref="Rules_8cs" startline="31" endline="59">Risk1.Rules.button1_Click</referencedby>
+        <referencedby refid="classRisk1_1_1Rules_1a533722cdf63463f3e6349d3f4797ec51" compoundref="Rules_8cs" startline="23" endline="29">Risk1.Rules.Rules_Load</referencedby>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classRisk1_1_1Rules_1a10b0fbd4e7404a2108f079bb234b3f81" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Risk1.Rules.Rules</definition>
+        <argsstring>(Form1 form1)</argsstring>
+        <name>Rules</name>
+        <param>
+          <type><ref refid="classRisk1_1_1Form1" kindref="compound">Form1</ref></type>
+          <declname>form1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Rules.cs" line="17" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Rules.cs" bodystart="16" bodyend="21"/>
+        <references refid="classRisk1_1_1Rules_1ad58fd4773a794cff4c042694750a66b4" compoundref="Rules_8cs" startline="14">Risk1.Rules.f1</references>
+        <references refid="classRisk1_1_1Form1_1a2bcbd7157e1c75329c5c2d033da4268b" compoundref="Form1_8cs" startline="30">Risk1.Form1.ilkAskerSayisi</references>
+        <references refid="classRisk1_1_1Rules_1abf3289631a618a63671225c2c434d060" compoundref="Rules_8Designer_8cs" startline="29" endline="139">Risk1.Rules.InitializeComponent</references>
+        <references refid="classRisk1_1_1Rules_1a87a00a1879948ef62546d31b5bb4f000" compoundref="Rules_8cs" startline="15">Risk1.Rules.temp</references>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="classRisk1_1_1Rules_1a533722cdf63463f3e6349d3f4797ec51" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.Rules.Rules_Load</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>Rules_Load</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Rules.cs" line="24" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Rules.cs" bodystart="23" bodyend="29"/>
+        <references refid="classRisk1_1_1Rules_1a0598106d5d12d23bb8657671b817aa5d" compoundref="Rules_8Designer_8cs" startline="147">Risk1.Rules.checkBox1</references>
+        <references refid="classRisk1_1_1Rules_1ad58fd4773a794cff4c042694750a66b4" compoundref="Rules_8cs" startline="14">Risk1.Rules.f1</references>
+        <references refid="classRisk1_1_1Form1_1aa11b16327463cd8767d2b0d0463b6484" compoundref="Form1_8cs" startline="34">Risk1.Form1.ganimetKazanci</references>
+        <references refid="classRisk1_1_1Form1_1a2d64f2ea6f80d0fcf6e3fbcd77a93d1c" compoundref="Form1_8cs" startline="32">Risk1.Form1.isRandom</references>
+        <references refid="classRisk1_1_1Rules_1a87a00a1879948ef62546d31b5bb4f000" compoundref="Rules_8cs" startline="15">Risk1.Rules.temp</references>
+        <references refid="classRisk1_1_1Rules_1a99c82b7a1124e5dd55b82ae690bb83c7" compoundref="Rules_8Designer_8cs" startline="144">Risk1.Rules.textBox1</references>
+        <references refid="classRisk1_1_1Rules_1a11d9917e00b57a53fd2564f69b1770b5" compoundref="Rules_8Designer_8cs" startline="150">Risk1.Rules.textBox2</references>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1Rules_1a5271effd90e30f2c55ec0c13af041c11" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.Rules.button1_Click</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>button1_Click</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Rules.cs" line="32" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Rules.cs" bodystart="31" bodyend="59"/>
+        <references refid="classRisk1_1_1Rules_1a0598106d5d12d23bb8657671b817aa5d" compoundref="Rules_8Designer_8cs" startline="147">Risk1.Rules.checkBox1</references>
+        <references refid="classRisk1_1_1Rules_1ad58fd4773a794cff4c042694750a66b4" compoundref="Rules_8cs" startline="14">Risk1.Rules.f1</references>
+        <references refid="classRisk1_1_1Form1_1aa11b16327463cd8767d2b0d0463b6484" compoundref="Form1_8cs" startline="34">Risk1.Form1.ganimetKazanci</references>
+        <references refid="classRisk1_1_1Form1_1a2bcbd7157e1c75329c5c2d033da4268b" compoundref="Form1_8cs" startline="30">Risk1.Form1.ilkAskerSayisi</references>
+        <references refid="classRisk1_1_1Form1_1a2d64f2ea6f80d0fcf6e3fbcd77a93d1c" compoundref="Form1_8cs" startline="32">Risk1.Form1.isRandom</references>
+        <references refid="classRisk1_1_1Rules_1a99c82b7a1124e5dd55b82ae690bb83c7" compoundref="Rules_8Designer_8cs" startline="144">Risk1.Rules.textBox1</references>
+        <references refid="classRisk1_1_1Rules_1a11d9917e00b57a53fd2564f69b1770b5" compoundref="Rules_8Designer_8cs" startline="150">Risk1.Rules.textBox2</references>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1Rules_1a66afdf143c82bd05fa35e20abe283416" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.Rules.button2_Click</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>button2_Click</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Rules.cs" line="62" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Rules.cs" bodystart="61" bodyend="64"/>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1Rules_1abf3289631a618a63671225c2c434d060" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.Rules.InitializeComponent</definition>
+        <argsstring>()</argsstring>
+        <name>InitializeComponent</name>
+        <briefdescription>
+<para>Required method for Designer support - do not modify the contents of this method with the code editor. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Rules.Designer.cs" line="30" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Rules.Designer.cs" bodystart="29" bodyend="139"/>
+        <referencedby refid="classRisk1_1_1Rules_1a10b0fbd4e7404a2108f079bb234b3f81" compoundref="Rules_8cs" startline="16" endline="21">Risk1.Rules.Rules</referencedby>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="protected-func">
+      <memberdef kind="function" id="classRisk1_1_1Rules_1aa9f2273a2f1f5e5407a1d141c25cfb95" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override void</type>
+        <definition>override void Risk1.Rules.Dispose</definition>
+        <argsstring>(bool disposing)</argsstring>
+        <name>Dispose</name>
+        <param>
+          <type>bool</type>
+          <declname>disposing</declname>
+        </param>
+        <briefdescription>
+<para>Clean up any resources being used. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>disposing</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>true if managed resources should be disposed; otherwise, false.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Rules.Designer.cs" line="15" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Rules.Designer.cs" bodystart="14" bodyend="21"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <collaborationgraph>
+      <node id="314">
+        <label>ArtificalIntelligence</label>
+        <link refid="classRisk1_1_1ArtificalIntelligence"/>
+      </node>
+      <node id="315">
+        <label>Risk1.Statistics</label>
+        <link refid="classRisk1_1_1Statistics"/>
+      </node>
+      <node id="311">
+        <label>Risk1.Rules</label>
+        <link refid="classRisk1_1_1Rules"/>
+        <childnode refid="312" relation="usage">
+          <edgelabel>f1</edgelabel>
+        </childnode>
+        <childnode refid="320" relation="usage">
+          <edgelabel>label1</edgelabel>
+          <edgelabel>label2</edgelabel>
+          <edgelabel>panel1</edgelabel>
+          <edgelabel>components</edgelabel>
+          <edgelabel>checkBox1</edgelabel>
+          <edgelabel>button1</edgelabel>
+          <edgelabel>textBox1</edgelabel>
+          <edgelabel>textBox2</edgelabel>
+          <edgelabel>button2</edgelabel>
+        </childnode>
+      </node>
+      <node id="316">
+        <label>Risk1.GameData</label>
+        <link refid="classRisk1_1_1GameData"/>
+      </node>
+      <node id="318">
+        <label>Risk1.Player</label>
+        <link refid="classRisk1_1_1Player"/>
+      </node>
+      <node id="319">
+        <label>Risk1.Ordu</label>
+        <link refid="classRisk1_1_1Ordu"/>
+      </node>
+      <node id="313">
+        <label>Risk1.AI</label>
+        <link refid="classRisk1_1_1AI"/>
+        <childnode refid="314" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="320">
+        <label>System</label>
+      </node>
+      <node id="312">
+        <label>Risk1.Form1</label>
+        <link refid="classRisk1_1_1Form1"/>
+        <childnode refid="313" relation="usage">
+          <edgelabel>ai</edgelabel>
+        </childnode>
+        <childnode refid="315" relation="usage">
+          <edgelabel>statistics</edgelabel>
+        </childnode>
+        <childnode refid="316" relation="usage">
+          <edgelabel>gameData</edgelabel>
+        </childnode>
+        <childnode refid="317" relation="usage">
+          <edgelabel>ilkTiklananBolge</edgelabel>
+        </childnode>
+        <childnode refid="320" relation="usage">
+          <edgelabel>showStatisticsToolStripMenuItem</edgelabel>
+          <edgelabel>rulesToolStripMenuItem</edgelabel>
+          <edgelabel>exitToolStripMenuItem</edgelabel>
+          <edgelabel>pictureBox1</edgelabel>
+          <edgelabel>timer1</edgelabel>
+          <edgelabel>pictureBox2</edgelabel>
+          <edgelabel>aboutToolStripMenuItem</edgelabel>
+          <edgelabel>endGameToolStripMenuItem</edgelabel>
+          <edgelabel>label1</edgelabel>
+          <edgelabel>pictureBox3</edgelabel>
+          <edgelabel>...</edgelabel>
+        </childnode>
+        <childnode refid="321" relation="usage">
+          <edgelabel>ai2</edgelabel>
+        </childnode>
+        <childnode refid="322" relation="usage">
+          <edgelabel>ai3</edgelabel>
+        </childnode>
+        <childnode refid="323" relation="usage">
+          <edgelabel>ai4</edgelabel>
+        </childnode>
+      </node>
+      <node id="321">
+        <label>Risk1.AI2</label>
+        <link refid="classRisk1_1_1AI2"/>
+        <childnode refid="314" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="322">
+        <label>Risk1.AI3</label>
+        <link refid="classRisk1_1_1AI3"/>
+        <childnode refid="314" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="323">
+        <label>Risk1.AI4</label>
+        <link refid="classRisk1_1_1AI4"/>
+        <childnode refid="314" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="317">
+        <label>Risk1.Bolge</label>
+        <link refid="classRisk1_1_1Bolge"/>
+        <childnode refid="318" relation="usage">
+          <edgelabel>sahip</edgelabel>
+        </childnode>
+        <childnode refid="319" relation="usage">
+          <edgelabel>ordu</edgelabel>
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Rules.cs" line="13" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Rules.cs" bodystart="12" bodyend="65"/>
+    <listofallmembers>
+      <member refid="classRisk1_1_1Rules_1a898f85dc62cf14306669095cf47d5f89" prot="private" virt="non-virtual"><scope>Risk1::Rules</scope><name>button1</name></member>
+      <member refid="classRisk1_1_1Rules_1a5271effd90e30f2c55ec0c13af041c11" prot="private" virt="non-virtual"><scope>Risk1::Rules</scope><name>button1_Click</name></member>
+      <member refid="classRisk1_1_1Rules_1a16d9b861731fd7434e24814938629038" prot="private" virt="non-virtual"><scope>Risk1::Rules</scope><name>button2</name></member>
+      <member refid="classRisk1_1_1Rules_1a66afdf143c82bd05fa35e20abe283416" prot="private" virt="non-virtual"><scope>Risk1::Rules</scope><name>button2_Click</name></member>
+      <member refid="classRisk1_1_1Rules_1a0598106d5d12d23bb8657671b817aa5d" prot="private" virt="non-virtual"><scope>Risk1::Rules</scope><name>checkBox1</name></member>
+      <member refid="classRisk1_1_1Rules_1a96f04722cf43f6596a31ee81459f5aaa" prot="private" virt="non-virtual"><scope>Risk1::Rules</scope><name>components</name></member>
+      <member refid="classRisk1_1_1Rules_1aa9f2273a2f1f5e5407a1d141c25cfb95" prot="protected" virt="non-virtual"><scope>Risk1::Rules</scope><name>Dispose</name></member>
+      <member refid="classRisk1_1_1Rules_1ad58fd4773a794cff4c042694750a66b4" prot="private" virt="non-virtual"><scope>Risk1::Rules</scope><name>f1</name></member>
+      <member refid="classRisk1_1_1Rules_1abf3289631a618a63671225c2c434d060" prot="private" virt="non-virtual"><scope>Risk1::Rules</scope><name>InitializeComponent</name></member>
+      <member refid="classRisk1_1_1Rules_1a26face3dcc5d97870aa378c710487b0b" prot="private" virt="non-virtual"><scope>Risk1::Rules</scope><name>label1</name></member>
+      <member refid="classRisk1_1_1Rules_1aba3661bd539af3dcac6c0b8ab4a96814" prot="private" virt="non-virtual"><scope>Risk1::Rules</scope><name>label2</name></member>
+      <member refid="classRisk1_1_1Rules_1a1ab9b6cad6ea4f852343169baea8ab36" prot="private" virt="non-virtual"><scope>Risk1::Rules</scope><name>panel1</name></member>
+      <member refid="classRisk1_1_1Rules_1a10b0fbd4e7404a2108f079bb234b3f81" prot="public" virt="non-virtual"><scope>Risk1::Rules</scope><name>Rules</name></member>
+      <member refid="classRisk1_1_1Rules_1a533722cdf63463f3e6349d3f4797ec51" prot="private" virt="non-virtual"><scope>Risk1::Rules</scope><name>Rules_Load</name></member>
+      <member refid="classRisk1_1_1Rules_1a87a00a1879948ef62546d31b5bb4f000" prot="private" virt="non-virtual"><scope>Risk1::Rules</scope><name>temp</name></member>
+      <member refid="classRisk1_1_1Rules_1a99c82b7a1124e5dd55b82ae690bb83c7" prot="private" virt="non-virtual"><scope>Risk1::Rules</scope><name>textBox1</name></member>
+      <member refid="classRisk1_1_1Rules_1a11d9917e00b57a53fd2564f69b1770b5" prot="private" virt="non-virtual"><scope>Risk1::Rules</scope><name>textBox2</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

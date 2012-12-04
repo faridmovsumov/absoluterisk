@@ -1,0 +1,157 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.0">
+  <compounddef id="classRisk1_1_1DistanceCalculator" kind="class" prot="public">
+    <compoundname>Risk1::DistanceCalculator</compoundname>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classRisk1_1_1DistanceCalculator_1aae864aa0c7d7f77765a33237828f7c6d" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>IDictionary&lt; string, double &gt;</type>
+        <definition>IDictionary&lt;string, double&gt; Risk1.DistanceCalculator.CalculateDistances</definition>
+        <argsstring>(Graph graph, string startingNode)</argsstring>
+        <name>CalculateDistances</name>
+        <param>
+          <type><ref refid="classRisk1_1_1Graph" kindref="compound">Graph</ref></type>
+          <declname>graph</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>startingNode</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/DistanceCalculator.cs" line="11" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/DistanceCalculator.cs" bodystart="10" bodyend="18"/>
+        <references refid="classRisk1_1_1DistanceCalculator_1a7df17c778356cd163ff21defd8d9e807" compoundref="DistanceCalculator_8cs" startline="87" endline="90">Risk1.DistanceCalculator.ExtractDistances</references>
+        <references refid="classRisk1_1_1DistanceCalculator_1a28dbdabd1327d8119120f74142e76f1c" compoundref="DistanceCalculator_8cs" startline="20" endline="25">Risk1.DistanceCalculator.InitialiseGraph</references>
+        <references refid="classRisk1_1_1DistanceCalculator_1ac48701bd2801768be3f729ed1d6faf2e" compoundref="DistanceCalculator_8cs" startline="28" endline="45">Risk1.DistanceCalculator.ProcessGraph</references>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1DistanceCalculator_1a47f3c9a27c2d7b060643357e1664fe75" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>List&lt; String &gt;</type>
+        <definition>List&lt;String&gt; Risk1.DistanceCalculator.getYol</definition>
+        <argsstring>(string basalangic, string bitis, Graph graph)</argsstring>
+        <name>getYol</name>
+        <param>
+          <type>string</type>
+          <declname>basalangic</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>bitis</declname>
+        </param>
+        <param>
+          <type><ref refid="classRisk1_1_1Graph" kindref="compound">Graph</ref></type>
+          <declname>graph</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/DistanceCalculator.cs" line="62" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/DistanceCalculator.cs" bodystart="61" bodyend="85"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="classRisk1_1_1DistanceCalculator_1a28dbdabd1327d8119120f74142e76f1c" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.DistanceCalculator.InitialiseGraph</definition>
+        <argsstring>(Graph graph, string startingNode)</argsstring>
+        <name>InitialiseGraph</name>
+        <param>
+          <type><ref refid="classRisk1_1_1Graph" kindref="compound">Graph</ref></type>
+          <declname>graph</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>startingNode</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/DistanceCalculator.cs" line="21" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/DistanceCalculator.cs" bodystart="20" bodyend="25"/>
+        <referencedby refid="classRisk1_1_1DistanceCalculator_1aae864aa0c7d7f77765a33237828f7c6d" compoundref="DistanceCalculator_8cs" startline="10" endline="18">Risk1.DistanceCalculator.CalculateDistances</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1DistanceCalculator_1ac48701bd2801768be3f729ed1d6faf2e" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.DistanceCalculator.ProcessGraph</definition>
+        <argsstring>(Graph graph, string startingNode)</argsstring>
+        <name>ProcessGraph</name>
+        <param>
+          <type><ref refid="classRisk1_1_1Graph" kindref="compound">Graph</ref></type>
+          <declname>graph</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>startingNode</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/DistanceCalculator.cs" line="29" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/DistanceCalculator.cs" bodystart="28" bodyend="45"/>
+        <references refid="classRisk1_1_1DistanceCalculator_1a5fd00755fc8c19babae9cbac289d4372" compoundref="DistanceCalculator_8cs" startline="47" endline="59">Risk1.DistanceCalculator.ProcessNode</references>
+        <referencedby refid="classRisk1_1_1DistanceCalculator_1aae864aa0c7d7f77765a33237828f7c6d" compoundref="DistanceCalculator_8cs" startline="10" endline="18">Risk1.DistanceCalculator.CalculateDistances</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1DistanceCalculator_1a5fd00755fc8c19babae9cbac289d4372" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.DistanceCalculator.ProcessNode</definition>
+        <argsstring>(Node node, List&lt; Node &gt; queue)</argsstring>
+        <name>ProcessNode</name>
+        <param>
+          <type>Node</type>
+          <declname>node</declname>
+        </param>
+        <param>
+          <type>List&lt; Node &gt;</type>
+          <declname>queue</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/DistanceCalculator.cs" line="48" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/DistanceCalculator.cs" bodystart="47" bodyend="59"/>
+        <referencedby refid="classRisk1_1_1DistanceCalculator_1ac48701bd2801768be3f729ed1d6faf2e" compoundref="DistanceCalculator_8cs" startline="28" endline="45">Risk1.DistanceCalculator.ProcessGraph</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1DistanceCalculator_1a7df17c778356cd163ff21defd8d9e807" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>IDictionary&lt; string, double &gt;</type>
+        <definition>IDictionary&lt;string, double&gt; Risk1.DistanceCalculator.ExtractDistances</definition>
+        <argsstring>(Graph graph)</argsstring>
+        <name>ExtractDistances</name>
+        <param>
+          <type><ref refid="classRisk1_1_1Graph" kindref="compound">Graph</ref></type>
+          <declname>graph</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/DistanceCalculator.cs" line="88" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/DistanceCalculator.cs" bodystart="87" bodyend="90"/>
+        <referencedby refid="classRisk1_1_1DistanceCalculator_1aae864aa0c7d7f77765a33237828f7c6d" compoundref="DistanceCalculator_8cs" startline="10" endline="18">Risk1.DistanceCalculator.CalculateDistances</referencedby>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/DistanceCalculator.cs" line="9" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/DistanceCalculator.cs" bodystart="8" bodyend="91"/>
+    <listofallmembers>
+      <member refid="classRisk1_1_1DistanceCalculator_1aae864aa0c7d7f77765a33237828f7c6d" prot="public" virt="non-virtual"><scope>Risk1::DistanceCalculator</scope><name>CalculateDistances</name></member>
+      <member refid="classRisk1_1_1DistanceCalculator_1a7df17c778356cd163ff21defd8d9e807" prot="private" virt="non-virtual"><scope>Risk1::DistanceCalculator</scope><name>ExtractDistances</name></member>
+      <member refid="classRisk1_1_1DistanceCalculator_1a47f3c9a27c2d7b060643357e1664fe75" prot="public" virt="non-virtual"><scope>Risk1::DistanceCalculator</scope><name>getYol</name></member>
+      <member refid="classRisk1_1_1DistanceCalculator_1a28dbdabd1327d8119120f74142e76f1c" prot="private" virt="non-virtual"><scope>Risk1::DistanceCalculator</scope><name>InitialiseGraph</name></member>
+      <member refid="classRisk1_1_1DistanceCalculator_1ac48701bd2801768be3f729ed1d6faf2e" prot="private" virt="non-virtual"><scope>Risk1::DistanceCalculator</scope><name>ProcessGraph</name></member>
+      <member refid="classRisk1_1_1DistanceCalculator_1a5fd00755fc8c19babae9cbac289d4372" prot="private" virt="non-virtual"><scope>Risk1::DistanceCalculator</scope><name>ProcessNode</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

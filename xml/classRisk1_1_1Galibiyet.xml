@@ -1,0 +1,388 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.0">
+  <compounddef id="classRisk1_1_1Galibiyet" kind="class" prot="public">
+    <compoundname>Risk1::Galibiyet</compoundname>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classRisk1_1_1Galibiyet_1a1ecbef753d19f448923991db512359da" prot="private" static="no" mutable="no">
+        <type>String</type>
+        <definition>String Risk1.Galibiyet.winner</definition>
+        <argsstring></argsstring>
+        <name>winner</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Galibiyet.cs" line="15" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Galibiyet.cs" bodystart="15" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1Galibiyet_1afb310bd3db89a7f649ffe2b21a6f5a05" compoundref="Galibiyet_8cs" startline="17" endline="22">Risk1.Galibiyet.Galibiyet</referencedby>
+        <referencedby refid="classRisk1_1_1Galibiyet_1af0949e014dcb9fc08fc793968b84cf06" compoundref="Galibiyet_8cs" startline="24" endline="41">Risk1.Galibiyet.Galibiyet_Load</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1Galibiyet_1ad6cd9d139537c0d21182ebec6c85b9fd" prot="private" static="no" mutable="no">
+        <type><ref refid="classRisk1_1_1Form1" kindref="compound">Form1</ref></type>
+        <definition>Form1 Risk1.Galibiyet.f1</definition>
+        <argsstring></argsstring>
+        <name>f1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Galibiyet.cs" line="16" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Galibiyet.cs" bodystart="16" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1Galibiyet_1afb310bd3db89a7f649ffe2b21a6f5a05" compoundref="Galibiyet_8cs" startline="17" endline="22">Risk1.Galibiyet.Galibiyet</referencedby>
+        <referencedby refid="classRisk1_1_1Galibiyet_1af0949e014dcb9fc08fc793968b84cf06" compoundref="Galibiyet_8cs" startline="24" endline="41">Risk1.Galibiyet.Galibiyet_Load</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1Galibiyet_1ac2848514679790a17509ceb7cdc236f4" prot="private" static="no" mutable="no">
+        <type>System.ComponentModel.IContainer</type>
+        <definition>System.ComponentModel.IContainer Risk1.Galibiyet.components</definition>
+        <argsstring></argsstring>
+        <name>components</name>
+        <initializer> null</initializer>
+        <briefdescription>
+<para>Required designer variable. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Galibiyet.Designer.cs" line="8" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Galibiyet.Designer.cs" bodystart="8" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1Galibiyet_1a5e65a612c077013224c31c87b400410d" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Button</type>
+        <definition>System.Windows.Forms.Button Risk1.Galibiyet.button1</definition>
+        <argsstring></argsstring>
+        <name>button1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Galibiyet.Designer.cs" line="126" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Galibiyet.Designer.cs" bodystart="126" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1Galibiyet_1a6a864d4346fcc9b497c4c590c572e0e6" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Button</type>
+        <definition>System.Windows.Forms.Button Risk1.Galibiyet.button2</definition>
+        <argsstring></argsstring>
+        <name>button2</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Galibiyet.Designer.cs" line="127" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Galibiyet.Designer.cs" bodystart="127" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1Galibiyet_1a1e9700a0ce38cfe1d18a1f2aac1947c6" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Label</type>
+        <definition>System.Windows.Forms.Label Risk1.Galibiyet.label1</definition>
+        <argsstring></argsstring>
+        <name>label1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Galibiyet.Designer.cs" line="128" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Galibiyet.Designer.cs" bodystart="128" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1Galibiyet_1af0949e014dcb9fc08fc793968b84cf06" compoundref="Galibiyet_8cs" startline="24" endline="41">Risk1.Galibiyet.Galibiyet_Load</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1Galibiyet_1a4df473371cecc24dd64f41f0b2f0be36" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Panel</type>
+        <definition>System.Windows.Forms.Panel Risk1.Galibiyet.panel1</definition>
+        <argsstring></argsstring>
+        <name>panel1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Galibiyet.Designer.cs" line="129" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Galibiyet.Designer.cs" bodystart="129" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1Galibiyet_1a09fd88eaac736ebfe05c4063df684bb1" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.RichTextBox</type>
+        <definition>System.Windows.Forms.RichTextBox Risk1.Galibiyet.richTextBox1</definition>
+        <argsstring></argsstring>
+        <name>richTextBox1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Galibiyet.Designer.cs" line="130" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Galibiyet.Designer.cs" bodystart="130" bodyend="-1"/>
+        <referencedby refid="classRisk1_1_1Galibiyet_1af0949e014dcb9fc08fc793968b84cf06" compoundref="Galibiyet_8cs" startline="24" endline="41">Risk1.Galibiyet.Galibiyet_Load</referencedby>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classRisk1_1_1Galibiyet_1afb310bd3db89a7f649ffe2b21a6f5a05" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Risk1.Galibiyet.Galibiyet</definition>
+        <argsstring>(Form1 form1)</argsstring>
+        <name>Galibiyet</name>
+        <param>
+          <type><ref refid="classRisk1_1_1Form1" kindref="compound">Form1</ref></type>
+          <declname>form1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Galibiyet.cs" line="18" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Galibiyet.cs" bodystart="17" bodyend="22"/>
+        <references refid="classRisk1_1_1Galibiyet_1ad6cd9d139537c0d21182ebec6c85b9fd" compoundref="Galibiyet_8cs" startline="16">Risk1.Galibiyet.f1</references>
+        <references refid="classRisk1_1_1Galibiyet_1ab0cecec34cec81b5b8859adcba2e2ac0" compoundref="Galibiyet_8Designer_8cs" startline="29" endline="122">Risk1.Galibiyet.InitializeComponent</references>
+        <references refid="classRisk1_1_1Form1_1acba062c38cacbc0d1488ce2f8dfe8715" compoundref="Form1_8cs" startline="25">Risk1.Form1.players</references>
+        <references refid="classRisk1_1_1Galibiyet_1a1ecbef753d19f448923991db512359da" compoundref="Galibiyet_8cs" startline="15">Risk1.Galibiyet.winner</references>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="classRisk1_1_1Galibiyet_1af0949e014dcb9fc08fc793968b84cf06" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.Galibiyet.Galibiyet_Load</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>Galibiyet_Load</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Galibiyet.cs" line="25" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Galibiyet.cs" bodystart="24" bodyend="41"/>
+        <references refid="classRisk1_1_1Galibiyet_1ad6cd9d139537c0d21182ebec6c85b9fd" compoundref="Galibiyet_8cs" startline="16">Risk1.Galibiyet.f1</references>
+        <references refid="classRisk1_1_1Galibiyet_1a1e9700a0ce38cfe1d18a1f2aac1947c6" compoundref="Galibiyet_8Designer_8cs" startline="128">Risk1.Galibiyet.label1</references>
+        <references refid="classRisk1_1_1Form1_1acba062c38cacbc0d1488ce2f8dfe8715" compoundref="Form1_8cs" startline="25">Risk1.Form1.players</references>
+        <references refid="classRisk1_1_1Galibiyet_1a09fd88eaac736ebfe05c4063df684bb1" compoundref="Galibiyet_8Designer_8cs" startline="130">Risk1.Galibiyet.richTextBox1</references>
+        <references refid="classRisk1_1_1Statistics_1a624adf691b2f3342b04d45ac6fc57160" compoundref="Statistics_8cs" startline="11">Risk1.Statistics.siralama</references>
+        <references refid="classRisk1_1_1Form1_1a7c8a171c9572ccad9375b34da730ffd4" compoundref="Form1_8cs" startline="45">Risk1.Form1.statistics</references>
+        <references refid="classRisk1_1_1Galibiyet_1a1ecbef753d19f448923991db512359da" compoundref="Galibiyet_8cs" startline="15">Risk1.Galibiyet.winner</references>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1Galibiyet_1a81187b54a69d8ca16a80abe01208e1ec" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.Galibiyet.button1_Click</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>button1_Click</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Galibiyet.cs" line="44" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Galibiyet.cs" bodystart="43" bodyend="46"/>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1Galibiyet_1a9b9371f14f7247b56f9e7a25508569d4" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.Galibiyet.button2_Click</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>button2_Click</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Galibiyet.cs" line="49" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Galibiyet.cs" bodystart="48" bodyend="51"/>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1Galibiyet_1ab0cecec34cec81b5b8859adcba2e2ac0" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.Galibiyet.InitializeComponent</definition>
+        <argsstring>()</argsstring>
+        <name>InitializeComponent</name>
+        <briefdescription>
+<para>Required method for Designer support - do not modify the contents of this method with the code editor. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Galibiyet.Designer.cs" line="30" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Galibiyet.Designer.cs" bodystart="29" bodyend="122"/>
+        <referencedby refid="classRisk1_1_1Galibiyet_1afb310bd3db89a7f649ffe2b21a6f5a05" compoundref="Galibiyet_8cs" startline="17" endline="22">Risk1.Galibiyet.Galibiyet</referencedby>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="protected-func">
+      <memberdef kind="function" id="classRisk1_1_1Galibiyet_1aab4365f7b6d892d39c74200636ad6d09" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override void</type>
+        <definition>override void Risk1.Galibiyet.Dispose</definition>
+        <argsstring>(bool disposing)</argsstring>
+        <name>Dispose</name>
+        <param>
+          <type>bool</type>
+          <declname>disposing</declname>
+        </param>
+        <briefdescription>
+<para>Clean up any resources being used. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>disposing</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>true if managed resources should be disposed; otherwise, false.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Galibiyet.Designer.cs" line="15" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Galibiyet.Designer.cs" bodystart="14" bodyend="21"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <collaborationgraph>
+      <node id="263">
+        <label>ArtificalIntelligence</label>
+        <link refid="classRisk1_1_1ArtificalIntelligence"/>
+      </node>
+      <node id="260">
+        <label>Risk1.Galibiyet</label>
+        <link refid="classRisk1_1_1Galibiyet"/>
+        <childnode refid="261" relation="usage">
+          <edgelabel>f1</edgelabel>
+        </childnode>
+        <childnode refid="269" relation="usage">
+          <edgelabel>label1</edgelabel>
+          <edgelabel>panel1</edgelabel>
+          <edgelabel>richTextBox1</edgelabel>
+          <edgelabel>components</edgelabel>
+          <edgelabel>button1</edgelabel>
+          <edgelabel>button2</edgelabel>
+        </childnode>
+      </node>
+      <node id="264">
+        <label>Risk1.Statistics</label>
+        <link refid="classRisk1_1_1Statistics"/>
+      </node>
+      <node id="265">
+        <label>Risk1.GameData</label>
+        <link refid="classRisk1_1_1GameData"/>
+      </node>
+      <node id="267">
+        <label>Risk1.Player</label>
+        <link refid="classRisk1_1_1Player"/>
+      </node>
+      <node id="268">
+        <label>Risk1.Ordu</label>
+        <link refid="classRisk1_1_1Ordu"/>
+      </node>
+      <node id="262">
+        <label>Risk1.AI</label>
+        <link refid="classRisk1_1_1AI"/>
+        <childnode refid="263" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="269">
+        <label>System</label>
+      </node>
+      <node id="261">
+        <label>Risk1.Form1</label>
+        <link refid="classRisk1_1_1Form1"/>
+        <childnode refid="262" relation="usage">
+          <edgelabel>ai</edgelabel>
+        </childnode>
+        <childnode refid="264" relation="usage">
+          <edgelabel>statistics</edgelabel>
+        </childnode>
+        <childnode refid="265" relation="usage">
+          <edgelabel>gameData</edgelabel>
+        </childnode>
+        <childnode refid="266" relation="usage">
+          <edgelabel>ilkTiklananBolge</edgelabel>
+        </childnode>
+        <childnode refid="269" relation="usage">
+          <edgelabel>showStatisticsToolStripMenuItem</edgelabel>
+          <edgelabel>rulesToolStripMenuItem</edgelabel>
+          <edgelabel>exitToolStripMenuItem</edgelabel>
+          <edgelabel>pictureBox1</edgelabel>
+          <edgelabel>timer1</edgelabel>
+          <edgelabel>pictureBox2</edgelabel>
+          <edgelabel>aboutToolStripMenuItem</edgelabel>
+          <edgelabel>endGameToolStripMenuItem</edgelabel>
+          <edgelabel>label1</edgelabel>
+          <edgelabel>pictureBox3</edgelabel>
+          <edgelabel>...</edgelabel>
+        </childnode>
+        <childnode refid="270" relation="usage">
+          <edgelabel>ai2</edgelabel>
+        </childnode>
+        <childnode refid="271" relation="usage">
+          <edgelabel>ai3</edgelabel>
+        </childnode>
+        <childnode refid="272" relation="usage">
+          <edgelabel>ai4</edgelabel>
+        </childnode>
+      </node>
+      <node id="270">
+        <label>Risk1.AI2</label>
+        <link refid="classRisk1_1_1AI2"/>
+        <childnode refid="263" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="271">
+        <label>Risk1.AI3</label>
+        <link refid="classRisk1_1_1AI3"/>
+        <childnode refid="263" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="272">
+        <label>Risk1.AI4</label>
+        <link refid="classRisk1_1_1AI4"/>
+        <childnode refid="263" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="266">
+        <label>Risk1.Bolge</label>
+        <link refid="classRisk1_1_1Bolge"/>
+        <childnode refid="267" relation="usage">
+          <edgelabel>sahip</edgelabel>
+        </childnode>
+        <childnode refid="268" relation="usage">
+          <edgelabel>ordu</edgelabel>
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Galibiyet.cs" line="14" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Galibiyet.cs" bodystart="13" bodyend="52"/>
+    <listofallmembers>
+      <member refid="classRisk1_1_1Galibiyet_1a5e65a612c077013224c31c87b400410d" prot="private" virt="non-virtual"><scope>Risk1::Galibiyet</scope><name>button1</name></member>
+      <member refid="classRisk1_1_1Galibiyet_1a81187b54a69d8ca16a80abe01208e1ec" prot="private" virt="non-virtual"><scope>Risk1::Galibiyet</scope><name>button1_Click</name></member>
+      <member refid="classRisk1_1_1Galibiyet_1a6a864d4346fcc9b497c4c590c572e0e6" prot="private" virt="non-virtual"><scope>Risk1::Galibiyet</scope><name>button2</name></member>
+      <member refid="classRisk1_1_1Galibiyet_1a9b9371f14f7247b56f9e7a25508569d4" prot="private" virt="non-virtual"><scope>Risk1::Galibiyet</scope><name>button2_Click</name></member>
+      <member refid="classRisk1_1_1Galibiyet_1ac2848514679790a17509ceb7cdc236f4" prot="private" virt="non-virtual"><scope>Risk1::Galibiyet</scope><name>components</name></member>
+      <member refid="classRisk1_1_1Galibiyet_1aab4365f7b6d892d39c74200636ad6d09" prot="protected" virt="non-virtual"><scope>Risk1::Galibiyet</scope><name>Dispose</name></member>
+      <member refid="classRisk1_1_1Galibiyet_1ad6cd9d139537c0d21182ebec6c85b9fd" prot="private" virt="non-virtual"><scope>Risk1::Galibiyet</scope><name>f1</name></member>
+      <member refid="classRisk1_1_1Galibiyet_1afb310bd3db89a7f649ffe2b21a6f5a05" prot="public" virt="non-virtual"><scope>Risk1::Galibiyet</scope><name>Galibiyet</name></member>
+      <member refid="classRisk1_1_1Galibiyet_1af0949e014dcb9fc08fc793968b84cf06" prot="private" virt="non-virtual"><scope>Risk1::Galibiyet</scope><name>Galibiyet_Load</name></member>
+      <member refid="classRisk1_1_1Galibiyet_1ab0cecec34cec81b5b8859adcba2e2ac0" prot="private" virt="non-virtual"><scope>Risk1::Galibiyet</scope><name>InitializeComponent</name></member>
+      <member refid="classRisk1_1_1Galibiyet_1a1e9700a0ce38cfe1d18a1f2aac1947c6" prot="private" virt="non-virtual"><scope>Risk1::Galibiyet</scope><name>label1</name></member>
+      <member refid="classRisk1_1_1Galibiyet_1a4df473371cecc24dd64f41f0b2f0be36" prot="private" virt="non-virtual"><scope>Risk1::Galibiyet</scope><name>panel1</name></member>
+      <member refid="classRisk1_1_1Galibiyet_1a09fd88eaac736ebfe05c4063df684bb1" prot="private" virt="non-virtual"><scope>Risk1::Galibiyet</scope><name>richTextBox1</name></member>
+      <member refid="classRisk1_1_1Galibiyet_1a1ecbef753d19f448923991db512359da" prot="private" virt="non-virtual"><scope>Risk1::Galibiyet</scope><name>winner</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

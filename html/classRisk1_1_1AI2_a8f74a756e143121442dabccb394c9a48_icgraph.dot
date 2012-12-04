@@ -1,0 +1,10 @@
+digraph G
+{
+  bgcolor="transparent";
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="Risk1.AI2.getAvrupadakiToprakSayisi",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node2 [label="Risk1.AI2.divideArmies",height=0.2,width=0.4,color="black",URL="$classRisk1_1_1AI2.html#a17f993750af03c7fee96e791b23a594a",tooltip="Oyuncu bir bölgeyi igal ettikten sonra o bölge ile kendi bölgesi arasındaki askerleri nasıl paylaştır..."];
+}

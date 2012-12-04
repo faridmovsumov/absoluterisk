@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.0">
+  <compounddef id="dir_fba533b948f2e46a232c94ca803ce733" kind="dir">
+    <compoundname>Risk1/</compoundname>
+    <innerdir refid="dir_f38eae043d8d07dcf3b839d1a9dbbef3">Risk1/Properties/</innerdir>
+    <innerfile refid="About_8cs">About.cs</innerfile>
+    <innerfile refid="About_8Designer_8cs">About.Designer.cs</innerfile>
+    <innerfile refid="AI_8cs">AI.cs</innerfile>
+    <innerfile refid="AI2_8cs">AI2.cs</innerfile>
+    <innerfile refid="AI3_8cs">AI3.cs</innerfile>
+    <innerfile refid="AI4_8cs">AI4.cs</innerfile>
+    <innerfile refid="ArmyMove_8cs">ArmyMove.cs</innerfile>
+    <innerfile refid="ArmyMove_8Designer_8cs">ArmyMove.Designer.cs</innerfile>
+    <innerfile refid="ArtificalIntelligence_8cs">ArtificalIntelligence.cs</innerfile>
+    <innerfile refid="Bolge_8cs">Bolge.cs</innerfile>
+    <innerfile refid="ChangePlayer_8cs">ChangePlayer.cs</innerfile>
+    <innerfile refid="ChangePlayer_8Designer_8cs">ChangePlayer.Designer.cs</innerfile>
+    <innerfile refid="ChangeStyle_8cs">ChangeStyle.cs</innerfile>
+    <innerfile refid="ChangeStyle_8Designer_8cs">ChangeStyle.Designer.cs</innerfile>
+    <innerfile refid="Chart_8cs">Chart.cs</innerfile>
+    <innerfile refid="Chart_8Designer_8cs">Chart.Designer.cs</innerfile>
+    <innerfile refid="Continent_8cs">Continent.cs</innerfile>
+    <innerfile refid="DistanceCalculator_8cs">DistanceCalculator.cs</innerfile>
+    <innerfile refid="Form1_8cs">Form1.cs</innerfile>
+    <innerfile refid="Form1_8Designer_8cs">Form1.Designer.cs</innerfile>
+    <innerfile refid="Galibiyet_8cs">Galibiyet.cs</innerfile>
+    <innerfile refid="Galibiyet_8Designer_8cs">Galibiyet.Designer.cs</innerfile>
+    <innerfile refid="GameData_8cs">GameData.cs</innerfile>
+    <innerfile refid="Giris_8cs">Giris.cs</innerfile>
+    <innerfile refid="Giris_8Designer_8cs">Giris.Designer.cs</innerfile>
+    <innerfile refid="Graph_8cs">Graph.cs</innerfile>
+    <innerfile refid="Loading_8cs">Loading.cs</innerfile>
+    <innerfile refid="Loading_8Designer_8cs">Loading.Designer.cs</innerfile>
+    <innerfile refid="Node_8cs">Node.cs</innerfile>
+    <innerfile refid="NodeConnection_8cs">NodeConnection.cs</innerfile>
+    <innerfile refid="Nokta_8cs">Nokta.cs</innerfile>
+    <innerfile refid="Ordu_8cs">Ordu.cs</innerfile>
+    <innerfile refid="Player_8cs">Player.cs</innerfile>
+    <innerfile refid="Program_8cs">Program.cs</innerfile>
+    <innerfile refid="Rules_8cs">Rules.cs</innerfile>
+    <innerfile refid="Rules_8Designer_8cs">Rules.Designer.cs</innerfile>
+    <innerfile refid="SaldiriEkrani_8cs">SaldiriEkrani.cs</innerfile>
+    <innerfile refid="SaldiriEkrani_8Designer_8cs">SaldiriEkrani.Designer.cs</innerfile>
+    <innerfile refid="Statistics_8cs">Statistics.cs</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/"/>
+  </compounddef>
+</doxygen>

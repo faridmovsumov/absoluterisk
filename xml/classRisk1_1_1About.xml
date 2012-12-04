@@ -1,0 +1,348 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.0">
+  <compounddef id="classRisk1_1_1About" kind="class" prot="public">
+    <compoundname>Risk1::About</compoundname>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classRisk1_1_1About_1a56350d697b2d2e8648d27f5bc6ff868b" prot="private" static="no" mutable="no">
+        <type>System.ComponentModel.IContainer</type>
+        <definition>System.ComponentModel.IContainer Risk1.About.components</definition>
+        <argsstring></argsstring>
+        <name>components</name>
+        <initializer> null</initializer>
+        <briefdescription>
+<para>Required designer variable. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/About.Designer.cs" line="8" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/About.Designer.cs" bodystart="8" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1About_1a16f16d9a20965fe13423f10ea7771357" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Label</type>
+        <definition>System.Windows.Forms.Label Risk1.About.label1</definition>
+        <argsstring></argsstring>
+        <name>label1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/About.Designer.cs" line="132" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/About.Designer.cs" bodystart="132" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1About_1ad51cbfd5148d6fbe1344b29481f57c25" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Button</type>
+        <definition>System.Windows.Forms.Button Risk1.About.button1</definition>
+        <argsstring></argsstring>
+        <name>button1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/About.Designer.cs" line="133" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/About.Designer.cs" bodystart="133" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1About_1a3a70e3c14d6300b83e26a7e995b9c042" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Label</type>
+        <definition>System.Windows.Forms.Label Risk1.About.label2</definition>
+        <argsstring></argsstring>
+        <name>label2</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/About.Designer.cs" line="134" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/About.Designer.cs" bodystart="134" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1About_1a11eec8062797fdb2125dd9eeb5969b3e" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Label</type>
+        <definition>System.Windows.Forms.Label Risk1.About.label3</definition>
+        <argsstring></argsstring>
+        <name>label3</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/About.Designer.cs" line="135" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/About.Designer.cs" bodystart="135" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1About_1a93079f31d77b8fe02d084ce187aff220" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.LinkLabel</type>
+        <definition>System.Windows.Forms.LinkLabel Risk1.About.linkLabel1</definition>
+        <argsstring></argsstring>
+        <name>linkLabel1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/About.Designer.cs" line="136" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/About.Designer.cs" bodystart="136" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classRisk1_1_1About_1a9fc91ad2085a6527ae80788d090e90f6" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Panel</type>
+        <definition>System.Windows.Forms.Panel Risk1.About.panel1</definition>
+        <argsstring></argsstring>
+        <name>panel1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/About.Designer.cs" line="137" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/About.Designer.cs" bodystart="137" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classRisk1_1_1About_1aa665a25d114385341c10557c97abe62b" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Risk1.About.About</definition>
+        <argsstring>()</argsstring>
+        <name>About</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/About.cs" line="15" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/About.cs" bodystart="14" bodyend="17"/>
+        <references refid="classRisk1_1_1About_1a5f3cf75e0b881a971477515766660fc9" compoundref="About_8Designer_8cs" startline="29" endline="128">Risk1.About.InitializeComponent</references>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="classRisk1_1_1About_1a626a20fb030cdf02a42bae83803414c0" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.About.button1_Click</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>button1_Click</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/About.cs" line="20" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/About.cs" bodystart="19" bodyend="22"/>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1About_1a31690aa374ee92c38ba6bc9483263fd0" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.About.linkLabel1_LinkClicked</definition>
+        <argsstring>(object sender, LinkLabelLinkClickedEventArgs e)</argsstring>
+        <name>linkLabel1_LinkClicked</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>LinkLabelLinkClickedEventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/About.cs" line="25" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/About.cs" bodystart="24" bodyend="27"/>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1About_1af6a006fb08da6378057a47853423ceba" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.About.About_Load</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>About_Load</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/About.cs" line="30" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/About.cs" bodystart="29" bodyend="32"/>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1About_1a13a15f147d6e4d5e4cdd394ca01b366a" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.About.label4_Click</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>label4_Click</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/About.cs" line="35" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/About.cs" bodystart="34" bodyend="37"/>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1About_1a49d0f1dc68faa96dfee09762b6e76577" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.About.label3_Click</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>label3_Click</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/About.cs" line="40" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/About.cs" bodystart="39" bodyend="42"/>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1About_1ac4315e55d9a0bc09fd7bb6f0294399c0" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.About.label2_Click</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>label2_Click</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/About.cs" line="45" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/About.cs" bodystart="44" bodyend="47"/>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1About_1af382026dbc9b7befddc5592b23703154" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.About.label1_Click</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>label1_Click</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/About.cs" line="50" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/About.cs" bodystart="49" bodyend="52"/>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1About_1a5f3cf75e0b881a971477515766660fc9" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.About.InitializeComponent</definition>
+        <argsstring>()</argsstring>
+        <name>InitializeComponent</name>
+        <briefdescription>
+<para>Required method for Designer support - do not modify the contents of this method with the code editor. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/About.Designer.cs" line="30" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/About.Designer.cs" bodystart="29" bodyend="128"/>
+        <referencedby refid="classRisk1_1_1About_1aa665a25d114385341c10557c97abe62b" compoundref="About_8cs" startline="14" endline="17">Risk1.About.About</referencedby>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="protected-func">
+      <memberdef kind="function" id="classRisk1_1_1About_1a95f462200c23a332c3e148dbbec44b8a" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override void</type>
+        <definition>override void Risk1.About.Dispose</definition>
+        <argsstring>(bool disposing)</argsstring>
+        <name>Dispose</name>
+        <param>
+          <type>bool</type>
+          <declname>disposing</declname>
+        </param>
+        <briefdescription>
+<para>Clean up any resources being used. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>disposing</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>true if managed resources should be disposed; otherwise, false.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/About.Designer.cs" line="15" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/About.Designer.cs" bodystart="14" bodyend="21"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <collaborationgraph>
+      <node id="168">
+        <label>Risk1.About</label>
+        <link refid="classRisk1_1_1About"/>
+        <childnode refid="169" relation="usage">
+          <edgelabel>label1</edgelabel>
+          <edgelabel>panel1</edgelabel>
+          <edgelabel>label2</edgelabel>
+          <edgelabel>label3</edgelabel>
+          <edgelabel>linkLabel1</edgelabel>
+          <edgelabel>components</edgelabel>
+          <edgelabel>button1</edgelabel>
+        </childnode>
+      </node>
+      <node id="169">
+        <label>System</label>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/About.cs" line="13" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/About.cs" bodystart="12" bodyend="53"/>
+    <listofallmembers>
+      <member refid="classRisk1_1_1About_1aa665a25d114385341c10557c97abe62b" prot="public" virt="non-virtual"><scope>Risk1::About</scope><name>About</name></member>
+      <member refid="classRisk1_1_1About_1af6a006fb08da6378057a47853423ceba" prot="private" virt="non-virtual"><scope>Risk1::About</scope><name>About_Load</name></member>
+      <member refid="classRisk1_1_1About_1ad51cbfd5148d6fbe1344b29481f57c25" prot="private" virt="non-virtual"><scope>Risk1::About</scope><name>button1</name></member>
+      <member refid="classRisk1_1_1About_1a626a20fb030cdf02a42bae83803414c0" prot="private" virt="non-virtual"><scope>Risk1::About</scope><name>button1_Click</name></member>
+      <member refid="classRisk1_1_1About_1a56350d697b2d2e8648d27f5bc6ff868b" prot="private" virt="non-virtual"><scope>Risk1::About</scope><name>components</name></member>
+      <member refid="classRisk1_1_1About_1a95f462200c23a332c3e148dbbec44b8a" prot="protected" virt="non-virtual"><scope>Risk1::About</scope><name>Dispose</name></member>
+      <member refid="classRisk1_1_1About_1a5f3cf75e0b881a971477515766660fc9" prot="private" virt="non-virtual"><scope>Risk1::About</scope><name>InitializeComponent</name></member>
+      <member refid="classRisk1_1_1About_1a16f16d9a20965fe13423f10ea7771357" prot="private" virt="non-virtual"><scope>Risk1::About</scope><name>label1</name></member>
+      <member refid="classRisk1_1_1About_1af382026dbc9b7befddc5592b23703154" prot="private" virt="non-virtual"><scope>Risk1::About</scope><name>label1_Click</name></member>
+      <member refid="classRisk1_1_1About_1a3a70e3c14d6300b83e26a7e995b9c042" prot="private" virt="non-virtual"><scope>Risk1::About</scope><name>label2</name></member>
+      <member refid="classRisk1_1_1About_1ac4315e55d9a0bc09fd7bb6f0294399c0" prot="private" virt="non-virtual"><scope>Risk1::About</scope><name>label2_Click</name></member>
+      <member refid="classRisk1_1_1About_1a11eec8062797fdb2125dd9eeb5969b3e" prot="private" virt="non-virtual"><scope>Risk1::About</scope><name>label3</name></member>
+      <member refid="classRisk1_1_1About_1a49d0f1dc68faa96dfee09762b6e76577" prot="private" virt="non-virtual"><scope>Risk1::About</scope><name>label3_Click</name></member>
+      <member refid="classRisk1_1_1About_1a13a15f147d6e4d5e4cdd394ca01b366a" prot="private" virt="non-virtual"><scope>Risk1::About</scope><name>label4_Click</name></member>
+      <member refid="classRisk1_1_1About_1a93079f31d77b8fe02d084ce187aff220" prot="private" virt="non-virtual"><scope>Risk1::About</scope><name>linkLabel1</name></member>
+      <member refid="classRisk1_1_1About_1a31690aa374ee92c38ba6bc9483263fd0" prot="private" virt="non-virtual"><scope>Risk1::About</scope><name>linkLabel1_LinkClicked</name></member>
+      <member refid="classRisk1_1_1About_1a9fc91ad2085a6527ae80788d090e90f6" prot="private" virt="non-virtual"><scope>Risk1::About</scope><name>panel1</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

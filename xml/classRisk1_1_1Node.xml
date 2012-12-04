@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.0">
+  <compounddef id="classRisk1_1_1Node" kind="class" prot="package">
+    <compoundname>Risk1::Node</compoundname>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classRisk1_1_1Node_1af73ab2a09e95dc6aad35fd148c6ed95e" prot="private" static="no" mutable="no">
+        <type>IList&lt; NodeConnection &gt;</type>
+        <definition>IList&lt;NodeConnection&gt; Risk1.Node._connections</definition>
+        <argsstring></argsstring>
+        <name>_connections</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Node.cs" line="12" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Node.cs" bodystart="12" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="classRisk1_1_1Node_1a2146b6ed055b878fd304b01bf012ef56" prot="package" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type>string</type>
+        <definition>string Risk1.Node.Name</definition>
+        <argsstring></argsstring>
+        <name>Name</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Node.cs" line="14" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Node.cs" bodystart="14" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="classRisk1_1_1Node_1a06e9fdf864d5255c39cd139b9d2ba716" prot="package" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type>double</type>
+        <definition>double Risk1.Node.DistanceFromStart</definition>
+        <argsstring></argsstring>
+        <name>DistanceFromStart</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Node.cs" line="16" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Node.cs" bodystart="16" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="classRisk1_1_1Node_1a1e1d9c5dc5473b9ab73673d6d29852d7" prot="package" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type>Node</type>
+        <definition>Node Risk1.Node.parent</definition>
+        <argsstring></argsstring>
+        <name>parent</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Node.cs" line="18" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Node.cs" bodystart="18" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="classRisk1_1_1Node_1a9df36b1b5b149f684bb74f49f2ed4ddf" prot="package" static="no" readable="no" writable="no" gettable="yes" settable="no">
+        <type>IEnumerable&lt; NodeConnection &gt;</type>
+        <definition>IEnumerable&lt;NodeConnection&gt; Risk1.Node.Connections</definition>
+        <argsstring></argsstring>
+        <name>Connections</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Node.cs" line="23" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Node.cs" bodystart="21" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="package-func">
+      <memberdef kind="function" id="classRisk1_1_1Node_1a7c36763c1a9edcac286ef518118c0465" prot="package" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Risk1.Node.Node</definition>
+        <argsstring>(string name)</argsstring>
+        <name>Node</name>
+        <param>
+          <type>string</type>
+          <declname>name</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Node.cs" line="26" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Node.cs" bodystart="25" bodyend="29"/>
+      </memberdef>
+      <memberdef kind="function" id="classRisk1_1_1Node_1ae01a5a79b258cecbbfcf30b594bb3ba7" prot="package" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Risk1.Node.AddConnection</definition>
+        <argsstring>(Node targetNode, double distance, bool twoWay)</argsstring>
+        <name>AddConnection</name>
+        <param>
+          <type>Node</type>
+          <declname>targetNode</declname>
+        </param>
+        <param>
+          <type>double</type>
+          <declname>distance</declname>
+        </param>
+        <param>
+          <type>bool</type>
+          <declname>twoWay</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Node.cs" line="32" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Node.cs" bodystart="31" bodyend="39"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Node.cs" line="11" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Node.cs" bodystart="10" bodyend="40"/>
+    <listofallmembers>
+      <member refid="classRisk1_1_1Node_1af73ab2a09e95dc6aad35fd148c6ed95e" prot="private" virt="non-virtual"><scope>Risk1::Node</scope><name>_connections</name></member>
+      <member refid="classRisk1_1_1Node_1ae01a5a79b258cecbbfcf30b594bb3ba7" prot="package" virt="non-virtual"><scope>Risk1::Node</scope><name>AddConnection</name></member>
+      <member refid="classRisk1_1_1Node_1a9df36b1b5b149f684bb74f49f2ed4ddf" prot="package" virt="non-virtual"><scope>Risk1::Node</scope><name>Connections</name></member>
+      <member refid="classRisk1_1_1Node_1a06e9fdf864d5255c39cd139b9d2ba716" prot="package" virt="non-virtual"><scope>Risk1::Node</scope><name>DistanceFromStart</name></member>
+      <member refid="classRisk1_1_1Node_1a2146b6ed055b878fd304b01bf012ef56" prot="package" virt="non-virtual"><scope>Risk1::Node</scope><name>Name</name></member>
+      <member refid="classRisk1_1_1Node_1a7c36763c1a9edcac286ef518118c0465" prot="package" virt="non-virtual"><scope>Risk1::Node</scope><name>Node</name></member>
+      <member refid="classRisk1_1_1Node_1a1e1d9c5dc5473b9ab73673d6d29852d7" prot="package" virt="non-virtual"><scope>Risk1::Node</scope><name>parent</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

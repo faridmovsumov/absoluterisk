@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.0">
+  <compounddef id="classRisk1_1_1Properties_1_1Settings" kind="class" prot="package">
+    <compoundname>Risk1::Properties::Settings</compoundname>
+      <sectiondef kind="private-static-attrib">
+      <memberdef kind="variable" id="classRisk1_1_1Properties_1_1Settings_1a90793881d07937e420e8ab330f840cad" prot="private" static="yes" mutable="no">
+        <type>Settings</type>
+        <definition>Settings Risk1.Properties.Settings.defaultInstance</definition>
+        <argsstring></argsstring>
+        <name>defaultInstance</name>
+        <initializer> ((Settings)(global::System.Configuration.ApplicationSettingsBase.Synchronized(new Settings())))</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Properties/Settings.Designer.cs" line="18" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Properties/Settings.Designer.cs" bodystart="18" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="classRisk1_1_1Properties_1_1Settings_1ae45d16cb87a7df360485096537e5363c" prot="public" static="yes" readable="no" writable="no" gettable="yes" settable="no">
+        <type>Settings</type>
+        <definition>Settings Risk1.Properties.Settings.Default</definition>
+        <argsstring></argsstring>
+        <name>Default</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Properties/Settings.Designer.cs" line="24" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Properties/Settings.Designer.cs" bodystart="20" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <collaborationgraph>
+      <node id="339">
+        <label>Risk1.Properties.Settings</label>
+        <childnode refid="339" relation="usage">
+          <edgelabel>defaultInstance</edgelabel>
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Properties/Settings.Designer.cs" line="16" bodyfile="C:/Users/Ferid/Desktop/Absolute Risk Source/Risk1/Properties/Settings.Designer.cs" bodystart="16" bodyend="25"/>
+    <listofallmembers>
+      <member refid="classRisk1_1_1Properties_1_1Settings_1ae45d16cb87a7df360485096537e5363c" prot="public" virt="non-virtual"><scope>Risk1::Properties::Settings</scope><name>Default</name></member>
+      <member refid="classRisk1_1_1Properties_1_1Settings_1a90793881d07937e420e8ab330f840cad" prot="private" virt="non-virtual"><scope>Risk1::Properties::Settings</scope><name>defaultInstance</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>
